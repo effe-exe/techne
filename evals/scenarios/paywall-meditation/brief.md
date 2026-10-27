@@ -1,0 +1,2 @@
+# Scenario: paywall-meditation (L2/L3)
+"Stillwater" is a fictional meditation app (iOS, ~2M MAU). Its onboarding ends in a hard paywall: a 7-day free trial, then €59.99/year. Trial start rate is 9%, trial-to-paid is 38%, and refund requests are up 40% since last quarter. Redesign the paywall and the trial experience to grow retained, refund-adjusted revenue. Deliver: diagnosis, 2–3 directions, the recommended design (screens as a small Next.js page or detailed spec with exact copy), and a test plan with sizing. Ethical and honest.

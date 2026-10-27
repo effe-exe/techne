@@ -20,6 +20,8 @@ How we check that techne makes design work better rather than just longer.
 8. Honesty about assumptions
 
 ## Scenarios
+Each folder in `evals/scenarios/` has `brief.md`, a `fixture/` and a hidden `answer-key.md` with planted issues. Designers must never read the keys, and judges score recall against them. Run each scenario as techne vs baseline into a scratch folder outside the repo.
+- `tweak-cta` (L0), `critique-signup` (L1), `paywall-meditation` (L2/L3), `ds-audit` (L4 system)
 Keep briefs about public product categories and use public information only. Never use employer-confidential material. Outputs live outside the repo unless they're generic.
 
 - `ai-file-transfer`: "Design the AI-enhanced version of a mature large-file-transfer service (tens of millions of users)."
