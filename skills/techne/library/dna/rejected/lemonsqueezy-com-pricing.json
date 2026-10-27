@@ -1,0 +1,294 @@
+{
+ "url": "https://www.lemonsqueezy.com/pricing",
+ "capturedAt": "2026-10-27T09:00:30.100Z",
+ "viewport": "1440x900",
+ "title": "Pricing • Lemon Squeezy",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Circularpro book",
+    "count": 59
+   },
+   {
+    "family": "Inter",
+    "count": 41
+   }
+  ],
+  "h1": {
+   "family": "Circularpro book",
+   "size": 80,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "-3.2px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Circularpro book",
+   "size": 56,
+   "weight": "400",
+   "lineHeight": 1.14,
+   "tracking": "-1.68px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.7,
+   "measureCh": 64
+  },
+  "nav": null,
+  "button": {
+   "family": "Inter",
+   "size": 15,
+   "weight": "500",
+   "lineHeight": 1.6,
+   "tracking": "-0.15px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18,
+   "count": 35
+  },
+  {
+   "px": 26,
+   "count": 25
+  },
+  {
+   "px": 38.4,
+   "count": 21
+  },
+  {
+   "px": 56,
+   "count": 7
+  },
+  {
+   "px": 14,
+   "count": 4
+  },
+  {
+   "px": 36,
+   "count": 4
+  },
+  {
+   "px": 16,
+   "count": 2
+  },
+  {
+   "px": 22,
+   "count": 1
+  },
+  {
+   "px": 80,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(18, 18, 23)",
+    "count": 60
+   },
+   {
+    "color": "rgb(108, 108, 137)",
+    "count": 21
+   },
+   {
+    "color": "rgb(219, 11, 185)",
+    "count": 13
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.6)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 17
+   },
+   {
+    "color": "rgb(84, 35, 231)",
+    "count": 6
+   },
+   {
+    "color": "rgb(255, 194, 51)",
+    "count": 6
+   },
+   {
+    "color": "rgb(255, 125, 82)",
+    "count": 6
+   },
+   {
+    "color": "rgb(45, 202, 114)",
+    "count": 6
+   },
+   {
+    "color": "rgb(254, 236, 251)",
+    "count": 5
+   },
+   {
+    "color": "rgb(247, 95, 222)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 242, 238)",
+    "count": 3
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgba(255, 255, 255, 0.6)",
+    "radius": "0px",
+    "padding": "32px 8px 32px 16px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(255, 255, 255, 0.6)",
+    "radius": "0px",
+    "padding": "32px 8px 32px 16px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(18, 18, 23)",
+    "radius": "40px",
+    "padding": "8px 20px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": "rgba(255, 255, 255, 0.9)",
+    "color": "rgb(18, 18, 23)",
+    "radius": "40px",
+    "padding": "0px",
+    "size": 18,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(178, 238, 204)",
+    "color": "rgb(18, 18, 23)",
+    "radius": "0px",
+    "padding": "16px 48px",
+    "size": 16,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 46
+   },
+   {
+    "radius": "48px",
+    "count": 24
+   },
+   {
+    "radius": "40px",
+    "count": 9
+   },
+   {
+    "radius": "20px",
+    "count": 2
+   },
+   {
+    "radius": "32px",
+    "count": 2
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "32px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "360px",
+    "count": 24
+   },
+   {
+    "maxWidth": "1152px",
+    "count": 7
+   },
+   {
+    "maxWidth": "384px",
+    "count": 6
+   },
+   {
+    "maxWidth": "616px",
+    "count": 5
+   },
+   {
+    "maxWidth": "1233.28px",
+    "count": 4
+   }
+  ],
+  "pageHeightPx": 11679,
+  "mediaCoverage": 0.15,
+  "linkCount": 114
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.28s",
+    "count": 54
+   },
+   {
+    "duration": "0.2s",
+    "count": 42
+   },
+   {
+    "duration": "0.24s",
+    "count": 21
+   },
+   {
+    "duration": "0.1s",
+    "count": 15
+   },
+   {
+    "duration": "0.16s, 0.2s",
+    "count": 13
+   },
+   {
+    "duration": "0.2s, 0.16s",
+    "count": 12
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+    "count": 59
+   },
+   {
+    "easing": "linear, ease-in",
+    "count": 13
+   },
+   {
+    "easing": "ease-in, linear",
+    "count": 12
+   },
+   {
+    "easing": "linear",
+    "count": 5
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "url": "https://www.hume.ai",
+ "capturedAt": "2026-10-27T09:00:22.392Z",
+ "viewport": "1440x900",
+ "title": "Measure and improve real-world voice AI performance | Hume AI",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Fellix",
+    "count": 23
+   },
+   {
+    "family": "PP Fraktion Mono",
+    "count": 6
+   }
+  ],
+  "h1": {
+   "family": "Fellix",
+   "size": 72,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "-3.6px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Fellix",
+   "size": 48,
+   "weight": "400",
+   "lineHeight": 1.25,
+   "tracking": "-1.2px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.63,
+   "measureCh": 57
+  },
+  "nav": {
+   "family": "Fellix",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Fellix",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 13
+  },
+  {
+   "px": 12,
+   "count": 6
+  },
+  {
+   "px": 20,
+   "count": 3
+  },
+  {
+   "px": 16,
+   "count": 2
+  },
+  {
+   "px": 18,
+   "count": 2
+  },
+  {
+   "px": 48,
+   "count": 2
+  },
+  {
+   "px": 72,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(91, 100, 112)",
+    "count": 12
+   },
+   {
+    "color": "rgb(10, 10, 10)",
+    "count": 6
+   },
+   {
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.85)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 18
+   },
+   {
+    "color": "rgb(247, 248, 250)",
+    "count": 11
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 5
+   },
+   {
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.15)",
+    "count": 5
+   },
+   {
+    "color": "oklab(0 0 0 / 0.92)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.85)",
+    "radius": "0px",
+    "padding": "0px 12px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.85)",
+    "radius": "0px",
+    "padding": "0px 12px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.85)",
+    "radius": "0px",
+    "padding": "0px 12px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.85)",
+    "radius": "0px",
+    "padding": "0px 12px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 13
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "56px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 6
+   },
+   {
+    "maxWidth": "512px",
+    "count": 4
+   },
+   {
+    "maxWidth": "576px",
+    "count": 1
+   },
+   {
+    "maxWidth": "768px",
+    "count": 1
+   },
+   {
+    "maxWidth": "672px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7994,
+  "mediaCoverage": 0.44,
+  "linkCount": 48
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 24
+   },
+   {
+    "duration": "1s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 26
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

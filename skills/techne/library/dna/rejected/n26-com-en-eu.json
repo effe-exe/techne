@@ -1,0 +1,249 @@
+{
+ "url": "https://n26.com/en-eu",
+ "capturedAt": "2026-10-27T09:00:07.552Z",
+ "viewport": "1440x900",
+ "title": "Love your bank | Spend, save, and invest in one app",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "N26",
+    "count": 72
+   },
+   {
+    "family": "N26-Extended",
+    "count": 11
+   }
+  ],
+  "h1": {
+   "family": "N26-Extended",
+   "size": 80,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "N26-Extended",
+   "size": 58,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 160
+  },
+  "nav": {
+   "family": "N26",
+   "size": 18,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "N26",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "0.3px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 39
+  },
+  {
+   "px": 16,
+   "count": 20
+  },
+  {
+   "px": 18,
+   "count": 7
+  },
+  {
+   "px": 20,
+   "count": 6
+  },
+  {
+   "px": 58,
+   "count": 6
+  },
+  {
+   "px": 24,
+   "count": 3
+  },
+  {
+   "px": 44,
+   "count": 1
+  },
+  {
+   "px": 80,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(27, 27, 27)",
+    "count": 64
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 16
+   },
+   {
+    "color": "rgb(42, 42, 42)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(0, 59, 57)",
+    "count": 3
+   },
+   {
+    "color": "rgb(8, 129, 119)",
+    "count": 2
+   },
+   {
+    "color": "rgb(237, 231, 224)",
+    "count": 2
+   },
+   {
+    "color": "rgb(250, 248, 245)",
+    "count": 1
+   },
+   {
+    "color": "rgb(4, 94, 88)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(27, 27, 27)",
+    "radius": "3.35544e+07px",
+    "padding": "4px 8px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(27, 27, 27)",
+    "radius": "3.35544e+07px",
+    "padding": "4px 8px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(27, 27, 27)",
+    "radius": "3.35544e+07px",
+    "padding": "4px 8px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(27, 27, 27)",
+    "radius": "3.35544e+07px",
+    "padding": "4px 8px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(27, 27, 27)",
+    "radius": "3.35544e+07px",
+    "padding": "4px 8px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "24px",
+    "count": 10
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 6
+   },
+   {
+    "radius": "40px",
+    "count": 5
+   },
+   {
+    "radius": "2px",
+    "count": 3
+   },
+   {
+    "radius": "8px",
+    "count": 2
+   },
+   {
+    "radius": "32px",
+    "count": 2
+   },
+   {
+    "radius": "16px 16px 0px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "12px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1464px",
+    "count": 13
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 5.77,
+  "linkCount": 101
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 9
+   },
+   {
+    "duration": "0.3s",
+    "count": 6
+   },
+   {
+    "duration": "0.5s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 18
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

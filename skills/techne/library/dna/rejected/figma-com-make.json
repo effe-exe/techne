@@ -1,0 +1,310 @@
+{
+ "url": "https://www.figma.com/make",
+ "capturedAt": "2026-10-27T09:00:31.341Z",
+ "viewport": "1440x900",
+ "title": "Figma Make: Create with AI-Powered Design Tools",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "figmaSans",
+    "count": 163
+   },
+   {
+    "family": "figmaMono",
+    "count": 13
+   }
+  ],
+  "h1": {
+   "family": "figmaSans",
+   "size": 44,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "-0.66px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "figmaSans",
+   "size": 44,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "-0.66px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.4,
+   "measureCh": 0
+  },
+  "nav": {
+   "family": "figmaSans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.45,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "figmaSans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.45,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 130
+  },
+  {
+   "px": 30,
+   "count": 19
+  },
+  {
+   "px": 44,
+   "count": 9
+  },
+  {
+   "px": 18,
+   "count": 7
+  },
+  {
+   "px": 12,
+   "count": 5
+  },
+  {
+   "px": 14,
+   "count": 3
+  },
+  {
+   "px": 24,
+   "count": 2
+  },
+  {
+   "px": 56,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 72
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 71
+   },
+   {
+    "color": "oklch(0 0 none / 0.54)",
+    "count": 28
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.6)",
+    "count": 5
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 14
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.16)",
+    "count": 5
+   },
+   {
+    "color": "rgb(203, 159, 210)",
+    "count": 3
+   },
+   {
+    "color": "rgb(175, 188, 207)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "4px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "8px",
+    "size": 18,
+    "weight": "330"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "8px",
+    "size": 18,
+    "weight": "330"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "8px",
+    "size": 18,
+    "weight": "330"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "8px",
+    "size": 18,
+    "weight": "330"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 19
+   },
+   {
+    "radius": "2px",
+    "count": 17
+   },
+   {
+    "radius": "4px",
+    "count": 8
+   },
+   {
+    "radius": "8px",
+    "count": 7
+   },
+   {
+    "radius": "16px",
+    "count": 4
+   },
+   {
+    "radius": "50%",
+    "count": 4
+   },
+   {
+    "radius": "24px",
+    "count": 2
+   },
+   {
+    "radius": "32px 32px 0px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "oklch(0 0 none / 0.16) 0px 0px 0px 1px inset",
+    "count": 4
+   },
+   {
+    "shadow": "oklch(0 0 none / 0.16) 0px 1px 0px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "oklch(0 0 none / 0.1) 0px 24px 70px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "oklch(0 0 none / 0.1) 0px 4px 32px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "80px",
+    "count": 10
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "442.667px",
+    "count": 3
+   },
+   {
+    "maxWidth": "901.333px",
+    "count": 3
+   },
+   {
+    "maxWidth": "650px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1245.33px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1130.67px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 11041,
+  "mediaCoverage": 0.2,
+  "linkCount": 161
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.18s",
+    "count": 58
+   },
+   {
+    "duration": "0.18s, 0.18s",
+    "count": 10
+   },
+   {
+    "duration": "0.25s",
+    "count": 6
+   },
+   {
+    "duration": "0.25s, 0.18s",
+    "count": 3
+   },
+   {
+    "duration": "0.4s",
+    "count": 1
+   },
+   {
+    "duration": "0.18s, 0.18s, 0.18s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out",
+    "count": 49
+   },
+   {
+    "easing": "ease-out, ease-out",
+    "count": 9
+   },
+   {
+    "easing": "ease, ease-out",
+    "count": 3
+   },
+   {
+    "easing": "cubic-bezier(0.8, 0, 0.2, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

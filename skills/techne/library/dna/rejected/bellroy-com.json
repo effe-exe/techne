@@ -1,0 +1,327 @@
+{
+ "url": "https://bellroy.com",
+ "capturedAt": "2026-10-27T08:59:54.756Z",
+ "viewport": "1440x900",
+ "title": "Bellroy | Considered Carry Goods: Wallets, Bags, Phone Cases & More",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "GTUltra",
+    "count": 189
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "GTUltra",
+   "size": 70,
+   "weight": "900",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 13,
+   "lineHeight": 1.62,
+   "measureCh": 8
+  },
+  "nav": {
+   "family": "GTUltra",
+   "size": 11,
+   "weight": "400",
+   "lineHeight": 2.36,
+   "tracking": "1px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "GTUltra",
+   "size": 12,
+   "weight": "700",
+   "lineHeight": 1.42,
+   "tracking": "1px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 86
+  },
+  {
+   "px": 11,
+   "count": 47
+  },
+  {
+   "px": 21,
+   "count": 15
+  },
+  {
+   "px": 12,
+   "count": 13
+  },
+  {
+   "px": 31.5,
+   "count": 7
+  },
+  {
+   "px": 14,
+   "count": 5
+  },
+  {
+   "px": 7,
+   "count": 3
+  },
+  {
+   "px": 49,
+   "count": 3
+  },
+  {
+   "px": 70,
+   "count": 3
+  },
+  {
+   "px": 17.5,
+   "count": 3
+  },
+  {
+   "px": 24.5,
+   "count": 2
+  },
+  {
+   "px": 9,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(102, 102, 102)",
+    "count": 55
+   },
+   {
+    "color": "rgb(155, 155, 155)",
+    "count": 46
+   },
+   {
+    "color": "rgb(51, 51, 51)",
+    "count": 30
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 30
+   },
+   {
+    "color": "rgb(205, 76, 32)",
+    "count": 17
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 9
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(247, 247, 247)",
+    "count": 13
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 5
+   },
+   {
+    "color": "rgb(219, 219, 219)",
+    "count": 2
+   },
+   {
+    "color": "rgb(236, 236, 236)",
+    "count": 1
+   },
+   {
+    "color": "rgb(239, 239, 239)",
+    "count": 1
+   },
+   {
+    "color": "rgb(34, 34, 34)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(51, 51, 51)",
+    "radius": "4px",
+    "padding": "5px 20px",
+    "size": 12,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(102, 102, 102)",
+    "radius": "0px",
+    "padding": "0px 5px",
+    "size": 11,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(51, 51, 51)",
+    "radius": "0px",
+    "padding": "14px 21px",
+    "size": 13,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(51, 51, 51)",
+    "radius": "0px",
+    "padding": "14px 21px",
+    "size": 13,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "5.25px",
+    "count": 45
+   },
+   {
+    "radius": "10.5px",
+    "count": 26
+   },
+   {
+    "radius": "7px",
+    "count": 13
+   },
+   {
+    "radius": "3.5px",
+    "count": 9
+   },
+   {
+    "radius": "50%",
+    "count": 6
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 4
+   },
+   {
+    "radius": "4px",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.3) 0px 27px 15px -30px, rgba(0, 0, 0, 0.5) 0px 11px 9px -10px",
+    "count": 12
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.4) 0px 16px 5px -13px",
+    "count": 8
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.5) 0px 17px 9px -15px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "42px",
+    "count": 8
+   },
+   {
+    "padding": "18.5px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "120px",
+    "count": 50
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 13
+   },
+   {
+    "maxWidth": "170px",
+    "count": 7
+   },
+   {
+    "maxWidth": "650px",
+    "count": 3
+   },
+   {
+    "maxWidth": "470px",
+    "count": 3
+   }
+  ],
+  "pageHeightPx": 5809,
+  "mediaCoverage": 0.96,
+  "linkCount": 199
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 71
+   },
+   {
+    "duration": "0.5s, 0.5s",
+    "count": 30
+   },
+   {
+    "duration": "0.1s",
+    "count": 9
+   },
+   {
+    "duration": "0.3s",
+    "count": 7
+   },
+   {
+    "duration": "0.15s",
+    "count": 1
+   },
+   {
+    "duration": "0.4s, 0.4s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 75
+   },
+   {
+    "easing": "ease, ease",
+    "count": 31
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 8
+   },
+   {
+    "easing": "ease-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}
