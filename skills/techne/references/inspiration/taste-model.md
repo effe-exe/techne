@@ -204,6 +204,14 @@ The library norms (one accent, ≤2 families, neutral surfaces) describe **tool 
 
 **The "stand next to the leader" check:** put your key screen beside the category leader's real current screen (ask the user for a screenshot when the site blocks bots). The bar is *as distinctive as the leader, without borrowing any of its assets*. If yours looks like a neutral template next to it, push the signature further.
 
+**Craft the signature hardest.** The signature asset must be the *best*-crafted thing on the page, not the roughest. Stress-test it at 390px, at 1440px, in dark mode and with long or localized strings. A display face that fragments or collides at size fails, so tighten line-height, size or cut before shipping.
+
+**First viewport earns the action:** at 1440×900 and 390×844, the primary tool action (e.g. Send) is visible without scrolling. The brand canvas frames the tool; it never pushes it below the fold.
+
+**Don't drop to a template below the fold:** carry the signature (type, colour, brand object, imagery or editorial content) through the whole page. For creative audiences, add warmth: real work, imagery or editorial voice. A generic features/pricing grid under a bold hero breaks the brand.
+
+**Distinctive brands are easier to fake:** pair a strong signature with anti-cloning cues the attacker can't copy, like per-transfer codes that match across channels or verified domains, and say plainly where the real product lives.
+
 **Ethics and accessibility still apply.** The brand layer never hides the tool's controls or weakens its contrast, and it never puts decoration on top of a warning.
 
 ## 5. Anti-patterns (from rejected, technique and anti-example entries)
