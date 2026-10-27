@@ -184,6 +184,28 @@ The best work breaks a norm on purpose. **Each successful break comes with stric
 
 ---
 
+## 4b. Brand signature: restraint is the norm, a signature is the win
+
+The library norms (one accent, ≤2 families, neutral surfaces) describe **tool craft**. Category leaders in consumer and creative products also have a **brand signature**: a few ownable assets you'd recognise with the logo removed. Restraint without a signature reads as "competent, forgettable". That's the most common failure of agent-made UI.
+
+**Rule:** for any consumer-facing product or marketing surface, define 1–3 signature assets before designing screens, and say where each one lives:
+
+| Asset | Examples of what it can be | Where it's loud | Where it's quiet |
+|---|---|---|---|
+| Display voice | a heavy or idiosyncratic display face, extreme size contrast, a tagline cadence | hero, campaign, empty states, milestones | forms, settings, errors |
+| Colour world | a saturated pair or gradient that is the brand's alone, full-bleed canvases | marketing canvas, onboarding, celebrations | the tool surface (neutral, high-contrast) |
+| Brand object | the product's subject matter turned into a motif (file tiles, cards, stamps, tickets) | hero composition, transitions, loading | data-dense views |
+| Motion signature | one recognisable easing or choreography | hero, state changes that matter | frequent micro-interactions (stay fast) |
+| Voice | short, confident lines | headlines, CTAs | errors and legal (plain, precise) |
+
+**Two layers:** design the **brand layer** (expressive, immersive) and the **tool layer** (quiet, utilitarian, fast) as separate systems that share tokens. The best consumer products put a small, plain tool *inside* a loud brand canvas. The tool stays usable, and the canvas makes the brand memorable.
+
+**The "logo-off" test:** remove the logo and name. Could someone still tell whose product this is? If not, the signature is missing.
+
+**The "stand next to the leader" check:** put your key screen beside the category leader's real current screen (ask the user for a screenshot when the site blocks bots). The bar is *as distinctive as the leader, without borrowing any of its assets*. If yours looks like a neutral template next to it, push the signature further.
+
+**Ethics and accessibility still apply.** The brand layer never hides the tool's controls or weakens its contrast, and it never puts decoration on top of a warning.
+
 ## 5. Anti-patterns (from rejected, technique and anti-example entries)
 
 1. **The commodity hero.** Dark purple glow + centred Inter + badge chip + two buttons + glowing product shot (`Reflect`, rejected 15/25). Also: an email-capture hero with a 3D card render (`Brex`), and a prompt box at 180px (`Pitch`). Expo was rejected for copying Vercel's hero, and Next.js for using Vercel's design language. *Detector:* if you could swap the logo for a competitor's and nothing breaks, it is a commodity.
@@ -199,6 +221,8 @@ The best work breaks a norm on purpose. **Each successful break comes with stric
 ---
 
 ## 6. Taste calibration: run this before any visual work
+
+> For consumer-facing work, complete §4b (brand signature, two layers) as part of calibration.
 
 Allow about 10 minutes. The output is a calibration note that goes into your direction or rationale.
 
