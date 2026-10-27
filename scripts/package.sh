@@ -4,5 +4,5 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 mkdir -p dist
 rm -f dist/techne.zip
-(cd skills && zip -rq ../dist/techne.zip techne -x '*/__pycache__/*' '*.pyc')
+(cd skills && zip -rq ../dist/techne.zip techne -x '*/__pycache__/*' '*.pyc' '*/.shots/*')
 echo "dist/techne.zip ($(du -h dist/techne.zip | cut -f1))"
