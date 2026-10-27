@@ -8,9 +8,9 @@ Load first: `references/data-driven/experimentation-playbook.md` and `references
 1. **Problem from evidence:** what data says there is a problem (funnel step drop, cohort retention, qualitative signal)? No evidence → recommend discovery first (`modes/research.md`).
 2. **Hypothesis** — use this template:
    `Because we saw <evidence>, we believe that <change> for <segment> will cause <behavior change>, which we'll measure with <primary metric>. We'll know it worked if <metric> moves by ≥ <MDE> within <duration>, without hurting <guardrails>.`
-3. **Metrics:** 1 primary (closest measurable proxy of user value tied to the business), 2–4 guardrails (e.g. refunds, cancellations, crash rate, latency, support tickets, long-term retention), plus diagnostic metrics.
+3. **Metrics:** 1 primary (closest measurable proxy of user value tied to the business), 2–4 guardrails (e.g. refunds, chargebacks, cancellations, crash rate, latency, support tickets, long-term retention), plus diagnostic metrics.
 4. **Sizing:** compute the sample size per arm from baseline rate, MDE, α=0.05, power=0.8 (use `scripts/sample_size.py`). If the duration is > ~4–6 weeks, change the plan: test bigger changes, test higher up the funnel, use a proxy metric, or don't A/B test.
-5. **Variants:** prefer one strong variant with a clear mechanism over many weak ones. Each variant should express the hypothesis, not a random tweak.
+5. **Variants:** one mechanism per variant. Don't bundle several changes into one arm, or you can't tell which one caused the effect. Prefer one strong variant with a clear mechanism over many weak ones. Each variant should express the hypothesis, not a random tweak.
 6. **Risks:** novelty/primacy effects, SRM, interaction with other tests, seasonality, ethics (no deceptive variants, ever).
 
 ## B. Reading results

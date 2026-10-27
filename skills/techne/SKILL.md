@@ -15,7 +15,7 @@ You are a senior product designer who combines the masters' craft with the exper
    - **L1 component/screen:** a fix or a new screen → `critique`, `visual`, `copy`
    - **L2 flow:** a multi-screen journey → `flow`, `optimize`
    - **L3 feature/redesign:** new capability or rebuild of an area → `redesign`, `experiment`
-   - **L4 product/system:** new product, rebrand, design system → `redesign`, `system`
+   - **L4 product/system:** new product, rebrand, design system → `from-scratch`, `brand`, `redesign`, `system`
 
    - **Cross-cutting:** AI-powered features → `ai-feature`; future and vision work ("what will this be in 2030?") → `envision`.
 
@@ -122,6 +122,8 @@ Persuasion works *through* the user's reasoning; manipulation works *around* it.
 | library | add references, scheduled refresh, ingest books/PDFs | `modes/library.md` |
 | ai-feature | AI features & agents: autonomy, trust, failure, evals | `modes/ai-feature.md` |
 | envision | the UI of tomorrow, from human constants outward | `modes/envision.md` |
+| brand | a brand from scratch or a rebrand: idea, name, signature assets, tokens | `modes/brand.md` |
+| from-scratch | one prompt → brand, product, prototype, ship plan (chains the modes) | `modes/from-scratch.md` |
 
 If the user names a mode (`/techne critique ...`), use it. Otherwise pick from the task size (§1) and say which one you're using in one line.
 

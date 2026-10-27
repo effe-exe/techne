@@ -15,4 +15,4 @@ Use for: one-property or one-component changes — padding, spacing, a color, a 
 
 ## Output
 - Before → after values (exact), why (one sentence, tied to a principle or data), ripple checks done, ship-or-test call.
-- Keep it short. A tweak answer that is longer than 15 lines is usually wrong.
+- Respect the requested length exactly (if the brief says "one-line reason", write one line). Keep it short. A tweak answer that is longer than 15 lines is usually wrong.
