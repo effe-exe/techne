@@ -1,0 +1,322 @@
+{
+ "url": "https://expo.dev",
+ "capturedAt": "2026-10-27T09:08:05.252Z",
+ "viewport": "1440x900",
+ "title": "Expo — Build native apps with React",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 185
+   },
+   {
+    "family": "JetBrains Mono",
+    "count": 5
+   }
+  ],
+  "h1": {
+   "family": "Inter",
+   "size": 48,
+   "weight": "600",
+   "lineHeight": 1.1,
+   "tracking": "-1.2px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Inter",
+   "size": 32,
+   "weight": "600",
+   "lineHeight": 1.1,
+   "tracking": "-0.5px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 12,
+   "lineHeight": 1,
+   "measureCh": 40
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.4,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.4,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 66
+  },
+  {
+   "px": 16,
+   "count": 51
+  },
+  {
+   "px": 12,
+   "count": 38
+  },
+  {
+   "px": 32,
+   "count": 12
+  },
+  {
+   "px": 24,
+   "count": 9
+  },
+  {
+   "px": 64,
+   "count": 8
+  },
+  {
+   "px": 48,
+   "count": 4
+  },
+  {
+   "px": 20,
+   "count": 1
+  },
+  {
+   "px": 16.9,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(28, 32, 36)",
+    "count": 102
+   },
+   {
+    "color": "rgb(96, 100, 108)",
+    "count": 84
+   },
+   {
+    "color": "rgb(139, 141, 152)",
+    "count": 3
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(249, 249, 251)",
+    "count": 7
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 6
+   },
+   {
+    "color": "rgb(240, 240, 243)",
+    "count": 2
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "oklab(0 0 0 / 0.4)",
+    "count": 1
+   },
+   {
+    "color": "rgb(215, 118, 85)",
+    "count": 1
+   },
+   {
+    "color": "rgb(247, 223, 30)",
+    "count": 1
+   },
+   {
+    "color": "rgb(241, 81, 57)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(28, 32, 36)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(96, 100, 108)",
+    "radius": "24px",
+    "padding": "0px 12px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(96, 100, 108)",
+    "radius": "36px",
+    "padding": "0px 8px 0px 12px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(96, 100, 108)",
+    "radius": "36px",
+    "padding": "0px 8px 0px 12px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(96, 100, 108)",
+    "radius": "24px",
+    "padding": "0px 12px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "12px",
+    "count": 42
+   },
+   {
+    "radius": "9999px",
+    "count": 36
+   },
+   {
+    "radius": "16px",
+    "count": 19
+   },
+   {
+    "radius": "40px",
+    "count": 13
+   },
+   {
+    "radius": "36px",
+    "count": 6
+   },
+   {
+    "radius": "25%",
+    "count": 6
+   },
+   {
+    "radius": "32px",
+    "count": 5
+   },
+   {
+    "radius": "24px",
+    "count": 4
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 20px 0px, rgba(0, 0, 0, 0.05) 0px 3px 6px 0px",
+    "count": 40
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 16
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 5px 10px 0px, rgba(0, 0, 0, 0.12) 0px 15px 25px 0px",
+    "count": 7
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.08) 0px 4px 16px 0px",
+    "count": 4
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "40px",
+    "count": 1
+   },
+   {
+    "padding": "16px",
+    "count": 1
+   },
+   {
+    "padding": "200px",
+    "count": 1
+   },
+   {
+    "padding": "80px",
+    "count": 1
+   },
+   {
+    "padding": "24px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1328px",
+    "count": 13
+   },
+   {
+    "maxWidth": "384px",
+    "count": 2
+   },
+   {
+    "maxWidth": "448px",
+    "count": 2
+   },
+   {
+    "maxWidth": "768px",
+    "count": 1
+   },
+   {
+    "maxWidth": "288px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 8631,
+  "mediaCoverage": 0.24,
+  "linkCount": 101
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 119
+   },
+   {
+    "duration": "0.3s",
+    "count": 28
+   },
+   {
+    "duration": "0.5s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 147
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

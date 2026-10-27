@@ -1,0 +1,39 @@
+{
+ "url": "https://www.unicorn.studio",
+ "capturedAt": "2026-10-27T09:06:53.551Z",
+ "viewport": "1440x900",
+ "title": "Unicorn Studio — Craft Interactive Graphics that Ship",
+ "lang": "en",
+ "fonts": {
+  "families": [],
+  "h1": null,
+  "h2": null,
+  "body": null,
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [],
+ "color": {
+  "background": "rgb(24, 24, 24)",
+  "textColors": [],
+  "surfaces": [],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0,
+  "linkCount": 0
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

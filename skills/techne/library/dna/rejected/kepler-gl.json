@@ -1,0 +1,200 @@
+{
+ "url": "https://kepler.gl",
+ "capturedAt": "2026-10-27T09:07:32.605Z",
+ "viewport": "1440x900",
+ "title": "kepler.gl",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "ff-clan-web-pro",
+    "count": 33
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 14,
+   "lineHeight": 1.71,
+   "measureCh": 194
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 30
+  },
+  {
+   "px": 12,
+   "count": 2
+  },
+  {
+   "px": 11,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(160, 167, 180)",
+    "count": 14
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 9
+   },
+   {
+    "color": "rgb(141, 155, 163)",
+    "count": 4
+   },
+   {
+    "color": "rgb(208, 208, 208)",
+    "count": 3
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(229, 229, 228)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 22
+   },
+   {
+    "color": "rgb(36, 39, 48)",
+    "count": 4
+   },
+   {
+    "color": "rgb(229, 229, 228)",
+    "count": 4
+   },
+   {
+    "color": "rgb(18, 187, 0)",
+    "count": 4
+   },
+   {
+    "color": "rgb(211, 174, 0)",
+    "count": 4
+   },
+   {
+    "color": "rgb(222, 49, 49)",
+    "count": 4
+   },
+   {
+    "color": "rgb(46, 124, 246)",
+    "count": 1
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "2px",
+    "count": 13
+   },
+   {
+    "radius": "4px",
+    "count": 13
+   },
+   {
+    "radius": "10px",
+    "count": 12
+   },
+   {
+    "radius": "3px 3px 0px 0px",
+    "count": 4
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 3px 15px 0px",
+    "count": 13
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.5) 0px 12px 24px 0px",
+    "count": 7
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.25) 0px 12px 24px 0px",
+    "count": 7
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "700px",
+    "count": 7
+   },
+   {
+    "maxWidth": "300px",
+    "count": 6
+   },
+   {
+    "maxWidth": "400px",
+    "count": 1
+   },
+   {
+    "maxWidth": "800px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1500px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7151,
+  "mediaCoverage": 0.46,
+  "linkCount": 57
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.35s, 0.35s",
+    "count": 46
+   },
+   {
+    "duration": "0.35s",
+    "count": 21
+   },
+   {
+    "duration": "1s",
+    "count": 8
+   },
+   {
+    "duration": "0.5s, 0.5s",
+    "count": 7
+   },
+   {
+    "duration": "0.2s",
+    "count": 6
+   },
+   {
+    "duration": "0.5s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 53
+   },
+   {
+    "easing": "cubic-bezier(0.15, 0.3, 0.25, 1)",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

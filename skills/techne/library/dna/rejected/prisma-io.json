@@ -1,0 +1,350 @@
+{
+ "url": "https://www.prisma.io",
+ "capturedAt": "2026-10-27T09:08:46.647Z",
+ "viewport": "1440x900",
+ "title": "Prisma | Agent Infrastructure for TypeScript",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 179
+   },
+   {
+    "family": "Sora",
+    "count": 27
+   }
+  ],
+  "h1": {
+   "family": "Sora",
+   "size": 62,
+   "weight": "500",
+   "lineHeight": 1.06,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Sora",
+   "size": 48,
+   "weight": "500",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.63,
+   "measureCh": 80
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 16,
+   "weight": "380",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 76
+  },
+  {
+   "px": 12,
+   "count": 64
+  },
+  {
+   "px": 10,
+   "count": 15
+  },
+  {
+   "px": 15,
+   "count": 12
+  },
+  {
+   "px": 20,
+   "count": 8
+  },
+  {
+   "px": 16,
+   "count": 5
+  },
+  {
+   "px": 48,
+   "count": 5
+  },
+  {
+   "px": 24,
+   "count": 4
+  },
+  {
+   "px": 9,
+   "count": 3
+  },
+  {
+   "px": 18,
+   "count": 3
+  },
+  {
+   "px": 36,
+   "count": 3
+  },
+  {
+   "px": 11,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "lab(100 0 0)",
+  "textColors": [
+   {
+    "color": "rgb(100, 101, 103)",
+    "count": 78
+   },
+   {
+    "color": "rgb(58, 59, 60)",
+    "count": 64
+   },
+   {
+    "color": "rgb(21, 21, 21)",
+    "count": 19
+   },
+   {
+    "color": "oklab(0.351712 -0.000814751 -0.00203761 / 0.75)",
+    "count": 12
+   },
+   {
+    "color": "rgb(0, 154, 170)",
+    "count": 8
+   },
+   {
+    "color": "oklab(0.506528 -0.000299275 -0.00335619 / 0.7)",
+    "count": 7
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "lab(100 0 0)",
+    "count": 22
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 14
+   },
+   {
+    "color": "lab(85.4918 -30.7972 -14.5795 / 0.5)",
+    "count": 3
+   },
+   {
+    "color": "lab(75.6713 37.0434 13.323 / 0.5)",
+    "count": 3
+   },
+   {
+    "color": "lab(88.2413 2.79653 45.6425 / 0.6)",
+    "count": 2
+   },
+   {
+    "color": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.4)",
+    "count": 2
+   },
+   {
+    "color": "oklab(0 0 0 / 0)",
+    "count": 1
+   },
+   {
+    "color": "lab(78.1254 -41.449 -19.5404 / 0.7)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "oklab(0.999994 0.0000455677 0.0000200868 / 0.6)",
+    "radius": "8px",
+    "padding": "6px",
+    "size": 16,
+    "weight": "380"
+   },
+   {
+    "bg": null,
+    "color": "rgb(100, 101, 103)",
+    "radius": "8px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(58, 59, 60)",
+    "radius": "999px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "380"
+   },
+   {
+    "bg": "color(srgb 0.961246 0.961625 0.961766)",
+    "color": "rgb(58, 59, 60)",
+    "radius": "0px",
+    "padding": "16px 24px 14px",
+    "size": 16,
+    "weight": "380"
+   },
+   {
+    "bg": null,
+    "color": "rgb(58, 59, 60)",
+    "radius": "0px",
+    "padding": "16px 24px 14px",
+    "size": 16,
+    "weight": "380"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 36
+   },
+   {
+    "radius": "8px",
+    "count": 14
+   },
+   {
+    "radius": "6px",
+    "count": 3
+   },
+   {
+    "radius": "18px",
+    "count": 3
+   },
+   {
+    "radius": "10px",
+    "count": 2
+   },
+   {
+    "radius": "999px",
+    "count": 1
+   },
+   {
+    "radius": "24px",
+    "count": 1
+   },
+   {
+    "radius": "22px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(243, 74, 96, 0.16) 0px 8px 32px 0px, rgba(255, 255, 255, 0.12) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.32) 0px -1px 0px 0px inset",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(243, 122, 3, 0.22) 0px 4px 18px 0px, rgba(255, 255, 255, 0.18) 0px 1px 0px 0px inset",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(21, 21, 21, 0) 0px 1px 2px 0px, rgba(21, 21, 21, 0) 0px 8px 24px -8px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(21, 21, 21, 0.04) 0px 1px 2px 0px, rgba(21, 21, 21, 0.06) 0px 8px 16px -4px, rgba(21, 21, 21, 0.14) 0px 32px 64px -16px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "128px",
+    "count": 6
+   },
+   {
+    "padding": "96px",
+    "count": 2
+   },
+   {
+    "padding": "16px",
+    "count": 1
+   },
+   {
+    "padding": "12px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "896px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1536px",
+    "count": 2
+   },
+   {
+    "maxWidth": "384px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1400px",
+    "count": 2
+   },
+   {
+    "maxWidth": "930.001px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 11199,
+  "mediaCoverage": 0.76,
+  "linkCount": 55
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 7
+   },
+   {
+    "duration": "0.5s",
+    "count": 2
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 1
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   },
+   {
+    "duration": "0.4s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 9
+   },
+   {
+    "easing": "ease, ease",
+    "count": 1
+   },
+   {
+    "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

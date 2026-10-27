@@ -1,0 +1,150 @@
+{
+ "url": "https://datavizcatalogue.com",
+ "capturedAt": "2026-10-27T09:07:19.811Z",
+ "viewport": "1440x900",
+ "title": "The Data Visualisation Catalogue",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Helvetica",
+    "count": 63
+   },
+   {
+    "family": "Comfortaa",
+    "count": 9
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 12.7,
+   "lineHeight": "normal",
+   "measureCh": 20
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 12.7,
+   "count": 60
+  },
+  {
+   "px": 16,
+   "count": 4
+  },
+  {
+   "px": 14.7,
+   "count": 4
+  },
+  {
+   "px": 12,
+   "count": 1
+  },
+  {
+   "px": 24,
+   "count": 1
+  },
+  {
+   "px": 13.3,
+   "count": 1
+  },
+  {
+   "px": 14.4,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(118, 118, 118)",
+    "count": 64
+   },
+   {
+    "color": "rgb(102, 102, 102)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(131, 131, 145)",
+    "count": 1
+   },
+   {
+    "color": "rgb(128, 128, 128)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(237, 239, 245)",
+    "count": 1
+   },
+   {
+    "color": "rgb(45, 45, 45)",
+    "count": 1
+   },
+   {
+    "color": "rgb(163, 217, 121)",
+    "count": 1
+   },
+   {
+    "color": "rgb(203, 232, 83)",
+    "count": 1
+   },
+   {
+    "color": "rgb(237, 237, 237)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(131, 131, 145)",
+    "radius": "0px",
+    "padding": "2.66667px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 99, 99)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "11.52px 25.92px",
+    "size": 14.4,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "25px",
+    "count": 2
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 2107,
+  "mediaCoverage": 0.26,
+  "linkCount": 76
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "1s",
+    "count": 1
+   }
+  ],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

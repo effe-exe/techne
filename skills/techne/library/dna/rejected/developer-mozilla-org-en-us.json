@@ -1,0 +1,190 @@
+{
+ "url": "https://developer.mozilla.org/en-US/",
+ "capturedAt": "2026-10-27T09:07:52.319Z",
+ "viewport": "1440x900",
+ "title": "MDN Web Docs",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 78
+   }
+  ],
+  "h1": {
+   "family": "Inter",
+   "size": 40,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Inter",
+   "size": 24,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 24,
+   "lineHeight": 1.5,
+   "measureCh": 49
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 48
+  },
+  {
+   "px": 12.8,
+   "count": 21
+  },
+  {
+   "px": 24,
+   "count": 8
+  },
+  {
+   "px": 14,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 38
+   },
+   {
+    "color": "rgb(81, 86, 93)",
+    "count": 23
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 11
+   },
+   {
+    "color": "rgb(164, 206, 254)",
+    "count": 3
+   },
+   {
+    "color": "rgb(4, 76, 159)",
+    "count": 2
+   },
+   {
+    "color": "rgb(33, 36, 38)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(33, 36, 38)",
+    "count": 4
+   },
+   {
+    "color": "rgb(24, 25, 27)",
+    "count": 1
+   },
+   {
+    "color": "rgb(247, 247, 248)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 11.2px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 11.2px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 11.2px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 11.2px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 11.2px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 9
+   },
+   {
+    "radius": "8px 8px 0px 0px",
+    "count": 1
+   },
+   {
+    "radius": "4px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 2851,
+  "mediaCoverage": 0.08,
+  "linkCount": 150
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

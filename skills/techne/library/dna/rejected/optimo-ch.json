@@ -1,0 +1,177 @@
+{
+ "url": "https://optimo.ch",
+ "capturedAt": "2026-10-27T09:06:43.464Z",
+ "viewport": "1440x900",
+ "title": "Optimo",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Plain Interface",
+    "count": 17
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": null,
+  "nav": {
+   "family": "Plain Interface",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": 5.36,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Plain Interface",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": 2.6,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 17
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(153, 153, 153)",
+    "count": 10
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 6
+   },
+   {
+    "color": "rgb(238, 31, 37)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 77, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(14, 57, 36)",
+    "count": 1
+   },
+   {
+    "color": "rgb(248, 246, 242)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 174, 16)",
+    "count": 1
+   },
+   {
+    "color": "rgb(38, 38, 38)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(87, 87, 87)",
+    "color": "rgb(128, 128, 128)",
+    "radius": "6.543px",
+    "padding": "0px 8.724px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(87, 87, 87)",
+    "color": "rgb(128, 128, 128)",
+    "radius": "6.543px",
+    "padding": "0px 8.724px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(87, 87, 87)",
+    "color": "rgb(128, 128, 128)",
+    "radius": "6.543px",
+    "padding": "0px 8.724px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(87, 87, 87)",
+    "color": "rgb(128, 128, 128)",
+    "radius": "6.543px",
+    "padding": "0px 8.724px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(87, 87, 87)",
+    "color": "rgb(128, 128, 128)",
+    "radius": "6.543px",
+    "padding": "0px 8.724px",
+    "size": 12,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "6.543px",
+    "count": 35
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 5346,
+  "mediaCoverage": 1.87,
+  "linkCount": 69
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 42
+   },
+   {
+    "duration": "0.6s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   },
+   {
+    "duration": "0.1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "linear",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,186 @@
+{
+ "url": "https://www.theatrejs.com",
+ "capturedAt": "2026-10-27T09:07:31.759Z",
+ "viewport": "1440x900",
+ "title": "Theatre.js - animation toolbox for the web",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 45
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "Inter",
+   "size": 66,
+   "weight": "900",
+   "lineHeight": 1.21,
+   "tracking": "-1.65px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 20,
+   "lineHeight": 1.6,
+   "measureCh": 96
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 19
+  },
+  {
+   "px": 16,
+   "count": 13
+  },
+  {
+   "px": 20,
+   "count": 5
+  },
+  {
+   "px": 12,
+   "count": 4
+  },
+  {
+   "px": 36,
+   "count": 3
+  },
+  {
+   "px": 66,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(20, 24, 28)",
+  "textColors": [
+   {
+    "color": "rgba(255, 255, 255, 0.5)",
+    "count": 14
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 9
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.7)",
+    "count": 8
+   },
+   {
+    "color": "rgb(180, 181, 182)",
+    "count": 4
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.6)",
+    "count": 4
+   },
+   {
+    "color": "rgb(74, 222, 128)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(23, 23, 23)",
+    "count": 8
+   },
+   {
+    "color": "rgb(20, 24, 28)",
+    "count": 1
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.05)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 13
+   },
+   {
+    "radius": "12px",
+    "count": 12
+   },
+   {
+    "radius": "24px",
+    "count": 9
+   },
+   {
+    "radius": "6px",
+    "count": 5
+   },
+   {
+    "radius": "24px 0px",
+    "count": 4
+   },
+   {
+    "radius": "4px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.7) 0px 0px 24px 0px",
+    "count": 4
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1024px",
+    "count": 4
+   },
+   {
+    "maxWidth": "768px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 6160,
+  "mediaCoverage": 0.23,
+  "linkCount": 33
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 35
+   },
+   {
+    "duration": "0.5s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 38
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

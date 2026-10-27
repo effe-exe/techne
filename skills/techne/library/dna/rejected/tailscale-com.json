@@ -1,0 +1,302 @@
+{
+ "url": "https://tailscale.com",
+ "capturedAt": "2026-10-27T09:08:28.664Z",
+ "viewport": "1440x900",
+ "title": "Tailscale | Secure Connectivity for AI, IoT & Multi-Cloud",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "inter",
+    "count": 194
+   },
+   {
+    "family": "mdio",
+    "count": 21
+   },
+   {
+    "family": "Arial",
+    "count": 5
+   }
+  ],
+  "h1": {
+   "family": "inter",
+   "size": 64,
+   "weight": "500",
+   "lineHeight": 1.1,
+   "tracking": "-0.64px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "inter",
+   "size": 64,
+   "weight": "500",
+   "lineHeight": 1.1,
+   "tracking": "-0.64px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.5,
+   "measureCh": 142
+  },
+  "nav": {
+   "family": "mdio",
+   "size": 12,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "0.6px",
+   "transform": "uppercase"
+  },
+  "button": {
+   "family": "Arial",
+   "size": 14,
+   "weight": "600",
+   "lineHeight": 1.5,
+   "tracking": "-0.16px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 140
+  },
+  {
+   "px": 14,
+   "count": 39
+  },
+  {
+   "px": 12,
+   "count": 22
+  },
+  {
+   "px": 20,
+   "count": 9
+  },
+  {
+   "px": 64,
+   "count": 7
+  },
+  {
+   "px": 48,
+   "count": 2
+  },
+  {
+   "px": 32,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(249, 247, 246)",
+  "textColors": [
+   {
+    "color": "rgb(46, 45, 45)",
+    "count": 101
+   },
+   {
+    "color": "oklab(0.298195 0.00138867 0.00043267 / 0.8)",
+    "count": 59
+   },
+   {
+    "color": "rgb(31, 30, 30)",
+    "count": 30
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 13
+   },
+   {
+    "color": "oklab(0.977383 0.00171116 0.0019179 / 0.7)",
+    "count": 5
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 127
+   },
+   {
+    "color": "rgb(249, 247, 246)",
+    "count": 3
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.24)",
+    "count": 2
+   },
+   {
+    "color": "rgb(46, 45, 45)",
+    "count": 2
+   },
+   {
+    "color": "rgb(192, 246, 198)",
+    "count": 2
+   },
+   {
+    "color": "rgb(243, 220, 255)",
+    "count": 2
+   },
+   {
+    "color": "oklab(0.236129 0.00147012 0.0004583 / 0.25)",
+    "count": 1
+   },
+   {
+    "color": "rgb(208, 72, 65)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(31, 30, 30)",
+    "radius": "0px",
+    "padding": "4px 0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(24, 23, 23)",
+    "radius": "8px",
+    "padding": "10px 12px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "16px",
+    "count": 134
+   },
+   {
+    "radius": "8px",
+    "count": 72
+   },
+   {
+    "radius": "9999px",
+    "count": 28
+   },
+   {
+    "radius": "32px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(24, 23, 23, 0.02) 0px 4px 8px 0px",
+    "count": 125
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 6
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 10px 0px",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(7, 26, 36, 0.24) 0px 3px 10px 1px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "32px",
+    "count": 3
+   },
+   {
+    "padding": "64px",
+    "count": 2
+   },
+   {
+    "padding": "72px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "400px",
+    "count": 24
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 4
+   },
+   {
+    "maxWidth": "292px",
+    "count": 3
+   },
+   {
+    "maxWidth": "768px",
+    "count": 2
+   },
+   {
+    "maxWidth": "900px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 5766,
+  "mediaCoverage": 0.22,
+  "linkCount": 134
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 117
+   },
+   {
+    "duration": "0.2s",
+    "count": 17
+   },
+   {
+    "duration": "0.15s",
+    "count": 15
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 55
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 5
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

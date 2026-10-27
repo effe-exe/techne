@@ -1,0 +1,267 @@
+{
+ "url": "https://spectrum.adobe.com",
+ "capturedAt": "2026-10-27T09:07:52.439Z",
+ "viewport": "1440x900",
+ "title": "Start with Spectrum",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "adobe-clean",
+    "count": 19
+   }
+  ],
+  "h1": {
+   "family": "adobe-clean",
+   "size": 64,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "adobe-clean",
+   "size": 18,
+   "weight": "600",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 18
+  },
+  "nav": null,
+  "button": {
+   "family": "adobe-clean",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.29,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 11
+  },
+  {
+   "px": 16,
+   "count": 5
+  },
+  {
+   "px": 18,
+   "count": 2
+  },
+  {
+   "px": 12,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(247, 247, 247)",
+  "textColors": [
+   {
+    "color": "rgb(113, 113, 113)",
+    "count": 7
+   },
+   {
+    "color": "rgb(41, 41, 41)",
+    "count": 5
+   },
+   {
+    "color": "color(srgb 0.160784 0.160784 0.160784 / 0.7)",
+    "count": 5
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgba(21, 107, 255, 0.08)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(41, 41, 41)",
+    "radius": "8px",
+    "padding": "1px 0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(41, 41, 41)",
+    "radius": "8px",
+    "padding": "1px 0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "color(srgb 0.160784 0.160784 0.160784 / 0.7)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "color(srgb 0.160784 0.160784 0.160784 / 0.7)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "color(srgb 0.160784 0.160784 0.160784 / 0.7)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "32px",
+    "count": 6
+   },
+   {
+    "radius": "8px",
+    "count": 3
+   },
+   {
+    "radius": "16px",
+    "count": 3
+   },
+   {
+    "radius": "6px",
+    "count": 2
+   },
+   {
+    "radius": "100px",
+    "count": 1
+   },
+   {
+    "radius": "0px 31px 0px 0px",
+    "count": 1
+   },
+   {
+    "radius": "24px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.12) 40px 40px 100px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "32px",
+    "count": 3
+   },
+   {
+    "padding": "24px",
+    "count": 2
+   },
+   {
+    "padding": "64px",
+    "count": 2
+   },
+   {
+    "padding": "16px",
+    "count": 1
+   },
+   {
+    "padding": "48px",
+    "count": 1
+   },
+   {
+    "padding": "80px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "674.562px",
+    "count": 6
+   },
+   {
+    "maxWidth": "2739.2px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 2893,
+  "mediaCoverage": 0.76,
+  "linkCount": 139
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 7
+   },
+   {
+    "duration": "0.3s",
+    "count": 2
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s, 0.2s, 0.2s",
+    "count": 1
+   },
+   {
+    "duration": "0.5s",
+    "count": 1
+   },
+   {
+    "duration": "0.12s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 3
+   },
+   {
+    "easing": "cubic-bezier(0.8, 0, 0.2, 1)",
+    "count": 2
+   },
+   {
+    "easing": "cubic-bezier(0.8, 0, 0.2, 1), cubic-bezier(0.8, 0, 0.2, 1)",
+    "count": 1
+   },
+   {
+    "easing": "cubic-bezier(0.23, 1, 0.32, 1), cubic-bezier(0.23, 1, 0.32, 1), cubic-bezier(0.23, 1, 0.32, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}
