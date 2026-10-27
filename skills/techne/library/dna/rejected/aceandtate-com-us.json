@@ -1,0 +1,256 @@
+{
+ "url": "https://www.aceandtate.com/us",
+ "capturedAt": "2026-10-27T09:03:56.827Z",
+ "viewport": "1440x900",
+ "title": "Quality Prescription Glasses from $150 | Ace & Tate",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "AmperSans",
+    "count": 62
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "AmperSans",
+   "size": 43,
+   "weight": "500",
+   "lineHeight": 1.23,
+   "tracking": "-0.645px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.71,
+   "measureCh": 206
+  },
+  "nav": null,
+  "button": {
+   "family": "AmperSans",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 28
+  },
+  {
+   "px": 24,
+   "count": 18
+  },
+  {
+   "px": 14,
+   "count": 10
+  },
+  {
+   "px": 43,
+   "count": 3
+  },
+  {
+   "px": 12,
+   "count": 1
+  },
+  {
+   "px": 15,
+   "count": 1
+  },
+  {
+   "px": 32,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 28
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 26
+   },
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 3
+   },
+   {
+    "color": "rgb(127, 127, 127)",
+    "count": 2
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.75)",
+    "count": 2
+   },
+   {
+    "color": "rgb(20, 20, 20)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(240, 240, 240)",
+    "count": 7
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 6
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(234, 226, 220)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(17, 17, 17)",
+    "radius": "9999px",
+    "padding": "8px 12px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(17, 17, 17)",
+    "radius": "9999px",
+    "padding": "8px 12px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(17, 17, 17)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "9999px",
+    "padding": "8px 12px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 18,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "2px",
+    "padding": "2px",
+    "size": 18,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 14
+   },
+   {
+    "radius": "32px",
+    "count": 4
+   },
+   {
+    "radius": "4px",
+    "count": 1
+   },
+   {
+    "radius": "6px",
+    "count": 1
+   },
+   {
+    "radius": "2px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.3) 0px 32px 68px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "24px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "800px",
+    "count": 1
+   },
+   {
+    "maxWidth": "990px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 5921,
+  "mediaCoverage": 0.78,
+  "linkCount": 121
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 24
+   },
+   {
+    "duration": "0.4s",
+    "count": 4
+   },
+   {
+    "duration": "0.3s",
+    "count": 3
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 3
+   },
+   {
+    "duration": "0.2s",
+    "count": 3
+   },
+   {
+    "duration": "0.5s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out",
+    "count": 12
+   },
+   {
+    "easing": "ease-in-out, ease-in-out",
+    "count": 3
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 3
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

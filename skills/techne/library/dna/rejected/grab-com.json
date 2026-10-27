@@ -1,0 +1,282 @@
+{
+ "url": "https://www.grab.com",
+ "capturedAt": "2026-10-27T09:05:33.800Z",
+ "viewport": "1440x900",
+ "title": "Grab. The Everyday Everything App",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 111
+   },
+   {
+    "family": "a",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "Inter",
+   "size": 80,
+   "weight": "800",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Inter",
+   "size": 18,
+   "weight": "600",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.56,
+   "measureCh": 14
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 18,
+   "weight": "600",
+   "lineHeight": 1.56,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 18,
+   "weight": "600",
+   "lineHeight": 1.56,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 64
+  },
+  {
+   "px": 18,
+   "count": 31
+  },
+  {
+   "px": 40,
+   "count": 7
+  },
+  {
+   "px": 16,
+   "count": 3
+  },
+  {
+   "px": 17,
+   "count": 3
+  },
+  {
+   "px": 14.6,
+   "count": 3
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(56, 62, 67)",
+    "count": 74
+   },
+   {
+    "color": "rgb(102, 102, 102)",
+    "count": 14
+   },
+   {
+    "color": "rgb(36, 42, 46)",
+    "count": 7
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(54, 58, 69)",
+    "count": 3
+   },
+   {
+    "color": "rgb(105, 112, 120)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(255, 255, 255, 0.9)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 46, 39)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 177, 79)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 30, 31)",
+    "count": 1
+   },
+   {
+    "color": "rgb(234, 239, 242)",
+    "count": 1
+   },
+   {
+    "color": "rgb(54, 58, 69)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.5)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(54, 58, 69)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 18,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(54, 58, 69)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 128, 74)",
+    "radius": "0px",
+    "padding": "0px 138px",
+    "size": 18,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 128, 74)",
+    "radius": "0px",
+    "padding": "0px 138px",
+    "size": 18,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 46, 39)",
+    "radius": "50%",
+    "padding": "0px",
+    "size": 18,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 8
+   },
+   {
+    "radius": "50%",
+    "count": 8
+   },
+   {
+    "radius": "56px",
+    "count": 4
+   },
+   {
+    "radius": "2px",
+    "count": 3
+   },
+   {
+    "radius": "3px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(236, 236, 236) 0px 0px 15px 1px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.35) 0px 0px 4px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 4px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "40px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "72px",
+    "count": 14
+   },
+   {
+    "maxWidth": "1164px",
+    "count": 11
+   },
+   {
+    "maxWidth": "1680px",
+    "count": 3
+   },
+   {
+    "maxWidth": "760px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4948,
+  "mediaCoverage": 0.13,
+  "linkCount": 240
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s",
+    "count": 2
+   },
+   {
+    "duration": "0.4s",
+    "count": 1
+   },
+   {
+    "duration": "0.3s, 0.3s, 0.3s, 0.3s, 0.4s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 2
+   },
+   {
+    "easing": "ease, ease, ease, ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

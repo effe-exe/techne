@@ -1,0 +1,278 @@
+{
+ "url": "https://ritual.com",
+ "capturedAt": "2026-10-27T09:04:53.693Z",
+ "viewport": "1440x900",
+ "title": "Ritual",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "CircularXX",
+    "count": 217
+   },
+   {
+    "family": "Metropolis",
+    "count": 3
+   },
+   {
+    "family": "ui-sans-serif",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "CircularXX",
+   "size": 66,
+   "weight": "450",
+   "lineHeight": 1.1,
+   "tracking": "-1.32px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "CircularXX",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 47
+  },
+  "nav": {
+   "family": "CircularXX",
+   "size": 40,
+   "weight": "450",
+   "lineHeight": 1.25,
+   "tracking": "-0.4px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Arial",
+   "size": 13.3,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 149
+  },
+  {
+   "px": 12,
+   "count": 27
+  },
+  {
+   "px": 18,
+   "count": 18
+  },
+  {
+   "px": 14,
+   "count": 16
+  },
+  {
+   "px": 40,
+   "count": 11
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(20, 43, 111)",
+    "count": 183
+   },
+   {
+    "color": "rgb(98, 113, 159)",
+    "count": 32
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 20
+   },
+   {
+    "color": "rgb(252, 248, 238)",
+    "count": 13
+   },
+   {
+    "color": "rgb(245, 247, 248)",
+    "count": 3
+   },
+   {
+    "color": "rgb(20, 43, 111)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 230, 102)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "8px",
+    "padding": "0px 15px 0px 0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "8px",
+    "padding": "0px 15px 0px 0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "8px",
+    "padding": "0px 15px 0px 0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(161, 170, 197)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "450"
+   },
+   {
+    "bg": null,
+    "color": "rgb(161, 170, 197)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "25px",
+    "count": 21
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 20
+   },
+   {
+    "radius": "4px",
+    "count": 17
+   },
+   {
+    "radius": "8px",
+    "count": 6
+   },
+   {
+    "radius": "44px",
+    "count": 1
+   },
+   {
+    "radius": "500px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 56, 255, 0.22) 0px 0px 0px 4px",
+    "count": 3
+   },
+   {
+    "shadow": "rgba(1, 1, 63, 0.1) 0px 2px 19px -4px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "16px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 5
+   },
+   {
+    "maxWidth": "315px",
+    "count": 3
+   },
+   {
+    "maxWidth": "454px",
+    "count": 3
+   },
+   {
+    "maxWidth": "400px",
+    "count": 1
+   },
+   {
+    "maxWidth": "431px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7165,
+  "mediaCoverage": 0.92,
+  "linkCount": 189
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 76
+   },
+   {
+    "duration": "0.3s",
+    "count": 19
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 3
+   },
+   {
+    "duration": "0.2s",
+    "count": 3
+   },
+   {
+    "duration": "0.5s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 72
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 21
+   },
+   {
+    "easing": "ease, ease",
+    "count": 3
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

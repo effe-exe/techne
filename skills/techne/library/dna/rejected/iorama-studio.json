@@ -1,0 +1,96 @@
+{
+ "url": "https://www.iorama.studio",
+ "capturedAt": "2026-10-27T09:05:53.781Z",
+ "viewport": "1440x900",
+ "title": "IORAMA",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "Mija webfont",
+    "count": 7
+   }
+  ],
+  "h1": {
+   "family": "Mija webfont",
+   "size": 28.8,
+   "weight": "700",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": null,
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 28.8,
+   "count": 6
+  },
+  {
+   "px": 20,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(30, 28, 22)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(34, 34, 34)",
+    "count": 2
+   },
+   {
+    "color": "rgb(105, 78, 78)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(255, 255, 255, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(51, 51, 51)",
+    "radius": "0px",
+    "padding": "18px",
+    "size": 24,
+    "weight": "100"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "940px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4356,
+  "mediaCoverage": 1.15,
+  "linkCount": 26
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

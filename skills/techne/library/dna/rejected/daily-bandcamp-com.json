@@ -1,0 +1,127 @@
+{
+ "url": "https://daily.bandcamp.com",
+ "capturedAt": "2026-10-27T09:02:24.118Z",
+ "viewport": "1440x900",
+ "title": "Bandcamp Daily",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "Agipo",
+    "count": 79
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 16,
+   "lineHeight": 1.23,
+   "measureCh": 43
+  },
+  "nav": {
+   "family": "Agipo",
+   "size": 13,
+   "weight": "400",
+   "lineHeight": 1.23,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Arial",
+   "size": 13.3,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 36
+  },
+  {
+   "px": 17.6,
+   "count": 33
+  },
+  {
+   "px": 13,
+   "count": 4
+  },
+  {
+   "px": 16,
+   "count": 2
+  },
+  {
+   "px": 32,
+   "count": 2
+  },
+  {
+   "px": 36,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(144, 144, 144)",
+    "count": 40
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 35
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(29, 160, 195)",
+    "count": 1
+   }
+  ],
+  "surfaces": [],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(6, 135, 245)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(238, 238, 238) 0px 1px 0px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 5065,
+  "mediaCoverage": 0.29,
+  "linkCount": 180
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

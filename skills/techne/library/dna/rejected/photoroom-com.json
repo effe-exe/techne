@@ -1,0 +1,313 @@
+{
+ "url": "https://www.photoroom.com",
+ "capturedAt": "2026-10-27T09:01:03.182Z",
+ "viewport": "1440x900",
+ "title": "AI-Powered Photo Editor and Listing Studio for Product Photography | Photoroom",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "TT Photoroom",
+    "count": 152
+   }
+  ],
+  "h1": {
+   "family": "TT Photoroom",
+   "size": 72,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "-1.973px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "TT Photoroom",
+   "size": 42,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "-0.416px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.3,
+   "measureCh": 55
+  },
+  "nav": {
+   "family": "TT Photoroom",
+   "size": 17,
+   "weight": "500",
+   "lineHeight": 1.3,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "TT Photoroom",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 97
+  },
+  {
+   "px": 17,
+   "count": 17
+  },
+  {
+   "px": 20,
+   "count": 15
+  },
+  {
+   "px": 10,
+   "count": 9
+  },
+  {
+   "px": 42,
+   "count": 7
+  },
+  {
+   "px": 12,
+   "count": 1
+  },
+  {
+   "px": 16,
+   "count": 1
+  },
+  {
+   "px": 24,
+   "count": 1
+  },
+  {
+   "px": 29,
+   "count": 1
+  },
+  {
+   "px": 35,
+   "count": 1
+  },
+  {
+   "px": 50,
+   "count": 1
+  },
+  {
+   "px": 72,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(71, 71, 71)",
+    "count": 53
+   },
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 46
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 21
+   },
+   {
+    "color": "rgb(107, 107, 107)",
+    "count": 18
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.81)",
+    "count": 6
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 5
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(245, 244, 240)",
+    "count": 30
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 24
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.12)",
+    "count": 4
+   },
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 2
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.81)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.05)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.7)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "9999px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 26, 26)",
+    "radius": "10px",
+    "padding": "0px 10px 0px 16px",
+    "size": 17,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 26, 26)",
+    "radius": "10px",
+    "padding": "0px 10px 0px 16px",
+    "size": 17,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 26, 26)",
+    "radius": "10px",
+    "padding": "0px 10px 0px 16px",
+    "size": 17,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 26, 26)",
+    "radius": "10px",
+    "padding": "0px 10px 0px 16px",
+    "size": 17,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "10px",
+    "count": 112
+   },
+   {
+    "radius": "4px",
+    "count": 73
+   },
+   {
+    "radius": "6px",
+    "count": 12
+   },
+   {
+    "radius": "10px 10px 0px 0px",
+    "count": 8
+   },
+   {
+    "radius": "0px 0px 10px 10px",
+    "count": 8
+   },
+   {
+    "radius": "9999px",
+    "count": 2
+   },
+   {
+    "radius": "0px 10px 10px 0px",
+    "count": 2
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "112px",
+    "count": 6
+   },
+   {
+    "padding": "64px",
+    "count": 1
+   },
+   {
+    "padding": "80px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "400px",
+    "count": 24
+   },
+   {
+    "maxWidth": "1200px",
+    "count": 19
+   },
+   {
+    "maxWidth": "760px",
+    "count": 19
+   },
+   {
+    "maxWidth": "100px",
+    "count": 12
+   },
+   {
+    "maxWidth": "520px",
+    "count": 8
+   }
+  ],
+  "pageHeightPx": 11189,
+  "mediaCoverage": 0.43,
+  "linkCount": 121
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 165
+   },
+   {
+    "duration": "0.15s",
+    "count": 5
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.2, 1, 0.4, 1)",
+    "count": 127
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 36
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 7
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

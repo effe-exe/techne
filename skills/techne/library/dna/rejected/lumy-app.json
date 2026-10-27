@@ -1,0 +1,124 @@
+{
+ "url": "https://lumy.app",
+ "capturedAt": "2026-10-27T09:05:53.910Z",
+ "viewport": "1440x900",
+ "title": "Lumy",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 9
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 18,
+   "lineHeight": 1.14,
+   "measureCh": 136
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 18,
+   "count": 5
+  },
+  {
+   "px": 14,
+   "count": 4
+  }
+ ],
+ "color": {
+  "background": "rgb(4, 10, 20)",
+  "textColors": [
+   {
+    "color": "rgb(254, 254, 150)",
+    "count": 5
+   },
+   {
+    "color": "rgb(182, 182, 182)",
+    "count": 3
+   },
+   {
+    "color": "rgb(213, 213, 213)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 9
+   },
+   {
+    "radius": "12px",
+    "count": 1
+   },
+   {
+    "radius": "34px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.3) 0px 8px 32px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "170px",
+    "count": 3
+   },
+   {
+    "maxWidth": "80px",
+    "count": 1
+   },
+   {
+    "maxWidth": "150px",
+    "count": 1
+   },
+   {
+    "maxWidth": "200px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 3262,
+  "mediaCoverage": 0.2,
+  "linkCount": 11
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s",
+    "count": 6
+   },
+   {
+    "duration": "0.3s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in",
+    "count": 4
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

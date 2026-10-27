@@ -1,0 +1,230 @@
+{
+ "url": "https://www.lyft.com",
+ "capturedAt": "2026-10-27T09:05:44.432Z",
+ "viewport": "1440x900",
+ "title": "Ride or drive with Lyft",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "RebelSansText",
+    "count": 103
+   },
+   {
+    "family": "RebelSansDisplay",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "RebelSansDisplay",
+   "size": 60,
+   "weight": "600",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "RebelSansText",
+   "size": 36,
+   "weight": "600",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.39,
+   "measureCh": 139
+  },
+  "nav": {
+   "family": "RebelSansText",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 0.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "RebelSansText",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 61
+  },
+  {
+   "px": 18,
+   "count": 17
+  },
+  {
+   "px": 14,
+   "count": 11
+  },
+  {
+   "px": 36,
+   "count": 8
+  },
+  {
+   "px": 22,
+   "count": 6
+  },
+  {
+   "px": 60,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(29, 12, 23)",
+    "count": 91
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgb(130, 0, 118)",
+    "count": 5
+   },
+   {
+    "color": "rgba(29, 12, 23, 0.7)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgb(241, 240, 236)",
+    "count": 3
+   },
+   {
+    "color": "rgb(197, 238, 210)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(29, 12, 23)",
+    "radius": "48px",
+    "padding": "0px 16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(29, 12, 23)",
+    "radius": "48px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(29, 12, 23)",
+    "radius": "48px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(130, 0, 118)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "48px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "16px",
+    "padding": "24px 16px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "48px",
+    "count": 13
+   },
+   {
+    "radius": "16px",
+    "count": 12
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.12) 0px 0px 1px 0px, rgba(0, 0, 0, 0.16) 0px 2px 3px 0px",
+    "count": 6
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "80px",
+    "count": 2
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 13
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 6
+   },
+   {
+    "maxWidth": "300px",
+    "count": 2
+   },
+   {
+    "maxWidth": "400px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 5741,
+  "mediaCoverage": 0.34,
+  "linkCount": 91
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 47
+   },
+   {
+    "duration": "0.35s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.45, 0, 0.15, 1)",
+    "count": 41
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.15, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

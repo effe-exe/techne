@@ -1,0 +1,185 @@
+{
+ "url": "https://eyeondesign.aiga.org",
+ "capturedAt": "2026-10-27T09:01:52.379Z",
+ "viewport": "1440x900",
+ "title": "Eye on Design – AIGA Eye on Design",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "ChapeauBlack",
+    "count": 45
+   },
+   {
+    "family": "ChapeauBold",
+    "count": 39
+   },
+   {
+    "family": "MaisonNeueMedium",
+    "count": 17
+   },
+   {
+    "family": "MaisonNeueBold",
+    "count": 7
+   },
+   {
+    "family": "MaisonNeueDemi",
+    "count": 4
+   }
+  ],
+  "h1": {
+   "family": "ChapeauMedium",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "0.5px",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": {
+   "size": 14,
+   "lineHeight": 1.5,
+   "measureCh": 87
+  },
+  "nav": null,
+  "button": {
+   "family": "ChapeauMedium",
+   "size": 10,
+   "weight": "400",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 52
+  },
+  {
+   "px": 18,
+   "count": 37
+  },
+  {
+   "px": 14,
+   "count": 21
+  },
+  {
+   "px": 24,
+   "count": 4
+  },
+  {
+   "px": 16,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 48
+   },
+   {
+    "color": "rgb(255, 140, 140)",
+    "count": 47
+   },
+   {
+    "color": "rgb(82, 75, 72)",
+    "count": 17
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(236, 226, 226)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 140, 140)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 140, 140)",
+    "radius": "0px",
+    "padding": "15px",
+    "size": 10,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "15px",
+    "size": 10,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 2
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 5841,
+  "mediaCoverage": 0.69,
+  "linkCount": 285
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 254
+   },
+   {
+    "duration": "0.15s",
+    "count": 13
+   },
+   {
+    "duration": "0.22s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 265
+   },
+   {
+    "easing": "linear",
+    "count": 2
+   },
+   {
+    "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+    "count": 1
+   },
+   {
+    "easing": "cubic-bezier(0.55, 0.055, 0.675, 0.19)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

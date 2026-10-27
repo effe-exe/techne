@@ -1,0 +1,201 @@
+{
+ "url": "https://www.14islands.com",
+ "capturedAt": "2026-10-27T09:01:56.862Z",
+ "viewport": "1440x900",
+ "title": "14islands | Creative design & technology agency",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "AftenScreen",
+    "count": 73
+   },
+   {
+    "family": "BentonSans",
+    "count": 8
+   }
+  ],
+  "h1": {
+   "family": "BentonSans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "BentonSans",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": 1.4,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 12,
+   "lineHeight": 1.4,
+   "measureCh": 43
+  },
+  "nav": {
+   "family": "BentonSans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 0,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "BentonSans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 26.7,
+   "count": 70
+  },
+  {
+   "px": 12,
+   "count": 8
+  },
+  {
+   "px": 75,
+   "count": 3
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(7, 7, 7)",
+    "count": 43
+   },
+   {
+    "color": "rgb(162, 162, 169)",
+    "count": 37
+   },
+   {
+    "color": "rgb(121, 121, 121)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(242, 242, 242)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(162, 162, 169)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(7, 7, 7)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4.16667px",
+    "count": 20
+   },
+   {
+    "radius": "5px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "100px",
+    "count": 2
+   },
+   {
+    "padding": "108.333px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "372px",
+    "count": 1
+   },
+   {
+    "maxWidth": "320px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 10304,
+  "mediaCoverage": 0.09,
+  "linkCount": 57
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 72
+   },
+   {
+    "duration": "0.5s",
+    "count": 9
+   },
+   {
+    "duration": "0.2s",
+    "count": 6
+   },
+   {
+    "duration": "1.2s, 0.5s",
+    "count": 3
+   },
+   {
+    "duration": "1.25s",
+    "count": 1
+   },
+   {
+    "duration": "1.25s, 0.5s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    "count": 87
+   },
+   {
+    "easing": "ease, cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    "count": 14
+   },
+   {
+    "easing": "ease, ease",
+    "count": 3
+   },
+   {
+    "easing": "cubic-bezier(0.55, 0.085, 0.68, 0.53)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

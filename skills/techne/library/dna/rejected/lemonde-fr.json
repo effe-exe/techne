@@ -1,0 +1,256 @@
+{
+ "url": "https://www.lemonde.fr",
+ "capturedAt": "2026-10-27T09:03:39.022Z",
+ "viewport": "1440x900",
+ "title": "Le Monde in English – World news, culture and opinion",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "The Antiqua B Bold",
+    "count": 71
+   },
+   {
+    "family": "Marr Sans",
+    "count": 68
+   },
+   {
+    "family": "Marr Sans Condensed Semibold",
+    "count": 34
+   },
+   {
+    "family": "Marr Sans Medium",
+    "count": 8
+   },
+   {
+    "family": "Marr Sans Condensed",
+    "count": 5
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "The Antiqua B ExtraBold",
+   "size": 24,
+   "weight": "700",
+   "lineHeight": 1.17,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 13,
+   "lineHeight": 1,
+   "measureCh": 25
+  },
+  "nav": {
+   "family": "Marr Sans Medium",
+   "size": 18,
+   "weight": "400",
+   "lineHeight": 1.22,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Marr Sans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 56
+  },
+  {
+   "px": 18,
+   "count": 40
+  },
+  {
+   "px": 15,
+   "count": 36
+  },
+  {
+   "px": 16,
+   "count": 29
+  },
+  {
+   "px": 9,
+   "count": 8
+  },
+  {
+   "px": 22,
+   "count": 7
+  },
+  {
+   "px": 14,
+   "count": 4
+  },
+  {
+   "px": 11,
+   "count": 3
+  },
+  {
+   "px": 20,
+   "count": 3
+  },
+  {
+   "px": 24,
+   "count": 2
+  },
+  {
+   "px": 12,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(42, 48, 60)",
+    "count": 102
+   },
+   {
+    "color": "rgb(245, 246, 248)",
+    "count": 41
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 20
+   },
+   {
+    "color": "rgb(86, 94, 112)",
+    "count": 13
+   },
+   {
+    "color": "rgb(56, 63, 78)",
+    "count": 4
+   },
+   {
+    "color": "rgb(70, 79, 95)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(24, 26, 30)",
+    "count": 5
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(245, 246, 248)",
+    "count": 3
+   },
+   {
+    "color": "rgb(42, 48, 60)",
+    "count": 2
+   },
+   {
+    "color": "rgb(244, 249, 251)",
+    "count": 1
+   },
+   {
+    "color": "rgb(226, 228, 233)",
+    "count": 1
+   },
+   {
+    "color": "rgba(49, 49, 49, 0.7)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 199, 0)",
+    "color": "rgb(20, 15, 0)",
+    "radius": "3px",
+    "padding": "8px 16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(42, 48, 60)",
+    "radius": "3px",
+    "padding": "8px 16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "3px",
+    "padding": "8px 16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(245, 246, 248)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(2, 107, 156)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "3px",
+    "padding": "0px 24px",
+    "size": 16,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3px",
+    "count": 8
+   },
+   {
+    "radius": "50%",
+    "count": 2
+   },
+   {
+    "radius": "10px",
+    "count": 2
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "24px",
+    "count": 1
+   },
+   {
+    "padding": "36px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1040px",
+    "count": 1
+   },
+   {
+    "maxWidth": "628px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7861,
+  "mediaCoverage": 0.27,
+  "linkCount": 267
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

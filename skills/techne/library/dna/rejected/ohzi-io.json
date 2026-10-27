@@ -1,0 +1,190 @@
+{
+ "url": "https://www.ohzi.io",
+ "capturedAt": "2026-10-27T09:01:14.217Z",
+ "viewport": "1440x900",
+ "title": "OHZI Interactive Studio — 3D Interactive Web Experiences",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Montserrat",
+    "count": 18
+   }
+  ],
+  "h1": {
+   "family": "Montserrat",
+   "size": 32,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Montserrat",
+   "size": 24,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": null,
+  "nav": null,
+  "button": {
+   "family": "Montserrat",
+   "size": 30,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "2px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 7
+  },
+  {
+   "px": 18,
+   "count": 5
+  },
+  {
+   "px": 24,
+   "count": 4
+  },
+  {
+   "px": 32,
+   "count": 1
+  },
+  {
+   "px": 18.7,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(17, 17, 17)",
+  "textColors": [
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 13
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(0, 0, 0, 0.1)",
+    "count": 1
+   },
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 1
+   },
+   {
+    "color": "rgb(144, 144, 144)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "5px",
+    "size": 30,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "5px",
+    "size": 30,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "5px",
+    "size": 30,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "5px",
+    "size": 30,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "5px",
+    "size": 30,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "20px",
+    "count": 2
+   },
+   {
+    "radius": "6px",
+    "count": 1
+   },
+   {
+    "radius": "50px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(17, 17, 17, 0.2) 0px 8px 16px 0px",
+    "count": 2
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "200px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 1.09,
+  "linkCount": 22
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 4
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

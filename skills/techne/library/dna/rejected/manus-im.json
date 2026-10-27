@@ -1,0 +1,218 @@
+{
+ "url": "https://manus.im",
+ "capturedAt": "2026-10-27T09:00:54.129Z",
+ "viewport": "1440x900",
+ "title": "Manus: Hands On AI",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "-apple-system",
+    "count": 54
+   },
+   {
+    "family": "LibreBaskerville",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "LibreBaskerville",
+   "size": 36,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Libre Baskerville",
+   "size": 36,
+   "weight": "400",
+   "lineHeight": 1.22,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 93
+  },
+  "nav": null,
+  "button": {
+   "family": "-apple-system",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.29,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 54
+  },
+  {
+   "px": 36,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgba(255, 255, 255, 0.6)",
+    "count": 38
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 9
+   },
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 6
+   },
+   {
+    "color": "rgb(0, 129, 242)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(248, 248, 247)",
+    "count": 4
+   },
+   {
+    "color": "rgba(55, 53, 47, 0.04)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(26, 26, 25)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(26, 26, 25)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "0px 8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 26, 26)",
+    "radius": "8px",
+    "padding": "0px 8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(26, 26, 26)",
+    "radius": "12px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(77, 77, 77)",
+    "radius": "9999px",
+    "padding": "0px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": "rgba(55, 53, 47, 0.08)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "9999px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 9
+   },
+   {
+    "radius": "9999px",
+    "count": 7
+   },
+   {
+    "radius": "5px",
+    "count": 2
+   },
+   {
+    "radius": "12px",
+    "count": 1
+   },
+   {
+    "radius": "22px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.02) 0px 12px 32px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1080px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1px",
+    "count": 1
+   },
+   {
+    "maxWidth": "768px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.03,
+  "linkCount": 49
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 5
+   },
+   {
+    "duration": "0.3s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 4
+   },
+   {
+    "easing": "ease-out",
+    "count": 1
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

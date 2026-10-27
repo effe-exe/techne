@@ -1,0 +1,218 @@
+{
+ "url": "https://designmuseum.org",
+ "capturedAt": "2026-10-27T09:03:16.906Z",
+ "viewport": "1440x900",
+ "title": "Home - Design Museum",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "din-pro",
+    "count": 78
+   },
+   {
+    "family": "din-pro-alternate",
+    "count": 12
+   },
+   {
+    "family": "sans-serif",
+    "count": 8
+   }
+  ],
+  "h1": {
+   "family": "din-pro-alternate",
+   "size": 30,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "din-pro",
+   "size": 24,
+   "weight": "500",
+   "lineHeight": 1.04,
+   "tracking": "-1px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 15,
+   "lineHeight": "normal",
+   "measureCh": 91
+  },
+  "nav": null,
+  "button": {
+   "family": "sans-serif",
+   "size": 15,
+   "weight": "600",
+   "lineHeight": 1.6,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 46
+  },
+  {
+   "px": 15,
+   "count": 30
+  },
+  {
+   "px": 50,
+   "count": 12
+  },
+  {
+   "px": 24,
+   "count": 10
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 65
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 33
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 11
+   },
+   {
+    "color": "rgb(240, 240, 240)",
+    "count": 1
+   },
+   {
+    "color": "rgb(232, 227, 22)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "3.75px",
+    "padding": "15px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(13, 12, 12)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "3.75px",
+    "padding": "15px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "3.75px",
+    "padding": "15px",
+    "size": 15,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "32px",
+    "count": 4
+   },
+   {
+    "radius": "3.75px",
+    "count": 3
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(232, 227, 22, 0.8) 2px 0px 0px 0px, rgba(232, 227, 22, 0.8) -2px 0px 0px 0px",
+    "count": 19
+   },
+   {
+    "shadow": "rgba(255, 0, 255, 0.8) 2px 0px 0px 0px, rgba(255, 0, 255, 0.8) -2px 0px 0px 0px",
+    "count": 11
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.3) 0px 32px 68px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "884px",
+    "count": 16
+   },
+   {
+    "maxWidth": "400px",
+    "count": 12
+   },
+   {
+    "maxWidth": "900px",
+    "count": 1
+   },
+   {
+    "maxWidth": "133px",
+    "count": 1
+   },
+   {
+    "maxWidth": "200px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.01,
+  "linkCount": 196
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s",
+    "count": 16
+   },
+   {
+    "duration": "0.5s",
+    "count": 13
+   },
+   {
+    "duration": "0.6s",
+    "count": 12
+   },
+   {
+    "duration": "0.7s",
+    "count": 12
+   },
+   {
+    "duration": "0.8s",
+    "count": 12
+   },
+   {
+    "duration": "0.4s",
+    "count": 10
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 20
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

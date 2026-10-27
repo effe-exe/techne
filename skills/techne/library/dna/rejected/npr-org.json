@@ -1,0 +1,290 @@
+{
+ "url": "https://www.npr.org",
+ "capturedAt": "2026-10-27T09:03:19.590Z",
+ "viewport": "1440x900",
+ "title": "NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "NPRSans",
+    "count": 179
+   },
+   {
+    "family": "NPRSerif",
+    "count": 28
+   },
+   {
+    "family": "Open Sans",
+    "count": 10
+   }
+  ],
+  "h1": {
+   "family": "NPRSans",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "0.28px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "NPRSans",
+   "size": 18,
+   "weight": "500",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.5,
+   "measureCh": 69
+  },
+  "nav": {
+   "family": "NPRSans",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "0.28px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "NPRSans",
+   "size": 13.3,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 81
+  },
+  {
+   "px": 16,
+   "count": 54
+  },
+  {
+   "px": 12,
+   "count": 39
+  },
+  {
+   "px": 22,
+   "count": 22
+  },
+  {
+   "px": 18,
+   "count": 14
+  },
+  {
+   "px": 24,
+   "count": 4
+  },
+  {
+   "px": 10,
+   "count": 2
+  },
+  {
+   "px": 32,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(87, 87, 87)",
+    "count": 66
+   },
+   {
+    "color": "rgb(33, 33, 33)",
+    "count": 60
+   },
+   {
+    "color": "rgb(212, 212, 212)",
+    "count": 33
+   },
+   {
+    "color": "rgb(10, 97, 219)",
+    "count": 28
+   },
+   {
+    "color": "rgb(115, 115, 115)",
+    "count": 15
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 11
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(87, 87, 87)",
+    "count": 4
+   },
+   {
+    "color": "rgb(212, 212, 212)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(239, 239, 239)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "1px 6px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(239, 239, 239)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "1px 6px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(239, 239, 239)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "1px 6px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(239, 239, 239)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "1px 6px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(239, 239, 239)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "1px 6px",
+    "size": 13.3,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 36
+   },
+   {
+    "radius": "0px 0px 4px 4px",
+    "count": 33
+   },
+   {
+    "radius": "20px",
+    "count": 28
+   },
+   {
+    "radius": "50%",
+    "count": 5
+   },
+   {
+    "radius": "2px",
+    "count": 4
+   },
+   {
+    "radius": "5px 5px 0px 0px",
+    "count": 1
+   },
+   {
+    "radius": "3px 3px 0px 0px",
+    "count": 1
+   },
+   {
+    "radius": "40px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "color(srgb 0.0705882 0.0705882 0.0705882 / 0.2) 0px 0px 2px 0px",
+    "count": 6
+   },
+   {
+    "shadow": "color(srgb 0.0705882 0.0705882 0.0705882 / 0.2) 0px 0px 4px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgb(18, 21, 28) 0px 2px 8px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "8px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1350px",
+    "count": 3
+   }
+  ],
+  "pageHeightPx": 12494,
+  "mediaCoverage": 0.21,
+  "linkCount": 472
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s, 0.25s",
+    "count": 34
+   },
+   {
+    "duration": "0.5s",
+    "count": 5
+   },
+   {
+    "duration": "0.3s",
+    "count": 5
+   },
+   {
+    "duration": "0.25s",
+    "count": 2
+   },
+   {
+    "duration": "0.1s, 0.5s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out, ease-in-out",
+    "count": 34
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 1
+   },
+   {
+    "easing": "ease-in-out, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

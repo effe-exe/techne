@@ -1,0 +1,190 @@
+{
+ "url": "https://staratlas.com",
+ "capturedAt": "2026-10-27T09:01:40.033Z",
+ "viewport": "1440x900",
+ "title": "Star Atlas | AAA Space Exploration MMO - Explore, Conquer, Earn",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Orbitron",
+    "count": 6
+   },
+   {
+    "family": "Tabular",
+    "count": 5
+   }
+  ],
+  "h1": {
+   "family": "Tabular",
+   "size": 32,
+   "weight": "700",
+   "lineHeight": 1.6,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": {
+   "size": 14.4,
+   "lineHeight": 1.6,
+   "measureCh": 82
+  },
+  "nav": null,
+  "button": {
+   "family": "Arial",
+   "size": 13.3,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 11,
+   "count": 5
+  },
+  {
+   "px": 14,
+   "count": 3
+  },
+  {
+   "px": 17.6,
+   "count": 2
+  },
+  {
+   "px": 32,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(10, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 6
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.6)",
+    "count": 2
+   },
+   {
+    "color": "rgb(50, 254, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(0, 0, 0, 0.3)",
+    "count": 3
+   },
+   {
+    "color": "rgb(50, 254, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.9)",
+    "count": 1
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.05)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.7)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgba(255, 255, 255, 0.3)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(50, 254, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "16px 32px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(50, 254, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "16px 32px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgba(255, 255, 255, 0.3)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50%",
+    "count": 4
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1000px",
+    "count": 2
+   },
+   {
+    "maxWidth": "600px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1224px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 1.02,
+  "linkCount": 35
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 11
+   },
+   {
+    "duration": "0.5s",
+    "count": 3
+   },
+   {
+    "duration": "1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

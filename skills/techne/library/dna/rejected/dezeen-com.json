@@ -1,0 +1,221 @@
+{
+ "url": "https://www.dezeen.com",
+ "capturedAt": "2026-10-27T09:03:15.744Z",
+ "viewport": "1440x900",
+ "title": "Dezeen | architecture and design magazine",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Standard CT",
+    "count": 224
+   },
+   {
+    "family": "Chronicle Text G1",
+    "count": 98
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "Standard CT",
+   "size": 20,
+   "weight": "700",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.35,
+   "measureCh": 69
+  },
+  "nav": {
+   "family": "Standard CT",
+   "size": 14,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Standard CT",
+   "size": 14,
+   "weight": "700",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 20,
+   "count": 114
+  },
+  {
+   "px": 14,
+   "count": 99
+  },
+  {
+   "px": 18,
+   "count": 97
+  },
+  {
+   "px": 32,
+   "count": 12
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 222
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 76
+   },
+   {
+    "color": "rgb(29, 29, 27)",
+    "count": 24
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 24
+   },
+   {
+    "color": "rgb(224, 156, 158)",
+    "count": 24
+   },
+   {
+    "color": "rgb(238, 238, 238)",
+    "count": 6
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 6
+   },
+   {
+    "color": "rgb(16, 55, 107)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(238, 238, 238)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "6px 6px 6px 10px",
+    "size": 14,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(238, 238, 238)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "6px 6px 6px 10px",
+    "size": 14,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(238, 238, 238)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "6px 6px 6px 10px",
+    "size": 14,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(238, 238, 238)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "24px",
+    "count": 2
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "624px",
+    "count": 18
+   },
+   {
+    "maxWidth": "1320px",
+    "count": 2
+   },
+   {
+    "maxWidth": "300px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1272px",
+    "count": 1
+   },
+   {
+    "maxWidth": "948px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 12411,
+  "mediaCoverage": 0.83,
+  "linkCount": 441
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.32s",
+    "count": 102
+   },
+   {
+    "duration": "0.2s",
+    "count": 3
+   },
+   {
+    "duration": "0.08s",
+    "count": 3
+   },
+   {
+    "duration": "0.08s, 0.08s, 0.08s, 0.08s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.135, 0.75, 0.355, 1)",
+    "count": 105
+   },
+   {
+    "easing": "ease-in",
+    "count": 3
+   },
+   {
+    "easing": "cubic-bezier(0.135, 0.75, 0.355, 1), cubic-bezier(0.135, 0.75, 0.355, 1), cubic-bezier(0.135, 0.75, 0.355, 1), cubic-bezier(0.135, 0.75, 0.355, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

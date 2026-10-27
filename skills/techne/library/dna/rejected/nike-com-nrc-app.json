@@ -1,0 +1,233 @@
+{
+ "url": "https://www.nike.com/nrc-app",
+ "capturedAt": "2026-10-27T09:05:42.106Z",
+ "viewport": "1440x900",
+ "title": "Nike Run Club App. Nike.com",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "Helvetica Now Text Medium",
+    "count": 202
+   }
+  ],
+  "h1": {
+   "family": "Helvetica Now Display Medium",
+   "size": 24,
+   "weight": "500",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Helvetica Now Display Medium",
+   "size": 24,
+   "weight": "500",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 12,
+   "lineHeight": 1.5,
+   "measureCh": 11
+  },
+  "nav": {
+   "family": "Helvetica Now Text Medium",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.86,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Helvetica Now Text Medium",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 166
+  },
+  {
+   "px": 14,
+   "count": 29
+  },
+  {
+   "px": 16,
+   "count": 7
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(112, 112, 114)",
+    "count": 162
+   },
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 40
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 20
+   },
+   {
+    "color": "rgb(229, 229, 229)",
+    "count": 6
+   },
+   {
+    "color": "rgb(245, 245, 245)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(17, 17, 17)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(17, 17, 17)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(17, 17, 17)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(245, 245, 245)",
+    "color": "rgb(17, 17, 17)",
+    "radius": "30px",
+    "padding": "6px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(17, 17, 17)",
+    "radius": "30px",
+    "padding": "6px",
+    "size": 16,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "30px",
+    "count": 10
+   },
+   {
+    "radius": "24px",
+    "count": 2
+   },
+   {
+    "radius": "0px 0px 8px 8px",
+    "count": 1
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(17, 17, 17, 0.06) 0px 4px 8px 0px, rgba(17, 17, 17, 0.03) 0px 0px 24px 4px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1824px",
+    "count": 17
+   },
+   {
+    "maxWidth": "1920px",
+    "count": 3
+   },
+   {
+    "maxWidth": "214px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1255px",
+    "count": 1
+   },
+   {
+    "maxWidth": "920px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 10701,
+  "mediaCoverage": 0.59,
+  "linkCount": 468
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 34
+   },
+   {
+    "duration": "0.5s",
+    "count": 26
+   },
+   {
+    "duration": "0.25s",
+    "count": 7
+   },
+   {
+    "duration": "0.8s, 1s",
+    "count": 5
+   },
+   {
+    "duration": "0.2s",
+    "count": 5
+   },
+   {
+    "duration": "0.7s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 6
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 5
+   },
+   {
+    "easing": "cubic-bezier(0.6, 0, 0.1, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

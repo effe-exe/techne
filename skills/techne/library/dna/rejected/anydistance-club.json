@@ -1,0 +1,66 @@
+{
+ "url": "https://anydistance.club",
+ "capturedAt": "2026-10-27T09:04:59.838Z",
+ "viewport": "1440x900",
+ "title": "Any Distance – The Workout Story Designer.",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "-apple-system",
+    "count": 14
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 16,
+   "lineHeight": 1.4,
+   "measureCh": 50
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 6
+  },
+  {
+   "px": 16,
+   "count": 5
+  },
+  {
+   "px": 12,
+   "count": 3
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 14
+   }
+  ],
+  "surfaces": [],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 973,
+  "mediaCoverage": 0.25,
+  "linkCount": 16
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

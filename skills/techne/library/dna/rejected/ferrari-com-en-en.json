@@ -1,0 +1,148 @@
+{
+ "url": "https://www.ferrari.com/en-EN",
+ "capturedAt": "2026-10-27T09:05:31.993Z",
+ "viewport": "1440x900",
+ "title": "Official Ferrari website",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "FerrariSans",
+    "count": 10
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 13,
+   "lineHeight": 1.5,
+   "measureCh": 78
+  },
+  "nav": null,
+  "button": {
+   "family": "FerrariSans",
+   "size": 13,
+   "weight": "600",
+   "lineHeight": 1.2,
+   "tracking": "0.13008px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 7
+  },
+  {
+   "px": 16,
+   "count": 3
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 4
+   },
+   {
+    "color": "rgb(24, 24, 24)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.5)",
+    "count": 1
+   },
+   {
+    "color": "rgb(24, 24, 24)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "2px",
+    "padding": "12px 10px",
+    "size": 13,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "2px",
+    "padding": "12px 10px",
+    "size": 13,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "2px",
+    "padding": "12px 10px",
+    "size": 13,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "2px",
+    "count": 3
+   },
+   {
+    "radius": "2.5px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "700px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 3934,
+  "mediaCoverage": 1.68,
+  "linkCount": 468
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "linear",
+    "count": 3
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

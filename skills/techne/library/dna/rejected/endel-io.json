@@ -1,0 +1,225 @@
+{
+ "url": "https://endel.io",
+ "capturedAt": "2026-10-27T09:05:51.530Z",
+ "viewport": "1440x900",
+ "title": "Endel - Focus, Relax and Sleep",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "apercuPro",
+    "count": 143
+   }
+  ],
+  "h1": {
+   "family": "apercuPro",
+   "size": 60,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "0.35px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "apercuPro",
+   "size": 44,
+   "weight": "400",
+   "lineHeight": 1.27,
+   "tracking": "0.35px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 22,
+   "lineHeight": 1.27,
+   "measureCh": 51
+  },
+  "nav": {
+   "family": "apercuPro",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "apercuPro",
+   "size": 22,
+   "weight": "400",
+   "lineHeight": 1.27,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18,
+   "count": 60
+  },
+  {
+   "px": 22,
+   "count": 46
+  },
+  {
+   "px": 44,
+   "count": 18
+  },
+  {
+   "px": 14,
+   "count": 14
+  },
+  {
+   "px": 16,
+   "count": 3
+  },
+  {
+   "px": 36,
+   "count": 1
+  },
+  {
+   "px": 60,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 75
+   },
+   {
+    "color": "rgb(191, 191, 191)",
+    "count": 68
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(25, 25, 25)",
+    "count": 8
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 22,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(38, 38, 38)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "12px",
+    "padding": "0px 12px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(38, 38, 38)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "12px",
+    "padding": "0px 12px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(38, 38, 38)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "12px",
+    "padding": "0px 24px",
+    "size": 22,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "100px",
+    "padding": "0px",
+    "size": 22,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "12px",
+    "count": 27
+   },
+   {
+    "radius": "8px",
+    "count": 23
+   },
+   {
+    "radius": "20px",
+    "count": 17
+   },
+   {
+    "radius": "100px",
+    "count": 6
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(255, 255, 255) 0px 0px 15px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1152px",
+    "count": 14
+   },
+   {
+    "maxWidth": "760px",
+    "count": 12
+   },
+   {
+    "maxWidth": "564px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1480px",
+    "count": 1
+   },
+   {
+    "maxWidth": "2048px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 12212,
+  "mediaCoverage": 0.74,
+  "linkCount": 75
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 20
+   },
+   {
+    "duration": "0.2s",
+    "count": 8
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 20
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

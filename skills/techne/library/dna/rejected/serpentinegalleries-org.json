@@ -1,0 +1,290 @@
+{
+ "url": "https://www.serpentinegalleries.org",
+ "capturedAt": "2026-10-27T09:02:01.504Z",
+ "viewport": "1440x900",
+ "title": "Serpentine",
+ "lang": "en-GB",
+ "fonts": {
+  "families": [
+   {
+    "family": "Tstar Pro",
+    "count": 48
+   },
+   {
+    "family": "Noe Text",
+    "count": 33
+   },
+   {
+    "family": "Platanus",
+    "count": 22
+   }
+  ],
+  "h1": {
+   "family": "Platanus",
+   "size": 126.7,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Platanus",
+   "size": 85,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 28.1,
+   "lineHeight": 1.06,
+   "measureCh": 20
+  },
+  "nav": {
+   "family": "Tstar Pro",
+   "size": 22.2,
+   "weight": "700",
+   "lineHeight": 1.11,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "button": {
+   "family": "Noe Text",
+   "size": 15,
+   "weight": "600",
+   "lineHeight": 1.6,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 19.6,
+   "count": 36
+  },
+  {
+   "px": 16.2,
+   "count": 26
+  },
+  {
+   "px": 28.1,
+   "count": 10
+  },
+  {
+   "px": 85,
+   "count": 7
+  },
+  {
+   "px": 12.8,
+   "count": 7
+  },
+  {
+   "px": 15,
+   "count": 5
+  },
+  {
+   "px": 51.4,
+   "count": 5
+  },
+  {
+   "px": 23.9,
+   "count": 4
+  },
+  {
+   "px": 22.2,
+   "count": 2
+  },
+  {
+   "px": 17,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 50
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 44
+   },
+   {
+    "color": "rgb(102, 102, 102)",
+    "count": 6
+   },
+   {
+    "color": "rgb(20, 20, 20)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 9
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 9
+   },
+   {
+    "color": "rgb(242, 242, 242)",
+    "count": 4
+   },
+   {
+    "color": "rgb(0, 203, 171)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(20, 20, 20)",
+    "radius": "3.75px",
+    "padding": "15px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(20, 20, 20)",
+    "radius": "3.75px",
+    "padding": "15px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "3.75px",
+    "padding": "15px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16.2,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16.2,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "0px 0px 0px 20px",
+    "count": 11
+   },
+   {
+    "radius": "0px 0px 0px 10px",
+    "count": 9
+   },
+   {
+    "radius": "3.75px",
+    "count": 3
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.3) 0px 32px 68px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "68px",
+    "count": 2
+   },
+   {
+    "padding": "25.5px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1300.5px",
+    "count": 24
+   },
+   {
+    "maxWidth": "900px",
+    "count": 1
+   },
+   {
+    "maxWidth": "500px",
+    "count": 1
+   },
+   {
+    "maxWidth": "270px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4986,
+  "mediaCoverage": 0.82,
+  "linkCount": 210
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s, 0.25s, 0.25s",
+    "count": 11
+   },
+   {
+    "duration": "0.15s",
+    "count": 7
+   },
+   {
+    "duration": "0.25s",
+    "count": 5
+   },
+   {
+    "duration": "0.3s",
+    "count": 3
+   },
+   {
+    "duration": "0.13s",
+    "count": 2
+   },
+   {
+    "duration": "0.5s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.46, 0.03, 0.52, 0.96)",
+    "count": 10
+   },
+   {
+    "easing": "ease-in-out, ease-in-out, ease-in-out",
+    "count": 8
+   },
+   {
+    "easing": "cubic-bezier(0.46, 0.03, 0.52, 0.96), cubic-bezier(0.46, 0.03, 0.52, 0.96), cubic-bezier(0.46, 0.03, 0.52, 0.96)",
+    "count": 3
+   },
+   {
+    "easing": "linear",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

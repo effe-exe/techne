@@ -1,0 +1,265 @@
+{
+ "url": "https://fromourplace.com",
+ "capturedAt": "2026-10-27T09:04:58.072Z",
+ "viewport": "1440x900",
+ "title": "Our Place | The Best Non-Toxic Cookware & Kitchen Essentials",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Calibre",
+    "count": 78
+   },
+   {
+    "family": "Chelt",
+    "count": 52
+   },
+   {
+    "family": "Plaid-XS-Web",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "Chelt",
+   "size": 60,
+   "weight": "300",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Chelt",
+   "size": 48,
+   "weight": "300",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.06,
+   "measureCh": 0
+  },
+  "nav": {
+   "family": "Plaid-XS-Web",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.7,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Arial",
+   "size": 13.3,
+   "weight": "400",
+   "lineHeight": 0,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 28,
+   "count": 46
+  },
+  {
+   "px": 16,
+   "count": 32
+  },
+  {
+   "px": 12,
+   "count": 27
+  },
+  {
+   "px": 20,
+   "count": 20
+  },
+  {
+   "px": 48,
+   "count": 5
+  },
+  {
+   "px": 36,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(252, 250, 246)",
+  "textColors": [
+   {
+    "color": "rgb(53, 49, 46)",
+    "count": 92
+   },
+   {
+    "color": "rgb(252, 250, 246)",
+    "count": 27
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 9
+   },
+   {
+    "color": "rgb(175, 90, 60)",
+    "count": 2
+   },
+   {
+    "color": "rgb(96, 96, 94)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(0, 0, 0, 0.1)",
+    "count": 29
+   },
+   {
+    "color": "rgb(252, 250, 246)",
+    "count": 9
+   },
+   {
+    "color": "rgb(246, 243, 235)",
+    "count": 2
+   },
+   {
+    "color": "rgb(53, 49, 46)",
+    "count": 1
+   },
+   {
+    "color": "rgb(158, 158, 158)",
+    "count": 1
+   },
+   {
+    "color": "rgb(108, 103, 77)",
+    "count": 1
+   },
+   {
+    "color": "rgb(70, 86, 97)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(53, 49, 46)",
+    "radius": "0px",
+    "padding": "2px 0px 0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(53, 49, 46)",
+    "radius": "0px",
+    "padding": "2px 0px 0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(53, 49, 46)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(53, 49, 46)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(53, 49, 46)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 61
+   },
+   {
+    "radius": "9999px",
+    "count": 30
+   },
+   {
+    "radius": "50% 50% 8px 8px / 35% 35% 8px 8px",
+    "count": 21
+   },
+   {
+    "radius": "8px",
+    "count": 6
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "64px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 8
+   },
+   {
+    "maxWidth": "760px",
+    "count": 1
+   },
+   {
+    "maxWidth": "400px",
+    "count": 1
+   },
+   {
+    "maxWidth": "676px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4967,
+  "mediaCoverage": 2.02,
+  "linkCount": 244
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 55
+   },
+   {
+    "duration": "0.2s",
+    "count": 5
+   },
+   {
+    "duration": "0.6s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 55
+   },
+   {
+    "easing": "cubic-bezier(0.25, 1, 0.5, 1)",
+    "count": 2
+   },
+   {
+    "easing": "cubic-bezier(0.12, 0.67, 0.53, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

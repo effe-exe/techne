@@ -1,0 +1,117 @@
+{
+ "url": "https://www.craft.do",
+ "capturedAt": "2026-10-27T09:06:18.501Z",
+ "viewport": "1440x900",
+ "title": "Craft — Productivity App for Notes, Tasks, and Docs",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "UntitledSansFont",
+    "count": 2
+   },
+   {
+    "family": "UntitledSerifFont",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "UntitledSerifFont",
+   "size": 66,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "-1.98px",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": {
+   "size": 18,
+   "lineHeight": 1.4,
+   "measureCh": 130
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 1
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 66,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(252, 249, 247)",
+  "textColors": [
+   {
+    "color": "rgb(3, 3, 2)",
+    "count": 1
+   },
+   {
+    "color": "rgba(3, 3, 2, 0.65)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "24px",
+    "count": 2
+   },
+   {
+    "radius": "4px",
+    "count": 1
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.01) 0px 50px 40px 0px, rgba(0, 0, 0, 0.02) 0px 50px 40px 0px, rgba(0, 0, 0, 0.05) 0px 20px 40px 0px, rgba(0, 0, 0, 0.08) 0px 3px 10px 0px",
+    "count": 3
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.18,
+  "linkCount": 1
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.5s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

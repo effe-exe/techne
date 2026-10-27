@@ -1,0 +1,302 @@
+{
+ "url": "https://www.vam.ac.uk",
+ "capturedAt": "2026-10-27T09:03:24.454Z",
+ "viewport": "1440x900",
+ "title": "The V&A is a family of museums dedicated to the power of creativity · V&A",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Spiller",
+    "count": 181
+   }
+  ],
+  "h1": {
+   "family": "Spiller",
+   "size": 15,
+   "weight": "400",
+   "lineHeight": 1.4,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Spiller",
+   "size": 60,
+   "weight": "400",
+   "lineHeight": 1.13,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 23,
+   "lineHeight": 1.57,
+   "measureCh": 57
+  },
+  "nav": {
+   "family": "Spiller",
+   "size": 23,
+   "weight": "400",
+   "lineHeight": 1.7,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Spiller",
+   "size": 17,
+   "weight": "400",
+   "lineHeight": 1.65,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 15,
+   "count": 64
+  },
+  {
+   "px": 13,
+   "count": 53
+  },
+  {
+   "px": 17,
+   "count": 33
+  },
+  {
+   "px": 23,
+   "count": 10
+  },
+  {
+   "px": 31,
+   "count": 7
+  },
+  {
+   "px": 11.4,
+   "count": 6
+  },
+  {
+   "px": 14,
+   "count": 2
+  },
+  {
+   "px": 41,
+   "count": 1
+  },
+  {
+   "px": 10.5,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(29, 30, 32)",
+    "count": 63
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 56
+   },
+   {
+    "color": "rgb(183, 184, 189)",
+    "count": 51
+   },
+   {
+    "color": "rgb(105, 105, 105)",
+    "count": 7
+   },
+   {
+    "color": "rgb(80, 83, 84)",
+    "count": 3
+   },
+   {
+    "color": "rgb(234, 234, 234)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(29, 30, 32)",
+    "count": 12
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgba(29, 30, 32, 0.5)",
+    "count": 4
+   },
+   {
+    "color": "rgb(253, 96, 96)",
+    "count": 2
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(57, 59, 63)",
+    "count": 1
+   },
+   {
+    "color": "rgb(222, 224, 226)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.5)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(231, 255, 11)",
+    "color": "rgb(29, 30, 32)",
+    "radius": "2px",
+    "padding": "4px 10px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "50%",
+    "padding": "0px",
+    "size": 23,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(29, 30, 32)",
+    "radius": "2px",
+    "padding": "10px 19px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(29, 30, 32)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "10px 19px 8px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(29, 30, 32)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "10px 19px 8px",
+    "size": 17,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "2px",
+    "count": 23
+   },
+   {
+    "radius": "50%",
+    "count": 14
+   },
+   {
+    "radius": "2px 2px 0px 0px",
+    "count": 8
+   },
+   {
+    "radius": "0px 0px 2px 2px",
+    "count": 4
+   },
+   {
+    "radius": "2.5px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(29, 30, 32, 0.5) 1px 1px 12px 0px, rgba(29, 30, 32, 0.5) -1px -1px 12px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.05) 0px 0px 10px 5px, rgba(0, 0, 0, 0.2) 0px 0px 50px 1px, rgba(0, 0, 0, 0.24) 0px 0px 50px 4px inset",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "452px",
+    "count": 1
+   },
+   {
+    "padding": "40px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1072px",
+    "count": 26
+   },
+   {
+    "maxWidth": "1200px",
+    "count": 6
+   },
+   {
+    "maxWidth": "2560px",
+    "count": 5
+   },
+   {
+    "maxWidth": "450px",
+    "count": 2
+   },
+   {
+    "maxWidth": "355px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 7413,
+  "mediaCoverage": 0.38,
+  "linkCount": 127
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s, 0.2s, 0.2s",
+    "count": 15
+   },
+   {
+    "duration": "0.2s",
+    "count": 11
+   },
+   {
+    "duration": "0.3s",
+    "count": 5
+   },
+   {
+    "duration": "0.5s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease, ease",
+    "count": 15
+   },
+   {
+    "easing": "ease-in",
+    "count": 5
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,229 @@
+{
+ "url": "https://hyperallergic.com",
+ "capturedAt": "2026-10-27T09:02:14.541Z",
+ "viewport": "1440x900",
+ "title": "Hyperallergic",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "inter",
+    "count": 55
+   },
+   {
+    "family": "Martina Plantijn",
+    "count": 40
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "Martina Plantijn",
+   "size": 12,
+   "weight": "550",
+   "lineHeight": 1.2,
+   "tracking": "0.3px",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.4,
+   "measureCh": 71
+  },
+  "nav": {
+   "family": "inter",
+   "size": 14,
+   "weight": "600",
+   "lineHeight": 1.6,
+   "tracking": "-0.14px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "inter",
+   "size": 14,
+   "weight": "600",
+   "lineHeight": 1.6,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12.5,
+   "count": 34
+  },
+  {
+   "px": 14,
+   "count": 16
+  },
+  {
+   "px": 21,
+   "count": 12
+  },
+  {
+   "px": 16.5,
+   "count": 12
+  },
+  {
+   "px": 17,
+   "count": 8
+  },
+  {
+   "px": 18,
+   "count": 3
+  },
+  {
+   "px": 23,
+   "count": 3
+  },
+  {
+   "px": 12,
+   "count": 2
+  },
+  {
+   "px": 15,
+   "count": 2
+  },
+  {
+   "px": 44,
+   "count": 1
+  },
+  {
+   "px": 46,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(21, 23, 26)",
+    "count": 70
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.55)",
+    "count": 22
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.05)",
+    "count": 1
+   },
+   {
+    "color": "rgb(249, 249, 249)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(21, 23, 26)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(21, 23, 26)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "550"
+   },
+   {
+    "bg": "rgb(0, 174, 238)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "12px 21px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(0, 174, 238)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "13.6px 32px",
+    "size": 17,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 7
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "600px",
+    "count": 12
+   },
+   {
+    "maxWidth": "1320px",
+    "count": 6
+   },
+   {
+    "maxWidth": "640px",
+    "count": 2
+   },
+   {
+    "maxWidth": "560px",
+    "count": 2
+   },
+   {
+    "maxWidth": "500px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4999,
+  "mediaCoverage": 0.11,
+  "linkCount": 51
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 3
+   },
+   {
+    "duration": "0.3s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

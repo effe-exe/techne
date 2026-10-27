@@ -1,0 +1,338 @@
+{
+ "url": "https://www.awaytravel.com",
+ "capturedAt": "2026-10-27T09:05:27.530Z",
+ "viewport": "1440x900",
+ "title": "Away: Built for modern travel",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Graphik",
+    "count": 154
+   },
+   {
+    "family": "ui-sans-serif",
+    "count": 9
+   },
+   {
+    "family": "Replica Mono",
+    "count": 3
+   }
+  ],
+  "h1": {
+   "family": "Graphik",
+   "size": 56,
+   "weight": "400",
+   "lineHeight": 0.86,
+   "tracking": "-2.24px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Graphik",
+   "size": 32,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "-0.64px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.1,
+   "measureCh": 28
+  },
+  "nav": {
+   "family": "Graphik",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.1,
+   "tracking": "0.7px",
+   "transform": "uppercase"
+  },
+  "button": {
+   "family": "Graphik",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.13,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 75
+  },
+  {
+   "px": 14,
+   "count": 50
+  },
+  {
+   "px": 12,
+   "count": 11
+  },
+  {
+   "px": 16.5,
+   "count": 10
+  },
+  {
+   "px": 32,
+   "count": 7
+  },
+  {
+   "px": 15,
+   "count": 5
+  },
+  {
+   "px": 18,
+   "count": 2
+  },
+  {
+   "px": 20,
+   "count": 2
+  },
+  {
+   "px": 24,
+   "count": 1
+  },
+  {
+   "px": 38,
+   "count": 1
+  },
+  {
+   "px": 52,
+   "count": 1
+  },
+  {
+   "px": 56,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 110
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 51
+   },
+   {
+    "color": "rgb(102, 102, 102)",
+    "count": 3
+   },
+   {
+    "color": "rgb(150, 101, 154)",
+    "count": 1
+   },
+   {
+    "color": "rgb(211, 27, 59)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(247, 244, 241)",
+    "count": 6
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 3
+   },
+   {
+    "color": "rgb(245, 245, 245)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(36, 36, 38)",
+    "color": "rgb(216, 216, 220)",
+    "radius": "90px",
+    "padding": "7px 0px 7px 32px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "4px 4px 0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "4px 4px 0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px 21px 1px 0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(17, 17, 17)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "100%",
+    "count": 132
+   },
+   {
+    "radius": "50%",
+    "count": 21
+   },
+   {
+    "radius": "80px",
+    "count": 16
+   },
+   {
+    "radius": "999px",
+    "count": 10
+   },
+   {
+    "radius": "1px",
+    "count": 3
+   },
+   {
+    "radius": "90px",
+    "count": 2
+   },
+   {
+    "radius": "28px",
+    "count": 1
+   },
+   {
+    "radius": "20px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.24) 0px 1px 2px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.08) 0px 1px 4px 0px",
+    "count": 2
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "32px",
+    "count": 1
+   },
+   {
+    "padding": "64px",
+    "count": 1
+   },
+   {
+    "padding": "100px",
+    "count": 1
+   },
+   {
+    "padding": "91px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1920px",
+    "count": 7
+   },
+   {
+    "maxWidth": "800px",
+    "count": 3
+   },
+   {
+    "maxWidth": "164px",
+    "count": 3
+   },
+   {
+    "maxWidth": "386px",
+    "count": 1
+   },
+   {
+    "maxWidth": "999px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7084,
+  "mediaCoverage": 1.17,
+  "linkCount": 550
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 25
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 10
+   },
+   {
+    "duration": "0.35s, 0.35s",
+    "count": 10
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 8
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 6
+   },
+   {
+    "duration": "0.2s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 32
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 9
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 4
+   },
+   {
+    "easing": "ease-in-out, ease-in-out",
+    "count": 4
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

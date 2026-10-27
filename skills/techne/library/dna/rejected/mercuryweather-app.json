@@ -1,0 +1,162 @@
+{
+ "url": "https://mercuryweather.app",
+ "capturedAt": "2026-10-27T09:05:48.012Z",
+ "viewport": "1440x900",
+ "title": "Mercury Weather ☁️",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 25
+   }
+  ],
+  "h1": {
+   "family": "Inter",
+   "size": 76,
+   "weight": "800",
+   "lineHeight": 0.98,
+   "tracking": "-3.8px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Inter",
+   "size": 21.6,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.55,
+   "measureCh": 47
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 15.2,
+   "count": 10
+  },
+  {
+   "px": 13.6,
+   "count": 6
+  },
+  {
+   "px": 16.8,
+   "count": 4
+  },
+  {
+   "px": 16,
+   "count": 2
+  },
+  {
+   "px": 76,
+   "count": 1
+  },
+  {
+   "px": 21.6,
+   "count": 1
+  },
+  {
+   "px": 17.6,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgba(245, 247, 255, 0.96)",
+    "count": 15
+   },
+   {
+    "color": "rgba(208, 216, 255, 0.72)",
+    "count": 8
+   },
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(10, 12, 24, 0.34)",
+    "count": 6
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.08)",
+    "count": 4
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "18px",
+    "count": 6
+   },
+   {
+    "radius": "999px",
+    "count": 5
+   },
+   {
+    "radius": "10px",
+    "count": 1
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   },
+   {
+    "radius": "28px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.85) 0px 44px 120px -80px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "608px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 1247,
+  "mediaCoverage": 0.08,
+  "linkCount": 9
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.16s, 0.16s",
+    "count": 6
+   },
+   {
+    "duration": "0.18s, 0.18s",
+    "count": 6
+   },
+   {
+    "duration": "0.25s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 12
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

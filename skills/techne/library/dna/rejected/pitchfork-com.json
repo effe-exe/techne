@@ -1,0 +1,267 @@
+{
+ "url": "https://pitchfork.com",
+ "capturedAt": "2026-10-27T09:02:36.730Z",
+ "viewport": "1440x900",
+ "title": "Pitchfork | The Most Trusted Voice in Music. | Pitchfork",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "Walfork",
+    "count": 177
+   },
+   {
+    "family": "FeatureFlatDisplay",
+    "count": 33
+   },
+   {
+    "family": "PTSerif",
+    "count": 1
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "Walfork",
+   "size": 14,
+   "weight": "700",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 19,
+   "lineHeight": 1.32,
+   "measureCh": 26
+  },
+  "nav": {
+   "family": "Walfork",
+   "size": 12,
+   "weight": "600",
+   "lineHeight": 1.33,
+   "tracking": "0.996px",
+   "transform": "uppercase"
+  },
+  "button": {
+   "family": "Walfork",
+   "size": 14,
+   "weight": "600",
+   "lineHeight": 1.14,
+   "tracking": "1.75px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 101
+  },
+  {
+   "px": 14,
+   "count": 47
+  },
+  {
+   "px": 16,
+   "count": 16
+  },
+  {
+   "px": 24,
+   "count": 15
+  },
+  {
+   "px": 22,
+   "count": 12
+  },
+  {
+   "px": 19,
+   "count": 11
+  },
+  {
+   "px": 36,
+   "count": 6
+  },
+  {
+   "px": 11,
+   "count": 2
+  },
+  {
+   "px": 17,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(43, 43, 43)",
+    "count": 63
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 41
+   },
+   {
+    "color": "rgb(179, 179, 179)",
+    "count": 32
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 28
+   },
+   {
+    "color": "rgb(117, 117, 117)",
+    "count": 24
+   },
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 20
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(238, 238, 238)",
+    "count": 12
+   },
+   {
+    "color": "rgba(255, 255, 255, 0)",
+    "count": 9
+   },
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 3
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.85)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(255, 53, 48)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "1px",
+    "padding": "4px 8px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50%",
+    "count": 14
+   },
+   {
+    "radius": "8px",
+    "count": 12
+   },
+   {
+    "radius": "1px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 2px 4px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "8px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1600px",
+    "count": 16
+   },
+   {
+    "maxWidth": "1392px",
+    "count": 12
+   },
+   {
+    "maxWidth": "32px",
+    "count": 1
+   },
+   {
+    "maxWidth": "288px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7347,
+  "mediaCoverage": 0.42,
+  "linkCount": 110
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 109
+   },
+   {
+    "duration": "1s",
+    "count": 43
+   },
+   {
+    "duration": "0.3s, 0.3s, 0.3s, 0.3s, 0.3s, 0.3s, 0.3s, 0.3s",
+    "count": 35
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 83
+   },
+   {
+    "easing": "cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1)",
+    "count": 35
+   },
+   {
+    "easing": "ease-in",
+    "count": 3
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

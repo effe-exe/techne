@@ -1,0 +1,185 @@
+{
+ "url": "https://www.fifthstarlabs.com",
+ "capturedAt": "2026-10-27T09:05:40.856Z",
+ "viewport": "1440x900",
+ "title": "Fifth Star Labs",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "Helvetica Neue",
+    "count": 25
+   },
+   {
+    "family": "proxima-nova",
+    "count": 8
+   }
+  ],
+  "h1": {
+   "family": "Helvetica Neue",
+   "size": 22,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "4px",
+   "transform": "uppercase"
+  },
+  "h2": null,
+  "body": {
+   "size": 25,
+   "lineHeight": 1.4,
+   "measureCh": 22
+  },
+  "nav": {
+   "family": "Helvetica Neue",
+   "size": 14,
+   "weight": "600",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 22,
+   "count": 12
+  },
+  {
+   "px": 25,
+   "count": 9
+  },
+  {
+   "px": 14,
+   "count": 4
+  },
+  {
+   "px": 65,
+   "count": 4
+  },
+  {
+   "px": 26.6,
+   "count": 4
+  }
+ ],
+ "color": {
+  "background": "rgb(54, 54, 54)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 15
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.75)",
+    "count": 9
+   },
+   {
+    "color": "rgb(141, 141, 141)",
+    "count": 6
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.65)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(7, 14, 18)",
+    "count": 9
+   },
+   {
+    "color": "rgba(20, 13, 48, 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(12, 7, 44)",
+    "count": 1
+   },
+   {
+    "color": "rgba(255, 255, 255, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(54, 54, 54)",
+    "count": 1
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [],
+  "shadows": [
+   {
+    "shadow": "rgb(0, 0, 0) 0px 0px 0px 0px",
+    "count": 8
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 0px 75px 0px",
+    "count": 3
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "800px",
+    "count": 4
+   },
+   {
+    "maxWidth": "960px",
+    "count": 4
+   },
+   {
+    "maxWidth": "260px",
+    "count": 1
+   },
+   {
+    "maxWidth": "600px",
+    "count": 1
+   },
+   {
+    "maxWidth": "450px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7248,
+  "mediaCoverage": 0.87,
+  "linkCount": 24
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 4
+   },
+   {
+    "duration": "0.17s",
+    "count": 2
+   },
+   {
+    "duration": "0.1s",
+    "count": 1
+   },
+   {
+    "duration": "0.17s, 0.17s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 2
+   },
+   {
+    "easing": "linear",
+    "count": 1
+   },
+   {
+    "easing": "ease-in-out, ease-in-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}
