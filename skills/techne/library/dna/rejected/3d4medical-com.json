@@ -1,0 +1,287 @@
+{
+ "url": "https://3d4medical.com",
+ "capturedAt": "2026-10-27T09:06:19.361Z",
+ "viewport": "1440x900",
+ "title": "Complete Anatomy - advanced 3D anatomy platform",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "Source Sans Pro",
+    "count": 88
+   }
+  ],
+  "h1": {
+   "family": "Source Sans Pro",
+   "size": 25.6,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": {
+   "size": 16,
+   "lineHeight": 1,
+   "measureCh": 0
+  },
+  "nav": {
+   "family": "Source Sans Pro",
+   "size": 15,
+   "weight": "600",
+   "lineHeight": 3.2,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "button": {
+   "family": "Source Sans Pro",
+   "size": 18,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 44
+  },
+  {
+   "px": 24,
+   "count": 13
+  },
+  {
+   "px": 15,
+   "count": 6
+  },
+  {
+   "px": 40,
+   "count": 5
+  },
+  {
+   "px": 18,
+   "count": 4
+  },
+  {
+   "px": 20,
+   "count": 4
+  },
+  {
+   "px": 32,
+   "count": 3
+  },
+  {
+   "px": 12,
+   "count": 2
+  },
+  {
+   "px": 37.4,
+   "count": 2
+  },
+  {
+   "px": 19.6,
+   "count": 2
+  },
+  {
+   "px": 80,
+   "count": 1
+  },
+  {
+   "px": 25.6,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 37
+   },
+   {
+    "color": "rgba(254, 254, 254, 0.6)",
+    "count": 26
+   },
+   {
+    "color": "rgb(23, 36, 42)",
+    "count": 14
+   },
+   {
+    "color": "rgb(71, 207, 203)",
+    "count": 5
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.6)",
+    "count": 2
+   },
+   {
+    "color": "rgb(0, 115, 152)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(23, 36, 42)",
+    "count": 2
+   },
+   {
+    "color": "rgb(244, 244, 244)",
+    "count": 1
+   },
+   {
+    "color": "rgb(71, 207, 203)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.5)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(71, 207, 203)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 18,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(71, 207, 203)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 18,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(71, 207, 203)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "10px 15px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(71, 207, 203)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "10px 15px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(71, 207, 203)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "10px 15px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 16
+   },
+   {
+    "radius": "8px",
+    "count": 7
+   },
+   {
+    "radius": "2px",
+    "count": 1
+   },
+   {
+    "radius": "50%",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.25) 8px 8px 16px 0px",
+    "count": 7
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 3px 10px 0px",
+    "count": 3
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.5) 0px 3px 36px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "66px",
+    "count": 7
+   },
+   {
+    "padding": "64px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1380px",
+    "count": 5
+   },
+   {
+    "maxWidth": "405px",
+    "count": 3
+   },
+   {
+    "maxWidth": "125px",
+    "count": 3
+   },
+   {
+    "maxWidth": "300px",
+    "count": 2
+   },
+   {
+    "maxWidth": "900px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 7693,
+  "mediaCoverage": 0.07,
+  "linkCount": 93
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 41
+   },
+   {
+    "duration": "0.3s",
+    "count": 15
+   },
+   {
+    "duration": "5s",
+    "count": 1
+   },
+   {
+    "duration": "0.25s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "linear",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

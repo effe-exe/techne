@@ -1,0 +1,212 @@
+{
+ "url": "https://www.rawgraphs.io",
+ "capturedAt": "2026-10-27T09:06:27.139Z",
+ "viewport": "1440x900",
+ "title": "RAWGraphs",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 20
+   },
+   {
+    "family": "Georgia",
+    "count": 5
+   }
+  ],
+  "h1": {
+   "family": "Georgia",
+   "size": 52,
+   "weight": "300",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Georgia",
+   "size": 32,
+   "weight": "300",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.6,
+   "measureCh": 38
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 18,
+   "weight": "400",
+   "lineHeight": 1.11,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 15,
+   "weight": "600",
+   "lineHeight": 1.33,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18,
+   "count": 8
+  },
+  {
+   "px": 14,
+   "count": 7
+  },
+  {
+   "px": 16,
+   "count": 4
+  },
+  {
+   "px": 30,
+   "count": 3
+  },
+  {
+   "px": 32,
+   "count": 2
+  },
+  {
+   "px": 15,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(245, 248, 250)",
+  "textColors": [
+   {
+    "color": "rgb(42, 64, 54)",
+    "count": 15
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(6, 194, 108)",
+    "count": 4
+   },
+   {
+    "color": "rgb(68, 68, 68)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(42, 64, 54)",
+    "count": 2
+   },
+   {
+    "color": "rgb(229, 236, 236)",
+    "count": 2
+   },
+   {
+    "color": "rgb(245, 248, 250)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(6, 194, 108)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(34, 34, 34)",
+    "radius": "0px",
+    "padding": "20px 40px 20px 20px",
+    "size": 18,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(34, 34, 34)",
+    "radius": "0px",
+    "padding": "20px 40px 20px 20px",
+    "size": 18,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(34, 34, 34)",
+    "radius": "0px",
+    "padding": "20px 40px 20px 20px",
+    "size": 18,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(6, 194, 108)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "20px 40px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(6, 194, 108)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "20px 40px",
+    "size": 14,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 4
+   },
+   {
+    "radius": "20px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(194, 193, 193) 0px 3px 10px -8px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.21) 0px 3px 15px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1300px",
+    "count": 13
+   }
+  ],
+  "pageHeightPx": 2718,
+  "mediaCoverage": 0.33,
+  "linkCount": 43
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.4s",
+    "count": 15
+   }
+  ],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "url": "https://velvetyne.fr",
+ "capturedAt": "2026-10-27T09:06:19.556Z",
+ "viewport": "1440x900",
+ "title": "Velvetyne",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "velvelyne",
+    "count": 1
+   },
+   {
+    "family": "Interlope",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "Interlope",
+   "size": 233.3,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Karrik",
+   "size": 60,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": "normal",
+   "measureCh": 78
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 19.3,
+   "count": 1
+  },
+  {
+   "px": 233.3,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 238)",
+    "count": 1
+   },
+   {
+    "color": "rgb(211, 211, 211)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(211, 211, 211)",
+    "count": 1
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0,
+  "linkCount": 1
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}
