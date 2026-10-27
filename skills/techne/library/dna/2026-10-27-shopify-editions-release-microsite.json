@@ -1,0 +1,228 @@
+{
+ "url": "https://www.shopify.com/editions",
+ "capturedAt": "2026-10-27T07:41:48.902Z",
+ "viewport": "1440x900",
+ "title": "Shopify Editions",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter-Variable",
+    "count": 51
+   }
+  ],
+  "h1": {
+   "family": "Inter-Variable",
+   "size": 11,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Inter-Variable",
+   "size": 11,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 11,
+   "lineHeight": 1.2,
+   "measureCh": 11
+  },
+  "nav": {
+   "family": "Inter-Variable",
+   "size": 11,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter-Variable",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "-1%",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 11,
+   "count": 30
+  },
+  {
+   "px": 14,
+   "count": 21
+  }
+ ],
+ "color": {
+  "background": "rgb(205, 205, 205)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 31
+   },
+   {
+    "color": "oklab(0 0 0 / 0.6)",
+    "count": 18
+   },
+   {
+    "color": "rgb(42, 42, 42)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(244, 244, 244)",
+    "count": 1
+   },
+   {
+    "color": "rgb(236, 236, 236)",
+    "count": 1
+   },
+   {
+    "color": "rgb(229, 229, 229)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "5px 8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(236, 236, 236)",
+    "color": "rgb(42, 42, 42)",
+    "radius": "4px",
+    "padding": "0px 8px",
+    "size": 11,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "8px",
+    "padding": "0px",
+    "size": 11,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "5px 8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "3.35544e+07px",
+    "padding": "0px 14px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 20
+   },
+   {
+    "radius": "4px",
+    "count": 6
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   },
+   {
+    "radius": "50%",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1600px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1632px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1680px",
+    "count": 1
+   },
+   {
+    "maxWidth": "640px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1408px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 1,
+  "linkCount": 23
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.5s",
+    "count": 31
+   },
+   {
+    "duration": "0.3s",
+    "count": 31
+   },
+   {
+    "duration": "0.15s",
+    "count": 3
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   },
+   {
+    "duration": "0.7s",
+    "count": 1
+   },
+   {
+    "duration": "1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 67
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 5
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

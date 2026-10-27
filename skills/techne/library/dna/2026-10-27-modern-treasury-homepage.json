@@ -1,0 +1,322 @@
+{
+ "url": "https://www.moderntreasury.com",
+ "capturedAt": "2026-10-27T07:14:39.591Z",
+ "viewport": "1440x900",
+ "title": "Modern Treasury | Multi-Rail Payment Service Provider",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "mt-sans",
+    "count": 57
+   },
+   {
+    "family": "mt-mono",
+    "count": 39
+   },
+   {
+    "family": "mt-neue-display",
+    "count": 8
+   },
+   {
+    "family": "mt-neue-text",
+    "count": 7
+   }
+  ],
+  "h1": {
+   "family": "mt-neue-display",
+   "size": 71,
+   "weight": "450",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "mt-neue-display",
+   "size": 47,
+   "weight": "450",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.5,
+   "measureCh": 206
+  },
+  "nav": {
+   "family": "mt-sans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "mt-sans",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 44
+  },
+  {
+   "px": 13,
+   "count": 29
+  },
+  {
+   "px": 16,
+   "count": 13
+  },
+  {
+   "px": 47,
+   "count": 7
+  },
+  {
+   "px": 11,
+   "count": 6
+  },
+  {
+   "px": 32,
+   "count": 4
+  },
+  {
+   "px": 21,
+   "count": 3
+  },
+  {
+   "px": 10,
+   "count": 2
+  },
+  {
+   "px": 71,
+   "count": 1
+  },
+  {
+   "px": 10.5,
+   "count": 1
+  },
+  {
+   "px": 12.5,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(248, 247, 245)",
+  "textColors": [
+   {
+    "color": "rgba(255, 255, 255, 0.6)",
+    "count": 30
+   },
+   {
+    "color": "rgb(21, 21, 21)",
+    "count": 21
+   },
+   {
+    "color": "rgb(42, 80, 96)",
+    "count": 15
+   },
+   {
+    "color": "rgb(33, 91, 75)",
+    "count": 14
+   },
+   {
+    "color": "rgba(21, 21, 21, 0.5)",
+    "count": 9
+   },
+   {
+    "color": "rgba(21, 21, 21, 0.8)",
+    "count": 6
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(248, 245, 244)",
+    "count": 5
+   },
+   {
+    "color": "rgb(248, 247, 245)",
+    "count": 3
+   },
+   {
+    "color": "rgb(240, 248, 249)",
+    "count": 3
+   },
+   {
+    "color": "rgb(249, 246, 248)",
+    "count": 3
+   },
+   {
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+    "count": 1
+   },
+   {
+    "color": "rgb(240, 249, 245)",
+    "count": 1
+   },
+   {
+    "color": "rgb(12, 34, 29)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "4px 8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "4px 8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "4px 8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "4px 8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(21, 21, 21)",
+    "radius": "2px",
+    "padding": "6px 12px",
+    "size": 14,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "2px",
+    "count": 23
+   },
+   {
+    "radius": "8px",
+    "count": 11
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 11
+   },
+   {
+    "radius": "4px",
+    "count": 7
+   },
+   {
+    "radius": "6px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(21, 21, 21) 0px 0px 0px 1px inset",
+    "count": 9
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, lab(0 0 0 / 0.04) 0px 20px 25px -5px, lab(0 0 0 / 0.04) 0px 8px 10px -6px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "60px",
+    "count": 7
+   },
+   {
+    "padding": "90px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1200px",
+    "count": 9
+   },
+   {
+    "maxWidth": "384px",
+    "count": 4
+   },
+   {
+    "maxWidth": "672px",
+    "count": 3
+   },
+   {
+    "maxWidth": "200px",
+    "count": 3
+   },
+   {
+    "maxWidth": "800px",
+    "count": 3
+   }
+  ],
+  "pageHeightPx": 6030,
+  "mediaCoverage": 0.15,
+  "linkCount": 73
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 75
+   },
+   {
+    "duration": "0.2s",
+    "count": 11
+   },
+   {
+    "duration": "0.3s",
+    "count": 4
+   },
+   {
+    "duration": "0.42s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 90
+   },
+   {
+    "easing": "cubic-bezier(0.22, 0.61, 0.36, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

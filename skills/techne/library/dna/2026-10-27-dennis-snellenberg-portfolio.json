@@ -1,0 +1,256 @@
+{
+ "url": "https://dennissnellenberg.com",
+ "capturedAt": "2026-10-27T07:40:58.779Z",
+ "viewport": "1440x900",
+ "title": "Dennis Snellenberg • Freelance Designer & Developer",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Dennis Sans",
+    "count": 62
+   }
+  ],
+  "h1": {
+   "family": "Dennis Sans",
+   "size": 216,
+   "weight": "450",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Dennis Sans",
+   "size": 54,
+   "weight": "450",
+   "lineHeight": 1.06,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 17.3,
+   "lineHeight": 1.2,
+   "measureCh": 25
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 33.1,
+   "count": 25
+  },
+  {
+   "px": 17.3,
+   "count": 18
+  },
+  {
+   "px": 14.7,
+   "count": 10
+  },
+  {
+   "px": 60.5,
+   "count": 4
+  },
+  {
+   "px": 75.6,
+   "count": 4
+  },
+  {
+   "px": 88.2,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(28, 29, 32)",
+  "textColors": [
+   {
+    "color": "rgb(28, 29, 32)",
+    "count": 33
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 29
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 12
+   },
+   {
+    "color": "rgba(28, 29, 32, 0.176)",
+    "count": 5
+   },
+   {
+    "color": "rgb(69, 92, 233)",
+    "count": 4
+   },
+   {
+    "color": "rgb(20, 21, 23)",
+    "count": 3
+   },
+   {
+    "color": "rgb(28, 29, 32)",
+    "count": 3
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.2)",
+    "count": 2
+   },
+   {
+    "color": "rgb(153, 157, 158)",
+    "count": 2
+   },
+   {
+    "color": "rgb(250, 69, 72)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(28, 29, 32)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17.3,
+    "weight": "450"
+   },
+   {
+    "bg": null,
+    "color": "rgb(28, 29, 32)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17.3,
+    "weight": "450"
+   },
+   {
+    "bg": null,
+    "color": "rgb(28, 29, 32)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17.3,
+    "weight": "450"
+   },
+   {
+    "bg": null,
+    "color": "rgb(28, 29, 32)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17.3,
+    "weight": "450"
+   },
+   {
+    "bg": null,
+    "color": "rgb(28, 29, 32)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14.7,
+    "weight": "450"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50%",
+    "count": 27
+   },
+   {
+    "radius": "36.72px",
+    "count": 3
+   },
+   {
+    "radius": "0%",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(255, 255, 255) -1.0368px 0px 0px 0.82944px inset",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset",
+    "count": 2
+   },
+   {
+    "shadow": "rgb(255, 255, 255) 0px 0px 0px 1.728px inset",
+    "count": 1
+   },
+   {
+    "shadow": "rgb(255, 255, 255) 1.0368px 0px 0px 0.82944px inset",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "189px",
+    "count": 2
+   },
+   {
+    "padding": "94.5px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1728px",
+    "count": 6
+   },
+   {
+    "maxWidth": "241.92px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.98,
+  "linkCount": 29
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 12
+   },
+   {
+    "duration": "0.8s",
+    "count": 6
+   },
+   {
+    "duration": "0.25s",
+    "count": 5
+   },
+   {
+    "duration": "0.5s",
+    "count": 4
+   },
+   {
+    "duration": "0.7s",
+    "count": 4
+   },
+   {
+    "duration": "0.85s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.7, 0, 0.3, 1)",
+    "count": 20
+   },
+   {
+    "easing": "cubic-bezier(0.7, 0, 0.2, 1)",
+    "count": 8
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 6
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

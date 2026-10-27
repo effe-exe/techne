@@ -1,0 +1,297 @@
+{
+ "url": "https://notebooklm.google",
+ "capturedAt": "2026-10-27T07:28:33.205Z",
+ "viewport": "1440x900",
+ "title": "Gemini Notebook | AI Research Tool & Thinking Partner",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "Google Sans",
+    "count": 29
+   },
+   {
+    "family": "Google Sans Text",
+    "count": 14
+   }
+  ],
+  "h1": {
+   "family": "Google Sans",
+   "size": 76,
+   "weight": "500",
+   "lineHeight": 1.05,
+   "tracking": "-0.853px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Google Sans",
+   "size": 32,
+   "weight": "400",
+   "lineHeight": 0.88,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.56,
+   "measureCh": 119
+  },
+  "nav": {
+   "family": "Google Sans Text",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Google Sans",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "0.5px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 24,
+   "count": 12
+  },
+  {
+   "px": 18,
+   "count": 9
+  },
+  {
+   "px": 40,
+   "count": 6
+  },
+  {
+   "px": 16,
+   "count": 5
+  },
+  {
+   "px": 14,
+   "count": 4
+  },
+  {
+   "px": 30,
+   "count": 4
+  },
+  {
+   "px": 15,
+   "count": 1
+  },
+  {
+   "px": 32,
+   "count": 1
+  },
+  {
+   "px": 76,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(49, 134, 255)",
+    "count": 12
+   },
+   {
+    "color": "rgb(80, 80, 80)",
+    "count": 8
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 4
+   },
+   {
+    "color": "rgb(60, 64, 67)",
+    "count": 4
+   },
+   {
+    "color": "rgb(127, 124, 124)",
+    "count": 4
+   },
+   {
+    "color": "rgb(95, 99, 104)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(32, 33, 36)",
+    "count": 2
+   },
+   {
+    "color": "rgb(243, 247, 251)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(26, 115, 232)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "48px",
+    "padding": "12px 24px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "83.2px",
+    "padding": "8px 16px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(31, 31, 31)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "94px",
+    "padding": "25px 24px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(49, 134, 255)",
+    "radius": "0px",
+    "padding": "26px 0px",
+    "size": 24,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(49, 134, 255)",
+    "radius": "0px",
+    "padding": "26px 0px",
+    "size": 24,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "55px",
+    "count": 15
+   },
+   {
+    "radius": "36px",
+    "count": 11
+   },
+   {
+    "radius": "24px",
+    "count": 5
+   },
+   {
+    "radius": "94px",
+    "count": 3
+   },
+   {
+    "radius": "4px",
+    "count": 1
+   },
+   {
+    "radius": "48px",
+    "count": 1
+   },
+   {
+    "radius": "83.2px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.05) 0px 4px 8px 0px",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(60, 64, 67, 0.3) 0px 2px 3px 0px, rgba(60, 64, 67, 0.15) 0px 6px 10px 4px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1920px",
+    "count": 6
+   },
+   {
+    "maxWidth": "448px",
+    "count": 1
+   },
+   {
+    "maxWidth": "800px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1194px",
+    "count": 1
+   },
+   {
+    "maxWidth": "888px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 6577,
+  "mediaCoverage": 0.62,
+  "linkCount": 27
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 17
+   },
+   {
+    "duration": "0.5s, 0.5s, 0.5s",
+    "count": 9
+   },
+   {
+    "duration": "0.25s",
+    "count": 4
+   },
+   {
+    "duration": "0.1s",
+    "count": 2
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s, 0.2s, 0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out, ease-in-out, ease-in-out",
+    "count": 9
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 5
+   },
+   {
+    "easing": "linear",
+    "count": 2
+   },
+   {
+    "easing": "ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

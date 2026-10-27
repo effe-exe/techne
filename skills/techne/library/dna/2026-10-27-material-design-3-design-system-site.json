@@ -1,0 +1,285 @@
+{
+ "url": "https://m3.material.io",
+ "capturedAt": "2026-10-27T08:23:08.418Z",
+ "viewport": "1440x900",
+ "title": "Material Design 3 - Google's latest open source design system",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Google Sans Text",
+    "count": 63
+   },
+   {
+    "family": "Google Sans",
+    "count": 28
+   },
+   {
+    "family": "Google Symbols",
+    "count": 14
+   }
+  ],
+  "h1": {
+   "family": "Google Sans",
+   "size": 96,
+   "weight": "475",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Google Sans",
+   "size": 57,
+   "weight": "475",
+   "lineHeight": 1.12,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 68
+  },
+  "nav": {
+   "family": "Google Sans Text",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Google Sans",
+   "size": 24,
+   "weight": "475",
+   "lineHeight": 1.33,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 38
+  },
+  {
+   "px": 24,
+   "count": 33
+  },
+  {
+   "px": 12,
+   "count": 16
+  },
+  {
+   "px": 57,
+   "count": 6
+  },
+  {
+   "px": 22,
+   "count": 5
+  },
+  {
+   "px": 14,
+   "count": 4
+  },
+  {
+   "px": 20,
+   "count": 1
+  },
+  {
+   "px": 40,
+   "count": 1
+  },
+  {
+   "px": 96,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(77, 66, 86)",
+    "count": 36
+   },
+   {
+    "color": "rgb(28, 27, 29)",
+    "count": 31
+   },
+   {
+    "color": "rgb(100, 66, 214)",
+    "count": 20
+   },
+   {
+    "color": "rgb(242, 242, 242)",
+    "count": 16
+   },
+   {
+    "color": "rgb(33, 24, 43)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(220, 218, 245)",
+    "count": 17
+   },
+   {
+    "color": "rgba(48, 48, 48, 0.8)",
+    "count": 16
+   },
+   {
+    "color": "rgb(248, 241, 246)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(77, 66, 86)",
+    "radius": "4px",
+    "padding": "2px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(77, 66, 86)",
+    "radius": "4px",
+    "padding": "2px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(77, 66, 86)",
+    "radius": "4px",
+    "padding": "2px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(77, 66, 86)",
+    "radius": "4px",
+    "padding": "2px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(100, 66, 214)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "48px",
+    "padding": "0px 48px",
+    "size": 24,
+    "weight": "475"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "24px",
+    "count": 71
+   },
+   {
+    "radius": "4px",
+    "count": 30
+   },
+   {
+    "radius": "6px",
+    "count": 16
+   },
+   {
+    "radius": "16px",
+    "count": 10
+   },
+   {
+    "radius": "48px",
+    "count": 3
+   },
+   {
+    "radius": "32px",
+    "count": 2
+   },
+   {
+    "radius": "50%",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.3) 0px 1px 2px 0px, rgba(0, 0, 0, 0.15) 0px 1px 3px 1px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1288px",
+    "count": 16
+   },
+   {
+    "maxWidth": "1760px",
+    "count": 1
+   },
+   {
+    "maxWidth": "840px",
+    "count": 1
+   },
+   {
+    "maxWidth": "760px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1200px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.29,
+  "linkCount": 52
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 87
+   },
+   {
+    "duration": "0.3s",
+    "count": 24
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 20
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.2, 0, 0, 1)",
+    "count": 110
+   },
+   {
+    "easing": "cubic-bezier(0.2, 0, 0, 1), cubic-bezier(0.2, 0, 0, 1)",
+    "count": 20
+   },
+   {
+    "easing": "linear",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

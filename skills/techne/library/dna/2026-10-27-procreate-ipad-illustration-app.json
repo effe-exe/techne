@@ -1,0 +1,293 @@
+{
+ "url": "https://procreate.com",
+ "capturedAt": "2026-10-27T08:06:16.729Z",
+ "viewport": "1440x900",
+ "title": "Procreate — Creative apps designed for iPad",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "system-ui",
+    "count": 69
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "system-ui",
+   "size": 70,
+   "weight": "600",
+   "lineHeight": 1.1,
+   "tracking": "-0.35px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 0.98,
+   "measureCh": 36
+  },
+  "nav": {
+   "family": "system-ui",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "system-ui",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 38
+  },
+  {
+   "px": 16,
+   "count": 12
+  },
+  {
+   "px": 20,
+   "count": 4
+  },
+  {
+   "px": 18,
+   "count": 3
+  },
+  {
+   "px": 40,
+   "count": 3
+  },
+  {
+   "px": 24,
+   "count": 2
+  },
+  {
+   "px": 30,
+   "count": 2
+  },
+  {
+   "px": 60,
+   "count": 2
+  },
+  {
+   "px": 13,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  },
+  {
+   "px": 70,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(11, 11, 11)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 35
+   },
+   {
+    "color": "rgb(163, 163, 163)",
+    "count": 25
+   },
+   {
+    "color": "rgb(168, 168, 168)",
+    "count": 6
+   },
+   {
+    "color": "rgb(128, 128, 128)",
+    "count": 2
+   },
+   {
+    "color": "rgb(120, 120, 120)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(18, 18, 18)",
+    "count": 5
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.6)",
+    "count": 1
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.15)",
+    "count": 1
+   },
+   {
+    "color": "rgb(20, 20, 20)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.7)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(4, 75, 161)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "12px",
+    "padding": "14px",
+    "size": 13,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(38, 38, 38)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "100px",
+    "padding": "10px 20px",
+    "size": 14,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "72px",
+    "count": 18
+   },
+   {
+    "radius": "24px",
+    "count": 16
+   },
+   {
+    "radius": "100px",
+    "count": 10
+   },
+   {
+    "radius": "0px 0px 24px 24px",
+    "count": 2
+   },
+   {
+    "radius": "60px",
+    "count": 2
+   },
+   {
+    "radius": "16px",
+    "count": 2
+   },
+   {
+    "radius": "12px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1366px",
+    "count": 8
+   },
+   {
+    "maxWidth": "800px",
+    "count": 3
+   },
+   {
+    "maxWidth": "590px",
+    "count": 1
+   },
+   {
+    "maxWidth": "510px",
+    "count": 1
+   },
+   {
+    "maxWidth": "410px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4893,
+  "mediaCoverage": 0.6,
+  "linkCount": 62
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 23
+   },
+   {
+    "duration": "1s",
+    "count": 18
+   },
+   {
+    "duration": "0.1s, 0.1s, 0.1s",
+    "count": 10
+   },
+   {
+    "duration": "0.2s",
+    "count": 4
+   },
+   {
+    "duration": "0.15s",
+    "count": 3
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 23
+   },
+   {
+    "easing": "ease-out, ease-out, ease-out",
+    "count": 10
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 5
+   },
+   {
+    "easing": "cubic-bezier(0.5, 0, 0.31, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

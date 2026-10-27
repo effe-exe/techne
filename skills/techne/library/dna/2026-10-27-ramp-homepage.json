@@ -1,0 +1,318 @@
+{
+ "url": "https://ramp.com",
+ "capturedAt": "2026-10-27T07:08:41.305Z",
+ "viewport": "1440x900",
+ "title": "Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp",
+ "lang": "en-us",
+ "fonts": {
+  "families": [
+   {
+    "family": "Lausanne",
+    "count": 186
+   }
+  ],
+  "h1": {
+   "family": "Lausanne",
+   "size": 64,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "-0.01px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Lausanne",
+   "size": 28,
+   "weight": "400",
+   "lineHeight": 1.14,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.43,
+   "measureCh": 64
+  },
+  "nav": {
+   "family": "Lausanne",
+   "size": 13,
+   "weight": "400",
+   "lineHeight": 1.46,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Lausanne",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 126
+  },
+  {
+   "px": 16,
+   "count": 22
+  },
+  {
+   "px": 10,
+   "count": 9
+  },
+  {
+   "px": 24,
+   "count": 6
+  },
+  {
+   "px": 28,
+   "count": 6
+  },
+  {
+   "px": 48,
+   "count": 6
+  },
+  {
+   "px": 13,
+   "count": 5
+  },
+  {
+   "px": 40,
+   "count": 2
+  },
+  {
+   "px": 64,
+   "count": 2
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 20,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "lab(100 0 0)",
+  "textColors": [
+   {
+    "color": "lab(2.83994 0.367254 0.969091 / 0.6)",
+    "count": 65
+   },
+   {
+    "color": "lab(100 0 0 / 0.6)",
+    "count": 55
+   },
+   {
+    "color": "lab(2.83994 0.367254 0.969091)",
+    "count": 43
+   },
+   {
+    "color": "lab(100 0 0)",
+    "count": 23
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "lab(100 0 0)",
+    "count": 40
+   },
+   {
+    "color": "lab(2.83994 0.367254 0.969091)",
+    "count": 10
+   },
+   {
+    "color": "lab(8.86531 0.515342 0.18619)",
+    "count": 2
+   },
+   {
+    "color": "rgba(33, 33, 33, 0.024)",
+    "count": 2
+   },
+   {
+    "color": "lab(95.604 0.426412 1.20401)",
+    "count": 2
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.5)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(31, 31, 29)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "lab(100 0 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "lab(2.83994 0.367254 0.969091)",
+    "radius": "6px",
+    "padding": "0px 12px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "lab(2.83994 0.367254 0.969091)",
+    "radius": "6px",
+    "padding": "0px 12px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "lab(2.83994 0.367254 0.969091)",
+    "radius": "6px",
+    "padding": "0px 12px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "lab(2.83994 0.367254 0.969091)",
+    "radius": "6px",
+    "padding": "0px 12px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "12px",
+    "count": 31
+   },
+   {
+    "radius": "6px",
+    "count": 18
+   },
+   {
+    "radius": "4px",
+    "count": 9
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 5
+   },
+   {
+    "radius": "10px",
+    "count": 1
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   },
+   {
+    "radius": "3px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.6) 0px 0px 2px 0px inset",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "128px",
+    "count": 1
+   },
+   {
+    "padding": "64px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "120px",
+    "count": 13
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 6
+   },
+   {
+    "maxWidth": "300px",
+    "count": 5
+   },
+   {
+    "maxWidth": "500px",
+    "count": 2
+   },
+   {
+    "maxWidth": "768px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 13907,
+  "mediaCoverage": 0.41,
+  "linkCount": 170
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 31
+   },
+   {
+    "duration": "0.24s",
+    "count": 5
+   },
+   {
+    "duration": "0.25s",
+    "count": 4
+   },
+   {
+    "duration": "0.15s",
+    "count": 2
+   },
+   {
+    "duration": "0.1s",
+    "count": 1
+   },
+   {
+    "duration": "0.68s, 0.68s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 26
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 9
+   },
+   {
+    "easing": "cubic-bezier(0.45, 0.05, 0.55, 0.95)",
+    "count": 6
+   },
+   {
+    "easing": "cubic-bezier(0.6, 0, 0.2, 0.5)",
+    "count": 4
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,252 @@
+{
+ "url": "https://cal.com",
+ "capturedAt": "2026-10-27T07:10:35.140Z",
+ "viewport": "1440x900",
+ "title": "Cal.com | Scheduling Software for Online Bookings",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Cal Sans UI Variable Light",
+    "count": 172
+   },
+   {
+    "family": "Inter",
+    "count": 56
+   },
+   {
+    "family": "Cal Sans",
+    "count": 24
+   },
+   {
+    "family": "Matter Regular",
+    "count": 22
+   },
+   {
+    "family": "Matter SemiBold",
+    "count": 8
+   }
+  ],
+  "h1": {
+   "family": "Cal Sans",
+   "size": 64,
+   "weight": "600",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Cal Sans",
+   "size": 48,
+   "weight": "600",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.4,
+   "measureCh": 9
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 125
+  },
+  {
+   "px": 16,
+   "count": 89
+  },
+  {
+   "px": 12,
+   "count": 27
+  },
+  {
+   "px": 9.7,
+   "count": 14
+  },
+  {
+   "px": 18,
+   "count": 12
+  },
+  {
+   "px": 48,
+   "count": 8
+  },
+  {
+   "px": 24,
+   "count": 7
+  },
+  {
+   "px": 20,
+   "count": 4
+  },
+  {
+   "px": 8,
+   "count": 3
+  },
+  {
+   "px": 10,
+   "count": 3
+  },
+  {
+   "px": 64,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(244, 244, 244)",
+  "textColors": [
+   {
+    "color": "rgb(137, 137, 137)",
+    "count": 87
+   },
+   {
+    "color": "rgb(36, 36, 36)",
+    "count": 66
+   },
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 54
+   },
+   {
+    "color": "rgb(41, 41, 41)",
+    "count": 41
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(55, 65, 81)",
+    "count": 8
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 81
+   },
+   {
+    "color": "rgba(229, 231, 235, 0)",
+    "count": 20
+   },
+   {
+    "color": "rgb(229, 231, 235)",
+    "count": 17
+   },
+   {
+    "color": "rgb(244, 244, 244)",
+    "count": 12
+   },
+   {
+    "color": "rgb(225, 226, 227)",
+    "count": 8
+   },
+   {
+    "color": "rgba(255, 255, 255, 0)",
+    "count": 6
+   },
+   {
+    "color": "rgb(137, 137, 137)",
+    "count": 6
+   },
+   {
+    "color": "rgb(243, 244, 246)",
+    "count": 5
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "100px",
+    "count": 53
+   },
+   {
+    "radius": "4px",
+    "count": 37
+   },
+   {
+    "radius": "2px",
+    "count": 35
+   },
+   {
+    "radius": "29px",
+    "count": 32
+   },
+   {
+    "radius": "12px",
+    "count": 31
+   },
+   {
+    "radius": "16px",
+    "count": 28
+   },
+   {
+    "radius": "8px",
+    "count": 22
+   },
+   {
+    "radius": "6px",
+    "count": 10
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.16) 0px 1px 1.9px 0px inset",
+    "count": 64
+   },
+   {
+    "shadow": "rgba(36, 36, 36, 0.7) 0px 1px 5px -4px, rgba(36, 36, 36, 0.05) 0px 4px 8px 0px",
+    "count": 17
+   },
+   {
+    "shadow": "rgba(19, 19, 22, 0.7) 0px 1px 5px -4px, rgba(34, 42, 53, 0.1) 0px 0px 0px 1px, rgba(34, 42, 53, 0.05) 0px 4px 8px 0px",
+    "count": 8
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 1px 3px 0px, rgba(0, 0, 0, 0) 0px 0px 2px 0px",
+    "count": 6
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1224px",
+    "count": 10
+   },
+   {
+    "maxWidth": "640px",
+    "count": 9
+   },
+   {
+    "maxWidth": "1200px",
+    "count": 6
+   },
+   {
+    "maxWidth": "1280px",
+    "count": 6
+   },
+   {
+    "maxWidth": "960px",
+    "count": 4
+   }
+  ],
+  "pageHeightPx": 8473,
+  "mediaCoverage": 0.24,
+  "linkCount": 100
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "url": "https://robinhood.com/us/en/",
+ "capturedAt": "2026-10-27T07:12:36.432Z",
+ "viewport": "1440x900",
+ "title": "Robinhood: 24/5 Commission-Free Stock Trading & Investing",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Phonic",
+    "count": 92
+   }
+  ],
+  "h1": {
+   "family": "Martina Plantijn",
+   "size": 110,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "-0.5px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Phonic",
+   "size": 52,
+   "weight": "400",
+   "lineHeight": 1.19,
+   "tracking": "-1.5px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": "normal",
+   "measureCh": 180
+  },
+  "nav": {
+   "family": "Capsule Sans Text",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Capsule Sans Text",
+   "size": 13,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 86
+  },
+  {
+   "px": 12,
+   "count": 4
+  },
+  {
+   "px": 22,
+   "count": 1
+  },
+  {
+   "px": 40,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(17, 14, 8)",
+    "count": 73
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 14
+   },
+   {
+    "color": "rgb(204, 255, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(217, 217, 217)",
+    "count": 1
+   },
+   {
+    "color": "rgb(77, 74, 70)",
+    "count": 1
+   },
+   {
+    "color": "rgb(53, 50, 45)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(17, 14, 8)",
+    "count": 2
+   },
+   {
+    "color": "rgb(204, 255, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(28, 24, 13)",
+    "count": 1
+   },
+   {
+    "color": "rgb(53, 50, 45)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(17, 14, 8)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "5px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "36px",
+    "count": 8
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "576px",
+    "count": 3
+   },
+   {
+    "maxWidth": "400px",
+    "count": 2
+   },
+   {
+    "maxWidth": "825px",
+    "count": 1
+   },
+   {
+    "maxWidth": "440px",
+    "count": 1
+   },
+   {
+    "maxWidth": "700px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 8060,
+  "mediaCoverage": 0.89,
+  "linkCount": 126
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

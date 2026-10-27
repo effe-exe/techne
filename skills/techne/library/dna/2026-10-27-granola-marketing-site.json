@@ -1,0 +1,354 @@
+{
+ "url": "https://www.granola.ai",
+ "capturedAt": "2026-10-27T07:09:55.813Z",
+ "viewport": "1440x900",
+ "title": "Granola — The AI Notepad for back-to-back meetings",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "melange",
+    "count": 106
+   },
+   {
+    "family": "quadrant",
+    "count": 22
+   },
+   {
+    "family": "-apple-system",
+    "count": 6
+   }
+  ],
+  "h1": {
+   "family": "quadrant",
+   "size": 86.4,
+   "weight": "400",
+   "lineHeight": 0.93,
+   "tracking": "-1.728px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "quadrant",
+   "size": 48,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.29,
+   "measureCh": 24
+  },
+  "nav": {
+   "family": "melange",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "melange",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.29,
+   "tracking": "0.14px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 44
+  },
+  {
+   "px": 10,
+   "count": 18
+  },
+  {
+   "px": 12,
+   "count": 17
+  },
+  {
+   "px": 16,
+   "count": 17
+  },
+  {
+   "px": 24,
+   "count": 7
+  },
+  {
+   "px": 22,
+   "count": 6
+  },
+  {
+   "px": 32,
+   "count": 6
+  },
+  {
+   "px": 13,
+   "count": 5
+  },
+  {
+   "px": 20,
+   "count": 3
+  },
+  {
+   "px": 48,
+   "count": 2
+  },
+  {
+   "px": 108,
+   "count": 2
+  },
+  {
+   "px": 17,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(41, 41, 41)",
+    "count": 71
+   },
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "count": 32
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(14, 15, 12)",
+    "count": 7
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 5
+   },
+   {
+    "color": "rgb(114, 114, 110)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 69
+   },
+   {
+    "color": "rgb(247, 247, 242)",
+    "count": 12
+   },
+   {
+    "color": "rgb(41, 41, 41)",
+    "count": 8
+   },
+   {
+    "color": "rgb(178, 194, 72)",
+    "count": 6
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgba(98, 90, 34, 0.06)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(41, 41, 41)",
+    "radius": "8px",
+    "padding": "10px 48px 10px 16px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(91, 111, 0)",
+    "color": "rgb(252, 252, 248)",
+    "radius": "3.35544e+07px",
+    "padding": "9px 24px",
+    "size": 16,
+    "weight": "430"
+   },
+   {
+    "bg": null,
+    "color": "rgb(41, 41, 41)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(158, 158, 153)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(158, 158, 153)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 42
+   },
+   {
+    "radius": "4px",
+    "count": 13
+   },
+   {
+    "radius": "8px",
+    "count": 8
+   },
+   {
+    "radius": "16px",
+    "count": 7
+   },
+   {
+    "radius": "6px",
+    "count": 4
+   },
+   {
+    "radius": "24px",
+    "count": 3
+   },
+   {
+    "radius": "28px",
+    "count": 3
+   },
+   {
+    "radius": "18%",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(41, 41, 41) 0px 0px 0px 0.5px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.03) 0px 0px 36px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "112px",
+    "count": 2
+   },
+   {
+    "padding": "128px",
+    "count": 2
+   },
+   {
+    "padding": "120px",
+    "count": 1
+   },
+   {
+    "padding": "160px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 12
+   },
+   {
+    "maxWidth": "448px",
+    "count": 3
+   },
+   {
+    "maxWidth": "384px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 2
+   },
+   {
+    "maxWidth": "561.54px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 14310,
+  "mediaCoverage": 0.47,
+  "linkCount": 47
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 43
+   },
+   {
+    "duration": "0.3s",
+    "count": 20
+   },
+   {
+    "duration": "0.2s",
+    "count": 6
+   },
+   {
+    "duration": "0.5s",
+    "count": 4
+   },
+   {
+    "duration": "1e-06s, 1e-06s",
+    "count": 2
+   },
+   {
+    "duration": "0.4s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 71
+   },
+   {
+    "easing": "steps(1, start), steps(1, start)",
+    "count": 2
+   },
+   {
+    "easing": "cubic-bezier(0.87, 0, 0.13, 1)",
+    "count": 2
+   },
+   {
+    "easing": "ease-out, ease-out, ease-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

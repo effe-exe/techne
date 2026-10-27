@@ -1,0 +1,223 @@
+{
+ "url": "https://www.typotheque.com",
+ "capturedAt": "2026-10-27T08:21:51.919Z",
+ "viewport": "1440x900",
+ "title": "Typotheque type foundry - unique, high quality fonts for print and screens",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "november",
+    "count": 77
+   },
+   {
+    "family": "zeddisplay_l_rondslntwdthwght_rond0slnt0wdth100wght400Custom",
+    "count": 1
+   },
+   {
+    "family": "fedrasans_l_wdthwght_ital0wdth100wght400",
+    "count": 1
+   },
+   {
+    "family": "fedraserif_l_wght_ital0wght400",
+    "count": 1
+   },
+   {
+    "family": "gretasans_l_wdthwght_ital0wdth100wght400",
+    "count": 1
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "november",
+   "size": 40,
+   "weight": "700",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 41
+  },
+  "nav": null,
+  "button": {
+   "family": "november",
+   "size": 13,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 47
+  },
+  {
+   "px": 11,
+   "count": 20
+  },
+  {
+   "px": 20,
+   "count": 15
+  },
+  {
+   "px": 16,
+   "count": 3
+  },
+  {
+   "px": 40,
+   "count": 3
+  },
+  {
+   "px": 190,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 51
+   },
+   {
+    "color": "rgb(153, 153, 153)",
+    "count": 23
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 12
+   },
+   {
+    "color": "rgb(0, 182, 222)",
+    "count": 2
+   },
+   {
+    "color": "rgb(170, 136, 102)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 6
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 4
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.8)",
+    "count": 1
+   },
+   {
+    "color": "rgb(248, 248, 248)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(248, 248, 248)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "9999px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(248, 248, 248)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "9999px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(248, 248, 248)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "9999px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(248, 248, 248)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(40, 40, 40)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 42
+   },
+   {
+    "radius": "24px",
+    "count": 7
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "10px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "10px",
+    "count": 11
+   },
+   {
+    "maxWidth": "20px",
+    "count": 4
+   },
+   {
+    "maxWidth": "1280px",
+    "count": 4
+   }
+  ],
+  "pageHeightPx": 3698,
+  "mediaCoverage": 0.39,
+  "linkCount": 44
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 50
+   },
+   {
+    "duration": "0.25s, 0.15s, 0.15s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,290 @@
+{
+ "url": "https://www.folk.app",
+ "capturedAt": "2026-10-27T08:59:37.699Z",
+ "viewport": "1440x900",
+ "title": "The AI CRM for your entire sales motion",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 144
+   },
+   {
+    "family": "Uxumgrotesque",
+    "count": 12
+   }
+  ],
+  "h1": {
+   "family": "Uxumgrotesque",
+   "size": 72,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "-1.8px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Uxumgrotesque",
+   "size": 64,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "-1.472px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 20,
+   "lineHeight": 1.23,
+   "measureCh": 68
+  },
+  "nav": {
+   "family": "Foundersgrotesk",
+   "size": 14.4,
+   "weight": "400",
+   "lineHeight": 1.6,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 12.8,
+   "count": 47
+  },
+  {
+   "px": 13,
+   "count": 37
+  },
+  {
+   "px": 14,
+   "count": 31
+  },
+  {
+   "px": 12,
+   "count": 15
+  },
+  {
+   "px": 20,
+   "count": 9
+  },
+  {
+   "px": 36,
+   "count": 8
+  },
+  {
+   "px": 28,
+   "count": 5
+  },
+  {
+   "px": 64,
+   "count": 3
+  },
+  {
+   "px": 72,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(33, 32, 28)",
+    "count": 84
+   },
+   {
+    "color": "rgba(3, 2, 0, 0.89)",
+    "count": 57
+   },
+   {
+    "color": "rgb(32, 32, 32)",
+    "count": 9
+   },
+   {
+    "color": "rgb(98, 98, 98)",
+    "count": 3
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(99, 99, 94)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 111
+   },
+   {
+    "color": "rgb(217, 217, 217)",
+    "count": 8
+   },
+   {
+    "color": "rgba(152, 181, 88, 0.23)",
+    "count": 7
+   },
+   {
+    "color": "rgb(216, 231, 232)",
+    "count": 6
+   },
+   {
+    "color": "rgb(241, 241, 241)",
+    "count": 4
+   },
+   {
+    "color": "rgba(235, 235, 235, 0.2)",
+    "count": 4
+   },
+   {
+    "color": "rgba(88, 142, 181, 0.23)",
+    "count": 3
+   },
+   {
+    "color": "rgba(162, 168, 149, 0.23)",
+    "count": 3
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgba(3, 2, 0, 0.89)",
+    "radius": "20px",
+    "padding": "8px 4px 8px 12px",
+    "size": 14.4,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgba(3, 2, 0, 0.89)",
+    "radius": "20px",
+    "padding": "8px 4px 8px 12px",
+    "size": 14.4,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgba(3, 2, 0, 0.89)",
+    "radius": "20px",
+    "padding": "8px 4px 8px 12px",
+    "size": 14.4,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(98, 98, 98)",
+    "radius": "100px",
+    "padding": "0px",
+    "size": 14.4,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "1000px",
+    "count": 51
+   },
+   {
+    "radius": "100px",
+    "count": 33
+   },
+   {
+    "radius": "100%",
+    "count": 12
+   },
+   {
+    "radius": "20px",
+    "count": 7
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.06) 0px 1px 1px 0px",
+    "count": 8
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 24px 30px -6px, rgba(0, 0, 0, 0.1) 0px 9.6px 12px -7.2px",
+    "count": 7
+   },
+   {
+    "shadow": "rgba(24, 26, 27, 0.08) 0px 3px 6px 0px, rgba(24, 26, 27, 0.06) 0px 9px 40px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 4px 12px 0px",
+    "count": 2
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 12
+   },
+   {
+    "maxWidth": "1404px",
+    "count": 1
+   },
+   {
+    "maxWidth": "749.998px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 11792,
+  "mediaCoverage": 0.1,
+  "linkCount": 87
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 49
+   },
+   {
+    "duration": "0.9s, 1.2s",
+    "count": 15
+   },
+   {
+    "duration": "0.6s",
+    "count": 4
+   },
+   {
+    "duration": "0.4s, 0.4s, 0.4s",
+    "count": 4
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   },
+   {
+    "duration": "0.7s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.25, 0.8, 0.25, 1), cubic-bezier(0.16, 1, 0.3, 1)",
+    "count": 16
+   },
+   {
+    "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "count": 4
+   },
+   {
+    "easing": "ease, ease, ease",
+    "count": 4
+   },
+   {
+    "easing": "ease-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

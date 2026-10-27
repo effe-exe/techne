@@ -1,0 +1,306 @@
+{
+ "url": "https://www.quantamagazine.org",
+ "capturedAt": "2026-10-27T07:48:17.299Z",
+ "viewport": "1440x900",
+ "title": "Science and Math News | Quanta Magazine",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Pangram",
+    "count": 77
+   },
+   {
+    "family": "Merriweather",
+    "count": 32
+   },
+   {
+    "family": "Noe Display",
+    "count": 17
+   }
+  ],
+  "h1": {
+   "family": "Pangram",
+   "size": 40,
+   "weight": "700",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Pangram",
+   "size": 22,
+   "weight": "700",
+   "lineHeight": 1.4,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.25,
+   "measureCh": 136
+  },
+  "nav": {
+   "family": "Merriweather",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.7,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "sans-serif",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 0,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 9,
+   "count": 23
+  },
+  {
+   "px": 16,
+   "count": 23
+  },
+  {
+   "px": 10,
+   "count": 19
+  },
+  {
+   "px": 22,
+   "count": 18
+  },
+  {
+   "px": 15,
+   "count": 13
+  },
+  {
+   "px": 13,
+   "count": 12
+  },
+  {
+   "px": 12,
+   "count": 6
+  },
+  {
+   "px": 18,
+   "count": 6
+  },
+  {
+   "px": 40,
+   "count": 3
+  },
+  {
+   "px": 14,
+   "count": 2
+  },
+  {
+   "px": 45,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 57
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 25
+   },
+   {
+    "color": "rgb(118, 118, 118)",
+    "count": 25
+   },
+   {
+    "color": "rgb(107, 107, 107)",
+    "count": 18
+   },
+   {
+    "color": "rgb(255, 134, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 6
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.07)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 134, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(239, 239, 239)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgba(255, 255, 255, 0)",
+    "color": "rgb(26, 26, 26)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50%",
+    "count": 24
+   },
+   {
+    "radius": "2px",
+    "count": 1
+   },
+   {
+    "radius": "15px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 2px 5px 0px",
+    "count": 3
+   },
+   {
+    "shadow": "rgba(172, 171, 171, 0.3) 0px -1px 10px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.4) 0px -3px 112px -40px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "40px",
+    "count": 3
+   },
+   {
+    "padding": "20px",
+    "count": 2
+   },
+   {
+    "padding": "80px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1160px",
+    "count": 6
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1229px",
+    "count": 1
+   },
+   {
+    "maxWidth": "800px",
+    "count": 1
+   },
+   {
+    "maxWidth": "560px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 6488,
+  "mediaCoverage": 0.32,
+  "linkCount": 170
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 255
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 71
+   },
+   {
+    "duration": "0.5s",
+    "count": 8
+   },
+   {
+    "duration": "0.15s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 239
+   },
+   {
+    "easing": "ease-in-out, ease-in-out",
+    "count": 64
+   },
+   {
+    "easing": "cubic-bezier(0.09, 0.47, 0.18, 0.99)",
+    "count": 10
+   },
+   {
+    "easing": "ease, ease",
+    "count": 7
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

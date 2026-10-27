@@ -1,0 +1,297 @@
+{
+ "url": "https://vercel.com",
+ "capturedAt": "2026-10-27T08:19:22.449Z",
+ "viewport": "1440x900",
+ "title": "Agentic Infrastructure - Vercel",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "GeistSans",
+    "count": 142
+   },
+   {
+    "family": "Geist Mono",
+    "count": 5
+   }
+  ],
+  "h1": {
+   "family": "GeistSans",
+   "size": 64,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "-3.84px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "GeistSans",
+   "size": 56,
+   "weight": "450",
+   "lineHeight": 1,
+   "tracking": "-3.36px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 24,
+   "lineHeight": 1.33,
+   "measureCh": 28
+  },
+  "nav": {
+   "family": "GeistSans",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "GeistSans",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 113
+  },
+  {
+   "px": 16,
+   "count": 14
+  },
+  {
+   "px": 24,
+   "count": 8
+  },
+  {
+   "px": 56,
+   "count": 5
+  },
+  {
+   "px": 11,
+   "count": 4
+  },
+  {
+   "px": 12,
+   "count": 1
+  },
+  {
+   "px": 13,
+   "count": 1
+  },
+  {
+   "px": 64,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(250, 250, 250)",
+  "textColors": [
+   {
+    "color": "rgb(77, 77, 77)",
+    "count": 86
+   },
+   {
+    "color": "rgb(23, 23, 23)",
+    "count": 50
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "lab(100 0 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(143, 143, 143)",
+    "count": 3
+   },
+   {
+    "color": "rgb(0, 114, 245)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(23, 23, 23)",
+    "count": 3
+   },
+   {
+    "color": "oklab(0.730438 -0.0555127 -0.136139 / 0.8)",
+    "count": 3
+   },
+   {
+    "color": "oklab(0.984799 0.0000446141 0.0000197291 / 0.5)",
+    "count": 1
+   },
+   {
+    "color": "rgb(250, 250, 250)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(77, 77, 77)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(77, 77, 77)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(23, 23, 23)",
+    "radius": "3.35544e+07px",
+    "padding": "0px 8px 0px 4px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(77, 77, 77)",
+    "radius": "0px",
+    "padding": "2px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(143, 143, 143)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 20
+   },
+   {
+    "radius": "6px",
+    "count": 7
+   },
+   {
+    "radius": "20px",
+    "count": 6
+   },
+   {
+    "radius": "4px",
+    "count": 4
+   },
+   {
+    "radius": "8px",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(235, 235, 235) 0px 0px 0px 1px",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px, rgb(250, 250, 250) 0px 0px 0px 1px",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px, rgba(0, 0, 0, 0.04) 0px 2px 2px 0px, rgb(250, 250, 250) 0px 0px 0px 1px",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(235, 235, 235) 0px 0px 0px 1px inset",
+    "count": 3
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1448px",
+    "count": 4
+   },
+   {
+    "maxWidth": "288px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1080px",
+    "count": 1
+   },
+   {
+    "maxWidth": "444px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 5333,
+  "mediaCoverage": 0.29,
+  "linkCount": 166
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s",
+    "count": 79
+   },
+   {
+    "duration": "0.3s",
+    "count": 11
+   },
+   {
+    "duration": "0.2s",
+    "count": 9
+   },
+   {
+    "duration": "0.15s",
+    "count": 7
+   },
+   {
+    "duration": "0.5s",
+    "count": 4
+   },
+   {
+    "duration": "0.7s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 96
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 11
+   },
+   {
+    "easing": "linear",
+    "count": 2
+   },
+   {
+    "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+    "count": 2
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

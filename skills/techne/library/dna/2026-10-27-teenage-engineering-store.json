@@ -1,0 +1,167 @@
+{
+ "url": "https://teenage.engineering/store",
+ "capturedAt": "2026-10-27T07:19:55.548Z",
+ "viewport": "1440x900",
+ "title": "store - teenage engineering",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "te-20",
+    "count": 295
+   }
+  ],
+  "h1": {
+   "family": "te-20",
+   "size": 32,
+   "weight": "700",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "te-20",
+   "size": 19.1,
+   "weight": "300",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 19.1,
+   "lineHeight": 1.15,
+   "measureCh": 10
+  },
+  "nav": {
+   "family": "te-20",
+   "size": 16,
+   "weight": "100",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "te-20",
+   "size": 16,
+   "weight": "100",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 19.1,
+   "count": 184
+  },
+  {
+   "px": 16,
+   "count": 110
+  },
+  {
+   "px": 13.2,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 282
+   },
+   {
+    "color": "rgb(118, 118, 118)",
+    "count": 11
+   },
+   {
+    "color": "rgb(15, 14, 18)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "100"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "100"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "100"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "300"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "300"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 27185,
+  "mediaCoverage": 0.98,
+  "linkCount": 355
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s, 0.15s",
+    "count": 99
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 99
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

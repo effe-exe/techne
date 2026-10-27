@@ -1,0 +1,314 @@
+{
+ "url": "https://lottiefiles.com",
+ "capturedAt": "2026-10-27T08:27:08.922Z",
+ "viewport": "1440x900",
+ "title": "LottieFiles: Download Free lightweight animations for website & apps.",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "DM Sans LF",
+    "count": 136
+   },
+   {
+    "family": "Inter LF",
+    "count": 118
+   }
+  ],
+  "h1": {
+   "family": "DM Sans LF",
+   "size": 96,
+   "weight": "500",
+   "lineHeight": 1.04,
+   "tracking": "-4.8px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "DM Sans LF",
+   "size": 20,
+   "weight": "500",
+   "lineHeight": 1.14,
+   "tracking": "-0.2px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 24,
+   "lineHeight": 1.35,
+   "measureCh": 59
+  },
+  "nav": {
+   "family": "Inter LF",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter LF",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 174
+  },
+  {
+   "px": 20,
+   "count": 38
+  },
+  {
+   "px": 14,
+   "count": 14
+  },
+  {
+   "px": 24,
+   "count": 12
+  },
+  {
+   "px": 64,
+   "count": 7
+  },
+  {
+   "px": 48,
+   "count": 5
+  },
+  {
+   "px": 32,
+   "count": 2
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 96,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "oklch(1 0 0)",
+  "textColors": [
+   {
+    "color": "oklch(0.141 0.005 285.823)",
+    "count": 117
+   },
+   {
+    "color": "oklch(0.705 0.015 286.067)",
+    "count": 69
+   },
+   {
+    "color": "oklch(0.552 0.016 285.938)",
+    "count": 39
+   },
+   {
+    "color": "oklch(0.985 0 0)",
+    "count": 21
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 6
+   },
+   {
+    "color": "oklch(0.21 0.006 285.885)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "oklch(0.967 0.001 286.375)",
+    "count": 55
+   },
+   {
+    "color": "oklch(0.552 0.016 285.938)",
+    "count": 12
+   },
+   {
+    "color": "oklch(0.21 0.006 285.885)",
+    "count": 8
+   },
+   {
+    "color": "oklch(0.141 0.005 285.823)",
+    "count": 5
+   },
+   {
+    "color": "oklch(0.985 0 0)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.1)",
+    "count": 3
+   },
+   {
+    "color": "oklch(1 0 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "oklch(1 0 0)",
+    "color": "oklch(0.141 0.005 285.823)",
+    "radius": "6px",
+    "padding": "8px 16px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "oklch(1 0 0)",
+    "color": "oklch(0.141 0.005 285.823)",
+    "radius": "6px",
+    "padding": "8px 16px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "oklch(1 0 0)",
+    "color": "oklch(0.141 0.005 285.823)",
+    "radius": "6px",
+    "padding": "8px 16px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "oklch(1 0 0)",
+    "color": "oklch(0.141 0.005 285.823)",
+    "radius": "6px",
+    "padding": "8px 16px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "oklch(1 0 0)",
+    "color": "oklch(0.141 0.005 285.823)",
+    "radius": "6px",
+    "padding": "8px 16px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "16px",
+    "count": 121
+   },
+   {
+    "radius": "24px",
+    "count": 42
+   },
+   {
+    "radius": "8px",
+    "count": 37
+   },
+   {
+    "radius": "6px",
+    "count": 17
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 17
+   },
+   {
+    "radius": "12px",
+    "count": 16
+   },
+   {
+    "radius": "48px",
+    "count": 3
+   },
+   {
+    "radius": "4px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+    "count": 14
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "80px",
+    "count": 6
+   },
+   {
+    "padding": "224px",
+    "count": 1
+   },
+   {
+    "padding": "160px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 11
+   },
+   {
+    "maxWidth": "640px",
+    "count": 5
+   },
+   {
+    "maxWidth": "560px",
+    "count": 4
+   },
+   {
+    "maxWidth": "800px",
+    "count": 2
+   },
+   {
+    "maxWidth": "508px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 12364,
+  "mediaCoverage": 0.3,
+  "linkCount": 200
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 97
+   },
+   {
+    "duration": "0.15s",
+    "count": 90
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 188
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

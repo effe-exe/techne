@@ -1,0 +1,366 @@
+{
+ "url": "https://mailchimp.com",
+ "capturedAt": "2026-10-27T07:53:22.865Z",
+ "viewport": "1440x900",
+ "title": "Email & SMS Marketing Platform | Mailchimp",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Tally",
+    "count": 206
+   },
+   {
+    "family": "Means Web",
+    "count": 7
+   }
+  ],
+  "h1": {
+   "family": "Means Web",
+   "size": 64,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "-1.2px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Means Web",
+   "size": 40,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "-0.5px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 13,
+   "lineHeight": 1.35,
+   "measureCh": 76
+  },
+  "nav": {
+   "family": "Tally",
+   "size": 13,
+   "weight": "700",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Tally",
+   "size": 13,
+   "weight": "700",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 78
+  },
+  {
+   "px": 13,
+   "count": 67
+  },
+  {
+   "px": 14,
+   "count": 38
+  },
+  {
+   "px": 11,
+   "count": 9
+  },
+  {
+   "px": 15,
+   "count": 5
+  },
+  {
+   "px": 40,
+   "count": 5
+  },
+  {
+   "px": 23,
+   "count": 4
+  },
+  {
+   "px": 20,
+   "count": 2
+  },
+  {
+   "px": 24,
+   "count": 2
+  },
+  {
+   "px": 12,
+   "count": 1
+  },
+  {
+   "px": 32,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(35, 30, 21)",
+    "count": 103
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 87
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(0, 78, 86)",
+    "count": 5
+   },
+   {
+    "color": "rgba(35, 30, 21, 0.65)",
+    "count": 5
+   },
+   {
+    "color": "rgb(64, 59, 59)",
+    "count": 5
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(240, 244, 246)",
+    "count": 34
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 11
+   },
+   {
+    "color": "rgb(245, 245, 245)",
+    "count": 4
+   },
+   {
+    "color": "rgb(35, 30, 21)",
+    "count": 3
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.3)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.25)",
+    "count": 1
+   },
+   {
+    "color": "rgba(35, 30, 21, 0.6)",
+    "count": 1
+   },
+   {
+    "color": "rgb(231, 183, 95)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(35, 30, 21)",
+    "radius": "3px",
+    "padding": "8px",
+    "size": 13,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(35, 30, 21)",
+    "radius": "3px",
+    "padding": "8px",
+    "size": 13,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(35, 30, 21)",
+    "radius": "3px",
+    "padding": "8px",
+    "size": 13,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(35, 30, 21)",
+    "radius": "3px",
+    "padding": "8px",
+    "size": 13,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(255, 224, 27)",
+    "color": "rgb(35, 30, 21)",
+    "radius": "26px",
+    "padding": "12px 24px",
+    "size": 13,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 46
+   },
+   {
+    "radius": "16px",
+    "count": 35
+   },
+   {
+    "radius": "26px",
+    "count": 15
+   },
+   {
+    "radius": "3px",
+    "count": 9
+   },
+   {
+    "radius": "24px",
+    "count": 8
+   },
+   {
+    "radius": "30px",
+    "count": 7
+   },
+   {
+    "radius": "50%",
+    "count": 7
+   },
+   {
+    "radius": "10px",
+    "count": 4
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.086) 0px 15.547px 44px 0px",
+    "count": 34
+   },
+   {
+    "shadow": "rgb(35, 30, 21) 0px 0px 0px 1px",
+    "count": 10
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.06) 0px 4px 16px 0px",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(35, 30, 21, 0.2) 0px 8px 32px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "80px",
+    "count": 4
+   },
+   {
+    "padding": "2px",
+    "count": 1
+   },
+   {
+    "padding": "68px",
+    "count": 1
+   },
+   {
+    "padding": "64px",
+    "count": 1
+   },
+   {
+    "padding": "32px",
+    "count": 1
+   },
+   {
+    "padding": "40px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 5
+   },
+   {
+    "maxWidth": "212px",
+    "count": 4
+   },
+   {
+    "maxWidth": "1600px",
+    "count": 4
+   },
+   {
+    "maxWidth": "960px",
+    "count": 2
+   },
+   {
+    "maxWidth": "800px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 2.38,
+  "linkCount": 317
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 69
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 15
+   },
+   {
+    "duration": "0.15s",
+    "count": 10
+   },
+   {
+    "duration": "0.3s",
+    "count": 9
+   },
+   {
+    "duration": "0.3s, 0.32s, 0.3s",
+    "count": 4
+   },
+   {
+    "duration": "0.32s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.5, 2.5, 0.7, 0.7), cubic-bezier(0.5, 2.5, 0.7, 0.7)",
+    "count": 10
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 8
+   },
+   {
+    "easing": "ease-in-out, ease",
+    "count": 7
+   },
+   {
+    "easing": "ease-in-out, ease, ease-in-out",
+    "count": 4
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

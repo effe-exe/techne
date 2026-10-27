@@ -1,0 +1,366 @@
+{
+ "url": "https://tana.inc",
+ "capturedAt": "2026-10-27T07:09:57.253Z",
+ "viewport": "1440x900",
+ "title": "Tana - Do work in the meeting",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 223
+   },
+   {
+    "family": "Source Serif 4",
+    "count": 31
+   },
+   {
+    "family": "ui-monospace",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "Source Serif 4",
+   "size": 48,
+   "weight": "500",
+   "lineHeight": 1.1,
+   "tracking": "-2.16px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Source Serif 4",
+   "size": 32,
+   "weight": "500",
+   "lineHeight": 1.15,
+   "tracking": "-1.44px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 0
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 15,
+   "count": 50
+  },
+  {
+   "px": 12,
+   "count": 30
+  },
+  {
+   "px": 13,
+   "count": 27
+  },
+  {
+   "px": 10.4,
+   "count": 26
+  },
+  {
+   "px": 16,
+   "count": 25
+  },
+  {
+   "px": 11,
+   "count": 14
+  },
+  {
+   "px": 11.2,
+   "count": 13
+  },
+  {
+   "px": 14,
+   "count": 11
+  },
+  {
+   "px": 32,
+   "count": 11
+  },
+  {
+   "px": 11.1,
+   "count": 10
+  },
+  {
+   "px": 22,
+   "count": 7
+  },
+  {
+   "px": 25.9,
+   "count": 7
+  }
+ ],
+ "color": {
+  "background": "rgb(251, 251, 251)",
+  "textColors": [
+   {
+    "color": "rgb(12, 8, 5)",
+    "count": 91
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 63
+   },
+   {
+    "color": "rgb(106, 106, 106)",
+    "count": 27
+   },
+   {
+    "color": "rgb(153, 153, 153)",
+    "count": 25
+   },
+   {
+    "color": "rgb(58, 58, 58)",
+    "count": 21
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.85)",
+    "count": 14
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(43, 143, 230)",
+    "count": 13
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgb(251, 251, 251)",
+    "count": 4
+   },
+   {
+    "color": "rgb(246, 246, 246)",
+    "count": 4
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.72)",
+    "count": 3
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.92)",
+    "count": 3
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.9)",
+    "count": 3
+   },
+   {
+    "color": "rgba(20, 16, 14, 0.4)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(12, 8, 5)",
+    "radius": "14px",
+    "padding": "8px 18px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgba(20, 16, 14, 0.6)",
+    "radius": "999px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(20, 16, 14, 0.6)",
+    "radius": "999px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(20, 16, 14, 0.6)",
+    "radius": "999px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(20, 16, 14, 0.6)",
+    "radius": "999px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "6px",
+    "count": 30
+   },
+   {
+    "radius": "999px",
+    "count": 29
+   },
+   {
+    "radius": "20px",
+    "count": 24
+   },
+   {
+    "radius": "14px",
+    "count": 22
+   },
+   {
+    "radius": "50%",
+    "count": 15
+   },
+   {
+    "radius": "5.85px",
+    "count": 15
+   },
+   {
+    "radius": "2.875px",
+    "count": 10
+   },
+   {
+    "radius": "8.4px",
+    "count": 4
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.12) 0px 0px 0px 0.5px inset",
+    "count": 3
+   },
+   {
+    "shadow": "rgba(28, 32, 36, 0.14) 0px 10px 30px 0px, rgba(28, 32, 36, 0.06) 0px 1px 2px 0px",
+    "count": 3
+   },
+   {
+    "shadow": "color(srgb 0.0470588 0.0313726 0.0196078 / 0.35) 0px 0px 0px 1px inset",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(12, 8, 5, 0.08) 0px 4px 10px 0px, rgba(12, 8, 5, 0.17) 0px 44px 92px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "96px",
+    "count": 7
+   },
+   {
+    "padding": "48px",
+    "count": 4
+   },
+   {
+    "padding": "72px",
+    "count": 1
+   },
+   {
+    "padding": "1.4px",
+    "count": 1
+   },
+   {
+    "padding": "56px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 8
+   },
+   {
+    "maxWidth": "287.819px",
+    "count": 7
+   },
+   {
+    "maxWidth": "604.688px",
+    "count": 6
+   },
+   {
+    "maxWidth": "321.24px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 9967,
+  "mediaCoverage": 0.12,
+  "linkCount": 63
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.12s, 0.12s",
+    "count": 34
+   },
+   {
+    "duration": "0.15s",
+    "count": 24
+   },
+   {
+    "duration": "0.16s",
+    "count": 14
+   },
+   {
+    "duration": "0.12s",
+    "count": 7
+   },
+   {
+    "duration": "0.16s, 0.16s, 0.16s",
+    "count": 7
+   },
+   {
+    "duration": "0.25s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 36
+   },
+   {
+    "easing": "ease, ease, ease",
+    "count": 7
+   },
+   {
+    "easing": "ease, ease, ease, ease, ease",
+    "count": 1
+   },
+   {
+    "easing": "ease, ease, ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

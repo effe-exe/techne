@@ -1,0 +1,318 @@
+{
+ "url": "https://www.shapr3d.com",
+ "capturedAt": "2026-10-27T08:09:33.071Z",
+ "viewport": "1440x900",
+ "title": "Shapr3D: 3D Modeling software | Windows & Mac & iPad",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 73
+   },
+   {
+    "family": "PP Fraktion Sans",
+    "count": 43
+   },
+   {
+    "family": "PP Fraktion Mono",
+    "count": 9
+   }
+  ],
+  "h1": {
+   "family": "PP Fraktion Sans",
+   "size": 72,
+   "weight": "900",
+   "lineHeight": 0.9,
+   "tracking": "-2.4px",
+   "transform": "uppercase"
+  },
+  "h2": {
+   "family": "PP Fraktion Sans",
+   "size": 64,
+   "weight": "900",
+   "lineHeight": 0.9,
+   "tracking": "-3px",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 9
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "PP Fraktion Sans",
+   "size": 16,
+   "weight": "700",
+   "lineHeight": 1.5,
+   "tracking": "-0.48px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 55
+  },
+  {
+   "px": 16,
+   "count": 26
+  },
+  {
+   "px": 12,
+   "count": 13
+  },
+  {
+   "px": 22,
+   "count": 13
+  },
+  {
+   "px": 40,
+   "count": 13
+  },
+  {
+   "px": 64,
+   "count": 3
+  },
+  {
+   "px": 48,
+   "count": 1
+  },
+  {
+   "px": 72,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(13, 13, 13)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 91
+   },
+   {
+    "color": "rgb(217, 217, 217)",
+    "count": 21
+   },
+   {
+    "color": "rgb(29, 78, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(242, 242, 242)",
+    "count": 3
+   },
+   {
+    "color": "rgb(13, 13, 13)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(13, 13, 13)",
+    "count": 28
+   },
+   {
+    "color": "rgba(221, 221, 221, 0)",
+    "count": 14
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgba(29, 78, 255, 0.16)",
+    "count": 3
+   },
+   {
+    "color": "rgba(13, 13, 13, 0.85)",
+    "count": 2
+   },
+   {
+    "color": "rgb(51, 51, 51)",
+    "count": 1
+   },
+   {
+    "color": "rgb(29, 78, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.3)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(26, 26, 26)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 16px 10px",
+    "size": 16,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(29, 78, 255)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 16px 10px",
+    "size": 16,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(13, 13, 13)",
+    "radius": "0px",
+    "padding": "8px 16px 10px",
+    "size": 16,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(29, 78, 255)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 16px 10px",
+    "size": 16,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(29, 78, 255)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 16px 10px",
+    "size": 16,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "1px",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 1px 2px 0px, rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgba(255, 255, 255, 0.2) 0px 1px 0px 0px inset, rgba(255, 255, 255, 0.05) 0px -1px 0px 0px inset",
+    "count": 10
+   },
+   {
+    "shadow": "rgba(242, 242, 242, 0.1) 8px 0px 0px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 10px 10px 0px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "60px",
+    "count": 3
+   },
+   {
+    "padding": "40px",
+    "count": 3
+   },
+   {
+    "padding": "80px",
+    "count": 3
+   },
+   {
+    "padding": "64px",
+    "count": 1
+   },
+   {
+    "padding": "14px",
+    "count": 1
+   },
+   {
+    "padding": "32px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 16
+   },
+   {
+    "maxWidth": "256px",
+    "count": 4
+   },
+   {
+    "maxWidth": "720px",
+    "count": 3
+   },
+   {
+    "maxWidth": "760px",
+    "count": 2
+   },
+   {
+    "maxWidth": "650px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 15017,
+  "mediaCoverage": 0.41,
+  "linkCount": 154
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 65
+   },
+   {
+    "duration": "0.4s",
+    "count": 47
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 10
+   },
+   {
+    "duration": "0.3s",
+    "count": 7
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 4
+   },
+   {
+    "duration": "0.5s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "count": 33
+   },
+   {
+    "easing": "cubic-bezier(0.19, 1, 0.22, 1)",
+    "count": 12
+   },
+   {
+    "easing": "cubic-bezier(0, 0.25, 0, 1), cubic-bezier(0, 0.25, 0, 1)",
+    "count": 10
+   },
+   {
+    "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    "count": 10
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

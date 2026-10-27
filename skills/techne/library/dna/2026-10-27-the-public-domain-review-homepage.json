@@ -1,0 +1,270 @@
+{
+ "url": "https://publicdomainreview.org",
+ "capturedAt": "2026-10-27T07:49:14.116Z",
+ "viewport": "1440x900",
+ "title": "The Public Domain Review – Online journal dedicated to showcasing the most interesting and unusual out-of-copyright works available on the web",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Open Sans",
+    "count": 65
+   },
+   {
+    "family": "Alegreya",
+    "count": 54
+   }
+  ],
+  "h1": {
+   "family": "Alegreya",
+   "size": 32,
+   "weight": "700",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": {
+   "size": 30.2,
+   "lineHeight": 1.15,
+   "measureCh": 49
+  },
+  "nav": {
+   "family": "Alegreya",
+   "size": 18.1,
+   "weight": "400",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Alegreya",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12.1,
+   "count": 36
+  },
+  {
+   "px": 18.9,
+   "count": 31
+  },
+  {
+   "px": 18.1,
+   "count": 9
+  },
+  {
+   "px": 30.2,
+   "count": 7
+  },
+  {
+   "px": 19.6,
+   "count": 6
+  },
+  {
+   "px": 16,
+   "count": 5
+  },
+  {
+   "px": 13.6,
+   "count": 5
+  },
+  {
+   "px": 22.7,
+   "count": 5
+  },
+  {
+   "px": 27.2,
+   "count": 5
+  },
+  {
+   "px": 15.1,
+   "count": 5
+  },
+  {
+   "px": 11.3,
+   "count": 2
+  },
+  {
+   "px": 21.1,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(29, 39, 49)",
+    "count": 89
+   },
+   {
+    "color": "rgb(11, 60, 93)",
+    "count": 10
+   },
+   {
+    "color": "rgb(85, 11, 93)",
+    "count": 9
+   },
+   {
+    "color": "rgb(93, 44, 11)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(74, 82, 89)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(29, 39, 49)",
+    "count": 12
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.9)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(11, 60, 93)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "20.385px",
+    "padding": "9.06045px 20.385px",
+    "size": 13.6,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(195, 70, 14)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "16.61px",
+    "padding": "8.305px 33.22px",
+    "size": 16.6,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(11, 60, 93)",
+    "radius": "0px",
+    "padding": "7.55px 22.65px",
+    "size": 15.1,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(11, 60, 93)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "7.55px 22.65px",
+    "size": 15.1,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "34px",
+    "count": 6
+   },
+   {
+    "radius": "42px",
+    "count": 5
+   },
+   {
+    "radius": "20.385px",
+    "count": 1
+   },
+   {
+    "radius": "15.1px",
+    "count": 1
+   },
+   {
+    "radius": "16.61px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.4) 8px 4px 8px -4px",
+    "count": 4
+   },
+   {
+    "shadow": "rgb(195, 170, 151) 0px 0px 8px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 2px 2px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 8
+   },
+   {
+    "maxWidth": "640px",
+    "count": 4
+   },
+   {
+    "maxWidth": "280px",
+    "count": 3
+   },
+   {
+    "maxWidth": "200px",
+    "count": 1
+   },
+   {
+    "maxWidth": "900px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4901,
+  "mediaCoverage": 0.35,
+  "linkCount": 160
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 134
+   },
+   {
+    "duration": "0.4s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

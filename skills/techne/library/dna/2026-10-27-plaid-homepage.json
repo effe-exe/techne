@@ -1,0 +1,354 @@
+{
+ "url": "https://plaid.com",
+ "capturedAt": "2026-10-27T07:14:31.358Z",
+ "viewport": "1440x900",
+ "title": "Plaid: Enabling all companies to build fintech solutions",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Cern",
+    "count": 112
+   },
+   {
+    "family": "Plaid Sans",
+    "count": 35
+   },
+   {
+    "family": "Bowery Street",
+    "count": 4
+   },
+   {
+    "family": "Inconsolata",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "Plaid Sans",
+   "size": 76,
+   "weight": "500",
+   "lineHeight": 1.12,
+   "tracking": "-3.4px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Plaid Sans",
+   "size": 20,
+   "weight": "600",
+   "lineHeight": 1.1,
+   "tracking": "-0.4px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 24,
+   "lineHeight": 1.4,
+   "measureCh": 49
+  },
+  "nav": {
+   "family": "Cern",
+   "size": 16,
+   "weight": "600",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Cern",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 34
+  },
+  {
+   "px": 20,
+   "count": 31
+  },
+  {
+   "px": 30,
+   "count": 24
+  },
+  {
+   "px": 14,
+   "count": 22
+  },
+  {
+   "px": 13,
+   "count": 18
+  },
+  {
+   "px": 70,
+   "count": 6
+  },
+  {
+   "px": 26,
+   "count": 5
+  },
+  {
+   "px": 24,
+   "count": 3
+  },
+  {
+   "px": 12.9,
+   "count": 3
+  },
+  {
+   "px": 12.8,
+   "count": 3
+  },
+  {
+   "px": 26.9,
+   "count": 2
+  },
+  {
+   "px": 50,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(1, 46, 55)",
+    "count": 47
+   },
+   {
+    "color": "rgb(2, 41, 75)",
+    "count": 25
+   },
+   {
+    "color": "rgb(17, 17, 18)",
+    "count": 23
+   },
+   {
+    "color": "rgb(5, 86, 92)",
+    "count": 18
+   },
+   {
+    "color": "rgb(35, 36, 36)",
+    "count": 8
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 6
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.7)",
+    "count": 1
+   },
+   {
+    "color": "rgba(12, 17, 22, 0.2)",
+    "count": 1
+   },
+   {
+    "color": "rgb(247, 250, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(2, 41, 75)",
+    "count": 1
+   },
+   {
+    "color": "rgb(13, 13, 63)",
+    "count": 1
+   },
+   {
+    "color": "rgb(12, 17, 22)",
+    "count": 1
+   },
+   {
+    "color": "rgb(234, 221, 253)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(35, 36, 36)",
+    "radius": "999px",
+    "padding": "12px 16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(35, 36, 36)",
+    "radius": "999px",
+    "padding": "12px 16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(35, 36, 36)",
+    "radius": "999px",
+    "padding": "12px 16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(35, 36, 36)",
+    "radius": "999px",
+    "padding": "12px 16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(1, 46, 55)",
+    "radius": "6px",
+    "padding": "12px 2px 12px 0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "100px",
+    "count": 101
+   },
+   {
+    "radius": "20px",
+    "count": 70
+   },
+   {
+    "radius": "6px",
+    "count": 45
+   },
+   {
+    "radius": "24px",
+    "count": 14
+   },
+   {
+    "radius": "999px",
+    "count": 5
+   },
+   {
+    "radius": "50%",
+    "count": 5
+   },
+   {
+    "radius": "16px",
+    "count": 3
+   },
+   {
+    "radius": "40px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(208, 70, 246, 0) 0px 0px 25px 0px",
+    "count": 35
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 5px 0px",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(125, 125, 125, 0) 0px 86.756px 24.378px 0px, rgba(125, 125, 125, 0.01) 0px 55.209px 22.227px 0px, rgba(125, 125, 125, 0.05) 0px 30.831px 18.642px 0px, rgba(125, 125, 125, 0.09) 0px 13.623px 13.623px 0px, rgba(125, 125, 125, 0.1) 0px 3.585px 7.887px 0px",
+    "count": 3
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.06) 0px 2px 8px 0px, rgba(255, 255, 255, 0.12) 0px 0px 0px 1px inset, rgba(85, 85, 85, 0.12) 0px 6px 12px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "164px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1730px",
+    "count": 7
+   },
+   {
+    "maxWidth": "460px",
+    "count": 5
+   },
+   {
+    "maxWidth": "1344px",
+    "count": 4
+   },
+   {
+    "maxWidth": "520px",
+    "count": 1
+   },
+   {
+    "maxWidth": "743px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 9085,
+  "mediaCoverage": 1.24,
+  "linkCount": 214
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 35
+   },
+   {
+    "duration": "0.25s",
+    "count": 21
+   },
+   {
+    "duration": "0.3s",
+    "count": 15
+   },
+   {
+    "duration": "0.1s",
+    "count": 12
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 11
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 9
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out, ease-in-out",
+    "count": 44
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 26
+   },
+   {
+    "easing": "ease, ease",
+    "count": 10
+   },
+   {
+    "easing": "ease-out",
+    "count": 8
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

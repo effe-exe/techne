@@ -1,0 +1,366 @@
+{
+ "url": "https://hex.tech",
+ "capturedAt": "2026-10-27T07:43:29.665Z",
+ "viewport": "1440x900",
+ "title": "Hex: The Analytics platform for humans and agents",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Cinetype Mono",
+    "count": 48
+   },
+   {
+    "family": "Cinetype",
+    "count": 30
+   },
+   {
+    "family": "IBM Plex Sans",
+    "count": 19
+   },
+   {
+    "family": "PP Formula",
+    "count": 5
+   },
+   {
+    "family": "Lato",
+    "count": 3
+   }
+  ],
+  "h1": {
+   "family": "PP Formula SemiExtended",
+   "size": 74,
+   "weight": "700",
+   "lineHeight": 1.2,
+   "tracking": "-1.85px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Cinetype Mono",
+   "size": 10,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "0.833px",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 24,
+   "lineHeight": 1.5,
+   "measureCh": 10
+  },
+  "nav": {
+   "family": "Cinetype",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Cinetype",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 63
+  },
+  {
+   "px": 14,
+   "count": 13
+  },
+  {
+   "px": 10,
+   "count": 8
+  },
+  {
+   "px": 11,
+   "count": 6
+  },
+  {
+   "px": 24,
+   "count": 6
+  },
+  {
+   "px": 16,
+   "count": 5
+  },
+  {
+   "px": 28,
+   "count": 4
+  },
+  {
+   "px": 13,
+   "count": 2
+  },
+  {
+   "px": 20,
+   "count": 2
+  },
+  {
+   "px": 60,
+   "count": 1
+  },
+  {
+   "px": 96.2,
+   "count": 1
+  },
+  {
+   "px": 19.4,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(20, 20, 28)",
+  "textColors": [
+   {
+    "color": "rgb(49, 38, 59)",
+    "count": 39
+   },
+   {
+    "color": "rgb(20, 20, 28)",
+    "count": 34
+   },
+   {
+    "color": "rgb(137, 130, 141)",
+    "count": 11
+   },
+   {
+    "color": "rgb(113, 122, 148)",
+    "count": 7
+   },
+   {
+    "color": "rgb(1, 1, 27)",
+    "count": 6
+   },
+   {
+    "color": "rgb(20, 20, 19)",
+    "count": 5
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(236, 237, 242)",
+    "count": 18
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgba(3, 3, 4, 0.16)",
+    "count": 7
+   },
+   {
+    "color": "rgb(255, 252, 252)",
+    "count": 6
+   },
+   {
+    "color": "rgba(253, 253, 253, 0.4)",
+    "count": 5
+   },
+   {
+    "color": "rgb(233, 229, 232)",
+    "count": 4
+   },
+   {
+    "color": "rgb(1, 1, 27)",
+    "count": 4
+   },
+   {
+    "color": "rgba(49, 38, 59, 0.14)",
+    "count": 3
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(20, 20, 28)",
+    "radius": "1px",
+    "padding": "9.6px 9.6px 9.6px 13.6px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(20, 20, 28)",
+    "radius": "1px",
+    "padding": "9.6px 9.6px 9.6px 13.6px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(20, 20, 28)",
+    "radius": "1px",
+    "padding": "9.6px 9.6px 9.6px 13.6px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(20, 20, 28)",
+    "radius": "0px",
+    "padding": "0px 15px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(20, 20, 28)",
+    "radius": "0px",
+    "padding": "0px 20px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50%",
+    "count": 221
+   },
+   {
+    "radius": "1px",
+    "count": 29
+   },
+   {
+    "radius": "4px",
+    "count": 20
+   },
+   {
+    "radius": "2px",
+    "count": 18
+   },
+   {
+    "radius": "9999px",
+    "count": 18
+   },
+   {
+    "radius": "6px",
+    "count": 8
+   },
+   {
+    "radius": "3px",
+    "count": 7
+   },
+   {
+    "radius": "40px",
+    "count": 5
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(239, 235, 237) 0px 0px 34px 0px inset, rgba(100, 63, 63, 0.01) 6px 27px 10px 0px, rgba(100, 63, 63, 0.04) 4px 4px 10px 0px, rgba(100, 63, 63, 0.06) 2px 13px 8px 0px, rgba(100, 63, 63, 0.06) 1px 6px 6px 0px, rgba(100, 63, 63, 0.18) 0px 1px 3px 0px",
+    "count": 7
+   },
+   {
+    "shadow": "color(srgb 0.00392157 0.00392157 0.105882 / 0.06) 0px 2px 4px 0px",
+    "count": 6
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.05) 0px 0px 11px 0px inset, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px, rgba(0, 0, 0, 0.05) 0px 16px 24px -8px, rgba(0, 0, 0, 0.05) 0px 8px 12px -4px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(71, 57, 130, 0.1) 0px 0px 0px 1px inset",
+    "count": 2
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "108.8px",
+    "count": 1
+   },
+   {
+    "padding": "20px",
+    "count": 1
+   },
+   {
+    "padding": "100px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1080px",
+    "count": 1
+   },
+   {
+    "maxWidth": "580px",
+    "count": 1
+   },
+   {
+    "maxWidth": "996px",
+    "count": 1
+   },
+   {
+    "maxWidth": "760px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1240px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 10662,
+  "mediaCoverage": 0.24,
+  "linkCount": 138
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 218
+   },
+   {
+    "duration": "0.1s",
+    "count": 53
+   },
+   {
+    "duration": "0.25s, 0.25s",
+    "count": 11
+   },
+   {
+    "duration": "0.25s",
+    "count": 8
+   },
+   {
+    "duration": "0.5s, 0.14s",
+    "count": 7
+   },
+   {
+    "duration": "0.05s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "linear",
+    "count": 53
+   },
+   {
+    "easing": "cubic-bezier(0.25, 0.1, 0.25, 1), cubic-bezier(0.25, 0.1, 0.25, 1)",
+    "count": 11
+   },
+   {
+    "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+    "count": 8
+   },
+   {
+    "easing": "linear(0 0%, 0.1263 6.25%, 0.3704 12.5%, 0.6094 18.75%, 0.7936 25%, 0.9148 31.25%, 0.9834 37.5%, 1.0153 43.75%, 1.025 50%, 1.0235 56.25%, 1.0177 62.5%, 1.0115 68.75%, 1.0063 75%, 1.0028 81.25%, 1.0008 87.5%, 0.9998 93.75%, 1 100%), ease-out",
+    "count": 7
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

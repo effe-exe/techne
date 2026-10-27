@@ -1,0 +1,131 @@
+{
+ "url": "https://www.fontshare.com",
+ "capturedAt": "2026-10-27T08:22:45.378Z",
+ "viewport": "1440x900",
+ "title": "Fontshare: Quality Fonts. Free.",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Passenger-Sans",
+    "count": 88
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": null,
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 53
+  },
+  {
+   "px": 16,
+   "count": 35
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 227)",
+  "textColors": [
+   {
+    "color": "rgb(16, 16, 14)",
+    "count": 68
+   },
+   {
+    "color": "rgb(192, 192, 171)",
+    "count": 18
+   },
+   {
+    "color": "rgb(255, 255, 227)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 227)",
+    "count": 28
+   },
+   {
+    "color": "rgb(48, 48, 43)",
+    "count": 23
+   },
+   {
+    "color": "rgb(232, 232, 207)",
+    "count": 18
+   },
+   {
+    "color": "rgb(192, 192, 171)",
+    "count": 15
+   },
+   {
+    "color": "rgb(16, 16, 14)",
+    "count": 8
+   },
+   {
+    "color": "rgb(255, 241, 181)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 207, 207)",
+    "count": 1
+   },
+   {
+    "color": "rgb(196, 253, 199)",
+    "count": 1
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 97
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.02,
+  "linkCount": 7
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 291
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 38
+   },
+   {
+    "duration": "0.3s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 124
+   },
+   {
+    "easing": "ease, ease",
+    "count": 38
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

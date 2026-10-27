@@ -1,0 +1,263 @@
+{
+ "url": "https://www.moma.org",
+ "capturedAt": "2026-10-27T07:46:44.432Z",
+ "viewport": "1440x900",
+ "title": "The Museum of Modern Art, New York City | MoMA",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "MoMA Sans",
+    "count": 88
+   },
+   {
+    "family": "MoMA Sans Bold",
+    "count": 6
+   }
+  ],
+  "h1": {
+   "family": "MoMA Sans",
+   "size": 60,
+   "weight": "900",
+   "lineHeight": 1,
+   "tracking": "-1.2px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "MoMA Sans",
+   "size": 40,
+   "weight": "900",
+   "lineHeight": 1,
+   "tracking": "-0.8px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1,
+   "measureCh": 22
+  },
+  "nav": {
+   "family": "MoMA Sans",
+   "size": 10,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "MoMA Sans",
+   "size": 13.3,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18,
+   "count": 42
+  },
+  {
+   "px": 22,
+   "count": 29
+  },
+  {
+   "px": 30,
+   "count": 14
+  },
+  {
+   "px": 40,
+   "count": 5
+  },
+  {
+   "px": 16,
+   "count": 2
+  },
+  {
+   "px": 14,
+   "count": 1
+  },
+  {
+   "px": 60,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 58
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 20
+   },
+   {
+    "color": "rgb(118, 118, 118)",
+    "count": 10
+   },
+   {
+    "color": "rgb(143, 196, 33)",
+    "count": 2
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.54)",
+    "count": 1
+   },
+   {
+    "color": "rgb(107, 220, 197)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(68, 68, 68)",
+    "count": 4
+   },
+   {
+    "color": "rgb(238, 238, 238)",
+    "count": 3
+   },
+   {
+    "color": "rgb(107, 220, 197)",
+    "count": 3
+   },
+   {
+    "color": "rgb(0, 183, 242)",
+    "count": 2
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 143, 28)",
+    "count": 1
+   },
+   {
+    "color": "rgb(143, 196, 33)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "8px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "8px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "8px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "8px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "8px",
+    "size": 13.3,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 15
+   },
+   {
+    "maxWidth": "2000px",
+    "count": 2
+   },
+   {
+    "maxWidth": "548px",
+    "count": 1
+   },
+   {
+    "maxWidth": "600px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 8435,
+  "mediaCoverage": 0.95,
+  "linkCount": 135
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 4
+   },
+   {
+    "duration": "0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0.1s, 0s, 0s, 0s",
+    "count": 3
+   },
+   {
+    "duration": "0s, 0s, 0.2s, 0.2s, 0s, 0.2s, 0.2s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0.2s, 0s, 0s, 0s, 0s",
+    "count": 2
+   },
+   {
+    "duration": "0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0s, 0.2s, 0s, 0s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 4
+   },
+   {
+    "easing": "linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear",
+    "count": 3
+   },
+   {
+    "easing": "linear, linear, ease-in, ease-in, linear, ease-in, ease-in, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, ease-in, linear, linear, linear, linear",
+    "count": 2
+   },
+   {
+    "easing": "linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, linear, ease-in-out, linear, linear",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

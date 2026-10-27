@@ -1,0 +1,342 @@
+{
+ "url": "https://www.convex.dev",
+ "capturedAt": "2026-10-27T08:29:25.056Z",
+ "viewport": "1440x900",
+ "title": "Convex | All gas, no breakages",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "gtAmerica",
+    "count": 108
+   },
+   {
+    "family": "IBM Plex Mono",
+    "count": 22
+   },
+   {
+    "family": "vcr",
+    "count": 11
+   },
+   {
+    "family": "publico",
+    "count": 3
+   },
+   {
+    "family": "neue-haas-grotesk-display",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "neue-haas-grotesk-display",
+   "size": 60,
+   "weight": "900",
+   "lineHeight": 0.85,
+   "tracking": "-2.4px",
+   "transform": "uppercase"
+  },
+  "h2": {
+   "family": "vcr",
+   "size": 10,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "0.6px",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.25,
+   "measureCh": 37
+  },
+  "nav": {
+   "family": "gtAmerica",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "gtAmerica",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 42
+  },
+  {
+   "px": 16,
+   "count": 33
+  },
+  {
+   "px": 15,
+   "count": 23
+  },
+  {
+   "px": 12,
+   "count": 17
+  },
+  {
+   "px": 18,
+   "count": 13
+  },
+  {
+   "px": 10,
+   "count": 5
+  },
+  {
+   "px": 11,
+   "count": 4
+  },
+  {
+   "px": 20,
+   "count": 3
+  },
+  {
+   "px": 40,
+   "count": 2
+  },
+  {
+   "px": 9,
+   "count": 1
+  },
+  {
+   "px": 28,
+   "count": 1
+  },
+  {
+   "px": 60,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(246, 238, 219)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 49
+   },
+   {
+    "color": "rgb(20, 20, 20)",
+    "count": 23
+   },
+   {
+    "color": "rgb(246, 238, 219)",
+    "count": 14
+   },
+   {
+    "color": "rgb(109, 109, 112)",
+    "count": 13
+   },
+   {
+    "color": "rgb(194, 194, 194)",
+    "count": 9
+   },
+   {
+    "color": "rgb(169, 169, 172)",
+    "count": 7
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "oklab(0.280938 0.000012815 0.00000563264 / 0.05)",
+    "count": 13
+   },
+   {
+    "color": "rgb(40, 30, 29)",
+    "count": 6
+   },
+   {
+    "color": "rgb(41, 41, 41)",
+    "count": 4
+   },
+   {
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+    "count": 3
+   },
+   {
+    "color": "rgb(246, 238, 219)",
+    "count": 3
+   },
+   {
+    "color": "rgb(40, 29, 29)",
+    "count": 2
+   },
+   {
+    "color": "oklab(0.975207 -0.00130498 0.0120118 / 0.9)",
+    "count": 2
+   },
+   {
+    "color": "rgb(25, 14, 14)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "12px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "12px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "oklab(0.968805 0.00204122 0.0158099 / 0.25)",
+    "color": "rgb(250, 244, 233)",
+    "radius": "3.35544e+07px",
+    "padding": "4px 12px 4px 4px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(26, 15, 15)",
+    "color": "rgb(20, 20, 20)",
+    "radius": "4px",
+    "padding": "4px 8px 4px 4px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 25
+   },
+   {
+    "radius": "4px",
+    "count": 22
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 21
+   },
+   {
+    "radius": "12px",
+    "count": 9
+   },
+   {
+    "radius": "6px",
+    "count": 6
+   },
+   {
+    "radius": "16px",
+    "count": 5
+   },
+   {
+    "radius": "22px",
+    "count": 2
+   },
+   {
+    "radius": "9999px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 2px 11px 0px",
+    "count": 8
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.06) 0px 16px 17px 0px, rgba(0, 0, 0, 0.13) 0px 91px 100px 0px, rgba(0, 0, 0, 0.04) 0px 32px 36px 0px, rgba(0, 0, 0, 0.07) 0px 8px 8px 0px, rgba(0, 0, 0, 0.1) 0px 3.2px 3.4px 0px",
+    "count": 6
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.3) 0px 15px 22px 0px",
+    "count": 2
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "60px",
+    "count": 4
+   },
+   {
+    "padding": "40px",
+    "count": 2
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1536px",
+    "count": 11
+   },
+   {
+    "maxWidth": "896px",
+    "count": 2
+   },
+   {
+    "maxWidth": "384px",
+    "count": 2
+   },
+   {
+    "maxWidth": "520px",
+    "count": 2
+   },
+   {
+    "maxWidth": "508.801px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4469,
+  "mediaCoverage": 0.55,
+  "linkCount": 104
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 121
+   },
+   {
+    "duration": "0.3s",
+    "count": 6
+   },
+   {
+    "duration": "0.1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 120
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 6
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

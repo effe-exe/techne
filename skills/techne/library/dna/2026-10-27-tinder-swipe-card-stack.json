@@ -1,0 +1,294 @@
+{
+ "url": "https://tinder.com",
+ "capturedAt": "2026-10-27T08:13:39.468Z",
+ "viewport": "1440x900",
+ "title": "Tinder | Dating, Make Friends & Meet New People",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Regola",
+    "count": 82
+   },
+   {
+    "family": "Society",
+    "count": 21
+   }
+  ],
+  "h1": {
+   "family": "Society",
+   "size": 115.2,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "-3px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Society",
+   "size": 42,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "-0.84px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.29,
+   "measureCh": 42
+  },
+  "nav": {
+   "family": "Regola",
+   "size": 15,
+   "weight": "500",
+   "lineHeight": 1.33,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Regola",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.31,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 15,
+   "count": 35
+  },
+  {
+   "px": 17,
+   "count": 32
+  },
+  {
+   "px": 42,
+   "count": 12
+  },
+  {
+   "px": 16,
+   "count": 5
+  },
+  {
+   "px": 64,
+   "count": 5
+  },
+  {
+   "px": 20,
+   "count": 4
+  },
+  {
+   "px": 14,
+   "count": 3
+  },
+  {
+   "px": 56,
+   "count": 3
+  },
+  {
+   "px": 12,
+   "count": 1
+  },
+  {
+   "px": 19,
+   "count": 1
+  },
+  {
+   "px": 34,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(240, 238, 238)",
+  "textColors": [
+   {
+    "color": "rgb(251, 212, 212)",
+    "count": 35
+   },
+   {
+    "color": "rgb(27, 24, 23)",
+    "count": 22
+   },
+   {
+    "color": "rgb(81, 75, 74)",
+    "count": 12
+   },
+   {
+    "color": "rgb(251, 251, 251)",
+    "count": 5
+   },
+   {
+    "color": "rgb(245, 177, 235)",
+    "count": 4
+   },
+   {
+    "color": "rgb(251, 218, 246)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 11
+   },
+   {
+    "color": "rgb(90, 0, 15)",
+    "count": 7
+   },
+   {
+    "color": "rgb(42, 29, 40)",
+    "count": 2
+   },
+   {
+    "color": "rgb(241, 230, 239)",
+    "count": 2
+   },
+   {
+    "color": "rgb(223, 231, 246)",
+    "count": 2
+   },
+   {
+    "color": "rgb(205, 19, 10)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.1)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(27, 24, 23)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(27, 24, 23)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(45, 0, 7)",
+    "color": "rgb(251, 251, 251)",
+    "radius": "52px",
+    "padding": "12px 24px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(251, 212, 212)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(81, 75, 74)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "52px",
+    "count": 19
+   },
+   {
+    "radius": "24px",
+    "count": 7
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(27, 24, 23) 0px 0px 0px 4px",
+    "count": 6
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.12) 0px 0px 5px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "73px",
+    "count": 1
+   },
+   {
+    "padding": "50px",
+    "count": 1
+   },
+   {
+    "padding": "64px",
+    "count": 1
+   },
+   {
+    "padding": "100px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 4
+   },
+   {
+    "maxWidth": "740px",
+    "count": 4
+   },
+   {
+    "maxWidth": "613px",
+    "count": 3
+   },
+   {
+    "maxWidth": "620px",
+    "count": 2
+   },
+   {
+    "maxWidth": "900px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 5.29,
+  "linkCount": 44
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "linear",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

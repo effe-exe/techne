@@ -1,0 +1,229 @@
+{
+ "url": "https://www.scmp.com/infographic",
+ "capturedAt": "2026-10-27T07:48:57.863Z",
+ "viewport": "1440x900",
+ "title": "SCMP Infographics",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Roboto",
+    "count": 43
+   },
+   {
+    "family": "Merriweather",
+    "count": 31
+   }
+  ],
+  "h1": {
+   "family": "Merriweather",
+   "size": 30,
+   "weight": "900",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Merriweather",
+   "size": 20,
+   "weight": "900",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.38,
+   "measureCh": 44
+  },
+  "nav": null,
+  "button": {
+   "family": "Roboto",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.71,
+   "tracking": "normal",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 21
+  },
+  {
+   "px": 14,
+   "count": 21
+  },
+  {
+   "px": 18,
+   "count": 20
+  },
+  {
+   "px": 20,
+   "count": 6
+  },
+  {
+   "px": 10,
+   "count": 1
+  },
+  {
+   "px": 15,
+   "count": 1
+  },
+  {
+   "px": 16,
+   "count": 1
+  },
+  {
+   "px": 21,
+   "count": 1
+  },
+  {
+   "px": 23,
+   "count": 1
+  },
+  {
+   "px": 30,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(39, 41, 45)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 44
+   },
+   {
+    "color": "rgb(97, 97, 97)",
+    "count": 21
+   },
+   {
+    "color": "rgb(212, 212, 212)",
+    "count": 6
+   },
+   {
+    "color": "rgb(190, 191, 192)",
+    "count": 2
+   },
+   {
+    "color": "rgb(190, 187, 183)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(29, 30, 32)",
+    "count": 6
+   },
+   {
+    "color": "rgb(29, 31, 33)",
+    "count": 2
+   },
+   {
+    "color": "rgb(39, 41, 45)",
+    "count": 2
+   },
+   {
+    "color": "rgb(38, 41, 46)",
+    "count": 1
+   },
+   {
+    "color": "rgba(255, 255, 255, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(34, 34, 34)",
+    "radius": "2px",
+    "padding": "8px 0px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "5px",
+    "padding": "12px 6px",
+    "size": 14,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50%",
+    "count": 3
+   },
+   {
+    "radius": "5px",
+    "count": 2
+   },
+   {
+    "radius": "2px",
+    "count": 1
+   },
+   {
+    "radius": "42px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1200px",
+    "count": 4
+   }
+  ],
+  "pageHeightPx": 4939,
+  "mediaCoverage": 0.3,
+  "linkCount": 343
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.4s",
+    "count": 80
+   },
+   {
+    "duration": "0.5s",
+    "count": 9
+   },
+   {
+    "duration": "1s, 0.1s",
+    "count": 1
+   },
+   {
+    "duration": "0.22s",
+    "count": 1
+   },
+   {
+    "duration": "0.1s, 0.1s",
+    "count": 1
+   },
+   {
+    "duration": "1s, 1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 3
+   },
+   {
+    "easing": "cubic-bezier(0.25, 0.8, 0.25, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

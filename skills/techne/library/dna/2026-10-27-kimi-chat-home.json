@@ -1,0 +1,216 @@
+{
+ "url": "https://www.kimi.com",
+ "capturedAt": "2026-10-27T07:33:14.133Z",
+ "viewport": "1440x900",
+ "title": "Kimi AI 官网：K3.1 Pro 上线，编程与智能体任务全面升级",
+ "lang": "zh-CN",
+ "fonts": {
+  "families": [
+   {
+    "family": "-apple-system",
+    "count": 14
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": null,
+  "nav": null,
+  "button": {
+   "family": "-apple-system",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 14
+  }
+ ],
+ "color": {
+  "background": "rgb(251, 250, 249)",
+  "textColors": [
+   {
+    "color": "rgba(0, 0, 0, 0.9)",
+    "count": 9
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.45)",
+    "count": 3
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.6)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.05)",
+    "count": 1
+   },
+   {
+    "color": "rgb(251, 250, 249)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.15)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.45)",
+    "radius": "8px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgba(0, 0, 0, 0.9)",
+    "radius": "12px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.9)",
+    "radius": "10px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.45)",
+    "radius": "8px",
+    "padding": "0px 6px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.9)",
+    "radius": "20px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "10px",
+    "count": 9
+   },
+   {
+    "radius": "6px",
+    "count": 6
+   },
+   {
+    "radius": "8px",
+    "count": 4
+   },
+   {
+    "radius": "4px",
+    "count": 4
+   },
+   {
+    "radius": "20px",
+    "count": 3
+   },
+   {
+    "radius": "12px",
+    "count": 2
+   },
+   {
+    "radius": "24px",
+    "count": 1
+   },
+   {
+    "radius": "22px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.07) 0px 5px 16px -4px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "768px",
+    "count": 1
+   },
+   {
+    "maxWidth": "728px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.01,
+  "linkCount": 10
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s, 0.15s, 0.15s",
+    "count": 11
+   },
+   {
+    "duration": "0.3s",
+    "count": 4
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 4
+   },
+   {
+    "duration": "0.16s",
+    "count": 3
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 2
+   },
+   {
+    "duration": "0.15s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease, ease",
+    "count": 12
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 4
+   },
+   {
+    "easing": "ease, ease",
+    "count": 3
+   },
+   {
+    "easing": "ease, cubic-bezier(0.23, 1, 0.32, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

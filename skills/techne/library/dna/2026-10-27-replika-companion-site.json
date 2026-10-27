@@ -1,0 +1,295 @@
+{
+ "url": "https://replika.com",
+ "capturedAt": "2026-10-27T07:34:19.153Z",
+ "viewport": "1440x900",
+ "title": "Replika | The AI Friend to do Life With",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Pangea",
+    "count": 66
+   }
+  ],
+  "h1": {
+   "family": "Pangea",
+   "size": 110,
+   "weight": "700",
+   "lineHeight": 0.82,
+   "tracking": "-6.9px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Pangea",
+   "size": 48,
+   "weight": "600",
+   "lineHeight": 1.04,
+   "tracking": "-1.68px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.25,
+   "measureCh": 31
+  },
+  "nav": null,
+  "button": {
+   "family": "Pangea",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 47
+  },
+  {
+   "px": 12,
+   "count": 5
+  },
+  {
+   "px": 48,
+   "count": 4
+  },
+  {
+   "px": 24,
+   "count": 3
+  },
+  {
+   "px": 110,
+   "count": 2
+  },
+  {
+   "px": 14,
+   "count": 1
+  },
+  {
+   "px": 28,
+   "count": 1
+  },
+  {
+   "px": 54,
+   "count": 1
+  },
+  {
+   "px": 72,
+   "count": 1
+  },
+  {
+   "px": 120,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(36, 36, 51)",
+    "count": 21
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 16
+   },
+   {
+    "color": "rgba(36, 36, 51, 0.8)",
+    "count": 9
+   },
+   {
+    "color": "rgb(50, 50, 50)",
+    "count": 5
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.5)",
+    "count": 5
+   },
+   {
+    "color": "rgb(255, 244, 236)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 10
+   },
+   {
+    "color": "rgb(61, 20, 34)",
+    "count": 6
+   },
+   {
+    "color": "rgb(1, 44, 51)",
+    "count": 6
+   },
+   {
+    "color": "rgb(24, 62, 206)",
+    "count": 5
+   },
+   {
+    "color": "rgb(248, 246, 246)",
+    "count": 3
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.2)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgba(255, 255, 255, 0.12)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "100px",
+    "padding": "16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 87, 54)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "100px",
+    "padding": "24px 36px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 87, 54)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "100px",
+    "padding": "24px 36px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(36, 36, 51)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50%",
+    "count": 20
+   },
+   {
+    "radius": "60px",
+    "count": 10
+   },
+   {
+    "radius": "100px",
+    "count": 8
+   },
+   {
+    "radius": "40px",
+    "count": 7
+   },
+   {
+    "radius": "0px 20% 20% 0px / 0px 50% 50% 0px",
+    "count": 5
+   },
+   {
+    "radius": "56px",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(222, 249, 255, 0.3) 0px -1px 24px -10px inset",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(34, 36, 48, 0.12) 0px 14px 42px 0px, rgba(255, 255, 255, 0.72) 0px 1px 0px 0px inset",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(222, 249, 255, 0.7) 0px -4px 24px 0px inset",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "64px",
+    "count": 1
+   },
+   {
+    "padding": "50px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "312px",
+    "count": 6
+   },
+   {
+    "maxWidth": "373px",
+    "count": 5
+   },
+   {
+    "maxWidth": "360px",
+    "count": 5
+   },
+   {
+    "maxWidth": "1180px",
+    "count": 3
+   },
+   {
+    "maxWidth": "362px",
+    "count": 3
+   }
+  ],
+  "pageHeightPx": 9768,
+  "mediaCoverage": 1.26,
+  "linkCount": 21
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.5s",
+    "count": 5
+   },
+   {
+    "duration": "0.35s, 0.35s",
+    "count": 5
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 5
+   },
+   {
+    "duration": "0.8s",
+    "count": 2
+   },
+   {
+    "duration": "0.42s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 10
+   },
+   {
+    "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

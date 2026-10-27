@@ -1,0 +1,239 @@
+{
+ "url": "https://www.midjourney.com/explore",
+ "capturedAt": "2026-10-27T07:21:49.492Z",
+ "viewport": "1440x900",
+ "title": "Explore",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "DM Sans",
+    "count": 17
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 14,
+   "lineHeight": 1.71,
+   "measureCh": 7
+  },
+  "nav": {
+   "family": "DM Sans",
+   "size": 18,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "0.45px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "DM Sans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 14
+  },
+  {
+   "px": 16,
+   "count": 2
+  },
+  {
+   "px": 18,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(46, 48, 56)",
+    "count": 8
+   },
+   {
+    "color": "rgb(69, 73, 84)",
+    "count": 4
+   },
+   {
+    "color": "rgb(242, 51, 13)",
+    "count": 3
+   },
+   {
+    "color": "rgb(115, 121, 140)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "oklab(0.623707 0.193733 0.122181 / 0.1)",
+    "count": 2
+   },
+   {
+    "color": "rgb(227, 228, 232)",
+    "count": 2
+   },
+   {
+    "color": "rgb(252, 252, 253)",
+    "count": 1
+   },
+   {
+    "color": "rgb(241, 242, 244)",
+    "count": 1
+   },
+   {
+    "color": "rgb(254, 235, 231)",
+    "count": 1
+   },
+   {
+    "color": "oklab(0.991342 0.000416636 -0.00124443 / 0.5)",
+    "count": 1
+   },
+   {
+    "color": "rgb(252, 252, 252)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(69, 73, 84)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(46, 48, 56)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(252, 252, 253)",
+    "color": "rgb(242, 51, 13)",
+    "radius": "9999px",
+    "padding": "6px 12px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(252, 252, 253)",
+    "color": "rgb(115, 121, 140)",
+    "radius": "9999px",
+    "padding": "6px 12px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "oklab(0.310448 0.00113495 -0.0145323 / 0.2)",
+    "radius": "6px",
+    "padding": "6px 8px",
+    "size": 14,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 57
+   },
+   {
+    "radius": "2px",
+    "count": 24
+   },
+   {
+    "radius": "6px",
+    "count": 2
+   },
+   {
+    "radius": "12px 2px 2px",
+    "count": 1
+   },
+   {
+    "radius": "2px 12px 2px 2px",
+    "count": 1
+   },
+   {
+    "radius": "9999px 0px 0px 9999px",
+    "count": 1
+   },
+   {
+    "radius": "0px 9999px 9999px 0px",
+    "count": 1
+   },
+   {
+    "radius": "12px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.623707 0.193733 0.122181 / 0.05) 0px 10px 15px -3px, oklab(0.623707 0.193733 0.122181 / 0.05) 0px 4px 6px -4px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.623707 0.193733 0.122181 / 0.1) 0px 0px 0px 1px inset, oklab(0.623707 0.193733 0.122181 / 0.05) 0px 10px 15px -3px, oklab(0.623707 0.193733 0.122181 / 0.05) 0px 4px 6px -4px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(51, 51, 51, 0.05) 0px 7px 21px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1608px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.01,
+  "linkCount": 43
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 57
+   },
+   {
+    "duration": "0.2s",
+    "count": 9
+   },
+   {
+    "duration": "0.1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 41
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

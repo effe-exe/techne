@@ -1,0 +1,107 @@
+{
+ "url": "https://earth.nullschool.net",
+ "capturedAt": "2026-10-27T08:29:54.513Z",
+ "viewport": "1440x900",
+ "title": "earth :: a global map of wind, weather, and ocean conditions",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "MPLUS1-base",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "MPLUS1-base",
+   "size": 18,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": null,
+  "nav": null,
+  "button": {
+   "family": "MPLUS1-base",
+   "size": 18,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 1
+  },
+  {
+   "px": 18,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 5)",
+  "textColors": [
+   {
+    "color": "rgb(151, 151, 151)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(0, 0, 5, 0.85)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgba(0, 0, 5, 0.85)",
+    "color": "rgb(151, 151, 151)",
+    "radius": "8px",
+    "padding": "5.2px 16px",
+    "size": 18,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(151, 151, 151)",
+    "radius": "4px",
+    "padding": "0px 8px",
+    "size": 13,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 2
+   },
+   {
+    "radius": "20%",
+    "count": 1
+   },
+   {
+    "radius": "4px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 900,
+  "mediaCoverage": 6,
+  "linkCount": 35
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

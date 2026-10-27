@@ -1,0 +1,204 @@
+{
+ "url": "https://www.vitsoe.com",
+ "capturedAt": "2026-10-27T07:20:14.580Z",
+ "viewport": "1440x900",
+ "title": "Vitsœ",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "Linotype Univers W01",
+    "count": 69
+   }
+  ],
+  "h1": {
+   "family": "Linotype Univers W01",
+   "size": 32,
+   "weight": "700",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Linotype Univers W01",
+   "size": 32,
+   "weight": "700",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 17,
+   "lineHeight": 1.41,
+   "measureCh": 40
+  },
+  "nav": {
+   "family": "Linotype Univers W01",
+   "size": 16,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Linotype Univers W01",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 2.86,
+   "tracking": "normal",
+   "transform": "capitalize"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 36
+  },
+  {
+   "px": 17,
+   "count": 15
+  },
+  {
+   "px": 32,
+   "count": 7
+  },
+  {
+   "px": 14,
+   "count": 6
+  },
+  {
+   "px": 13,
+   "count": 5
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 57
+   },
+   {
+    "color": "rgb(0, 115, 177)",
+    "count": 11
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(240, 240, 240)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.5)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px 21px 0px 0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "1px 6px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 115, 177)",
+    "radius": "2px",
+    "padding": "0px 25px 0px 0px",
+    "size": 16,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 115, 177)",
+    "radius": "2px",
+    "padding": "0px 25px 0px 0px",
+    "size": 16,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 115, 177)",
+    "radius": "2px",
+    "padding": "0px 25px 0px 0px",
+    "size": 16,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "2px",
+    "count": 5
+   },
+   {
+    "radius": "3px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1110px",
+    "count": 9
+   },
+   {
+    "maxWidth": "137px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 3163,
+  "mediaCoverage": 0.21,
+  "linkCount": 65
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 3
+   },
+   {
+    "duration": "0.6s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.19, 1.12, 0.26, 0.97)",
+    "count": 1
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "url": "https://www.meetcarrot.com/weather/",
+ "capturedAt": "2026-10-27T08:05:49.362Z",
+ "viewport": "1440x900",
+ "title": "CARROT Weather for iOS and Android",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "-apple-system",
+    "count": 23
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 16,
+   "lineHeight": 1.4,
+   "measureCh": 39
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 11
+  },
+  {
+   "px": 18,
+   "count": 10
+  },
+  {
+   "px": 22,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 12
+   },
+   {
+    "color": "rgb(133, 133, 133)",
+    "count": 11
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(10, 125, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "80px",
+    "count": 1
+   },
+   {
+    "padding": "30px",
+    "count": 1
+   },
+   {
+    "padding": "22px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1100px",
+    "count": 5
+   },
+   {
+    "maxWidth": "230px",
+    "count": 2
+   },
+   {
+    "maxWidth": "762px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 1884,
+  "mediaCoverage": 0.25,
+  "linkCount": 8
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

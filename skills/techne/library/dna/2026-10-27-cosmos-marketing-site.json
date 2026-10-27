@@ -1,0 +1,302 @@
+{
+ "url": "https://www.cosmos.so",
+ "capturedAt": "2026-10-27T07:10:23.662Z",
+ "viewport": "1440x900",
+ "title": "Cosmos",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "cosmosOracle",
+    "count": 85
+   }
+  ],
+  "h1": {
+   "family": "cosmosOracle",
+   "size": 72,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "-2.88px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "cosmosOracle",
+   "size": 48,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "-1.92px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.4,
+   "measureCh": 48
+  },
+  "nav": {
+   "family": "cosmosOracle",
+   "size": 20,
+   "weight": "500",
+   "lineHeight": 1.15,
+   "tracking": "-2%",
+   "transform": "none"
+  },
+  "button": {
+   "family": "cosmosOracle",
+   "size": 15,
+   "weight": "500",
+   "lineHeight": 1.47,
+   "tracking": "-0.28125px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 20,
+   "count": 32
+  },
+  {
+   "px": 14,
+   "count": 21
+  },
+  {
+   "px": 72,
+   "count": 10
+  },
+  {
+   "px": 16,
+   "count": 7
+  },
+  {
+   "px": 26,
+   "count": 6
+  },
+  {
+   "px": 12,
+   "count": 3
+  },
+  {
+   "px": 15,
+   "count": 3
+  },
+  {
+   "px": 48,
+   "count": 3
+  }
+ ],
+ "color": {
+  "background": "lab(100 0 0)",
+  "textColors": [
+   {
+    "color": "lab(3.63782 -0.00000745058 0)",
+    "count": 43
+   },
+   {
+    "color": "lab(62.6934 0.986487 0.930774)",
+    "count": 23
+   },
+   {
+    "color": "lab(45.1621 1.47596 1.15491)",
+    "count": 9
+   },
+   {
+    "color": "lab(82.6468 1.06323 0.382411)",
+    "count": 6
+   },
+   {
+    "color": "lab(100 0 0)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "lab(95.1978 0.212193 0.601578)",
+    "count": 54
+   },
+   {
+    "color": "lab(100 0 0)",
+    "count": 42
+   },
+   {
+    "color": "lab(96.648 0.426352 1.20401)",
+    "count": 9
+   },
+   {
+    "color": "oklab(0.958598 0.000632644 0.00159627 / 0.9)",
+    "count": 1
+   },
+   {
+    "color": "oklab(0.999998 -0.00000980496 0.0000234246 / 0.2)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "lab(3.63782 -0.00000745058 0)",
+    "color": "lab(100 0 0)",
+    "radius": "3.35544e+07px",
+    "padding": "16px 24px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": "lab(100 0 0)",
+    "color": "lab(3.63782 -0.00000745058 0)",
+    "radius": "3.35544e+07px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": "lab(3.63782 -0.00000745058 0)",
+    "color": "lab(100 0 0)",
+    "radius": "3.35544e+07px",
+    "padding": "16px 24px",
+    "size": 16,
+    "weight": "700"
+   },
+   {
+    "bg": "oklch(0.999998 0.0000253939 none / 0.4)",
+    "color": "lab(3.63782 -0.00000745058 0)",
+    "radius": "3.35544e+07px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "lab(100 0 0)",
+    "radius": "3.35544e+07px",
+    "padding": "10px 4px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 61
+   },
+   {
+    "radius": "16px",
+    "count": 20
+   },
+   {
+    "radius": "12px",
+    "count": 8
+   },
+   {
+    "radius": "8px",
+    "count": 8
+   },
+   {
+    "radius": "999px",
+    "count": 6
+   },
+   {
+    "radius": "25%",
+    "count": 2
+   },
+   {
+    "radius": "24px 24px 0px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 8px 0px",
+    "count": 18
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 3px 12px 0px",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.02) 0px 2px 12px 0px, rgba(0, 0, 0, 0.1) 0px 4px 16px 0px",
+    "count": 3
+   },
+   {
+    "shadow": "rgba(255, 255, 255, 0.7) 0px 1px 1.5px 0px inset, rgba(0, 0, 0, 0.03) 0px -1px 1.5px 0px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "24px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "384px",
+    "count": 8
+   },
+   {
+    "maxWidth": "1200px",
+    "count": 1
+   },
+   {
+    "maxWidth": "640px",
+    "count": 1
+   },
+   {
+    "maxWidth": "768px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 3625,
+  "mediaCoverage": 0.56,
+  "linkCount": 66
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.4s",
+    "count": 55
+   },
+   {
+    "duration": "0.15s",
+    "count": 40
+   },
+   {
+    "duration": "0.7s",
+    "count": 16
+   },
+   {
+    "duration": "0.2s",
+    "count": 12
+   },
+   {
+    "duration": "0.5s",
+    "count": 3
+   },
+   {
+    "duration": "1.25s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 67
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 57
+   },
+   {
+    "easing": "ease-out",
+    "count": 1
+   },
+   {
+    "easing": "ease-out, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,348 @@
+- url: https://www.brex.com
+  reason: "Competent but conventional (Inter 72/600 hero, email capture, orange CTA, 3D card render); same lessons covered better by Ramp and Mercury entries — redundant, originality 3/evidence 2"
+  date: 2026-10-27
+- url: https://superhuman.com
+  reason: "Post-rebrand umbrella site (Mail, Docs, AI): stock-photo hero with glass panels, diluted product story, no reduced-motion CSS; total 16/25"
+  date: 2026-10-27
+- url: https://www.loom.com
+  reason: "Competent but conventional SaaS landing (blue CTA pair, video hero, promo bar); nothing transferable beyond convention; total 15/25"
+  date: 2026-10-27
+- url: https://pitch.com
+  reason: "180px headline over prompt-box hero is now a commodity AI-landing pattern; WebGL, no reduced-motion CSS; total 16/25"
+  date: 2026-10-27
+- url: https://amie.so
+  reason: "Pivoted to AI note taker; generic Inter landing with badges; total 14/25"
+  date: 2026-10-27
+- url: https://height.app
+  reason: "Could not load (proxy: upstream request failed); Height publicly announced its shutdown in 2025 — not a live exemplar"
+  date: 2026-10-27
+- url: https://reflect.app
+  reason: "Dark purple-glow 'Linear-era' template; one good detail (pricing stated under CTAs) but not distinctive; total 15/25"
+  date: 2026-10-27
+- url: https://www.airtable.com
+  reason: "Hero visual failed to render at capture; remaining fold is a generic headline + CTA pair; total 15/25"
+  date: 2026-10-27
+- url: https://readwise.io/read
+  reason: "Solid but conventional dark-gradient hero with device mockups; nothing distinct to steal; total 16/25"
+  date: 2026-10-27
+- url: https://structured.app
+  reason: "Fold is a full-bleed café lifestyle video with no headline or product visible (pause/mute controls present); clarity 2; total 14/25"
+  date: 2026-10-27
+- url: https://www.sunsama.com
+  reason: "Conventional SaaS hero; cookie banner offers only 'Accept' with preferences buried in a text link (consent asymmetry); total 16/25"
+  date: 2026-10-27
+- url: https://whimsical.com
+  reason: "Competent gradient-landscape hero with product shot; little that is transferable or distinct; total 16/25"
+  date: 2026-10-27
+- url: https://coda.io
+  reason: "Brand in transition (now Superhuman Docs): page leads with a rename notice; revisit after the redesign settles"
+  date: 2026-10-27
+- url: https://slack.com
+  reason: "Enterprise-standard Salesforce-era landing (purple CTA pair, logo wall, Slackbot mock); Slack's craft lives in the app; total 16/25"
+  date: 2026-10-27
+- url: https://spline.design
+  reason: "Prompt-box hero on black is now a commodity AI pattern; product's 3D craft not visible at the fold; total 15/25"
+  date: 2026-10-27
+- url: https://www.folk.app
+  reason: "Clean but generic CRM landing; email + team-size field in hero adds friction; total 16/25"
+  date: 2026-10-27
+- url: https://www.plain.com
+  reason: "Generic green SaaS landing; cookie banner offers only 'Accept'; total 15/25"
+  date: 2026-10-27
+- url: https://www.allbirds.com
+  reason: "First load stacks three overlays (10%-off email+SMS capture modal over cookie banner plus floating chat) that hide the product; brand craft is fine but the commerce lesson is negative and not instructive enough for an anti-example (no deception: cookie Accept/Decline are equal weight)"
+  date: 2026-10-27
+- url: https://www.on.com/en-us/
+  reason: "First load is a full-viewport email-capture modal ('10% off when you spend $125 or more') covering the hero; store design not assessable without interaction, and the interstitial is the opposite of the lesson we want"
+  date: 2026-10-27
+- url: https://runwayml.com
+  reason: "Cookie dialog ships with Functional/Analytics/Advertising toggles pre-enabled plus urgency promo bar; hero is generic stock-style video + 'Intelligent tools for scaling content' copy — ethics fail without a distinct product lesson"
+  date: 2026-10-27
+- url: https://www.notion.com/product/ai
+  reason: "Same identity system as existing entry 2026-10-27-notion-marketing-site (NotionInter 64/700, blue 0,117,222 CTA, line-drawn characters); AI page adds only a feature-tab row — redundant, total 17 with originality 3"
+  date: 2026-10-27
+- url: https://www.krea.ai
+  reason: "Cinematic monitor-on-desk hero is well lit but generic; superlative headline ('world's most powerful'), 11-item nav, real-time canvas (Krea's actual innovation) not shown; only notable detail is a CSS linear() spring easing; total 15/25"
+  date: 2026-10-27
+- url: https://www.everlane.com
+  reason: "First load is a 20%/25%-off email+SMS capture modal over the hero; the famous cost-transparency breakdowns were not visible on the homepage capture, so nothing instructive could be verified"
+  date: 2026-10-27
+- url: https://bellroy.com
+  reason: "Competent but conventional carousel hero (GT Ultra 900 caps 'Proven. 16 years and counting…', search bar, category tiles); the distinctive 'slim your wallet' comparison was not on the observed surface — total 15/25"
+  date: 2026-10-27
+- url: https://n26.com/en-eu
+  reason: "Solid but redundant with Monzo/Mercury (N26-Extended 80px headline over lifestyle video, teal palette); cookie dialog is exemplary (equal Reject All / Accept All) but the page itself adds no new principle — 16/25"
+  date: 2026-10-27
+- url: https://www.bunq.com
+  reason: "Generic execution (DM Sans 80/700 'bank of The Free', gradient glow, phone mock); consent dialog is fair (Accept all / Reject non-essential equal) but no transferable principle beyond what Monzo/Mercury entries teach — 15/25"
+  date: 2026-10-27
+- url: https://pika.art
+  reason: "Full-bleed fashion portrait + uppercase 'AI CREATIVE TOOLS BUILT FOR CREATIVES' reads as a brand ad; no product, prompt or output-in-context shown; generic claim copy; total 15/25"
+  date: 2026-10-27
+- url: https://www.hume.ai
+  reason: "Dark particle-cloud hero with 'Infrastructure to improve voice AI' — the expressive-voice product is not demonstrable on the fold; WebGL without reduced-motion CSS; generic B2B; total 15/25"
+  date: 2026-10-27
+- url: https://www.sonos.com/en-us/home
+  reason: "Conventional lifestyle-video hero (aktiv-grotesk 96/500 'Love the sound. Feel the system.', pill CTA); pause control is good but no principle beyond Apple Pay/Rapha entries — 16/25"
+  date: 2026-10-27
+- url: https://www.lemonsqueezy.com/pricing
+  reason: "Pricing page whose first viewport is an 80px slogan with no price or plan visible ('Simple pricing with no hidden fees' but the number is below the fold); weaker than Stripe/Paddle/Wise pricing entries — 15/25"
+  date: 2026-10-27
+- url: https://www.figma.com/make
+  reason: "Prompt box + three example chips ('Onboarding flow', 'Data dashboard', 'Gradient gallery') under a grey 44px figmaSans headline — same pattern as v0/Bolt entries with less scaffolding; promo banner covers fold; total 16/25"
+  date: 2026-10-27
+- url: https://fin.ai
+  reason: "100px Serrif hero with abstract 3D orange tube render shows no agent or conversation; cookie notice discloses session recording/chat capture with only implied consent ('by continuing') and no decline; total 15/25"
+  date: 2026-10-27
+- url: https://superwhisper.com
+  reason: "Clean OS-pair download buttons over a profile photo, but no demonstration of the dictation; same lessons covered better by the Wispr Flow entry; total 16/25"
+  date: 2026-10-27
+- url: https://manus.im
+  reason: "Fold is an empty prompt box with no placeholder or examples under a small 'Introducing Manus 2.0' video thumbnail — blank-canvas problem unsolved; no reduced-motion CSS; total 13/25"
+  date: 2026-10-27
+- url: https://www.photoroom.com
+  reason: "Benefit headline 'Sell at first sight' with a 'Describe the visuals you want' box beside a raw product photo — conventional prompt hero; background-removal magic (the product's signature) not demonstrated; promo bar; total 16/25"
+  date: 2026-10-27
+- url: https://www.udio.com
+  reason: "Generic dark hero ('Make your music') with neon-pink waveform glow and single CTA; no prompt, sample or output visible; consent banner itself is fair (Decline All equal weight); total 14/25"
+  date: 2026-10-27
+- url: https://www.deepseek.com
+  reason: "Prompt hero with DeepThink/Search toggles, release note as eyebrow and 中文/EN switch is tidy but conventional ('Into the Unknown' headline, blue cloud gradient); lessons covered by Perplexity and Kimi entries; total 16/25"
+  date: 2026-10-27
+- url: https://www.prometheusfuels.com
+  reason: "Awwwards SOTY 2021 experience no longer live: replaced by a generic template (Plus Jakarta Sans 50 uppercase hero over aerial photo, red pill CTA, no WebGL); nothing award-grade left to study"
+  date: 2026-10-27
+- url: https://staratlas.com
+  reason: "Email-capture 'Early Access' modal covers the hero on first load (marketing consent bundled into the CTA); play-to-earn crypto framing; site has drifted from its 2021 award version"
+  date: 2026-10-27
+- url: https://www.14islands.com
+  reason: "First screen was near-blank at capture (two small labels; content animates in late); per-letter split type otherwise conventional; total 16/25"
+  date: 2026-10-27
+- url: https://www.ohzi.io
+  reason: "Generic floating-3D-cube hero with glass 'EXPLORE' button; cookie-notice text near-invisible (fails contrast); originality 2, total 14/25"
+  date: 2026-10-27
+- url: https://zajno.com
+  reason: "Capture landed mid-transition (dark band plus exploded lens render); positioning is a generic list of Webflow/branding/3D services; originality 3, total 15/25"
+  date: 2026-10-27
+- url: https://pitchfork.com
+  reason: "A ~330px empty ad slot plus a subscribe band fill the fold; below it a conventional Condé grid; total 15/25"
+  date: 2026-10-27
+- url: https://www.itsnicethat.com
+  reason: "Cookie modal covers half the fold and warns 'your experience may be disrupted until you accept cookies'; remaining feed is conventional; total 16/25"
+  date: 2026-10-27
+- url: https://eyeondesign.aiga.org
+  reason: "Fold is a single animated GIF with no headline; salmon-on-white logo and nav are low contrast; total 14/25"
+  date: 2026-10-27
+- url: https://informationisbeautiful.net
+  reason: "Homepage led by a gradient workshop promo with overlapping 'SOLD OUT' stickers; light-grey headline; craft has aged; total 15/25"
+  date: 2026-10-27
+- url: https://www.serpentinegalleries.org
+  reason: "Consent modal (good: equal Deny) hides the entire hero; visible remainder is a conventional carousel; total 16/25"
+  date: 2026-10-27
+- url: https://www.artsy.net
+  reason: "Generic marketplace hero (phone mockup + Sign Up) and cookie bar with 'Accept All' button vs 'Manage Cookies' link, no reject; total 15/25"
+  date: 2026-10-27
+- url: https://www.dezeen.com
+  reason: "Fold dominated by a 330px urgency ad ('Tickets selling fast. Don't miss out!') plus ad tile and newsletter bar; total 13/25"
+  date: 2026-10-27
+- url: https://hyperallergic.com
+  reason: "Competent but conventional three-column news layout; lock icons on paid bylines are the only distinctive detail; total 15/25"
+  date: 2026-10-27
+- url: https://daily.bandcamp.com
+  reason: "Clean but conventional magazine grid; honest 'Accept necessary only' modal already covered by better entries; total 16/25"
+  date: 2026-10-27
+- url: https://www.npr.org
+  reason: "Conventional news grid with large sponsor block; nothing distinct to steal; total 15/25"
+  date: 2026-10-27
+- url: https://nautil.us
+  reason: "~300px empty ad gap and stock-style illustration at the fold; total 14/25"
+  date: 2026-10-27
+- url: https://artsandculture.google.com
+  reason: "Generic Material card fan plus a stacked personalisation upsell with low-contrast 'No, thanks'; total 16/25"
+  date: 2026-10-27
+- url: https://designmuseum.org
+  reason: "Cookiebot modal (26 third parties) covers the entire fold; could not assess the design; total 13/25"
+  date: 2026-10-27
+- url: https://www.vam.ac.uk
+  reason: "Consent modal with 'Accept all' button vs tiny 'Continue without accepting' link (100 partners) obscures the hero; total 14/25"
+  date: 2026-10-27
+- url: https://monocle.com
+  reason: "Fold filled by an in-house magazine ad plus a Cookiebot panel; masthead strong but content not assessable; total 15/25"
+  date: 2026-10-27
+- url: https://www.theparisreview.org
+  reason: "~300px empty ad slot above the masthead; below is a solid but conventional list; total 16/25"
+  date: 2026-10-27
+- url: https://www.typewolf.com
+  reason: "Stale: newest Site of the Day posts dated Dec 2025 (~10 months old at capture); revisit if publishing resumes"
+  date: 2026-10-27
+- url: https://usafacts.org
+  reason: "Pleasant highlighted-phrase hero with pause control, but generic SaaS-style cards and little that is distinct; total 16/25"
+  date: 2026-10-27
+- url: https://www.lemonde.fr
+  reason: "Redirected to /en; consent wall (307 partners) blurs the entire page, 'Reject all cookies' placed outside the dialog; design not assessable"
+  date: 2026-10-27
+- url: https://032c.com
+  reason: "Store-first product grid with a black headline panel; conventional commerce layout for an editorial brand; total 16/25"
+  date: 2026-10-27
+- url: https://lithub.com
+  reason: "Dot-pager carousel hero and a blank gap below the fold; letterspaced caps nav is the only distinct trait; total 15/25"
+  date: 2026-10-27
+- url: https://www.dji.com/global
+  reason: "2026-10-27 brand-product-marketing: competent but generic template hero (centred name + two outline pills over product photo, Open Sans); originality 2, total 14"
+  date: 2026-10-27
+- url: https://www.aceandtate.com/us
+  reason: "2026-10-27 brand-product-marketing: solid but standard split-portrait fashion hero; no transferable principle beyond library's existing commerce entries (16)"
+  date: 2026-10-27
+- url: https://ritual.com
+  reason: "2026-10-27 brand-product-marketing: homepage led by sale promo; consent offers Accept All/Manage only (no reject); generic DTC (16)"
+  date: 2026-10-27
+- url: https://www.apple.com/apple-watch-ultra-3/
+  reason: "2026-10-27: redirected to /watch/ lineup page, same chapter-nav template as Apple iPhone lineup entry; redundant"
+  date: 2026-10-27
+- url: https://fromourplace.com
+  reason: "2026-10-27 brand-product-marketing: hero media blank at capture; implied-consent cookie banner; otherwise conventional DTC (16)"
+  date: 2026-10-27
+- url: https://www.ferrari.com/en-EN
+  reason: "2026-10-27 brand-product-marketing: first screen fully obscured by consent layer; could not assess design beyond it"
+  date: 2026-10-27
+- url: https://www.awaytravel.com
+  reason: "2026-10-27 brand-product-marketing: conventional DTC caps hero and promo carousel; nothing not already covered (16)"
+  date: 2026-10-27
+- url: https://anydistance.club
+  reason: "ADA 2023 Visuals winner, but the live site now carries injected Polish online-casino SEO copy ('nv kasyno logowanie', 'legalne polskie kasyno online') — domain compromised/sold; cannot be cited as an exemplar"
+  date: 2026-10-27
+- url: https://onuniverse.com
+  reason: "ADA 2023 Inclusivity winner, but banner reads 'Universe is shutting down' — not a currently-live product"
+  date: 2026-10-27
+- url: https://mela.recipes
+  reason: "ADA 2025 Interaction finalist; good (ui-serif 800 headline on yellow rgb(255,214,9), structured recipe view) but redundant with the Crouton entry (same category, same principle); total 17/25 with originality 3"
+  date: 2026-10-27
+- url: https://www.nike.com/nrc-app
+  reason: "2026-10-27 consumer-mobile-scale: official NRC page is a generic Nike.com lifestyle hero; app UI (guided runs) not verifiable from public page"
+  date: 2026-10-27
+- url: https://www.threads.com
+  reason: "2026-10-27 consumer-mobile-scale: logged-out web is a feed behind an Instagram-only login modal; derivative of X/Twitter, no transferable principle beyond Instagram entry (15)"
+  date: 2026-10-27
+- url: https://www.grab.com
+  reason: "2026-10-27 consumer-mobile-scale: corporate site (generic photo hero) does not represent the superapp; cookie layer offers Accept All/Settings only; app not verifiable"
+  date: 2026-10-27
+- url: https://www.gojek.com
+  reason: "2026-10-27 consumer-mobile-scale: corporate brand site, not the app; Accept All vs underlined Manage link; app not verifiable"
+  date: 2026-10-27
+- url: https://www.lyft.com
+  reason: "2026-10-27 consumer-mobile-scale: conventional split photo hero with promo banner; Uber rider entry covers the principle better (14)"
+  date: 2026-10-27
+- url: https://www.fifthstarlabs.com
+  reason: "Sky Guide (ADA 2024 Spatial finalist): fold is a stock-style aurora photo with 'Stargazing made easy.' and no product UI; nothing transferable observable; total 15/25"
+  date: 2026-10-27
+- url: https://tapbots.com/ivory/
+  reason: "Ivory (Tapbots canon): fold is a 3D rocket-and-elephant mascot render; product UI not visible, app craft not assessable from site; total 16/25"
+  date: 2026-10-27
+- url: https://mercuryweather.app
+  reason: "Mercury Weather: competent Inter 800 76px (-3.8px) gradient-text hero with feature chips on purple glow, but redundant with CARROT and Tide Guide entries; originality 3, total 16/25"
+  date: 2026-10-27
+- url: https://endel.io
+  reason: "Endel: grayscale device-lineup hero ('Backed by neuroscience' claim unsupported on fold); generic; total 15/25"
+  date: 2026-10-27
+- url: https://www.iorama.studio
+  reason: "IORAMA (Looom, ADA 2020): homepage now promotes Graintouch; Looom not shown, cannot assess the ADA product; total 14/25"
+  date: 2026-10-27
+- url: https://lumy.app
+  reason: "Lumy (ADA 2025 Delight finalist): fold is wordmark + QR code + award laurels only; no product UI to learn from; total 14/25"
+  date: 2026-10-27
+- url: https://opalapp.com
+  reason: "Opal (ADA 2025 Social Impact finalist): dark cave-photo hero 'Attention on autopilot.' with ticking hours-saved counter; conventional, product UI not shown; total 16/25"
+  date: 2026-10-27
+- url: https://speechify.com
+  reason: "Speechify (ADA 2025 Inclusivity winner): site is celebrity-voice marketing (all-caps headline, promo bar, celebrity avatars); the app's accessibility craft is not visible; total 15/25"
+  date: 2026-10-27
+- url: https://airmailapp.com
+  reason: "Airmail (ADA 2017): clean but conventional device-render hero ('Lightning Fast Mail Client'); nothing distinctive to steal; total 16/25"
+  date: 2026-10-27
+- url: https://3d4medical.com
+  reason: "Complete Anatomy (ADA 2016): two stacked OneTrust consent layers cover the fold; product design not assessable; total 13/25"
+  date: 2026-10-27
+- url: https://www.craft.do
+  reason: "Craft (ADA 2021 Interaction finalist): site returned 'ChunkLoadError | 500' on two loads; cannot verify live marketing surface — re-check next run"
+  date: 2026-10-27
+- url: https://www.colophon-foundry.org
+  reason: "Site now a 'Colophon has moved' notice: since March 2025 the library is sold via Monotype; not a live product surface"
+  date: 2026-10-27
+- url: https://velvetyne.fr
+  reason: "Homepage is a full-screen activist splash (strike-support statement) with no catalogue at the fold; libre-foundry UI not observable this visit"
+  date: 2026-10-27
+- url: https://optimo.ch
+  reason: "Animated cross-fading specimen headline on pink is pleasant but redundant with Klim/OH no two-size systems; 12px-only UI with low-contrast #999 links; total 17 but nothing new"
+  date: 2026-10-27
+- url: https://www.rawgraphs.io
+  reason: "Chart picker labelling each type with its data relationship is good but covered better by FT Visual Vocabulary; generic Georgia/Inter marketing craft; total 17, redundant"
+  date: 2026-10-27
+- url: https://www.visualcinnamon.com
+  reason: "Portfolio of an acclaimed dataviz designer but the site hero is a generic 'Unique & Beautiful Data Visualizations' headline over a hexagon blob; the work is not shown at the fold; total 16"
+  date: 2026-10-27
+- url: https://datavizcatalogue.com
+  reason: "Useful reference but dated craft (Helvetica 12.7px grey labels on blue circle icons) and a 'personalise ads' cookie bar with only 'Got it!' — no refuse option; ethics borderline, total 14"
+  date: 2026-10-27
+- url: https://www.swisstypefaces.com
+  reason: "Cropped giant serif fragments over hot-pink photos: strong mood but same lesson as Klim; low clarity at fold (no headline, cropped carousel CTAs); total 17, redundant"
+  date: 2026-10-27
+- url: https://jitter.video
+  reason: "Hero did not render at capture (blank white fold below nav); DNA shows strong craft (TWK Lausanne 80/800, CSS linear() spring easings) — revisit with a screenshot"
+  date: 2026-10-27
+- url: https://coolors.co
+  reason: "Bold Inter 110/800 hero with palette stacks, but a sponsor ad in the header and a floating VPN ad card dilute the fold; generator UX itself not observed on homepage; total 16"
+  date: 2026-10-27
+- url: https://www.unicorn.studio
+  reason: "Purple aurora glow on near-black with a serif-accent headline is now a commodity AI/SaaS look; product canvas not shown at fold; total 15"
+  date: 2026-10-27
+- url: https://www.affinity.studio
+  reason: "Strong 'Create freely' serif-swash headline (Affinity Serif 148px) but floating-artwork hero + individuals/enterprise CTA pair duplicates the Cavalry entry (both Canva); total 17, redundant"
+  date: 2026-10-27
+- url: https://www.protopie.io
+  reason: "Unsubstantiated '#1 AI-driven' superlative headline, generic purple-gradient SaaS fold, embedded demo blank at capture; total 14"
+  date: 2026-10-27
+- url: https://www.theatrejs.com
+  reason: "Generic dark-glow hero with green keyword and video poster; little transferable; project activity appears slow; total 15"
+  date: 2026-10-27
+- url: https://kepler.gl
+  reason: "Hero map/visual did not render at capture: navy band with headline and three CTAs only; nothing observable to steal"
+  date: 2026-10-27
+- url: https://www.linearity.io
+  reason: "Pivoted to an AI campaign generator; prompt-box hero with token pills on black is a commodity AI pattern; total 15"
+  date: 2026-10-27
+- url: https://origami.design
+  reason: "Stale: Origami Studio 3 page with iPhone 11 Pro mockups and a generic blue-CTA hero; little change in years; total 14"
+  date: 2026-10-27
+- url: https://spectrum.adobe.com
+  reason: "Spectrum Hub landing (centered H1, two image cards, banner) is a generic doc hub; transferable value captured via React Aria entry instead"
+  date: 2026-10-27
+- url: https://developer.mozilla.org/en-US/
+  reason: "Homepage sandwiched between two WorkOS ad blocks (top bar + full-width banner); reference pages not inspected this run — re-review an article page, not the home"
+  date: 2026-10-27
+- url: https://astro.build
+  reason: "Trend-standard purple-gradient hero + logo wall; solid but nothing distinctive to steal (only the copyable npm create under the CTA)"
+  date: 2026-10-27
+- url: https://neon.com
+  reason: "Competent dark devtools template (bar-waveform hero, logo row); nothing beyond what Vercel/Resend entries already teach"
+  date: 2026-10-27
+- url: https://expo.dev
+  reason: "Hero closely mirrors Vercel's (split 'Agentic ... infrastructure' headline, centered logomark burst, 3-up copy); derivative"
+  date: 2026-10-27
+- url: https://liveblocks.io
+  reason: "Cursor-in-headline idea well done but already captured by Atlassian Design entry; rest is standard dark centered hero"
+  date: 2026-10-27
+- url: https://modal.com
+  reason: "Centered dark hero + particle logomark is close to the generic AI-infra template; nothing distinctive above the fold"
+  date: 2026-10-27
+- url: https://tailscale.com
+  reason: "Generic centered headline + feature tabs; full-width privacy modal covers the fold on first load (Reject All is equal-weight, so ethics pass, but craft/originality below bar)"
+  date: 2026-10-27
+- url: https://nextjs.org
+  reason: "Same Geist system/visual language as the Vercel entries; outline wordmark + install-command CTA is the only new lesson — keep Vercel/Geist as the canonical refs"
+  date: 2026-10-27
+- url: https://www.prisma.io
+  reason: "Conventional centered hero with checklist and stats; competent but not distinctive"
+  date: 2026-10-27
+- url: https://graphite.dev
+  reason: "Generic dark hero with glowing logomark and logo row; no transferable idea above the fold"
+  date: 2026-10-27

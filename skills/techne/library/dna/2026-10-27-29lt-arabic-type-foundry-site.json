@@ -1,0 +1,275 @@
+{
+ "url": "https://www.29lt.com",
+ "capturedAt": "2026-10-27T08:22:51.784Z",
+ "viewport": "1440x900",
+ "title": "Download Multilingual Fonts - 29LT Bi-Scriptual Fonts - Arabic Typography",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "29lt-Bukra",
+    "count": 104
+   },
+   {
+    "family": "29lt-ZaridSans",
+    "count": 2
+   },
+   {
+    "family": "Font-26573",
+    "count": 2
+   },
+   {
+    "family": "Font-30950",
+    "count": 2
+   },
+   {
+    "family": "Font-30992",
+    "count": 2
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "29lt-Bukra",
+   "size": 24,
+   "weight": "700",
+   "lineHeight": 1.25,
+   "tracking": "0.36px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.33,
+   "measureCh": 43
+  },
+  "nav": {
+   "family": "29lt-Bukra",
+   "size": 16.2,
+   "weight": "400",
+   "lineHeight": 2.28,
+   "tracking": "0.45px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "29lt-Bukra",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.71,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 10.8,
+   "count": 65
+  },
+  {
+   "px": 14,
+   "count": 22
+  },
+  {
+   "px": 216,
+   "count": 16
+  },
+  {
+   "px": 12.6,
+   "count": 7
+  },
+  {
+   "px": 16.2,
+   "count": 6
+  },
+  {
+   "px": 204.5,
+   "count": 6
+  },
+  {
+   "px": 158.4,
+   "count": 5
+  },
+  {
+   "px": 144,
+   "count": 4
+  },
+  {
+   "px": 24,
+   "count": 3
+  },
+  {
+   "px": 48,
+   "count": 2
+  },
+  {
+   "px": 18,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 49
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 46
+   },
+   {
+    "color": "rgb(146, 148, 151)",
+    "count": 40
+   },
+   {
+    "color": "rgb(33, 33, 33)",
+    "count": 1
+   },
+   {
+    "color": "rgb(24, 99, 220)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(43, 115, 219)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(24, 99, 220)",
+    "radius": "2px",
+    "padding": "8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(24, 99, 220)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(24, 99, 220)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16.2,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16.2,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "2px",
+    "count": 3
+   },
+   {
+    "radius": "6px",
+    "count": 2
+   },
+   {
+    "radius": "100%",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(172, 171, 171, 0.3) 0px -1px 10px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "125px",
+    "count": 1
+   },
+   {
+    "padding": "100px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1140px",
+    "count": 25
+   },
+   {
+    "maxWidth": "480px",
+    "count": 3
+   },
+   {
+    "maxWidth": "380px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1008px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1135px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 8291,
+  "mediaCoverage": 0.03,
+  "linkCount": 138
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 123
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 19
+   },
+   {
+    "duration": "0.15s",
+    "count": 2
+   },
+   {
+    "duration": "0.1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 19
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

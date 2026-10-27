@@ -1,0 +1,354 @@
+{
+ "url": "https://www.shopify.com",
+ "capturedAt": "2026-10-27T07:21:22.279Z",
+ "viewport": "1440x900",
+ "title": "Shopify: The All-in-One Commerce Platform for Businesses - Shopify",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Shopify-Inter",
+    "count": 175
+   },
+   {
+    "family": "ui-monospace",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "Shopify-Inter",
+   "size": 96,
+   "weight": "300",
+   "lineHeight": 1.08,
+   "tracking": "-1.92px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Shopify-Inter",
+   "size": 96,
+   "weight": "300",
+   "lineHeight": 1.08,
+   "tracking": "-1.92px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 37
+  },
+  "nav": {
+   "family": "Shopify-Inter",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Shopify-Inter",
+   "size": 16,
+   "weight": "550",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 44
+  },
+  {
+   "px": 16,
+   "count": 44
+  },
+  {
+   "px": 96,
+   "count": 19
+  },
+  {
+   "px": 18,
+   "count": 18
+  },
+  {
+   "px": 20,
+   "count": 16
+  },
+  {
+   "px": 12,
+   "count": 11
+  },
+  {
+   "px": 56,
+   "count": 10
+  },
+  {
+   "px": 24,
+   "count": 7
+  },
+  {
+   "px": 44,
+   "count": 6
+  },
+  {
+   "px": 64,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 90
+   },
+   {
+    "color": "rgb(161, 161, 170)",
+    "count": 33
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 16
+   },
+   {
+    "color": "rgb(54, 244, 164)",
+    "count": 14
+   },
+   {
+    "color": "rgb(151, 151, 162)",
+    "count": 7
+   },
+   {
+    "color": "rgb(153, 179, 173)",
+    "count": 7
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 15
+   },
+   {
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.1)",
+    "count": 13
+   },
+   {
+    "color": "rgb(2, 9, 10)",
+    "count": 10
+   },
+   {
+    "color": "rgb(6, 26, 28)",
+    "count": 8
+   },
+   {
+    "color": "oklab(0.202157 -0.0241444 -0.0107363 / 0.2)",
+    "count": 6
+   },
+   {
+    "color": "rgb(244, 244, 245)",
+    "count": 6
+   },
+   {
+    "color": "rgb(4, 30, 24)",
+    "count": 5
+   },
+   {
+    "color": "rgb(0, 10, 30)",
+    "count": 3
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "9999px",
+    "padding": "8px 20px",
+    "size": 16,
+    "weight": "550"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "9999px",
+    "padding": "8px 20px",
+    "size": 16,
+    "weight": "550"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "9999px",
+    "padding": "12px 24px",
+    "size": 18,
+    "weight": "550"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "9999px",
+    "padding": "12px 26px 12px 16px",
+    "size": 18,
+    "weight": "550"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "9999px",
+    "padding": "12px 24px",
+    "size": 18,
+    "weight": "550"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 28
+   },
+   {
+    "radius": "12px",
+    "count": 25
+   },
+   {
+    "radius": "4px",
+    "count": 16
+   },
+   {
+    "radius": "8px",
+    "count": 12
+   },
+   {
+    "radius": "9999px",
+    "count": 6
+   },
+   {
+    "radius": "20px 20px 0px 0px",
+    "count": 4
+   },
+   {
+    "radius": "5px",
+    "count": 3
+   },
+   {
+    "radius": "340px",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.03) 0px 0.929px 0px 0px inset, rgba(0, 0, 0, 0.1) 0px 0px 0px 0.929px, rgba(0, 0, 0, 0.1) 0px 1.858px 1.858px 0px, rgba(0, 0, 0, 0.1) 0px 3.717px 3.717px 0px",
+    "count": 6
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 25px 50px -12px",
+    "count": 6
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.08) 0px 0px 0px 1px, rgba(0, 0, 0, 0.3) 0px 1px 3px 0px, rgba(0, 0, 0, 0.2) 0px 5px 10px 0px",
+    "count": 3
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 8px 8px 0px, rgba(0, 0, 0, 0.1) 0px 4px 4px 0px, rgba(0, 0, 0, 0.1) 0px 2px 2px 0px, rgba(0, 0, 0, 0.1) 0px 0px 0px 1px, rgba(255, 255, 255, 0.03) 0px 1px 0px 0px inset",
+    "count": 3
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "64px",
+    "count": 4
+   },
+   {
+    "padding": "80px",
+    "count": 2
+   },
+   {
+    "padding": "128px",
+    "count": 2
+   },
+   {
+    "padding": "72px",
+    "count": 1
+   },
+   {
+    "padding": "100px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "654.062px",
+    "count": 5
+   },
+   {
+    "maxWidth": "320px",
+    "count": 3
+   },
+   {
+    "maxWidth": "288px",
+    "count": 2
+   },
+   {
+    "maxWidth": "608px",
+    "count": 1
+   },
+   {
+    "maxWidth": "855.312px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 10688,
+  "mediaCoverage": 0.9,
+  "linkCount": 200
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 104
+   },
+   {
+    "duration": "0.2s",
+    "count": 39
+   },
+   {
+    "duration": "0.15s",
+    "count": 28
+   },
+   {
+    "duration": "0.45s",
+    "count": 20
+   },
+   {
+    "duration": "0.5s",
+    "count": 19
+   },
+   {
+    "duration": "1s",
+    "count": 11
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 153
+   },
+   {
+    "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+    "count": 16
+   },
+   {
+    "easing": "cubic-bezier(0.5, 0, 0.5, 1)",
+    "count": 16
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 1, 1)",
+    "count": 13
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,318 @@
+{
+ "url": "https://darkroom.co",
+ "capturedAt": "2026-10-27T08:05:41.816Z",
+ "viewport": "1440x900",
+ "title": "Darkroom — Photo & Video Editor",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "system",
+    "count": 195
+   },
+   {
+    "family": "Arial",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "system",
+   "size": 50,
+   "weight": "700",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "system",
+   "size": 50,
+   "weight": "700",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 24,
+   "lineHeight": 1.6,
+   "measureCh": 40
+  },
+  "nav": {
+   "family": "system",
+   "size": 0,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "system",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 15.2,
+   "count": 57
+  },
+  {
+   "px": 14,
+   "count": 46
+  },
+  {
+   "px": 16,
+   "count": 22
+  },
+  {
+   "px": 13.1,
+   "count": 21
+  },
+  {
+   "px": 15,
+   "count": 16
+  },
+  {
+   "px": 20,
+   "count": 13
+  },
+  {
+   "px": 50,
+   "count": 7
+  },
+  {
+   "px": 23,
+   "count": 6
+  },
+  {
+   "px": 21,
+   "count": 3
+  },
+  {
+   "px": 17,
+   "count": 1
+  },
+  {
+   "px": 24,
+   "count": 1
+  },
+  {
+   "px": 40,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(85, 85, 85)",
+    "count": 57
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 42
+   },
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 35
+   },
+   {
+    "color": "rgb(32, 32, 32)",
+    "count": 29
+   },
+   {
+    "color": "rgb(119, 119, 119)",
+    "count": 21
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.88)",
+    "count": 6
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(140, 140, 140, 0.15)",
+    "count": 2
+   },
+   {
+    "color": "rgb(20, 20, 20)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgba(255, 255, 255, 0.2)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "18px",
+    "padding": "8px 12px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(199, 4, 46)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "24px",
+    "padding": "13px 20px",
+    "size": 16,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "24px",
+    "padding": "13px 20px",
+    "size": 16,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(17, 17, 17)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "24px",
+    "padding": "13px 20px",
+    "size": 16,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(17, 17, 17)",
+    "radius": "24px",
+    "padding": "13px 20px",
+    "size": 16,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "18px",
+    "count": 29
+   },
+   {
+    "radius": "12px",
+    "count": 25
+   },
+   {
+    "radius": "50%",
+    "count": 23
+   },
+   {
+    "radius": "24px",
+    "count": 9
+   },
+   {
+    "radius": "16px",
+    "count": 8
+   },
+   {
+    "radius": "20px",
+    "count": 2
+   },
+   {
+    "radius": "14px",
+    "count": 1
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 1px 2px 0px, rgba(0, 0, 0, 0.1) 0px 8px 24px 0px",
+    "count": 28
+   },
+   {
+    "shadow": "rgb(204, 204, 204) 0px 0px 0px 1px",
+    "count": 23
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.3) 0px 3px 9px 0px",
+    "count": 6
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "60px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 12
+   },
+   {
+    "maxWidth": "600px",
+    "count": 4
+   },
+   {
+    "maxWidth": "520px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1300px",
+    "count": 1
+   },
+   {
+    "maxWidth": "540px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 8269,
+  "mediaCoverage": 0.2,
+  "linkCount": 134
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 51
+   },
+   {
+    "duration": "0.2s",
+    "count": 42
+   },
+   {
+    "duration": "0.3s",
+    "count": 16
+   },
+   {
+    "duration": "0.2s, 0.2s, 0.2s",
+    "count": 10
+   },
+   {
+    "duration": "0.15s",
+    "count": 6
+   },
+   {
+    "duration": "0.1s",
+    "count": 5
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 47
+   },
+   {
+    "easing": "ease, ease",
+    "count": 45
+   },
+   {
+    "easing": "ease, ease, ease",
+    "count": 10
+   },
+   {
+    "easing": "ease-in-out, ease-in-out",
+    "count": 6
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

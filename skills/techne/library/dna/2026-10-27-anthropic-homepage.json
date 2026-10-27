@@ -1,0 +1,274 @@
+{
+ "url": "https://www.anthropic.com",
+ "capturedAt": "2026-10-27T07:30:25.327Z",
+ "viewport": "1440x900",
+ "title": "Home \\ Anthropic",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "anthropicSans",
+    "count": 53
+   },
+   {
+    "family": "anthropicSerif",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "anthropicSerif",
+   "size": 40.8,
+   "weight": "400",
+   "lineHeight": 1.25,
+   "tracking": "-0.407843px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "anthropicSans",
+   "size": 51.9,
+   "weight": "600",
+   "lineHeight": 1.08,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16.7,
+   "lineHeight": 1.53,
+   "measureCh": 72
+  },
+  "nav": {
+   "family": "anthropicSans",
+   "size": 13,
+   "weight": "400",
+   "lineHeight": 1.54,
+   "tracking": "0.13px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "anthropicSans",
+   "size": 13,
+   "weight": "400",
+   "lineHeight": 1.54,
+   "tracking": "0.13px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 27
+  },
+  {
+   "px": 14.7,
+   "count": 15
+  },
+  {
+   "px": 21.4,
+   "count": 7
+  },
+  {
+   "px": 40.8,
+   "count": 2
+  },
+  {
+   "px": 16.7,
+   "count": 2
+  },
+  {
+   "px": 51.9,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(250, 249, 245)",
+  "textColors": [
+   {
+    "color": "rgb(20, 20, 19)",
+    "count": 18
+   },
+   {
+    "color": "rgb(94, 93, 89)",
+    "count": 18
+   },
+   {
+    "color": "rgb(135, 134, 127)",
+    "count": 10
+   },
+   {
+    "color": "rgb(250, 249, 245)",
+    "count": 4
+   },
+   {
+    "color": "rgb(48, 48, 46)",
+    "count": 3
+   },
+   {
+    "color": "rgb(61, 61, 58)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(245, 244, 237)",
+    "count": 8
+   },
+   {
+    "color": "rgb(250, 249, 245)",
+    "count": 3
+   },
+   {
+    "color": "rgb(20, 20, 19)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(245, 244, 237)",
+    "color": "rgb(61, 61, 58)",
+    "radius": "999999px",
+    "padding": "8px 16px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(245, 244, 237)",
+    "color": "rgb(61, 61, 58)",
+    "radius": "999999px",
+    "padding": "8px 12px 8px 16px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(245, 244, 237)",
+    "color": "rgb(61, 61, 58)",
+    "radius": "999999px",
+    "padding": "8px 12px 8px 16px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(245, 244, 237)",
+    "color": "rgb(61, 61, 58)",
+    "radius": "999999px",
+    "padding": "8px 12px 8px 16px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(245, 244, 237)",
+    "color": "rgb(61, 61, 58)",
+    "radius": "999999px",
+    "padding": "8px 12px 8px 16px",
+    "size": 13,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "999999px",
+    "count": 7
+   },
+   {
+    "radius": "9999px",
+    "count": 7
+   },
+   {
+    "radius": "10px",
+    "count": 5
+   },
+   {
+    "radius": "4px",
+    "count": 4
+   },
+   {
+    "radius": "8px",
+    "count": 3
+   },
+   {
+    "radius": "16px",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(250, 249, 245) 0px 0px 0px 2px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "48px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1920px",
+    "count": 7
+   },
+   {
+    "maxWidth": "588.9px",
+    "count": 2
+   },
+   {
+    "maxWidth": "604.681px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 3204,
+  "mediaCoverage": 0.35,
+  "linkCount": 34
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 27
+   },
+   {
+    "duration": "0.15s",
+    "count": 21
+   },
+   {
+    "duration": "0.25s, 0.25s",
+    "count": 14
+   },
+   {
+    "duration": "0.2s, 0.2s, 0.2s, 0.2s",
+    "count": 13
+   },
+   {
+    "duration": "0.1s",
+    "count": 11
+   },
+   {
+    "duration": "0.3s",
+    "count": 5
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out",
+    "count": 40
+   },
+   {
+    "easing": "ease, ease",
+    "count": 14
+   },
+   {
+    "easing": "ease-in-out, ease-in-out, ease-in-out, ease-in-out",
+    "count": 13
+   },
+   {
+    "easing": "cubic-bezier(0.25, 1, 0.5, 1)",
+    "count": 2
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,221 @@
+{
+ "url": "https://finchcare.com",
+ "capturedAt": "2026-10-27T08:15:29.239Z",
+ "viewport": "1440x900",
+ "title": "Finch - Your New Self-Care Best Friend",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "rubik",
+    "count": 14
+   },
+   {
+    "family": "Rubik",
+    "count": 5
+   }
+  ],
+  "h1": {
+   "family": "rubik",
+   "size": 52,
+   "weight": "700",
+   "lineHeight": 1.13,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": {
+   "size": 18,
+   "lineHeight": 1.4,
+   "measureCh": 43
+  },
+  "nav": {
+   "family": "rubik",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Rubik",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.71,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 10
+  },
+  {
+   "px": 14,
+   "count": 4
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 21,
+   "count": 1
+  },
+  {
+   "px": 28,
+   "count": 1
+  },
+  {
+   "px": 52,
+   "count": 1
+  },
+  {
+   "px": 70,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 13
+   },
+   {
+    "color": "rgb(33, 33, 33)",
+    "count": 2
+   },
+   {
+    "color": "rgb(24, 150, 61)",
+    "count": 2
+   },
+   {
+    "color": "rgb(56, 109, 132)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(10, 164, 108)",
+    "count": 2
+   },
+   {
+    "color": "rgb(226, 245, 226)",
+    "count": 1
+   },
+   {
+    "color": "rgb(117, 217, 117)",
+    "count": 1
+   },
+   {
+    "color": "rgb(246, 217, 128)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(24, 150, 61)",
+    "radius": "12px",
+    "padding": "8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(24, 150, 61)",
+    "radius": "12px",
+    "padding": "8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(24, 150, 61)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "12px",
+    "padding": "8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 238)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 238)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "12px",
+    "count": 3
+   },
+   {
+    "radius": "6px",
+    "count": 1
+   },
+   {
+    "radius": "24px",
+    "count": 1
+   },
+   {
+    "radius": "50%",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(172, 171, 171, 0.3) 0px -1px 10px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgb(22, 128, 53) 0px 4px 0px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "8px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "384px",
+    "count": 1
+   },
+   {
+    "maxWidth": "700px",
+    "count": 1
+   },
+   {
+    "maxWidth": "800px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.05,
+  "linkCount": 14
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

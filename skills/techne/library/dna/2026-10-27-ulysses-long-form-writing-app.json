@@ -1,0 +1,285 @@
+{
+ "url": "https://ulysses.app",
+ "capturedAt": "2026-10-27T08:10:54.551Z",
+ "viewport": "1440x900",
+ "title": "Ulysses",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "interstate",
+    "count": 46
+   }
+  ],
+  "h1": {
+   "family": "interstate",
+   "size": 48,
+   "weight": "700",
+   "lineHeight": 1.04,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "interstate",
+   "size": 48,
+   "weight": "700",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.6,
+   "measureCh": 63
+  },
+  "nav": {
+   "family": "interstate",
+   "size": 21,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "interstate",
+   "size": 15,
+   "weight": "500",
+   "lineHeight": 1.33,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 15,
+   "count": 24
+  },
+  {
+   "px": 18,
+   "count": 8
+  },
+  {
+   "px": 48,
+   "count": 6
+  },
+  {
+   "px": 16,
+   "count": 4
+  },
+  {
+   "px": 26.3,
+   "count": 3
+  },
+  {
+   "px": 21,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 15
+   },
+   {
+    "color": "rgb(255, 204, 0)",
+    "count": 15
+   },
+   {
+    "color": "rgb(39, 39, 43)",
+    "count": 13
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(55, 54, 53)",
+    "count": 15
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(62, 61, 60)",
+    "count": 4
+   },
+   {
+    "color": "rgb(247, 247, 245)",
+    "count": 4
+   },
+   {
+    "color": "rgb(49, 48, 47)",
+    "count": 1
+   },
+   {
+    "color": "rgb(69, 67, 66)",
+    "count": 1
+   },
+   {
+    "color": "rgb(248, 249, 250)",
+    "count": 1
+   },
+   {
+    "color": "rgb(38, 38, 38)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "3px",
+    "padding": "6px 36px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "3px",
+    "padding": "6px 36px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "3px",
+    "padding": "6px 36px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(39, 39, 43)",
+    "radius": "3px",
+    "padding": "6px 13.2px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(39, 39, 43)",
+    "radius": "3px",
+    "padding": "6px 13.2px",
+    "size": 15,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50%",
+    "count": 16
+   },
+   {
+    "radius": "3px",
+    "count": 7
+   },
+   {
+    "radius": "20px",
+    "count": 2
+   },
+   {
+    "radius": "25px",
+    "count": 2
+   },
+   {
+    "radius": "10px",
+    "count": 1
+   },
+   {
+    "radius": "4.5px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.06) 0px 0px 34.0005px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgb(255, 255, 255) 0px 0px 0px 0px, rgb(255, 204, 0) 0px 2px 0px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "200px",
+    "count": 6
+   },
+   {
+    "maxWidth": "1190px",
+    "count": 4
+   },
+   {
+    "maxWidth": "1920px",
+    "count": 1
+   },
+   {
+    "maxWidth": "800px",
+    "count": 1
+   },
+   {
+    "maxWidth": "750px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 10033,
+  "mediaCoverage": 0.51,
+  "linkCount": 50
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s, 0.15s, 0.15s, 0.15s",
+    "count": 35
+   },
+   {
+    "duration": "0.15s",
+    "count": 7
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 6
+   },
+   {
+    "duration": "0.6s",
+    "count": 4
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease, ease, ease",
+    "count": 29
+   },
+   {
+    "easing": "ease-in-out, ease-in-out, ease-in-out, ease-in-out",
+    "count": 6
+   },
+   {
+    "easing": "ease, ease",
+    "count": 6
+   },
+   {
+    "easing": "linear",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

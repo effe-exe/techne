@@ -1,0 +1,238 @@
+{
+ "url": "https://ourworldindata.org/grapher/life-expectancy",
+ "capturedAt": "2026-10-27T07:46:58.663Z",
+ "viewport": "1440x900",
+ "title": "Life expectancy",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Lato",
+    "count": 286
+   },
+   {
+    "family": "Playfair Display",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "Playfair Display",
+   "size": 25,
+   "weight": "600",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Lato",
+   "size": 12,
+   "weight": "900",
+   "lineHeight": 1.33,
+   "tracking": "1.2px",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 15,
+   "lineHeight": 1.29,
+   "measureCh": 115
+  },
+  "nav": {
+   "family": "Lato",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Lato",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 145
+  },
+  {
+   "px": 14,
+   "count": 135
+  },
+  {
+   "px": 12,
+   "count": 3
+  },
+  {
+   "px": 15,
+   "count": 3
+  },
+  {
+   "px": 25,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(91, 91, 91)",
+    "count": 141
+   },
+   {
+    "color": "rgb(118, 118, 118)",
+    "count": 137
+   },
+   {
+    "color": "rgb(219, 229, 240)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(78, 78, 78)",
+    "count": 2
+   },
+   {
+    "color": "rgb(45, 46, 45)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(235, 238, 242)",
+    "count": 144
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 135
+   },
+   {
+    "color": "rgb(164, 182, 202)",
+    "count": 11
+   },
+   {
+    "color": "rgb(161, 161, 161)",
+    "count": 2
+   },
+   {
+    "color": "rgb(0, 33, 71)",
+    "count": 1
+   },
+   {
+    "color": "rgb(219, 229, 240)",
+    "count": 1
+   },
+   {
+    "color": "rgb(231, 231, 231)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(219, 229, 240)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(219, 229, 240)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(219, 229, 240)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgba(16, 16, 16, 0.3)",
+    "radius": "0px",
+    "padding": "1px 8px 1px 11px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px 24px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "2px",
+    "count": 75
+   },
+   {
+    "radius": "4px",
+    "count": 14
+   },
+   {
+    "radius": "100%",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(231, 231, 231) 0px 0px 0px 1px inset",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "16px",
+    "count": 1
+   },
+   {
+    "padding": "24px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1420px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4287,
+  "mediaCoverage": 0.07,
+  "linkCount": 96
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

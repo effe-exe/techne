@@ -1,0 +1,239 @@
+{
+ "url": "https://bear.app",
+ "capturedAt": "2026-10-27T07:11:23.090Z",
+ "viewport": "1440x900",
+ "title": "Bear: Markdown Notes App for Mac, iPhone & iPad",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "bearsans",
+    "count": 84
+   },
+   {
+    "family": "bearsansheadline",
+    "count": 22
+   }
+  ],
+  "h1": {
+   "family": "bearsansheadline",
+   "size": 51.2,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "bearsansheadline",
+   "size": 41.6,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 22.4,
+   "lineHeight": 1.4,
+   "measureCh": 52
+  },
+  "nav": {
+   "family": "bearsans",
+   "size": 19.2,
+   "weight": "400",
+   "lineHeight": 1.42,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "bearsans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.7,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 72
+  },
+  {
+   "px": 22.4,
+   "count": 7
+  },
+  {
+   "px": 41.6,
+   "count": 6
+  },
+  {
+   "px": 51.2,
+   "count": 5
+  },
+  {
+   "px": 17.6,
+   "count": 4
+  },
+  {
+   "px": 24,
+   "count": 3
+  },
+  {
+   "px": 30.4,
+   "count": 3
+  },
+  {
+   "px": 20,
+   "count": 2
+  },
+  {
+   "px": 12.8,
+   "count": 2
+  },
+  {
+   "px": 25.6,
+   "count": 1
+  },
+  {
+   "px": 28.8,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(68, 68, 68)",
+    "count": 77
+   },
+   {
+    "color": "rgb(136, 136, 136)",
+    "count": 14
+   },
+   {
+    "color": "rgb(221, 76, 79)",
+    "count": 7
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(69, 106, 163)",
+    "count": 1
+   },
+   {
+    "color": "rgb(136, 74, 168)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(221, 76, 79)",
+    "count": 5
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(243, 245, 247)",
+    "count": 3
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(221, 76, 79)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(221, 76, 79)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "16px",
+    "count": 6
+   },
+   {
+    "radius": "40px",
+    "count": 4
+   },
+   {
+    "radius": "4.8px",
+    "count": 2
+   },
+   {
+    "radius": "3.84px",
+    "count": 2
+   },
+   {
+    "radius": "8.64px",
+    "count": 1
+   },
+   {
+    "radius": "4.32px",
+    "count": 1
+   },
+   {
+    "radius": "8.8px",
+    "count": 1
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.12) 0px 13px 34px 0px",
+    "count": 3
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "960px",
+    "count": 9
+   },
+   {
+    "maxWidth": "352px",
+    "count": 9
+   },
+   {
+    "maxWidth": "582.4px",
+    "count": 5
+   },
+   {
+    "maxWidth": "1056px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1088px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 10559,
+  "mediaCoverage": 0.63,
+  "linkCount": 39
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

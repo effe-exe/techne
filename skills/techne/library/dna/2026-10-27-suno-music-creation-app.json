@@ -1,0 +1,330 @@
+{
+ "url": "https://suno.com",
+ "capturedAt": "2026-10-27T07:24:19.426Z",
+ "viewport": "1440x900",
+ "title": "Suno | AI Music Generator",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Neue Montreal",
+    "count": 127
+   },
+   {
+    "family": "Editorial New",
+    "count": 3
+   }
+  ],
+  "h1": {
+   "family": "Neue Montreal",
+   "size": 72,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "-0.96px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Neue Montreal",
+   "size": 16,
+   "weight": "300",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.33,
+   "measureCh": 82
+  },
+  "nav": {
+   "family": "Neue Montreal",
+   "size": 15,
+   "weight": "500",
+   "lineHeight": 1.6,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Neue Montreal",
+   "size": 15,
+   "weight": "500",
+   "lineHeight": 1.6,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 55
+  },
+  {
+   "px": 20,
+   "count": 17
+  },
+  {
+   "px": 12,
+   "count": 11
+  },
+  {
+   "px": 16,
+   "count": 9
+  },
+  {
+   "px": 15,
+   "count": 7
+  },
+  {
+   "px": 17,
+   "count": 6
+  },
+  {
+   "px": 15.6,
+   "count": 6
+  },
+  {
+   "px": 18,
+   "count": 5
+  },
+  {
+   "px": 72,
+   "count": 5
+  },
+  {
+   "px": 10,
+   "count": 3
+  },
+  {
+   "px": 24,
+   "count": 3
+  },
+  {
+   "px": 40,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(16, 16, 18)",
+  "textColors": [
+   {
+    "color": "rgb(247, 244, 239)",
+    "count": 51
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 24
+   },
+   {
+    "color": "rgb(194, 194, 193)",
+    "count": 20
+   },
+   {
+    "color": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)",
+    "count": 12
+   },
+   {
+    "color": "oklab(0.968072 0.00123459 0.0073058 / 0.5)",
+    "count": 7
+   },
+   {
+    "color": "rgb(252, 251, 249)",
+    "count": 6
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "oklab(0.173939 0.00113384 -0.00393198 / 0.25)",
+    "count": 10
+   },
+   {
+    "color": "rgb(16, 16, 18)",
+    "count": 6
+   },
+   {
+    "color": "oklab(0.968072 0.00123459 0.0073058 / 0.05)",
+    "count": 3
+   },
+   {
+    "color": "rgba(28, 28, 31, 0.6)",
+    "count": 2
+   },
+   {
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.04)",
+    "count": 2
+   },
+   {
+    "color": "rgba(28, 28, 31, 0.4)",
+    "count": 2
+   },
+   {
+    "color": "oklab(0.173939 0.00113384 -0.00393198 / 0.6)",
+    "count": 1
+   },
+   {
+    "color": "oklab(0.173939 0.00113384 -0.00393198 / 0.1)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(247, 244, 239)",
+    "radius": "3.35544e+07px",
+    "padding": "6px 12px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(247, 244, 239)",
+    "radius": "3.35544e+07px",
+    "padding": "6px 12px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(252, 251, 249)",
+    "radius": "9999.01px",
+    "padding": "8px 16px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(247, 244, 239)",
+    "color": "rgb(16, 16, 18)",
+    "radius": "9999.01px",
+    "padding": "8px 16px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": "oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+    "color": "rgb(247, 244, 239)",
+    "radius": "3.35544e+07px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 63
+   },
+   {
+    "radius": "20px",
+    "count": 31
+   },
+   {
+    "radius": "12px",
+    "count": 28
+   },
+   {
+    "radius": "9999.01px",
+    "count": 27
+   },
+   {
+    "radius": "6px",
+    "count": 20
+   },
+   {
+    "radius": "24px",
+    "count": 18
+   },
+   {
+    "radius": "4px",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 25px 50px -12px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(255, 176, 3, 0.125) -6.37131px 0px 40px 0px, rgba(254, 60, 125, 0.125) 6.37131px 0px 40px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "100px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1296px",
+    "count": 12
+   },
+   {
+    "maxWidth": "1240px",
+    "count": 6
+   },
+   {
+    "maxWidth": "800px",
+    "count": 3
+   },
+   {
+    "maxWidth": "390px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 3.91,
+  "linkCount": 44
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 49
+   },
+   {
+    "duration": "0.3s",
+    "count": 30
+   },
+   {
+    "duration": "0.075s",
+    "count": 20
+   },
+   {
+    "duration": "0.2s",
+    "count": 8
+   },
+   {
+    "duration": "3s",
+    "count": 8
+   },
+   {
+    "duration": "0.5s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 115
+   },
+   {
+    "easing": "ease-out",
+    "count": 2
+   },
+   {
+    "easing": "cubic-bezier(0.33, 1, 0.68, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "url": "https://tot.rocks",
+ "capturedAt": "2026-10-27T08:06:44.261Z",
+ "viewport": "1440x900",
+ "title": "Tot • Your tiny text companion",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "myriad-pro",
+    "count": 60
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "myriad-pro",
+   "size": 34.6,
+   "weight": "200",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 30.7,
+   "lineHeight": 1.2,
+   "measureCh": 39
+  },
+  "nav": {
+   "family": "myriad-pro",
+   "size": 17.3,
+   "weight": "500",
+   "lineHeight": 1.56,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 23,
+   "count": 17
+  },
+  {
+   "px": 19.2,
+   "count": 12
+  },
+  {
+   "px": 34.6,
+   "count": 11
+  },
+  {
+   "px": 26.9,
+   "count": 11
+  },
+  {
+   "px": 15.4,
+   "count": 5
+  },
+  {
+   "px": 17.3,
+   "count": 2
+  },
+  {
+   "px": 46.1,
+   "count": 1
+  },
+  {
+   "px": 42.2,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 24
+   },
+   {
+    "color": "rgb(193, 254, 94)",
+    "count": 16
+   },
+   {
+    "color": "rgb(221, 187, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(222, 94, 250)",
+    "count": 3
+   },
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(28, 238, 255)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(32, 3, 21)",
+    "count": 1
+   },
+   {
+    "color": "rgb(3, 16, 56)",
+    "count": 1
+   },
+   {
+    "color": "rgb(4, 17, 10)",
+    "count": 1
+   },
+   {
+    "color": "rgb(46, 0, 74)",
+    "count": 1
+   },
+   {
+    "color": "rgb(34, 34, 34)",
+    "count": 1
+   },
+   {
+    "color": "rgb(51, 0, 68)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "12px",
+    "count": 6
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "20px",
+    "count": 2
+   },
+   {
+    "padding": "100px",
+    "count": 1
+   },
+   {
+    "padding": "60px",
+    "count": 1
+   },
+   {
+    "padding": "40px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "800px",
+    "count": 8
+   },
+   {
+    "maxWidth": "720px",
+    "count": 8
+   },
+   {
+    "maxWidth": "340px",
+    "count": 3
+   },
+   {
+    "maxWidth": "660px",
+    "count": 2
+   },
+   {
+    "maxWidth": "600px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 5503,
+  "mediaCoverage": 0.02,
+  "linkCount": 30
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

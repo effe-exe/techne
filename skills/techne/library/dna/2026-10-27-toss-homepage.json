@@ -1,0 +1,165 @@
+{
+ "url": "https://toss.im",
+ "capturedAt": "2026-10-27T07:15:51.736Z",
+ "viewport": "1440x900",
+ "title": "토스",
+ "lang": "ko-kr",
+ "fonts": {
+  "families": [
+   {
+    "family": "Toss Product Sans OTF",
+    "count": 10
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "Toss Product Sans OTF",
+   "size": 80,
+   "weight": "700",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.6,
+   "measureCh": 40
+  },
+  "nav": {
+   "family": "Toss Product Sans OTF",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Toss Product Sans OTF",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.6,
+   "tracking": "-0.32px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 5
+  },
+  {
+   "px": 80,
+   "count": 3
+  },
+  {
+   "px": 40,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(51, 56, 64)",
+    "count": 5
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(51, 56, 64)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(51, 56, 64)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(51, 56, 64)",
+    "radius": "0px",
+    "padding": "10px 8px 10px 12px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgba(7, 25, 76, 0.05)",
+    "color": "rgb(51, 56, 64)",
+    "radius": "12px",
+    "padding": "10px 12px",
+    "size": 16,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "12px",
+    "count": 1
+   },
+   {
+    "radius": "40px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1920px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 50964,
+  "mediaCoverage": 0.04,
+  "linkCount": 16
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 11
+   },
+   {
+    "duration": "0.2s",
+    "count": 6
+   },
+   {
+    "duration": "0.4s, 0.4s, 0.4s",
+    "count": 1
+   },
+   {
+    "duration": "0.3s, 0.3s, 0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease, ease",
+    "count": 2
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

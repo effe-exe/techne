@@ -1,0 +1,354 @@
+{
+ "url": "https://felt.com",
+ "capturedAt": "2026-10-27T08:25:18.199Z",
+ "viewport": "1440x900",
+ "title": "The map your business runs on: AI-native GIS | Felt",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Atlas Grotesk",
+    "count": 171
+   },
+   {
+    "family": "SF Mono",
+    "count": 75
+   },
+   {
+    "family": "GT Alpina",
+    "count": 21
+   },
+   {
+    "family": "Publico Text",
+    "count": 5
+   }
+  ],
+  "h1": {
+   "family": "GT Alpina",
+   "size": 69.1,
+   "weight": "400",
+   "lineHeight": 1.02,
+   "tracking": "-1.3824px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "GT Alpina",
+   "size": 46,
+   "weight": "400",
+   "lineHeight": 1.06,
+   "tracking": "-0.69px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.55,
+   "measureCh": 62
+  },
+  "nav": {
+   "family": "GT Alpina",
+   "size": 26,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "-0.26px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Arial",
+   "size": 13.3,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13.5,
+   "count": 64
+  },
+  {
+   "px": 11,
+   "count": 57
+  },
+  {
+   "px": 14,
+   "count": 50
+  },
+  {
+   "px": 11.5,
+   "count": 21
+  },
+  {
+   "px": 46,
+   "count": 13
+  },
+  {
+   "px": 17,
+   "count": 12
+  },
+  {
+   "px": 10,
+   "count": 9
+  },
+  {
+   "px": 10.5,
+   "count": 9
+  },
+  {
+   "px": 15,
+   "count": 7
+  },
+  {
+   "px": 16,
+   "count": 7
+  },
+  {
+   "px": 26,
+   "count": 6
+  },
+  {
+   "px": 16.5,
+   "count": 5
+  }
+ ],
+ "color": {
+  "background": "rgb(244, 242, 234)",
+  "textColors": [
+   {
+    "color": "rgb(28, 27, 24)",
+    "count": 71
+   },
+   {
+    "color": "rgb(105, 104, 95)",
+    "count": 57
+   },
+   {
+    "color": "rgba(238, 238, 238, 0.8)",
+    "count": 34
+   },
+   {
+    "color": "rgb(167, 83, 27)",
+    "count": 26
+   },
+   {
+    "color": "rgb(58, 56, 47)",
+    "count": 18
+   },
+   {
+    "color": "rgb(244, 242, 234)",
+    "count": 11
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(28, 27, 24)",
+    "count": 4
+   },
+   {
+    "color": "rgb(244, 242, 234)",
+    "count": 2
+   },
+   {
+    "color": "rgb(85, 83, 76)",
+    "count": 2
+   },
+   {
+    "color": "rgba(244, 242, 234, 0.9)",
+    "count": 1
+   },
+   {
+    "color": "rgb(236, 235, 227)",
+    "count": 1
+   },
+   {
+    "color": "rgb(16, 16, 16)",
+    "count": 1
+   },
+   {
+    "color": "rgb(31, 63, 102)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 35
+   },
+   {
+    "radius": "50%",
+    "count": 32
+   },
+   {
+    "radius": "6px",
+    "count": 17
+   },
+   {
+    "radius": "3px",
+    "count": 7
+   },
+   {
+    "radius": "8px",
+    "count": 4
+   },
+   {
+    "radius": "31.68px",
+    "count": 2
+   },
+   {
+    "radius": "23.04px",
+    "count": 2
+   },
+   {
+    "radius": "999px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(24, 39, 75, 0.35) 0px 1px 4px 0px",
+    "count": 15
+   },
+   {
+    "shadow": "rgba(24, 39, 75, 0.22) 0px 0px 1px 0px, rgba(24, 39, 75, 0.12) 0px 6px 12px -6px, rgba(24, 39, 75, 0.08) 0px 8px 24px -4px",
+    "count": 5
+   },
+   {
+    "shadow": "rgb(255, 255, 255) 0px 0px 0px 1.5px",
+    "count": 4
+   },
+   {
+    "shadow": "rgb(249, 248, 251) 0px 0px 0px 1.5px",
+    "count": 4
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "92px",
+    "count": 1
+   },
+   {
+    "padding": "22px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "760px",
+    "count": 16
+   },
+   {
+    "maxWidth": "1320px",
+    "count": 15
+   },
+   {
+    "maxWidth": "656.766px",
+    "count": 5
+   },
+   {
+    "maxWidth": "1372px",
+    "count": 3
+   },
+   {
+    "maxWidth": "140px",
+    "count": 3
+   }
+  ],
+  "pageHeightPx": 11728,
+  "mediaCoverage": 0.65,
+  "linkCount": 139
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.14s",
+    "count": 46
+   },
+   {
+    "duration": "0.14s, 0.14s",
+    "count": 39
+   },
+   {
+    "duration": "0.15s",
+    "count": 26
+   },
+   {
+    "duration": "0.35s, 0.45s",
+    "count": 12
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 11
+   },
+   {
+    "duration": "0.16s, 0.16s",
+    "count": 9
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 76
+   },
+   {
+    "easing": "ease, cubic-bezier(0.2, 0.9, 0.3, 1.3)",
+    "count": 23
+   },
+   {
+    "easing": "ease, ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

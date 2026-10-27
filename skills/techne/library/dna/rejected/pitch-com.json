@@ -1,0 +1,330 @@
+{
+ "url": "https://pitch.com",
+ "capturedAt": "2026-10-27T08:57:28.448Z",
+ "viewport": "1440x900",
+ "title": "The AI presentation workspace",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Eina 03 Regular",
+    "count": 100
+   },
+   {
+    "family": "Mark Pro Bold",
+    "count": 63
+   },
+   {
+    "family": "Eina 03 Bold",
+    "count": 10
+   },
+   {
+    "family": "Space Mono",
+    "count": 6
+   },
+   {
+    "family": "Mark Pro Regular",
+    "count": 6
+   }
+  ],
+  "h1": {
+   "family": "Mark Pro Bold",
+   "size": 180,
+   "weight": "700",
+   "lineHeight": 0.8,
+   "tracking": "-7.2px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Eina 03 Regular",
+   "size": 18,
+   "weight": "400",
+   "lineHeight": 1.6,
+   "tracking": "-0.36px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.6,
+   "measureCh": 7
+  },
+  "nav": {
+   "family": "sans-serif",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "sans-serif",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 92
+  },
+  {
+   "px": 48,
+   "count": 28
+  },
+  {
+   "px": 28,
+   "count": 17
+  },
+  {
+   "px": 14,
+   "count": 13
+  },
+  {
+   "px": 18,
+   "count": 13
+  },
+  {
+   "px": 20,
+   "count": 10
+  },
+  {
+   "px": 64,
+   "count": 6
+  },
+  {
+   "px": 32,
+   "count": 5
+  },
+  {
+   "px": 60,
+   "count": 2
+  },
+  {
+   "px": 92,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(12, 2, 28)",
+    "count": 84
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 54
+   },
+   {
+    "color": "rgb(83, 24, 235)",
+    "count": 28
+   },
+   {
+    "color": "rgb(198, 165, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(54, 54, 54)",
+    "count": 6
+   },
+   {
+    "color": "rgb(40, 15, 98)",
+    "count": 6
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 35
+   },
+   {
+    "color": "rgb(12, 2, 28)",
+    "count": 21
+   },
+   {
+    "color": "rgb(83, 24, 235)",
+    "count": 15
+   },
+   {
+    "color": "rgb(40, 15, 98)",
+    "count": 12
+   },
+   {
+    "color": "rgb(198, 165, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.2)",
+    "count": 4
+   },
+   {
+    "color": "rgb(235, 227, 254)",
+    "count": 2
+   },
+   {
+    "color": "rgba(39, 15, 97, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(235, 227, 254)",
+    "color": "rgb(40, 15, 98)",
+    "radius": "100px",
+    "padding": "0px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(12, 2, 28)",
+    "radius": "8px",
+    "padding": "4px 12px 4px 8px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(83, 24, 235)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "8px 12px 8px 16px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "20px",
+    "count": 31
+   },
+   {
+    "radius": "24px",
+    "count": 19
+   },
+   {
+    "radius": "40px",
+    "count": 18
+   },
+   {
+    "radius": "4px",
+    "count": 12
+   },
+   {
+    "radius": "8px",
+    "count": 11
+   },
+   {
+    "radius": "32px",
+    "count": 8
+   },
+   {
+    "radius": "30px",
+    "count": 7
+   },
+   {
+    "radius": "70px",
+    "count": 6
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(198, 165, 255, 0.35) 0px 20px 60px -20px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "120px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1224px",
+    "count": 9
+   },
+   {
+    "maxWidth": "550px",
+    "count": 6
+   },
+   {
+    "maxWidth": "92px",
+    "count": 6
+   },
+   {
+    "maxWidth": "780px",
+    "count": 5
+   },
+   {
+    "maxWidth": "640px",
+    "count": 3
+   }
+  ],
+  "pageHeightPx": 13337,
+  "mediaCoverage": 1.13,
+  "linkCount": 94
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 21
+   },
+   {
+    "duration": "0.3s",
+    "count": 6
+   },
+   {
+    "duration": "0.15s",
+    "count": 4
+   },
+   {
+    "duration": "0.4s",
+    "count": 4
+   },
+   {
+    "duration": "0.5s",
+    "count": 3
+   },
+   {
+    "duration": "0.05s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out, ease-out",
+    "count": 21
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 6
+   },
+   {
+    "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "count": 4
+   },
+   {
+    "easing": "cubic-bezier(0.34, 1.56, 0.64, 1)",
+    "count": 3
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

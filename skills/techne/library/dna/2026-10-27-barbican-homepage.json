@@ -1,0 +1,297 @@
+{
+ "url": "https://www.barbican.org.uk",
+ "capturedAt": "2026-10-27T07:52:26.970Z",
+ "viewport": "1440x900",
+ "title": "Welcome to the Barbican | Barbican",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Supreme",
+    "count": 76
+   },
+   {
+    "family": "Supreme-Black",
+    "count": 6
+   }
+  ],
+  "h1": {
+   "family": "Supreme",
+   "size": 89.3,
+   "weight": "700",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Supreme",
+   "size": 35.7,
+   "weight": "700",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18.7,
+   "lineHeight": 1.3,
+   "measureCh": 43
+  },
+  "nav": {
+   "family": "Supreme",
+   "size": 18.1,
+   "weight": "700",
+   "lineHeight": 3.06,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "sans-serif",
+   "size": 19.1,
+   "weight": "400",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18.7,
+   "count": 28
+  },
+  {
+   "px": 19.1,
+   "count": 19
+  },
+  {
+   "px": 14,
+   "count": 17
+  },
+  {
+   "px": 35.7,
+   "count": 6
+  },
+  {
+   "px": 14.9,
+   "count": 5
+  },
+  {
+   "px": 51,
+   "count": 3
+  },
+  {
+   "px": 17,
+   "count": 1
+  },
+  {
+   "px": 89.3,
+   "count": 1
+  },
+  {
+   "px": 28.9,
+   "count": 1
+  },
+  {
+   "px": 31.9,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 37
+   },
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 25
+   },
+   {
+    "color": "rgb(51, 51, 51)",
+    "count": 10
+   },
+   {
+    "color": "rgb(209, 73, 0)",
+    "count": 8
+   },
+   {
+    "color": "rgb(166, 166, 166)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 17
+   },
+   {
+    "color": "rgb(32, 136, 42)",
+    "count": 7
+   },
+   {
+    "color": "rgb(148, 111, 46)",
+    "count": 5
+   },
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 4
+   },
+   {
+    "color": "rgb(209, 73, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(64, 47, 121)",
+    "count": 2
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(230, 0, 119)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgba(255, 255, 255, 0.08)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px 4.25px 4.25px 0px",
+    "padding": "1px 10.625px",
+    "size": 19.1,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(209, 73, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "8.5px",
+    "padding": "0px 12.75px",
+    "size": 18.1,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px 17px",
+    "size": 18.1,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px 17px",
+    "size": 18.1,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px 17px",
+    "size": 18.1,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 17
+   },
+   {
+    "radius": "0px 4.25px 0px 0px",
+    "count": 17
+   },
+   {
+    "radius": "8.5px",
+    "count": 11
+   },
+   {
+    "radius": "6.375px",
+    "count": 6
+   },
+   {
+    "radius": "50%",
+    "count": 4
+   },
+   {
+    "radius": "4px",
+    "count": 4
+   },
+   {
+    "radius": "4.25px 0px 0px 4.25px",
+    "count": 1
+   },
+   {
+    "radius": "0px 4.25px 4.25px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 0px 10px 0px",
+    "count": 17
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.05) 0px 0px 20px 0px inset",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 4px 6px 0px, rgba(0, 0, 0, 0.19) 5px 5px 10px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1445px",
+    "count": 18
+   },
+   {
+    "maxWidth": "561px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1038.02px",
+    "count": 1
+   },
+   {
+    "maxWidth": "300px",
+    "count": 1
+   },
+   {
+    "maxWidth": "442px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4639,
+  "mediaCoverage": 0.48,
+  "linkCount": 190
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 17
+   },
+   {
+    "duration": "0.1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in",
+    "count": 17
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "url": "https://ft-interactive.github.io/visual-vocabulary/",
+ "capturedAt": "2026-10-27T08:23:58.972Z",
+ "viewport": "1440x900",
+ "title": "Visual Vocabulary",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "MetricWeb",
+    "count": 4
+   }
+  ],
+  "h1": {
+   "family": "MetricWeb",
+   "size": 60,
+   "weight": "200",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "MetricWeb",
+   "size": 36,
+   "weight": "100",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 22,
+   "lineHeight": 1.27,
+   "measureCh": 91
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 1
+  },
+  {
+   "px": 22,
+   "count": 1
+  },
+  {
+   "px": 36,
+   "count": 1
+  },
+  {
+   "px": 60,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 4
+   }
+  ],
+  "surfaces": [],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1000px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 1000,
+  "mediaCoverage": 0.07,
+  "linkCount": 0
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

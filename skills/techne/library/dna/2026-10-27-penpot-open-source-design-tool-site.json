@@ -1,0 +1,262 @@
+{
+ "url": "https://penpot.app",
+ "capturedAt": "2026-10-27T08:28:01.181Z",
+ "viewport": "1440x900",
+ "title": "Penpot: The open-source design platform for teams.",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Work Sans",
+    "count": 69
+   }
+  ],
+  "h1": {
+   "family": "Work Sans",
+   "size": 72,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Work Sans",
+   "size": 65,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": "normal",
+   "measureCh": 0
+  },
+  "nav": {
+   "family": "Work Sans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Work Sans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 54
+  },
+  {
+   "px": 18,
+   "count": 7
+  },
+  {
+   "px": 48,
+   "count": 4
+  },
+  {
+   "px": 12,
+   "count": 1
+  },
+  {
+   "px": 20,
+   "count": 1
+  },
+  {
+   "px": 65,
+   "count": 1
+  },
+  {
+   "px": 72,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(245, 248, 251)",
+  "textColors": [
+   {
+    "color": "rgb(250, 250, 250)",
+    "count": 49
+   },
+   {
+    "color": "rgb(21, 16, 53)",
+    "count": 11
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(28, 32, 34)",
+    "count": 3
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(246, 246, 246)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(250, 250, 250)",
+    "count": 3
+   },
+   {
+    "color": "rgb(245, 248, 251)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(21, 16, 53)",
+    "count": 1
+   },
+   {
+    "color": "rgb(242, 58, 229)",
+    "count": 1
+   },
+   {
+    "color": "rgb(31, 31, 31)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgba(255, 255, 255, 0)",
+    "color": "rgb(21, 16, 53)",
+    "radius": "8px",
+    "padding": "12px 20px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgba(255, 255, 255, 0)",
+    "color": "rgb(21, 16, 53)",
+    "radius": "8px",
+    "padding": "12px 20px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(21, 16, 53)",
+    "radius": "8px",
+    "padding": "12px 20px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(20, 206, 202)",
+    "color": "rgb(21, 16, 53)",
+    "radius": "8px",
+    "padding": "12px 20px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(20, 206, 202)",
+    "color": "rgb(21, 16, 53)",
+    "radius": "8px",
+    "padding": "12px 20px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 14
+   },
+   {
+    "radius": "10px",
+    "count": 3
+   },
+   {
+    "radius": "50px",
+    "count": 1
+   },
+   {
+    "radius": "100px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(99, 101, 105, 0.25) 0px 10px 30px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "64px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "800px",
+    "count": 7
+   },
+   {
+    "maxWidth": "1200px",
+    "count": 5
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1400px",
+    "count": 1
+   },
+   {
+    "maxWidth": "155px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7108,
+  "mediaCoverage": 0.51,
+  "linkCount": 117
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "1s",
+    "count": 51
+   },
+   {
+    "duration": "0.1s",
+    "count": 10
+   },
+   {
+    "duration": "0.6s",
+    "count": 6
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 6
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

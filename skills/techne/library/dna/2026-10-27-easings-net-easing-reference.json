@@ -1,0 +1,126 @@
+{
+ "url": "https://easings.net",
+ "capturedAt": "2026-10-27T08:31:07.813Z",
+ "viewport": "1440x900",
+ "title": "Easing Functions Cheat Sheet",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "system-ui",
+    "count": 5
+   }
+  ],
+  "h1": {
+   "family": "system-ui",
+   "size": 32,
+   "weight": "700",
+   "lineHeight": 1.4,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": {
+   "size": 16,
+   "lineHeight": 1.4,
+   "measureCh": 97
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 4
+  },
+  {
+   "px": 32,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(248, 248, 248)",
+  "textColors": [
+   {
+    "color": "rgb(34, 34, 34)",
+    "count": 3
+   },
+   {
+    "color": "rgb(9, 90, 186)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 31
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.05) 0px 2px 8px 0px",
+    "count": 31
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "160px",
+    "count": 30
+   },
+   {
+    "maxWidth": "107px",
+    "count": 30
+   },
+   {
+    "maxWidth": "1050px",
+    "count": 2
+   },
+   {
+    "maxWidth": "900px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 1044,
+  "mediaCoverage": 0.15,
+  "linkCount": 37
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 124
+   },
+   {
+    "duration": "0s, 0s, 0s",
+    "count": 30
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease, ease",
+    "count": 6
+   },
+   {
+    "easing": "cubic-bezier(0.12, 0, 0.39, 0)",
+    "count": 1
+   },
+   {
+    "easing": "cubic-bezier(0.61, 1, 0.88, 1)",
+    "count": 1
+   },
+   {
+    "easing": "cubic-bezier(0.37, 0, 0.63, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

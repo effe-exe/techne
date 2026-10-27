@@ -1,0 +1,247 @@
+{
+ "url": "https://tally.so",
+ "capturedAt": "2026-10-27T07:10:50.025Z",
+ "viewport": "1440x900",
+ "title": "Tally - Create Beautiful Forms for Free | Unlimited Forms & Submissions",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 131
+   }
+  ],
+  "h1": {
+   "family": "Inter",
+   "size": 64,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "-2px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Inter",
+   "size": 36,
+   "weight": "700",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 22,
+   "lineHeight": 1.25,
+   "measureCh": 55
+  },
+  "nav": null,
+  "button": {
+   "family": "Inter",
+   "size": 15,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 60
+  },
+  {
+   "px": 15,
+   "count": 35
+  },
+  {
+   "px": 18,
+   "count": 17
+  },
+  {
+   "px": 22,
+   "count": 9
+  },
+  {
+   "px": 14,
+   "count": 6
+  },
+  {
+   "px": 36,
+   "count": 3
+  },
+  {
+   "px": 26,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(55, 53, 47)",
+    "count": 72
+   },
+   {
+    "color": "rgb(69, 67, 62)",
+    "count": 31
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 20
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(119, 118, 114)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(223, 223, 222)",
+    "count": 21
+   },
+   {
+    "color": "rgb(254, 254, 254)",
+    "count": 13
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 11
+   },
+   {
+    "color": "rgb(234, 234, 234)",
+    "count": 3
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(0, 112, 215)",
+    "color": "rgb(55, 53, 47)",
+    "radius": "8px",
+    "padding": "0px 13.5px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(0, 112, 215)",
+    "color": "rgb(55, 53, 47)",
+    "radius": "8px",
+    "padding": "0px 13.5px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(55, 53, 47)",
+    "radius": "8px",
+    "padding": "0px 13.5px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(0, 112, 215)",
+    "color": "rgb(55, 53, 47)",
+    "radius": "8px",
+    "padding": "0px 13.5px",
+    "size": 15,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50%",
+    "count": 28
+   },
+   {
+    "radius": "10px",
+    "count": 20
+   },
+   {
+    "radius": "7px",
+    "count": 7
+   },
+   {
+    "radius": "8px",
+    "count": 4
+   },
+   {
+    "radius": "5px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.12) 0px 1px 1px 0px, rgba(61, 59, 53, 0.16) 0px 0px 0px 1px, rgba(61, 59, 53, 0.08) 0px 3px 9px 0px, rgba(61, 59, 53, 0.08) 0px 2px 5px 0px",
+    "count": 12
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.09) 0px 3px 12px 0px",
+    "count": 7
+   },
+   {
+    "shadow": "rgb(248, 28, 229) 0px 0px 0px 2px, rgba(248, 28, 229, 0.36) 0px 0px 0px 4px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.12) 0px 1px 1px 0px, rgba(61, 59, 53, 0.16) 0px 0px 0px 1px, rgba(61, 59, 53, 0.08) 0px 2px 5px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "20px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "600px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 13338,
+  "mediaCoverage": 0.35,
+  "linkCount": 73
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s, 0.1s",
+    "count": 20
+   },
+   {
+    "duration": "0.1s, 0.1s, 0.1s",
+    "count": 9
+   },
+   {
+    "duration": "0.7s",
+    "count": 2
+   },
+   {
+    "duration": "0.1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out, ease-in-out",
+    "count": 20
+   },
+   {
+    "easing": "ease-in-out, ease-in-out, ease-in-out",
+    "count": 9
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 3
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

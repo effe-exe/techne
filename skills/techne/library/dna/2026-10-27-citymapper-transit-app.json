@@ -1,0 +1,314 @@
+{
+ "url": "https://citymapper.com",
+ "capturedAt": "2026-10-27T08:12:00.763Z",
+ "viewport": "1440x900",
+ "title": "Citymapper - The Ultimate Transport App",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "proxima-soft",
+    "count": 65
+   }
+  ],
+  "h1": {
+   "family": "proxima-soft",
+   "size": 44,
+   "weight": "700",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "proxima-soft",
+   "size": 40,
+   "weight": "700",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 20,
+   "lineHeight": 1.4,
+   "measureCh": 40
+  },
+  "nav": {
+   "family": "proxima-soft",
+   "size": 20,
+   "weight": "400",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "proxima-soft",
+   "size": 16,
+   "weight": "700",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 28
+  },
+  {
+   "px": 18.7,
+   "count": 11
+  },
+  {
+   "px": 20,
+   "count": 8
+  },
+  {
+   "px": 40,
+   "count": 6
+  },
+  {
+   "px": 14,
+   "count": 3
+  },
+  {
+   "px": 18,
+   "count": 2
+  },
+  {
+   "px": 24,
+   "count": 2
+  },
+  {
+   "px": 26,
+   "count": 2
+  },
+  {
+   "px": 38,
+   "count": 2
+  },
+  {
+   "px": 36,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 31
+   },
+   {
+    "color": "rgb(56, 56, 56)",
+    "count": 23
+   },
+   {
+    "color": "rgb(74, 74, 74)",
+    "count": 5
+   },
+   {
+    "color": "rgb(55, 171, 46)",
+    "count": 3
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.4)",
+    "count": 2
+   },
+   {
+    "color": "rgb(55, 171, 47)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(55, 171, 47)",
+    "count": 3
+   },
+   {
+    "color": "rgb(65, 113, 147)",
+    "count": 1
+   },
+   {
+    "color": "rgb(74, 74, 74)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgba(0, 0, 0, 0.05)",
+    "color": "rgb(74, 74, 74)",
+    "radius": "8px",
+    "padding": "8px",
+    "size": 16,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(65, 113, 147)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "7px",
+    "padding": "8px 9px",
+    "size": 16,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(55, 171, 46)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "96px",
+    "padding": "14px 30px",
+    "size": 24,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(9, 5, 18)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "80px",
+    "padding": "12px",
+    "size": 20,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(9, 5, 18)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "80px",
+    "padding": "12px",
+    "size": 20,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "20px",
+    "count": 17
+   },
+   {
+    "radius": "8px",
+    "count": 7
+   },
+   {
+    "radius": "5px",
+    "count": 2
+   },
+   {
+    "radius": "80px",
+    "count": 2
+   },
+   {
+    "radius": "45px",
+    "count": 2
+   },
+   {
+    "radius": "6px 0px 0px 6px",
+    "count": 1
+   },
+   {
+    "radius": "0px 4px 4px 0px",
+    "count": 1
+   },
+   {
+    "radius": "7px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 17, 34, 0.06) 0px -0.5px 0px 0.5px, rgba(0, 17, 34, 0) 0px 0px 0px 0px",
+    "count": 12
+   },
+   {
+    "shadow": "rgba(0, 17, 34, 0) 0px 0px 0px 0px",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(255, 255, 255, 0) 0px 0px 0px 0px",
+    "count": 2
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "56px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "400px",
+    "count": 4
+   },
+   {
+    "maxWidth": "320px",
+    "count": 3
+   },
+   {
+    "maxWidth": "940px",
+    "count": 2
+   },
+   {
+    "maxWidth": "600px",
+    "count": 2
+   },
+   {
+    "maxWidth": "170px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 4622,
+  "mediaCoverage": 0.23,
+  "linkCount": 56
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s, 0.1s, 0.1s",
+    "count": 25
+   },
+   {
+    "duration": "0.15s",
+    "count": 24
+   },
+   {
+    "duration": "0.3s, 0.2s",
+    "count": 12
+   },
+   {
+    "duration": "0.1s, 0.1s, 0.1s, 0.1s, 0.1s",
+    "count": 3
+   },
+   {
+    "duration": "0.1s, 0.1s",
+    "count": 3
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease, ease",
+    "count": 24
+   },
+   {
+    "easing": "cubic-bezier(0.2, 0.8, 0.1, 1), ease-out",
+    "count": 14
+   },
+   {
+    "easing": "ease, ease",
+    "count": 6
+   },
+   {
+    "easing": "ease, ease, ease, ease, ease",
+    "count": 3
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

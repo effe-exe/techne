@@ -1,0 +1,250 @@
+{
+ "url": "https://d3js.org",
+ "capturedAt": "2026-10-27T08:24:29.914Z",
+ "viewport": "1440x900",
+ "title": "D3 by Observable | The JavaScript library for bespoke data visualization",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "-apple-system",
+    "count": 45
+   }
+  ],
+  "h1": {
+   "family": "-apple-system",
+   "size": 32,
+   "weight": "600",
+   "lineHeight": 1.25,
+   "tracking": "-0.64px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "-apple-system",
+   "size": 16,
+   "weight": "600",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 56,
+   "lineHeight": 1.14,
+   "measureCh": 21
+  },
+  "nav": null,
+  "button": {
+   "family": "-apple-system",
+   "size": 13.3,
+   "weight": "500",
+   "lineHeight": 1.8,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 16
+  },
+  {
+   "px": 14,
+   "count": 15
+  },
+  {
+   "px": 12,
+   "count": 11
+  },
+  {
+   "px": 13,
+   "count": 1
+  },
+  {
+   "px": 24,
+   "count": 1
+  },
+  {
+   "px": 32,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(60, 60, 67)",
+    "count": 31
+   },
+   {
+    "color": "rgba(60, 60, 67, 0.78)",
+    "count": 11
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(224, 70, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(246, 246, 247)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(246, 246, 247)",
+    "color": "rgba(60, 60, 67, 0.78)",
+    "radius": "1000px",
+    "padding": "0px 12px",
+    "size": 13.3,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(239, 114, 52)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "20px",
+    "padding": "0px 20px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(235, 235, 239)",
+    "color": "rgb(60, 60, 67)",
+    "radius": "20px",
+    "padding": "0px 20px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(235, 235, 239)",
+    "color": "rgb(60, 60, 67)",
+    "radius": "20px",
+    "padding": "0px 20px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "20px",
+    "padding": "0px 20px",
+    "size": 14,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "12px",
+    "count": 9
+   },
+   {
+    "radius": "20px",
+    "count": 4
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   },
+   {
+    "radius": "1000px",
+    "count": 1
+   },
+   {
+    "radius": "4px 0px 0px 4px",
+    "count": 1
+   },
+   {
+    "radius": "0px 4px 4px 0px",
+    "count": 1
+   },
+   {
+    "radius": "50%",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 12px 32px 0px, rgba(0, 0, 0, 0.08) 0px 2px 6px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1152px",
+    "count": 3
+   },
+   {
+    "maxWidth": "576px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1376px",
+    "count": 1
+   },
+   {
+    "maxWidth": "592px",
+    "count": 1
+   },
+   {
+    "maxWidth": "320px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 2653,
+  "mediaCoverage": 0.9,
+  "linkCount": 84
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s",
+    "count": 58
+   },
+   {
+    "duration": "0.25s, 0.25s",
+    "count": 10
+   },
+   {
+    "duration": "0.5s",
+    "count": 6
+   },
+   {
+    "duration": "0.25s, 0.25s, 0.25s",
+    "count": 3
+   },
+   {
+    "duration": "0.5s, 0.5s",
+    "count": 2
+   },
+   {
+    "duration": "0.15s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out",
+    "count": 56
+   },
+   {
+    "easing": "ease, ease",
+    "count": 12
+   },
+   {
+    "easing": "ease, ease, ease",
+    "count": 3
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,171 @@
+{
+ "url": "https://design-system.service.gov.uk",
+ "capturedAt": "2026-10-27T08:23:13.433Z",
+ "viewport": "1440x900",
+ "title": "Home – GOV.UK Design System",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "GDS Transport",
+    "count": 56
+   }
+  ],
+  "h1": {
+   "family": "GDS Transport",
+   "size": 48,
+   "weight": "700",
+   "lineHeight": 1.04,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "GDS Transport",
+   "size": 24,
+   "weight": "700",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 19,
+   "lineHeight": 1.32,
+   "measureCh": 76
+  },
+  "nav": {
+   "family": "GDS Transport",
+   "size": 19,
+   "weight": "400",
+   "lineHeight": 1.53,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "GDS Transport",
+   "size": 19,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 19,
+   "count": 38
+  },
+  {
+   "px": 36,
+   "count": 10
+  },
+  {
+   "px": 24,
+   "count": 3
+  },
+  {
+   "px": 16,
+   "count": 2
+  },
+  {
+   "px": 31,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  },
+  {
+   "px": 28.5,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(26, 101, 166)",
+    "count": 27
+   },
+   {
+    "color": "rgb(11, 12, 12)",
+    "count": 23
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 6
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(244, 248, 251)",
+    "count": 3
+   },
+   {
+    "color": "rgb(29, 112, 184)",
+    "count": 3
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(15, 122, 82)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 10px 7px",
+    "size": 19,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(15, 122, 82)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 10px 7px",
+    "size": 19,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(29, 112, 184)",
+    "radius": "0px",
+    "padding": "8px 10px 7px",
+    "size": 24,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [],
+  "shadows": [
+   {
+    "shadow": "rgb(8, 61, 41) 0px 2px 0px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgb(15, 56, 92) 0px 2px 0px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "30px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1100px",
+    "count": 7
+   }
+  ],
+  "pageHeightPx": 3534,
+  "mediaCoverage": 0.02,
+  "linkCount": 150
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

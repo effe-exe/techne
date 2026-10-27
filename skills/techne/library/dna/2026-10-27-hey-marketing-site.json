@@ -1,0 +1,273 @@
+{
+ "url": "https://www.hey.com",
+ "capturedAt": "2026-10-27T07:10:36.998Z",
+ "viewport": "1440x900",
+ "title": "HEY — A delightfully fresh take on email + calendar, from 37signals",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Moniker",
+    "count": 80
+   },
+   {
+    "family": "Really Sans Large",
+    "count": 10
+   }
+  ],
+  "h1": {
+   "family": "Really Sans Large",
+   "size": 83.2,
+   "weight": "900",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Really Sans Large",
+   "size": 40,
+   "weight": "850",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 17.6,
+   "lineHeight": 1.2,
+   "measureCh": 25
+  },
+  "nav": {
+   "family": "Moniker",
+   "size": 20.8,
+   "weight": "500",
+   "lineHeight": 1.4,
+   "tracking": "-0.4px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Moniker",
+   "size": 20.8,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "-0.364px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 20.8,
+   "count": 45
+  },
+  {
+   "px": 24,
+   "count": 13
+  },
+  {
+   "px": 14.4,
+   "count": 9
+  },
+  {
+   "px": 48,
+   "count": 7
+  },
+  {
+   "px": 27.2,
+   "count": 6
+  },
+  {
+   "px": 17.6,
+   "count": 6
+  },
+  {
+   "px": 40,
+   "count": 2
+  },
+  {
+   "px": 32,
+   "count": 1
+  },
+  {
+   "px": 83.2,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(35, 28, 51)",
+    "count": 41
+   },
+   {
+    "color": "rgb(85, 34, 250)",
+    "count": 40
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgb(115, 108, 131)",
+    "count": 1
+   },
+   {
+    "color": "rgb(237, 234, 230)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(249, 247, 245)",
+    "count": 1
+   },
+   {
+    "color": "rgb(85, 34, 250)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(237, 234, 230)",
+    "color": "rgb(35, 28, 51)",
+    "radius": "57.2px",
+    "padding": "16.64px 21.32px",
+    "size": 20.8,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "57.2px",
+    "padding": "16.64px 21.32px",
+    "size": 20.8,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "74.8px",
+    "padding": "23.8px 29.92px",
+    "size": 27.2,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 32,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "74.8px",
+    "padding": "23.8px 29.92px",
+    "size": 27.2,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "43.68px",
+    "count": 31
+   },
+   {
+    "radius": "25.6px",
+    "count": 14
+   },
+   {
+    "radius": "20.88px",
+    "count": 9
+   },
+   {
+    "radius": "100%",
+    "count": 9
+   },
+   {
+    "radius": "57.2px",
+    "count": 3
+   },
+   {
+    "radius": "74.8px",
+    "count": 3
+   },
+   {
+    "radius": "22.4px",
+    "count": 3
+   },
+   {
+    "radius": "40.4px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(35, 28, 51, 0.1) 0px 25.6px 12.8px -25.6px, rgba(35, 28, 51, 0.15) 0px 38.4px 25.6px -38.4px, rgba(35, 28, 51, 0.2) 0px 51.2px 38.4px -51.2px",
+    "count": 9
+   },
+   {
+    "shadow": "rgba(35, 28, 51, 0.1) 0px 11.52px 11.52px -11.52px, rgba(35, 28, 51, 0.2) 0px 17.28px 17.28px -17.28px, rgba(35, 28, 51, 0.3) 0px 23.04px 23.04px -23.04px",
+    "count": 9
+   },
+   {
+    "shadow": "rgba(35, 28, 51, 0.02) 0px 0px 0px 1px, rgba(35, 28, 51, 0.2) 0px 6.4px 51.2px -25.6px, rgba(35, 28, 51, 0.3) 0px 12.8px 76.8px -32px, rgba(35, 28, 51, 0.4) 0px 12.8px 25.6px -38.4px, rgba(35, 28, 51, 0.5) 0px 25.6px 38.4px -51.2px, rgba(35, 28, 51, 0.6) 0px 38.4px 51.2px -64px",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(35, 28, 51, 0.02) 0px 0px 0px 1px, rgba(35, 28, 51, 0.2) 0px 6.4px 38.4px -12.8px, rgba(35, 28, 51, 0.3) 0px 12.8px 64px -25.6px, rgba(35, 28, 51, 0.4) 0px 12.8px 12.8px -25.6px, rgba(35, 28, 51, 0.5) 0px 25.6px 25.6px -38.4px, rgba(35, 28, 51, 0.6) 0px 38.4px 38.4px -51.2px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "40.4px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [],
+  "pageHeightPx": 10323,
+  "mediaCoverage": 0.35,
+  "linkCount": 72
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 34
+   },
+   {
+    "duration": "0.15s",
+    "count": 33
+   },
+   {
+    "duration": "0.15s, 0.15s, 0.15s",
+    "count": 7
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 34
+   },
+   {
+    "easing": "ease, ease, ease",
+    "count": 7
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

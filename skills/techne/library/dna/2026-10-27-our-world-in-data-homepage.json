@@ -1,0 +1,275 @@
+{
+ "url": "https://ourworldindata.org",
+ "capturedAt": "2026-10-27T07:46:51.141Z",
+ "viewport": "1440x900",
+ "title": "Our World in Data",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Lato",
+    "count": 279
+   },
+   {
+    "family": "Playfair Display",
+    "count": 27
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "Playfair Display",
+   "size": 32,
+   "weight": "600",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 12,
+   "lineHeight": 2.67,
+   "measureCh": 19
+  },
+  "nav": {
+   "family": "Lato",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Lato",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 226
+  },
+  {
+   "px": 16,
+   "count": 34
+  },
+  {
+   "px": 18,
+   "count": 22
+  },
+  {
+   "px": 10,
+   "count": 7
+  },
+  {
+   "px": 20,
+   "count": 7
+  },
+  {
+   "px": 24,
+   "count": 5
+  },
+  {
+   "px": 12,
+   "count": 4
+  },
+  {
+   "px": 32,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(29, 61, 99)",
+    "count": 231
+   },
+   {
+    "color": "rgb(66, 101, 145)",
+    "count": 32
+   },
+   {
+    "color": "rgb(87, 114, 145)",
+    "count": 10
+   },
+   {
+    "color": "rgb(0, 33, 71)",
+    "count": 9
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(206, 38, 30)",
+    "count": 6
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 33, 71)",
+    "count": 3
+   },
+   {
+    "color": "rgb(247, 247, 247)",
+    "count": 2
+   },
+   {
+    "color": "rgb(231, 242, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(240, 244, 250)",
+    "count": 2
+   },
+   {
+    "color": "rgb(247, 192, 32)",
+    "count": 2
+   },
+   {
+    "color": "rgb(219, 229, 240)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(219, 229, 240)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(219, 229, 240)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(219, 229, 240)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px 24px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgba(16, 16, 16, 0.3)",
+    "radius": "0px",
+    "padding": "1px 8px 1px 11px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "32px",
+    "count": 13
+   },
+   {
+    "radius": "50%",
+    "count": 6
+   },
+   {
+    "radius": "3px",
+    "count": 2
+   },
+   {
+    "radius": "2px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 2px 2px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.08) 0px 4px 24px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "24px",
+    "count": 2
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "290px",
+    "count": 4
+   },
+   {
+    "maxWidth": "1420px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1280px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4902,
+  "mediaCoverage": 0.12,
+  "linkCount": 310
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s",
+    "count": 10
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 7
+   },
+   {
+    "duration": "0.125s, 0.125s",
+    "count": 4
+   },
+   {
+    "duration": "0.125s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.23, 1, 0.32, 1), cubic-bezier(0.23, 1, 0.32, 1)",
+    "count": 7
+   },
+   {
+    "easing": "ease, ease",
+    "count": 4
+   },
+   {
+    "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

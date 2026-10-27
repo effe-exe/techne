@@ -1,0 +1,334 @@
+{
+ "url": "https://wise.com",
+ "capturedAt": "2026-10-27T07:10:50.634Z",
+ "viewport": "1440x900",
+ "title": "Wise: The international account | Money without borders | Wise United States",
+ "lang": "en-GB",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 180
+   },
+   {
+    "family": "Wise Sans",
+    "count": 12
+   }
+  ],
+  "h1": {
+   "family": "Wise Sans",
+   "size": 89.1,
+   "weight": "900",
+   "lineHeight": 0.85,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Wise Sans",
+   "size": 58.5,
+   "weight": "900",
+   "lineHeight": 0.85,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 40,
+   "lineHeight": 0.85,
+   "measureCh": 17
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 18,
+   "weight": "600",
+   "lineHeight": 1.44,
+   "tracking": "-0.108px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 18,
+   "weight": "600",
+   "lineHeight": 1.44,
+   "tracking": "-0.108px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 102
+  },
+  {
+   "px": 18,
+   "count": 38
+  },
+  {
+   "px": 20,
+   "count": 24
+  },
+  {
+   "px": 14,
+   "count": 12
+  },
+  {
+   "px": 40,
+   "count": 5
+  },
+  {
+   "px": 89.1,
+   "count": 3
+  },
+  {
+   "px": 58.5,
+   "count": 3
+  },
+  {
+   "px": 24.6,
+   "count": 3
+  },
+  {
+   "px": 52,
+   "count": 1
+  },
+  {
+   "px": 45.5,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(22, 51, 0)",
+    "count": 129
+   },
+   {
+    "color": "rgb(14, 15, 12)",
+    "count": 36
+   },
+   {
+    "color": "rgb(159, 232, 112)",
+    "count": 15
+   },
+   {
+    "color": "rgb(69, 71, 69)",
+    "count": 11
+   },
+   {
+    "color": "rgb(5, 77, 40)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 11
+   },
+   {
+    "color": "rgba(22, 51, 0, 0.08)",
+    "count": 11
+   },
+   {
+    "color": "rgb(22, 51, 0)",
+    "count": 7
+   },
+   {
+    "color": "rgb(159, 232, 112)",
+    "count": 6
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.5)",
+    "count": 1
+   },
+   {
+    "color": "rgba(14, 15, 12, 0.12)",
+    "count": 1
+   },
+   {
+    "color": "rgb(224, 247, 247)",
+    "count": 1
+   },
+   {
+    "color": "rgb(226, 246, 213)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(22, 51, 0)",
+    "color": "rgb(159, 232, 112)",
+    "radius": "9999px",
+    "padding": "19px 24px",
+    "size": 20,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(22, 51, 0)",
+    "radius": "9999px",
+    "padding": "8px 12px",
+    "size": 18,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(22, 51, 0)",
+    "radius": "9999px",
+    "padding": "8px 12px",
+    "size": 18,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(22, 51, 0)",
+    "radius": "9999px",
+    "padding": "8px 12px",
+    "size": 18,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(22, 51, 0)",
+    "radius": "18.7693px",
+    "padding": "8px 12px",
+    "size": 18,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 90
+   },
+   {
+    "radius": "2px",
+    "count": 77
+   },
+   {
+    "radius": "50%",
+    "count": 52
+   },
+   {
+    "radius": "18.7693px",
+    "count": 31
+   },
+   {
+    "radius": "28.1539px",
+    "count": 14
+   },
+   {
+    "radius": "100%",
+    "count": 6
+   },
+   {
+    "radius": "16px",
+    "count": 5
+   },
+   {
+    "radius": "10px",
+    "count": 4
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(255, 255, 255, 0.2) 0px 0px 0px 1px",
+    "count": 12
+   },
+   {
+    "shadow": "rgba(22, 51, 0, 0.12) 0px 0px 0px 1px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.08) 0px 6px 20px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgb(134, 134, 133) 0px 0px 0px 1px inset",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "56.3076px",
+    "count": 6
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 21
+   },
+   {
+    "maxWidth": "400px",
+    "count": 6
+   },
+   {
+    "maxWidth": "604px",
+    "count": 3
+   },
+   {
+    "maxWidth": "288px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1092px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 10527,
+  "mediaCoverage": 0.2,
+  "linkCount": 155
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.35s",
+    "count": 83
+   },
+   {
+    "duration": "0s, 0.15s",
+    "count": 26
+   },
+   {
+    "duration": "0.15s",
+    "count": 6
+   },
+   {
+    "duration": "1s",
+    "count": 6
+   },
+   {
+    "duration": "0.2s",
+    "count": 3
+   },
+   {
+    "duration": "0.15s, 0.15s, 0.15s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.8, 0.05, 0.2, 0.95)",
+    "count": 83
+   },
+   {
+    "easing": "ease, ease-in-out",
+    "count": 26
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 6
+   },
+   {
+    "easing": "ease-in-out, ease-in-out, ease-in-out",
+    "count": 3
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

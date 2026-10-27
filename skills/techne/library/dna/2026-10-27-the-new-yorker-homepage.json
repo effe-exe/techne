@@ -1,0 +1,310 @@
+{
+ "url": "https://www.newyorker.com",
+ "capturedAt": "2026-10-27T07:48:15.748Z",
+ "viewport": "1440x900",
+ "title": "The New Yorker",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "TNYAdobeCaslonPro",
+    "count": 89
+   },
+   {
+    "family": "NeutrafaceNewYorker",
+    "count": 45
+   },
+   {
+    "family": "Graphik",
+    "count": 34
+   },
+   {
+    "family": "IrvinText",
+    "count": 26
+   },
+   {
+    "family": "IrvinHeadingPro",
+    "count": 18
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "IrvinHeadingPro",
+   "size": 28,
+   "weight": "400",
+   "lineHeight": 1.14,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 21,
+   "lineHeight": 1.33,
+   "measureCh": 48
+  },
+  "nav": {
+   "family": "Graphik",
+   "size": 12,
+   "weight": "500",
+   "lineHeight": 1.27,
+   "tracking": "-0.15px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Graphik",
+   "size": 13,
+   "weight": "500",
+   "lineHeight": 1.23,
+   "tracking": "-0.1625px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 15,
+   "count": 45
+  },
+  {
+   "px": 22,
+   "count": 40
+  },
+  {
+   "px": 17,
+   "count": 38
+  },
+  {
+   "px": 12,
+   "count": 37
+  },
+  {
+   "px": 13,
+   "count": 21
+  },
+  {
+   "px": 21,
+   "count": 11
+  },
+  {
+   "px": 36,
+   "count": 10
+  },
+  {
+   "px": 28,
+   "count": 8
+  },
+  {
+   "px": 14,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 83
+   },
+   {
+    "color": "rgb(18, 18, 18)",
+    "count": 42
+   },
+   {
+    "color": "rgb(51, 51, 51)",
+    "count": 40
+   },
+   {
+    "color": "rgb(219, 51, 52)",
+    "count": 18
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 10
+   },
+   {
+    "color": "rgb(245, 245, 245)",
+    "count": 9
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(255, 255, 255, 0)",
+    "count": 8
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 5
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(18, 18, 18)",
+    "count": 2
+   },
+   {
+    "color": "rgb(92, 214, 135)",
+    "count": 1
+   },
+   {
+    "color": "rgb(132, 201, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(165, 232, 253)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 225, 125)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "500"
+   },
+   {
+    "bg": "color(srgb 1 1 1 / 0.9)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 21,
+    "weight": "400"
+   },
+   {
+    "bg": "color(srgb 1 1 1 / 0.9)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 21,
+    "weight": "400"
+   },
+   {
+    "bg": "color(srgb 1 1 1 / 0.9)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 21,
+    "weight": "400"
+   },
+   {
+    "bg": "color(srgb 1 1 1 / 0.9)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 21,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 80
+   },
+   {
+    "radius": "48px",
+    "count": 10
+   },
+   {
+    "radius": "8px",
+    "count": 8
+   },
+   {
+    "radius": "16px",
+    "count": 7
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "8px",
+    "count": 4
+   },
+   {
+    "padding": "48px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1600px",
+    "count": 28
+   },
+   {
+    "maxWidth": "500px",
+    "count": 9
+   },
+   {
+    "maxWidth": "32px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1472px",
+    "count": 1
+   },
+   {
+    "maxWidth": "600px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 16583,
+  "mediaCoverage": 0.41,
+  "linkCount": 139
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 89
+   },
+   {
+    "duration": "1s",
+    "count": 66
+   },
+   {
+    "duration": "0.1s, 0.1s, 0.1s, 0.1s, 0.1s, 0.1s, 0.1s, 0.1s",
+    "count": 16
+   },
+   {
+    "duration": "0.3s",
+    "count": 2
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 1
+   },
+   {
+    "duration": "5s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 90
+   },
+   {
+    "easing": "cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1)",
+    "count": 16
+   },
+   {
+    "easing": "ease-in",
+    "count": 1
+   },
+   {
+    "easing": "cubic-bezier(0, 0.59, 0.32, 1), cubic-bezier(0, 0.59, 0.32, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

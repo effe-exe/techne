@@ -1,0 +1,334 @@
+{
+ "url": "https://cowboy.com",
+ "capturedAt": "2026-10-27T07:55:17.909Z",
+ "viewport": "1440x900",
+ "title": "Cowboy - The Ultimate Connected E-Bikes",
+ "lang": "en-BE",
+ "fonts": {
+  "families": [
+   {
+    "family": "SuisseIntl",
+    "count": 200
+   },
+   {
+    "family": "ui-monospace",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "SuisseIntl",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.47,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "SuisseIntl",
+   "size": 12,
+   "weight": "600",
+   "lineHeight": 1.47,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.47,
+   "measureCh": 45
+  },
+  "nav": {
+   "family": "SuisseIntl",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "-0.4px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "SuisseIntl",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.47,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 90
+  },
+  {
+   "px": 12,
+   "count": 34
+  },
+  {
+   "px": 14,
+   "count": 20
+  },
+  {
+   "px": 44,
+   "count": 15
+  },
+  {
+   "px": 18,
+   "count": 12
+  },
+  {
+   "px": 24,
+   "count": 7
+  },
+  {
+   "px": 72,
+   "count": 7
+  },
+  {
+   "px": 20,
+   "count": 6
+  },
+  {
+   "px": 42,
+   "count": 4
+  },
+  {
+   "px": 100,
+   "count": 2
+  },
+  {
+   "px": 36,
+   "count": 1
+  },
+  {
+   "px": 46,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(245, 245, 245)",
+  "textColors": [
+   {
+    "color": "rgb(29, 29, 29)",
+    "count": 76
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 71
+   },
+   {
+    "color": "rgba(29, 29, 29, 0.6)",
+    "count": 33
+   },
+   {
+    "color": "rgb(163, 163, 163)",
+    "count": 16
+   },
+   {
+    "color": "rgba(248, 248, 245, 0.6)",
+    "count": 3
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.6)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(29, 29, 29)",
+    "count": 45
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 41
+   },
+   {
+    "color": "rgb(235, 234, 231)",
+    "count": 5
+   },
+   {
+    "color": "rgba(248, 248, 245, 0.1)",
+    "count": 3
+   },
+   {
+    "color": "rgb(243, 244, 246)",
+    "count": 3
+   },
+   {
+    "color": "rgba(29, 29, 29, 0.8)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 138
+   },
+   {
+    "radius": "9999px",
+    "count": 19
+   },
+   {
+    "radius": "8px 8px 0px 0px",
+    "count": 18
+   },
+   {
+    "radius": "0px 0px 8px 8px",
+    "count": 18
+   },
+   {
+    "radius": "4px",
+    "count": 1
+   },
+   {
+    "radius": "50%",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.06) 0px 1px 6px 0px, rgba(0, 0, 0, 0.16) 0px 2px 32px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "110.4px",
+    "count": 4
+   },
+   {
+    "padding": "4px",
+    "count": 1
+   },
+   {
+    "padding": "40px",
+    "count": 1
+   },
+   {
+    "padding": "60px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 18
+   },
+   {
+    "maxWidth": "320px",
+    "count": 4
+   },
+   {
+    "maxWidth": "512px",
+    "count": 4
+   },
+   {
+    "maxWidth": "720px",
+    "count": 1
+   },
+   {
+    "maxWidth": "576px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 18783,
+  "mediaCoverage": 1.82,
+  "linkCount": 82
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s",
+    "count": 39
+   },
+   {
+    "duration": "0.3s",
+    "count": 36
+   },
+   {
+    "duration": "0.6s, 0.9s",
+    "count": 8
+   },
+   {
+    "duration": "1s",
+    "count": 8
+   },
+   {
+    "duration": "0.15s",
+    "count": 6
+   },
+   {
+    "duration": "0.5s",
+    "count": 5
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 85
+   },
+   {
+    "easing": "cubic-bezier(0.49, 0.025, 0.685, 1)",
+    "count": 17
+   },
+   {
+    "easing": "linear, linear",
+    "count": 2
+   },
+   {
+    "easing": "cubic-bezier(0.33, 0, 0, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

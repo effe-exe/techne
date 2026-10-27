@@ -1,0 +1,249 @@
+{
+ "url": "https://base.uber.com",
+ "capturedAt": "2026-10-27T08:08:16.910Z",
+ "viewport": "1440x900",
+ "title": "Base design system",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "DM sans",
+    "count": 16
+   },
+   {
+    "family": "Uber Move",
+    "count": 2
+   },
+   {
+    "family": "Uber Move Text",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "Uber Move",
+   "size": 56,
+   "weight": "600",
+   "lineHeight": 1.14,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Uber Move",
+   "size": 32,
+   "weight": "600",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 13,
+   "lineHeight": "normal",
+   "measureCh": 0
+  },
+  "nav": {
+   "family": "DM sans",
+   "size": 13,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "DM sans",
+   "size": 13,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 8
+  },
+  {
+   "px": 14,
+   "count": 5
+  },
+  {
+   "px": 13,
+   "count": 2
+  },
+  {
+   "px": 12,
+   "count": 1
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 32,
+   "count": 1
+  },
+  {
+   "px": 56,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 11
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 7
+   },
+   {
+    "color": "rgb(33, 33, 33)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 11
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(96, 95, 96)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "4px 0px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgba(255, 255, 255, 0)",
+    "color": "rgb(38, 38, 38)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3px",
+    "count": 10
+   },
+   {
+    "radius": "2px 2px 0px 0px",
+    "count": 8
+   },
+   {
+    "radius": "4px",
+    "count": 3
+   },
+   {
+    "radius": "16px",
+    "count": 1
+   },
+   {
+    "radius": "100px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(33, 33, 33, 0.1) 0px 2px 4px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "560px",
+    "count": 4
+   },
+   {
+    "maxWidth": "192px",
+    "count": 1
+   },
+   {
+    "maxWidth": "600px",
+    "count": 1
+   },
+   {
+    "maxWidth": "848px",
+    "count": 1
+   },
+   {
+    "maxWidth": "896px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.01,
+  "linkCount": 32
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 9
+   },
+   {
+    "duration": "0.1s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s, 0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 1
+   },
+   {
+    "easing": "ease-in-out, ease-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

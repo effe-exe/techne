@@ -1,0 +1,216 @@
+{
+ "url": "https://www.gapminder.org/tools/",
+ "capturedAt": "2026-10-27T08:29:38.824Z",
+ "viewport": "1440x900",
+ "title": "Gapminder Tools",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Brand Sans Body",
+    "count": 200
+   },
+   {
+    "family": "Brand Sans Alt",
+    "count": 189
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": null,
+  "nav": null,
+  "button": {
+   "family": "Brand Sans Body",
+   "size": 18,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12.8,
+   "count": 379
+  },
+  {
+   "px": 18,
+   "count": 6
+  },
+  {
+   "px": 16,
+   "count": 4
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(102, 102, 102)",
+    "count": 379
+   },
+   {
+    "color": "rgb(34, 34, 34)",
+    "count": 5
+   },
+   {
+    "color": "rgb(96, 120, 137)",
+    "count": 2
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(252, 107, 56)",
+    "count": 1
+   },
+   {
+    "color": "rgb(66, 86, 99)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(255, 202, 52)",
+    "count": 1
+   },
+   {
+    "color": "rgb(245, 249, 251)",
+    "count": 1
+   },
+   {
+    "color": "rgb(153, 153, 153)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(34, 34, 34)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 18,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 202, 52)",
+    "color": "rgb(34, 34, 34)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 20,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 202, 52)",
+    "color": "rgb(34, 34, 34)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 20,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 202, 52)",
+    "color": "rgb(34, 34, 34)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 20,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 202, 52)",
+    "color": "rgb(34, 34, 34)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 20,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 10
+   },
+   {
+    "radius": "3px",
+    "count": 9
+   },
+   {
+    "radius": "36px",
+    "count": 8
+   },
+   {
+    "radius": "40px",
+    "count": 1
+   },
+   {
+    "radius": "6px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.05) 1px 1px 11px 0px, rgba(0, 0, 0, 0.18) 1px 1px 6px 0px",
+    "count": 6
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.03) 0px 1px 20px 0px, rgba(0, 0, 0, 0.12) 0px 1px 10px 0px",
+    "count": 3
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "400px",
+    "count": 6
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 4
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 4.46,
+  "linkCount": 116
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 193
+   },
+   {
+    "duration": "0.2s",
+    "count": 6
+   },
+   {
+    "duration": "0.1s, 0.1s, 0.1s, 0.1s",
+    "count": 5
+   },
+   {
+    "duration": "0.1s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in, ease-in, ease-in, ease-in",
+    "count": 5
+   },
+   {
+    "easing": "ease-in",
+    "count": 3
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

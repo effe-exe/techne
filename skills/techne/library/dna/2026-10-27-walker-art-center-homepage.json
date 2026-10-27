@@ -1,0 +1,252 @@
+{
+ "url": "https://walkerart.org",
+ "capturedAt": "2026-10-27T07:48:00.748Z",
+ "viewport": "1440x900",
+ "title": "Walker Art Center | Contemporary Art Museum | Minneapolis",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "ABC Walker",
+    "count": 251
+   },
+   {
+    "family": "sans-serif",
+    "count": 3
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "ABC Walker",
+   "size": 72,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 24,
+   "lineHeight": 1.5,
+   "measureCh": 23
+  },
+  "nav": null,
+  "button": {
+   "family": "ABC Walker",
+   "size": 24,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18,
+   "count": 78
+  },
+  {
+   "px": 24,
+   "count": 58
+  },
+  {
+   "px": 16,
+   "count": 43
+  },
+  {
+   "px": 32,
+   "count": 42
+  },
+  {
+   "px": 48,
+   "count": 11
+  },
+  {
+   "px": 72,
+   "count": 11
+  },
+  {
+   "px": 12,
+   "count": 2
+  },
+  {
+   "px": 60,
+   "count": 2
+  },
+  {
+   "px": 14.4,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 205
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 42
+   },
+   {
+    "color": "rgb(2, 2, 2)",
+    "count": 5
+   },
+   {
+    "color": "color(srgb 1 1 1 / 0.85)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 11
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(0, 0, 255)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "50px",
+    "padding": "12px 24px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "50px",
+    "padding": "6px 12px",
+    "size": 24,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(0, 0, 255)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "50px",
+    "padding": "12px 24px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "color(srgb 1 1 1 / 0.85)",
+    "radius": "0px",
+    "padding": "12px 24px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "100px",
+    "count": 7
+   },
+   {
+    "radius": "50px",
+    "count": 4
+   },
+   {
+    "radius": "24px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(33, 35, 38, 0) 0px 10px 10px -10px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "12px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1400px",
+    "count": 23
+   },
+   {
+    "maxWidth": "800px",
+    "count": 11
+   },
+   {
+    "maxWidth": "320px",
+    "count": 1
+   },
+   {
+    "maxWidth": "220px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 5743,
+  "mediaCoverage": 1.99,
+  "linkCount": 134
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s",
+    "count": 120
+   },
+   {
+    "duration": "0.15s",
+    "count": 12
+   },
+   {
+    "duration": "0.4s",
+    "count": 7
+   },
+   {
+    "duration": "0.1s",
+    "count": 6
+   },
+   {
+    "duration": "0.075s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 132
+   },
+   {
+    "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "count": 6
+   },
+   {
+    "easing": "linear",
+    "count": 1
+   },
+   {
+    "easing": "cubic-bezier(0.55, 0.055, 0.675, 0.19)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

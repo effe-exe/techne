@@ -1,0 +1,219 @@
+{
+ "url": "https://poolsuite.net",
+ "capturedAt": "2026-10-27T07:44:23.686Z",
+ "viewport": "1440x900",
+ "title": "Poolsuite ☼",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Everyday",
+    "count": 15
+   },
+   {
+    "family": "Pixolde",
+    "count": 2
+   },
+   {
+    "family": "ChiKareGo2",
+    "count": 2
+   },
+   {
+    "family": "Ishmeria",
+    "count": 1
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "Ishmeria",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 0.88,
+   "tracking": "-1px",
+   "transform": "uppercase"
+  },
+  "body": null,
+  "nav": null,
+  "button": {
+   "family": "ui-sans-serif",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 10,
+   "count": 14
+  },
+  {
+   "px": 16,
+   "count": 5
+  },
+  {
+   "px": 8,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(246, 213, 213)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 18
+   },
+   {
+    "color": "rgb(249, 240, 233)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(249, 240, 233)",
+    "count": 5
+   },
+   {
+    "color": "rgb(246, 213, 213)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(209, 209, 209)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(249, 240, 233)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px 0px 4px",
+    "padding": "9px 10px 8px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "2px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "2px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "2px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "2px",
+    "count": 6
+   },
+   {
+    "radius": "4px",
+    "count": 5
+   },
+   {
+    "radius": "9999px",
+    "count": 2
+   },
+   {
+    "radius": "0px 0px 4px",
+    "count": 1
+   },
+   {
+    "radius": "0px 0px 0px 4px",
+    "count": 1
+   },
+   {
+    "radius": "6px",
+    "count": 1
+   },
+   {
+    "radius": "4px 0px 0px 4px",
+    "count": 1
+   },
+   {
+    "radius": "0px 4px 4px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(255, 255, 255) 1px 1px 0px 0px inset, rgba(0, 0, 0, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.2) 0px -11px 0px 0px inset",
+    "count": 9
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(0, 0, 0) 0px 1px 0px 0px, rgb(255, 255, 255) 0px 1px 0px 0px inset",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.3) 0px 50px 80px -50px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "32px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.34,
+  "linkCount": 45
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 1
+   },
+   {
+    "easing": "cubic-bezier(0.23, 0.09, 0.08, 1.13), cubic-bezier(0.23, 0.09, 0.08, 1.13)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

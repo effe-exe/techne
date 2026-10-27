@@ -1,0 +1,215 @@
+{
+ "url": "https://www.tldraw.com",
+ "capturedAt": "2026-10-27T07:10:29.508Z",
+ "viewport": "1440x900",
+ "title": "tldraw • very good free whiteboard",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 5
+   }
+  ],
+  "h1": {
+   "family": "Inter",
+   "size": 24,
+   "weight": "700",
+   "lineHeight": 1.6,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": null,
+  "nav": null,
+  "button": {
+   "family": "Inter",
+   "size": 12,
+   "weight": "500",
+   "lineHeight": 1.6,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 4
+  },
+  {
+   "px": 24,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(249, 250, 251)",
+  "textColors": [
+   {
+    "color": "rgb(46, 46, 46)",
+    "count": 2
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(28, 28, 28)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(46, 46, 46)",
+    "count": 24
+   },
+   {
+    "color": "rgb(249, 250, 251)",
+    "count": 4
+   },
+   {
+    "color": "rgb(136, 141, 145)",
+    "count": 4
+   },
+   {
+    "color": "rgb(252, 252, 252)",
+    "count": 3
+   },
+   {
+    "color": "rgb(28, 28, 28)",
+    "count": 1
+   },
+   {
+    "color": "rgb(110, 116, 119)",
+    "count": 1
+   },
+   {
+    "color": "rgb(29, 29, 29)",
+    "count": 1
+   },
+   {
+    "color": "rgb(159, 168, 178)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(110, 116, 119)",
+    "radius": "0px",
+    "padding": "0px 12px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(237, 240, 242)",
+    "color": "rgb(46, 46, 46)",
+    "radius": "9px",
+    "padding": "8px 16px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(110, 116, 119)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(28, 28, 28)",
+    "radius": "0px",
+    "padding": "0px 12px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 12,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9px",
+    "count": 2
+   },
+   {
+    "radius": "2px",
+    "count": 1
+   },
+   {
+    "radius": "0px 0px 11px",
+    "count": 1
+   },
+   {
+    "radius": "14px",
+    "count": 1
+   },
+   {
+    "radius": "999px",
+    "count": 1
+   },
+   {
+    "radius": "11px 11px 0px 0px",
+    "count": 1
+   },
+   {
+    "radius": "11px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.16) 0px 0px 2px 0px, rgba(0, 0, 0, 0.24) 0px 2px 3px 0px, rgba(0, 0, 0, 0.1) 0px 2px 6px 0px, rgb(255, 255, 255) 0px 0px 0px 1px inset",
+    "count": 2
+   },
+   {
+    "shadow": "rgb(46, 46, 46) 0px 0px 0px 2px inset",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "148px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 2,
+  "linkCount": 2
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "3s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 2
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

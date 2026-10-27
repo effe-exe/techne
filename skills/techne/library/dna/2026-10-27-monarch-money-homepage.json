@@ -1,0 +1,302 @@
+{
+ "url": "https://www.monarchmoney.com",
+ "capturedAt": "2026-10-27T07:16:11.248Z",
+ "viewport": "1440x900",
+ "title": "Track, Budget, Plan and Manage Money in One Place | Monarch",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "ABC Oracle",
+    "count": 104
+   },
+   {
+    "family": "Copernicus",
+    "count": 20
+   }
+  ],
+  "h1": {
+   "family": "Copernicus",
+   "size": 48,
+   "weight": "350",
+   "lineHeight": 1.2,
+   "tracking": "-3.2px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Copernicus",
+   "size": 40,
+   "weight": "350",
+   "lineHeight": 1.2,
+   "tracking": "-2.4px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 15,
+   "lineHeight": 1.33,
+   "measureCh": 49
+  },
+  "nav": {
+   "family": "ABC Oracle",
+   "size": 14,
+   "weight": "350",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "ABC Oracle",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 61
+  },
+  {
+   "px": 18,
+   "count": 29
+  },
+  {
+   "px": 40,
+   "count": 10
+  },
+  {
+   "px": 16,
+   "count": 9
+  },
+  {
+   "px": 32,
+   "count": 7
+  },
+  {
+   "px": 13,
+   "count": 3
+  },
+  {
+   "px": 48,
+   "count": 3
+  },
+  {
+   "px": 15,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(246, 245, 243)",
+  "textColors": [
+   {
+    "color": "rgb(34, 32, 29)",
+    "count": 89
+   },
+   {
+    "color": "rgb(243, 91, 22)",
+    "count": 13
+   },
+   {
+    "color": "rgb(119, 117, 115)",
+    "count": 11
+   },
+   {
+    "color": "rgb(254, 252, 251)",
+    "count": 7
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "color(srgb 0.133333 0.12549 0.113725 / 0.78)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 15
+   },
+   {
+    "color": "rgb(239, 236, 234)",
+    "count": 2
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.85)",
+    "count": 1
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.1)",
+    "count": 1
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.75)",
+    "count": 1
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.3)",
+    "count": 1
+   },
+   {
+    "color": "rgb(251, 250, 248)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 197, 61)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(119, 117, 115)",
+    "radius": "6px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(34, 32, 29)",
+    "radius": "9999px",
+    "padding": "8px 12px",
+    "size": 14,
+    "weight": "350"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 16
+   },
+   {
+    "radius": "12px",
+    "count": 14
+   },
+   {
+    "radius": "8px",
+    "count": 10
+   },
+   {
+    "radius": "16px",
+    "count": 1
+   },
+   {
+    "radius": "6px",
+    "count": 1
+   },
+   {
+    "radius": "50%",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(34, 32, 29, 0.05) 0px 1px 2px 0px",
+    "count": 11
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(34, 32, 29, 0.1) 0px 10px 15px -3px, rgba(34, 32, 29, 0.1) 0px 4px 6px -4px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(34, 32, 29, 0.075) 0px 4px 6px -1px, rgba(34, 32, 29, 0.075) 0px 2px 4px -2px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(34, 32, 29, 0.16) 0px 12px 32px 0px, rgba(34, 32, 29, 0.08) 0px 2px 6px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "64px",
+    "count": 2
+   },
+   {
+    "padding": "32px",
+    "count": 1
+   },
+   {
+    "padding": "96px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 14
+   },
+   {
+    "maxWidth": "160px",
+    "count": 6
+   },
+   {
+    "maxWidth": "144px",
+    "count": 1
+   },
+   {
+    "maxWidth": "584px",
+    "count": 1
+   },
+   {
+    "maxWidth": "685px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 9637,
+  "mediaCoverage": 0.16,
+  "linkCount": 60
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "2s",
+    "count": 22
+   },
+   {
+    "duration": "1.5s",
+    "count": 20
+   },
+   {
+    "duration": "0.3s",
+    "count": 17
+   },
+   {
+    "duration": "0.15s",
+    "count": 16
+   },
+   {
+    "duration": "0.2s",
+    "count": 3
+   },
+   {
+    "duration": "0.1s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.075, 0.82, 0.165, 1)",
+    "count": 42
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 36
+   },
+   {
+    "easing": "ease-out",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

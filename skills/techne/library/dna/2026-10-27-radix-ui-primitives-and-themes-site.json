@@ -1,0 +1,260 @@
+{
+ "url": "https://www.radix-ui.com",
+ "capturedAt": "2026-10-27T08:20:42.287Z",
+ "viewport": "1440x900",
+ "title": "Radix UI",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "-apple-system",
+    "count": 125
+   },
+   {
+    "family": "soehneMono",
+    "count": 15
+   },
+   {
+    "family": "untitledSans",
+    "count": 14
+   }
+  ],
+  "h1": {
+   "family": "adobeTextPro",
+   "size": 78,
+   "weight": "400",
+   "lineHeight": 0.9,
+   "tracking": "-3.9px",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": {
+   "size": 20,
+   "lineHeight": 1.4,
+   "measureCh": 50
+  },
+  "nav": null,
+  "button": {
+   "family": "untitledSans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 113
+  },
+  {
+   "px": 13.3,
+   "count": 15
+  },
+  {
+   "px": 24,
+   "count": 10
+  },
+  {
+   "px": 16,
+   "count": 8
+  },
+  {
+   "px": 20,
+   "count": 7
+  },
+  {
+   "px": 12,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(28, 32, 36)",
+    "count": 64
+   },
+   {
+    "color": "rgba(0, 7, 20, 0.624)",
+    "count": 47
+   },
+   {
+    "color": "rgba(0, 43, 183, 0.773)",
+    "count": 15
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 10
+   },
+   {
+    "color": "rgb(203, 29, 99)",
+    "count": 6
+   },
+   {
+    "color": "rgb(58, 91, 199)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(0, 195, 150, 0.2)",
+    "count": 19
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.85)",
+    "count": 3
+   },
+   {
+    "color": "rgb(28, 32, 36)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 51, 0.06)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgba(0, 7, 20, 0.624)",
+    "radius": "6px",
+    "padding": "8px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(0, 7, 20, 0.624)",
+    "radius": "6px",
+    "padding": "8px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(28, 32, 36)",
+    "color": "rgb(252, 252, 253)",
+    "radius": "8px",
+    "padding": "0px 24px",
+    "size": 18,
+    "weight": "500"
+   },
+   {
+    "bg": "rgba(0, 71, 241, 0.07)",
+    "color": "rgb(31, 45, 92)",
+    "radius": "8px",
+    "padding": "0px 24px",
+    "size": 18,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(62, 99, 221)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "0px 12px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "6px",
+    "count": 29
+   },
+   {
+    "radius": "4px",
+    "count": 29
+   },
+   {
+    "radius": "100%",
+    "count": 19
+   },
+   {
+    "radius": "9999px",
+    "count": 10
+   },
+   {
+    "radius": "12px",
+    "count": 10
+   },
+   {
+    "radius": "9998px",
+    "count": 9
+   },
+   {
+    "radius": "3px",
+    "count": 6
+   },
+   {
+    "radius": "999px",
+    "count": 4
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "oklab(0.834355 -0.000572754 -0.0182446 / 0.294118) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.05) 0px 8px 40px 0px, rgba(0, 0, 51, 0.06) 0px 12px 32px -16px",
+    "count": 10
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.05) 0px 2px 4px -1px, rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgba(0, 68, 255, 0.118) 0px 0px 0px 1px, rgba(0, 0, 0, 0.1) -1px 0px 1px 0px",
+    "count": 6
+   },
+   {
+    "shadow": "rgba(0, 52, 220, 0.447) 0px 0px 0px 1px inset",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(0, 6, 46, 0.196) 0px 0px 0px 1px inset",
+    "count": 3
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "40px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "500px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 3.81,
+  "linkCount": 35
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.14s, 0.14s",
+    "count": 9
+   },
+   {
+    "duration": "0.18s, 0.18s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.45, 0.05, 0.55, 0.95), ease-in-out",
+    "count": 9
+   },
+   {
+    "easing": "ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

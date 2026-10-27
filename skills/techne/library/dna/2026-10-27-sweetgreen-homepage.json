@@ -1,0 +1,314 @@
+{
+ "url": "https://www.sweetgreen.com",
+ "capturedAt": "2026-10-27T07:54:44.415Z",
+ "viewport": "1440x900",
+ "title": "sweetgreen | Inspiring healthier communities",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "SweetSansText",
+    "count": 66
+   },
+   {
+    "family": "SweetSans",
+    "count": 4
+   },
+   {
+    "family": "Grenette",
+    "count": 3
+   },
+   {
+    "family": "SweetSansText-Regular",
+    "count": 3
+   },
+   {
+    "family": "SweetSansText-Bold",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "SweetSansText",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "SweetSansText",
+   "size": 24,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "0.72px",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1,
+   "measureCh": 119
+  },
+  "nav": {
+   "family": "SweetSansText",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "button": {
+   "family": "SweetSansText",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 46
+  },
+  {
+   "px": 24,
+   "count": 15
+  },
+  {
+   "px": 14,
+   "count": 4
+  },
+  {
+   "px": 18,
+   "count": 4
+  },
+  {
+   "px": 48,
+   "count": 3
+  },
+  {
+   "px": 12,
+   "count": 2
+  },
+  {
+   "px": 80,
+   "count": 2
+  },
+  {
+   "px": 40,
+   "count": 1
+  },
+  {
+   "px": 70,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(244, 243, 231)",
+  "textColors": [
+   {
+    "color": "rgb(14, 21, 14)",
+    "count": 65
+   },
+   {
+    "color": "rgb(244, 243, 231)",
+    "count": 6
+   },
+   {
+    "color": "rgb(0, 71, 60)",
+    "count": 4
+   },
+   {
+    "color": "rgb(140, 140, 130)",
+    "count": 2
+   },
+   {
+    "color": "rgb(230, 255, 85)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(216, 229, 214)",
+    "count": 3
+   },
+   {
+    "color": "rgb(244, 243, 231)",
+    "count": 2
+   },
+   {
+    "color": "rgb(232, 220, 198)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(244, 243, 231)",
+    "color": "rgb(14, 21, 14)",
+    "radius": "0px",
+    "padding": "6px 12px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(0, 71, 60)",
+    "color": "rgb(230, 255, 85)",
+    "radius": "1000px",
+    "padding": "7px 16px 5px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(230, 255, 85)",
+    "color": "rgb(0, 71, 60)",
+    "radius": "1000px",
+    "padding": "15px 60px 13px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(230, 255, 85)",
+    "color": "rgb(0, 71, 60)",
+    "radius": "1000px",
+    "padding": "15px 60px 13px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(230, 255, 85)",
+    "color": "rgb(0, 71, 60)",
+    "radius": "1000px",
+    "padding": "15px 60px 13px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "20px",
+    "count": 17
+   },
+   {
+    "radius": "1000px",
+    "count": 5
+   },
+   {
+    "radius": "4px",
+    "count": 4
+   },
+   {
+    "radius": "50%",
+    "count": 2
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   },
+   {
+    "radius": "10px",
+    "count": 1
+   },
+   {
+    "radius": "0px 11px 11px 0px",
+    "count": 1
+   },
+   {
+    "radius": "24px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.4) 0px 0px 3px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(14, 21, 14, 0.4) 3px 3px 32px -10px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "60px",
+    "count": 3
+   },
+   {
+    "padding": "43px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 9
+   },
+   {
+    "maxWidth": "220px",
+    "count": 4
+   },
+   {
+    "maxWidth": "580px",
+    "count": 2
+   },
+   {
+    "maxWidth": "575px",
+    "count": 1
+   },
+   {
+    "maxWidth": "760px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4108,
+  "mediaCoverage": 2.04,
+  "linkCount": 60
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 64
+   },
+   {
+    "duration": "0.25s",
+    "count": 5
+   },
+   {
+    "duration": "0.24s",
+    "count": 4
+   },
+   {
+    "duration": "0.24s, 0.24s",
+    "count": 3
+   },
+   {
+    "duration": "0.3s, 0s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 72
+   },
+   {
+    "easing": "ease-in-out, ease-in-out",
+    "count": 3
+   },
+   {
+    "easing": "ease-in-out, linear",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,251 @@
+{
+ "url": "https://lusion.co",
+ "capturedAt": "2026-10-27T07:31:57.652Z",
+ "viewport": "1440x900",
+ "title": "Lusion - Award Winning 3D and Interactive Web Studio",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Aeonik",
+    "count": 12
+   }
+  ],
+  "h1": {
+   "family": "Aeonik",
+   "size": 36,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Aeonik",
+   "size": 21.6,
+   "weight": "400",
+   "lineHeight": 1.4,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": null,
+  "nav": null,
+  "button": {
+   "family": "Aeonik",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 26,
+   "count": 8
+  },
+  {
+   "px": 14,
+   "count": 3
+  },
+  {
+   "px": 14.4,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 11
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(0, 22, 236)",
+    "count": 4
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(240, 241, 250)",
+    "count": 1
+   },
+   {
+    "color": "rgb(18, 20, 22)",
+    "count": 1
+   },
+   {
+    "color": "rgb(52, 57, 63)",
+    "count": 1
+   },
+   {
+    "color": "rgb(193, 255, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.1)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(43, 46, 58)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "87.5px",
+    "padding": "0px 15.75px 0px 22.75px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(228, 230, 239)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "87.5px",
+    "padding": "0px 15.75px 0px 22.75px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "16px 26px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 20,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "15px",
+    "count": 12
+   },
+   {
+    "radius": "100px",
+    "count": 7
+   },
+   {
+    "radius": "100%",
+    "count": 6
+   },
+   {
+    "radius": "10px",
+    "count": 3
+   },
+   {
+    "radius": "87.5px",
+    "count": 2
+   },
+   {
+    "radius": "76.5px",
+    "count": 2
+   },
+   {
+    "radius": "3px",
+    "count": 2
+   },
+   {
+    "radius": "18px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.04) 0px 6px 10px 0px, rgba(0, 0, 0, 0.04) 0px 2px 4px 0px",
+    "count": 3
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "50px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "486px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 2.04,
+  "linkCount": 28
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.4s",
+    "count": 16
+   },
+   {
+    "duration": "0.4s, 0.4s",
+    "count": 10
+   },
+   {
+    "duration": "0.3s",
+    "count": 9
+   },
+   {
+    "duration": "0.3s, 0.4s",
+    "count": 4
+   },
+   {
+    "duration": "0.5s, 0.4s",
+    "count": 4
+   },
+   {
+    "duration": "0.6s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.35, 0, 0, 1)",
+    "count": 14
+   },
+   {
+    "easing": "ease, cubic-bezier(0.4, 0, 0.1, 1)",
+    "count": 12
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.1, 1)",
+    "count": 10
+   },
+   {
+    "easing": "cubic-bezier(0.35, 0, 0, 1), cubic-bezier(0.35, 0, 0, 1)",
+    "count": 4
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

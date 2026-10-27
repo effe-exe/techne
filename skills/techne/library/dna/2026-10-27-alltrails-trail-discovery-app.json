@@ -1,0 +1,277 @@
+{
+ "url": "https://www.alltrails.com",
+ "capturedAt": "2026-10-27T08:14:05.823Z",
+ "viewport": "1440x900",
+ "title": "AllTrails: Trail Guides & Maps for Hiking, Camping, and Running | AllTrails",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "AllTrailsAeonik",
+    "count": 302
+   }
+  ],
+  "h1": {
+   "family": "AllTrailsAeonik",
+   "size": 72,
+   "weight": "500",
+   "lineHeight": 1.06,
+   "tracking": "-0.1px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "AllTrailsAeonik",
+   "size": 56,
+   "weight": "500",
+   "lineHeight": 1.1,
+   "tracking": "-0.1px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.7,
+   "measureCh": 44
+  },
+  "nav": {
+   "family": "AllTrailsAeonik",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "AllTrailsAeonik",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "0.2px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 271
+  },
+  {
+   "px": 20,
+   "count": 13
+  },
+  {
+   "px": 16,
+   "count": 9
+  },
+  {
+   "px": 56,
+   "count": 3
+  },
+  {
+   "px": 14,
+   "count": 2
+  },
+  {
+   "px": 45,
+   "count": 2
+  },
+  {
+   "px": 32,
+   "count": 1
+  },
+  {
+   "px": 72,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(83, 91, 82)",
+    "count": 258
+   },
+   {
+    "color": "rgb(22, 31, 19)",
+    "count": 36
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(244, 245, 244)",
+    "count": 14
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 12
+   },
+   {
+    "color": "rgba(17, 23, 14, 0.1)",
+    "count": 3
+   },
+   {
+    "color": "rgb(230, 234, 230)",
+    "count": 2
+   },
+   {
+    "color": "rgb(22, 31, 19)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(22, 31, 19)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "9999px",
+    "padding": "0px 24px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "4px 8px",
+    "size": 13,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "4px 8px",
+    "size": 13,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "4px 8px",
+    "size": 13,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(148, 244, 119)",
+    "color": "rgb(22, 31, 19)",
+    "radius": "9999px",
+    "padding": "0px 16px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "24px",
+    "count": 12
+   },
+   {
+    "radius": "9999px",
+    "count": 10
+   },
+   {
+    "radius": "100px",
+    "count": 10
+   },
+   {
+    "radius": "50%",
+    "count": 10
+   },
+   {
+    "radius": "16px",
+    "count": 8
+   },
+   {
+    "radius": "8px",
+    "count": 4
+   },
+   {
+    "radius": "35px 35px 0px 0px",
+    "count": 3
+   },
+   {
+    "radius": "3px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 20px 5px",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.18) 0px 4px 8px 0px, rgba(0, 0, 0, 0.3) 0px 0px 1px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(17, 23, 14, 0.18) 0px 0px 0px 1px inset",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1240px",
+    "count": 7
+   },
+   {
+    "maxWidth": "484px",
+    "count": 3
+   },
+   {
+    "maxWidth": "400px",
+    "count": 3
+   },
+   {
+    "maxWidth": "676px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1300px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 8513,
+  "mediaCoverage": 0.56,
+  "linkCount": 557
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 529
+   },
+   {
+    "duration": "0.3s",
+    "count": 24
+   },
+   {
+    "duration": "0.5s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out",
+    "count": 516
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 34
+   },
+   {
+    "easing": "cubic-bezier(0.33, 1, 0.68, 1)",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

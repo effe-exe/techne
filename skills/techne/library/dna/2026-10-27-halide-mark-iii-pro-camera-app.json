@@ -1,0 +1,173 @@
+{
+ "url": "https://halide.cam",
+ "capturedAt": "2026-10-27T08:05:33.597Z",
+ "viewport": "1440x900",
+ "title": "Halide — The best pro camera for iPhone and iPad",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "-apple-system",
+    "count": 19
+   },
+   {
+    "family": "HalideRouterNeue",
+    "count": 2
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "HalideRouterNeue",
+   "size": 48,
+   "weight": "400",
+   "lineHeight": 1.33,
+   "tracking": "1.17073px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 24,
+   "lineHeight": 1.33,
+   "measureCh": 56
+  },
+  "nav": null,
+  "button": {
+   "family": "HalideRouterNeue",
+   "size": 14,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18,
+   "count": 10
+  },
+  {
+   "px": 16,
+   "count": 8
+  },
+  {
+   "px": 24,
+   "count": 1
+  },
+  {
+   "px": 32,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(2, 5, 7)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(68, 68, 68)",
+    "count": 5
+   },
+   {
+    "color": "rgb(190, 190, 190)",
+    "count": 3
+   },
+   {
+    "color": "rgb(246, 246, 246)",
+    "count": 3
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(233, 204, 183)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(216, 216, 216)",
+    "count": 2
+   },
+   {
+    "color": "rgb(21, 21, 24)",
+    "count": 1
+   },
+   {
+    "color": "rgb(14, 17, 19)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 254, 79)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "12px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "12px",
+    "count": 6
+   },
+   {
+    "radius": "1px",
+    "count": 2
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1392px",
+    "count": 5
+   },
+   {
+    "maxWidth": "837px",
+    "count": 4
+   },
+   {
+    "maxWidth": "432px",
+    "count": 4
+   },
+   {
+    "maxWidth": "800px",
+    "count": 4
+   },
+   {
+    "maxWidth": "656px",
+    "count": 3
+   }
+  ],
+  "pageHeightPx": 9580,
+  "mediaCoverage": 0.22,
+  "linkCount": 13
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s",
+    "count": 1
+   }
+  ],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,342 @@
+{
+ "url": "https://ia.net/writer",
+ "capturedAt": "2026-10-27T08:10:12.097Z",
+ "viewport": "1440x900",
+ "title": "iA Writer: The Benchmark of Markdown Writing Apps - iA",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "iASansDay",
+    "count": 95
+   },
+   {
+    "family": "iASansNight",
+    "count": 3
+   },
+   {
+    "family": "-apple-system-monospaced-numbers",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "iASansDay",
+   "size": 57.8,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "-1.15653px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "iASansDay",
+   "size": 43.7,
+   "weight": "700",
+   "lineHeight": 1.08,
+   "tracking": "-0.655877px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 28.5,
+   "lineHeight": 1.45,
+   "measureCh": 40
+  },
+  "nav": {
+   "family": "iASansDay",
+   "size": 17.1,
+   "weight": "400",
+   "lineHeight": 1.65,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "iASansDay",
+   "size": 20.9,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18.4,
+   "count": 41
+  },
+  {
+   "px": 20.9,
+   "count": 12
+  },
+  {
+   "px": 11.9,
+   "count": 12
+  },
+  {
+   "px": 28.5,
+   "count": 10
+  },
+  {
+   "px": 43.7,
+   "count": 9
+  },
+  {
+   "px": 17,
+   "count": 5
+  },
+  {
+   "px": 17.1,
+   "count": 4
+  },
+  {
+   "px": 20.7,
+   "count": 3
+  },
+  {
+   "px": 12,
+   "count": 2
+  },
+  {
+   "px": 23,
+   "count": 1
+  },
+  {
+   "px": 57.8,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(247, 247, 247)",
+  "textColors": [
+   {
+    "color": "rgb(34, 34, 34)",
+    "count": 69
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.54)",
+    "count": 12
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgb(0, 178, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.92)",
+    "count": 3
+   },
+   {
+    "color": "rgb(240, 240, 240)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(247, 247, 247)",
+    "count": 8
+   },
+   {
+    "color": "rgb(37, 37, 37)",
+    "count": 4
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgba(247, 247, 247, 0.8)",
+    "count": 1
+   },
+   {
+    "color": "color(display-p3 0.12 0.65 0.91)",
+    "count": 1
+   },
+   {
+    "color": "rgba(32, 32, 32, 0.5)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(247, 247, 247)",
+    "color": "rgb(34, 34, 34)",
+    "radius": "999px",
+    "padding": "23.1px 24.2px 22px",
+    "size": 20.9,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(247, 247, 247)",
+    "color": "rgb(34, 34, 34)",
+    "radius": "999px",
+    "padding": "23.1px 24.2px 22px",
+    "size": 20.9,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(247, 247, 247)",
+    "color": "rgb(34, 34, 34)",
+    "radius": "999px",
+    "padding": "23.1px 24.2px 22px",
+    "size": 20.9,
+    "weight": "700"
+   },
+   {
+    "bg": "rgba(32, 32, 32, 0.5)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "50%",
+    "padding": "0px",
+    "size": 23,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 23,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "999px",
+    "count": 12
+   },
+   {
+    "radius": "12px",
+    "count": 4
+   },
+   {
+    "radius": "3.105px",
+    "count": 4
+   },
+   {
+    "radius": "100px",
+    "count": 3
+   },
+   {
+    "radius": "50%",
+    "count": 2
+   },
+   {
+    "radius": "11px",
+    "count": 2
+   },
+   {
+    "radius": "30px",
+    "count": 1
+   },
+   {
+    "radius": "6px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.05) 5px 5px 10px 0px, rgba(0, 0, 0, 0.05) 10px 10px 20px 0px, rgba(0, 0, 0, 0.05) 20px 20px 40px 0px, rgba(0, 0, 0, 0.05) 40px 40px 80px 0px",
+    "count": 3
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.25) 0px 4px 44px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.05) 0px 0px 10px 0px, rgba(0, 0, 0, 0.05) 0px 0px 15px 0px, rgba(0, 0, 0, 0.05) 0px 0px 20px 0px, rgba(0, 0, 0, 0.05) 0px 0px 25px 0px",
+    "count": 2
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "100.8px",
+    "count": 5
+   },
+   {
+    "padding": "115.2px",
+    "count": 4
+   },
+   {
+    "padding": "11.97px",
+    "count": 1
+   },
+   {
+    "padding": "86.4px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1024px",
+    "count": 37
+   },
+   {
+    "maxWidth": "968px",
+    "count": 11
+   },
+   {
+    "maxWidth": "570px",
+    "count": 11
+   },
+   {
+    "maxWidth": "704px",
+    "count": 4
+   },
+   {
+    "maxWidth": "950px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 16850,
+  "mediaCoverage": 0.24,
+  "linkCount": 53
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 49
+   },
+   {
+    "duration": "0.24s",
+    "count": 12
+   },
+   {
+    "duration": "0.15s",
+    "count": 7
+   },
+   {
+    "duration": "0.3s",
+    "count": 2
+   },
+   {
+    "duration": "0.1s, 0.1s",
+    "count": 1
+   },
+   {
+    "duration": "0.25s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 50
+   },
+   {
+    "easing": "linear, linear",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

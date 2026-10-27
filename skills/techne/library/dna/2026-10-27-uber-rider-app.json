@@ -1,0 +1,281 @@
+{
+ "url": "https://www.uber.com",
+ "capturedAt": "2026-10-27T08:08:24.051Z",
+ "viewport": "1440x900",
+ "title": "Explore the Uber Platform | Uber United States",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "UberMoveText",
+    "count": 100
+   },
+   {
+    "family": "UberMove",
+    "count": 13
+   },
+   {
+    "family": "sans-serif",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "UberMove",
+   "size": 52,
+   "weight": "700",
+   "lineHeight": 1.23,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "UberMove",
+   "size": 36,
+   "weight": "700",
+   "lineHeight": 1.22,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 14
+  },
+  "nav": {
+   "family": "UberMove",
+   "size": 24,
+   "weight": "400",
+   "lineHeight": 4.67,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "UberMoveText",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.14,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 37
+  },
+  {
+   "px": 16,
+   "count": 37
+  },
+  {
+   "px": 18,
+   "count": 17
+  },
+  {
+   "px": 12,
+   "count": 10
+  },
+  {
+   "px": 36,
+   "count": 8
+  },
+  {
+   "px": 24,
+   "count": 4
+  },
+  {
+   "px": 52,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 82
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 15
+   },
+   {
+    "color": "rgb(252, 252, 252)",
+    "count": 8
+   },
+   {
+    "color": "rgb(175, 175, 175)",
+    "count": 4
+   },
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 2
+   },
+   {
+    "color": "rgb(74, 74, 74)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 16
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 11
+   },
+   {
+    "color": "rgb(246, 246, 246)",
+    "count": 2
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.2)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(17, 17, 17)",
+    "color": "rgb(252, 252, 252)",
+    "radius": "999px",
+    "padding": "10px 12px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(17, 17, 17)",
+    "color": "rgb(252, 252, 252)",
+    "radius": "999px",
+    "padding": "10px 12px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "999px",
+    "padding": "10px 12px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(239, 239, 239)",
+    "color": "rgb(17, 17, 17)",
+    "radius": "999px",
+    "padding": "14px 16px",
+    "size": 16,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 22
+   },
+   {
+    "radius": "999px",
+    "count": 19
+   },
+   {
+    "radius": "50%",
+    "count": 2
+   },
+   {
+    "radius": "6px",
+    "count": 1
+   },
+   {
+    "radius": "16px",
+    "count": 1
+   },
+   {
+    "radius": "12px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.16) 0px 4px 16px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 12
+   },
+   {
+    "maxWidth": "396px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1408px",
+    "count": 1
+   },
+   {
+    "maxWidth": "400px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1152px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7142,
+  "mediaCoverage": 0.38,
+  "linkCount": 184
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 63
+   },
+   {
+    "duration": "0.5s",
+    "count": 41
+   },
+   {
+    "duration": "1s",
+    "count": 3
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "count": 41
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 1, 1)",
+    "count": 35
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 23
+   },
+   {
+    "easing": "cubic-bezier(0.2, 0.8, 0.4, 1)",
+    "count": 5
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

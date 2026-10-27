@@ -1,0 +1,326 @@
+{
+ "url": "https://dovetail.com",
+ "capturedAt": "2026-10-27T07:14:14.155Z",
+ "viewport": "1440x900",
+ "title": "Dovetail | Customer Intelligence Platform",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 248
+   },
+   {
+    "family": "JetBrains Mono",
+    "count": 19
+   },
+   {
+    "family": "PP Mondwest",
+    "count": 13
+   }
+  ],
+  "h1": {
+   "family": "Inter",
+   "size": 160,
+   "weight": "600",
+   "lineHeight": 0.88,
+   "tracking": "-2.3px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Inter",
+   "size": 96,
+   "weight": "600",
+   "lineHeight": 1.04,
+   "tracking": "-2px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 20,
+   "lineHeight": 1.4,
+   "measureCh": 53
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 14,
+   "weight": "600",
+   "lineHeight": 1.29,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.29,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 80
+  },
+  {
+   "px": 20,
+   "count": 58
+  },
+  {
+   "px": 14,
+   "count": 45
+  },
+  {
+   "px": 13.2,
+   "count": 32
+  },
+  {
+   "px": 24,
+   "count": 28
+  },
+  {
+   "px": 12,
+   "count": 11
+  },
+  {
+   "px": 32,
+   "count": 5
+  },
+  {
+   "px": 96,
+   "count": 5
+  },
+  {
+   "px": 120,
+   "count": 4
+  },
+  {
+   "px": 133.3,
+   "count": 3
+  },
+  {
+   "px": 18,
+   "count": 2
+  },
+  {
+   "px": 160,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(10, 10, 10)",
+  "textColors": [
+   {
+    "color": "rgb(250, 250, 250)",
+    "count": 108
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 85
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.64)",
+    "count": 34
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.33)",
+    "count": 30
+   },
+   {
+    "color": "rgb(167, 167, 167)",
+    "count": 13
+   },
+   {
+    "color": "rgb(0, 68, 255)",
+    "count": 5
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(10, 10, 10)",
+    "count": 24
+   },
+   {
+    "color": "rgba(10, 10, 10, 0.64)",
+    "count": 12
+   },
+   {
+    "color": "rgb(2, 56, 206)",
+    "count": 12
+   },
+   {
+    "color": "rgb(25, 25, 25)",
+    "count": 2
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.16)",
+    "count": 1
+   },
+   {
+    "color": "rgb(39, 39, 39)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "4px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "10px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "10px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "10px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(250, 250, 250)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 24,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 59
+   },
+   {
+    "radius": "7.5443px",
+    "count": 9
+   },
+   {
+    "radius": "50%",
+    "count": 6
+   },
+   {
+    "radius": "4px",
+    "count": 6
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.45) 0px 2px 4px 0px, rgba(255, 255, 255, 0.8) 0px 0px 0px 1px inset",
+    "count": 2
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "120px",
+    "count": 4
+   },
+   {
+    "padding": "152px",
+    "count": 1
+   },
+   {
+    "padding": "160px",
+    "count": 1
+   },
+   {
+    "padding": "72px",
+    "count": 1
+   },
+   {
+    "padding": "64px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1512px",
+    "count": 9
+   },
+   {
+    "maxWidth": "382px",
+    "count": 6
+   },
+   {
+    "maxWidth": "568px",
+    "count": 2
+   },
+   {
+    "maxWidth": "280px",
+    "count": 2
+   },
+   {
+    "maxWidth": "680px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 13670,
+  "mediaCoverage": 0.74,
+  "linkCount": 144
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 37
+   },
+   {
+    "duration": "0.2s",
+    "count": 36
+   },
+   {
+    "duration": "0.3s",
+    "count": 18
+   },
+   {
+    "duration": "0.35s",
+    "count": 10
+   },
+   {
+    "duration": "0.25s, 0.25s",
+    "count": 10
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 10
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 27
+   },
+   {
+    "easing": "ease-out",
+    "count": 24
+   },
+   {
+    "easing": "ease, ease, ease",
+    "count": 8
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

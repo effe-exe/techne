@@ -1,0 +1,314 @@
+{
+ "url": "https://obsidian.md",
+ "capturedAt": "2026-10-27T07:10:00.270Z",
+ "viewport": "1440x900",
+ "title": "Obsidian - Sharpen your thinking",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "ui-sans-serif",
+    "count": 142
+   }
+  ],
+  "h1": {
+   "family": "ui-sans-serif",
+   "size": 60,
+   "weight": "600",
+   "lineHeight": 1,
+   "tracking": "-1.2px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "ui-sans-serif",
+   "size": 60,
+   "weight": "600",
+   "lineHeight": 1,
+   "tracking": "-1.2px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 36,
+   "lineHeight": 1.11,
+   "measureCh": 32
+  },
+  "nav": null,
+  "button": {
+   "family": "ui-sans-serif",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 39
+  },
+  {
+   "px": 14,
+   "count": 31
+  },
+  {
+   "px": 13,
+   "count": 27
+  },
+  {
+   "px": 6,
+   "count": 13
+  },
+  {
+   "px": 12,
+   "count": 7
+  },
+  {
+   "px": 24,
+   "count": 5
+  },
+  {
+   "px": 60,
+   "count": 5
+  },
+  {
+   "px": 20,
+   "count": 4
+  },
+  {
+   "px": 11,
+   "count": 3
+  },
+  {
+   "px": 18,
+   "count": 3
+  },
+  {
+   "px": 9,
+   "count": 2
+  },
+  {
+   "px": 10,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(15, 15, 15)",
+  "textColors": [
+   {
+    "color": "rgb(238, 238, 238)",
+    "count": 52
+   },
+   {
+    "color": "rgb(188, 188, 188)",
+    "count": 31
+   },
+   {
+    "color": "rgb(179, 179, 179)",
+    "count": 22
+   },
+   {
+    "color": "rgb(167, 139, 250)",
+    "count": 16
+   },
+   {
+    "color": "rgb(163, 163, 163)",
+    "count": 7
+   },
+   {
+    "color": "rgb(218, 218, 218)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(38, 38, 38)",
+    "count": 8
+   },
+   {
+    "color": "rgb(31, 31, 31)",
+    "count": 6
+   },
+   {
+    "color": "rgb(30, 30, 30)",
+    "count": 4
+   },
+   {
+    "color": "rgb(23, 23, 23)",
+    "count": 4
+   },
+   {
+    "color": "rgb(82, 82, 82)",
+    "count": 3
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(139, 92, 246)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 95, 87)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(188, 188, 188)",
+    "radius": "8px",
+    "padding": "8px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(124, 58, 237)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "16px 24px",
+    "size": 20,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(238, 238, 238)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(167, 139, 250)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 24,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(124, 58, 237)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "16px 32px",
+    "size": 20,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 45
+   },
+   {
+    "radius": "8px",
+    "count": 19
+   },
+   {
+    "radius": "6px",
+    "count": 15
+   },
+   {
+    "radius": "2px",
+    "count": 9
+   },
+   {
+    "radius": "12px",
+    "count": 8
+   },
+   {
+    "radius": "9999px",
+    "count": 7
+   },
+   {
+    "radius": "12px 0px 0px",
+    "count": 5
+   },
+   {
+    "radius": "16px",
+    "count": 5
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(255, 255, 255) 0px 0px 0px 0px inset, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 7
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px",
+    "count": 5
+   },
+   {
+    "shadow": "rgb(255, 255, 255) 0px 0px 0px 0px, rgb(64, 64, 64) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 5
+   },
+   {
+    "shadow": "rgb(255, 255, 255) 0px 0px 0px 0px inset, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 2
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "672px",
+    "count": 3
+   },
+   {
+    "maxWidth": "576px",
+    "count": 1
+   },
+   {
+    "maxWidth": "512px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 6740,
+  "mediaCoverage": 0.14,
+  "linkCount": 124
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 13
+   },
+   {
+    "duration": "0.15s, 0.15s, 0.15s, 0.15s",
+    "count": 5
+   },
+   {
+    "duration": "0.25s",
+    "count": 1
+   },
+   {
+    "duration": "1s, 2s",
+    "count": 1
+   },
+   {
+    "duration": "0.1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 15
+   },
+   {
+    "easing": "ease-in-out, ease-in-out, ease-in-out, ease-in-out",
+    "count": 5
+   },
+   {
+    "easing": "ease, ease-in-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

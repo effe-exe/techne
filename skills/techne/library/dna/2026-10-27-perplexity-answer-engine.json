@@ -1,0 +1,269 @@
+{
+ "url": "https://www.perplexity.ai",
+ "capturedAt": "2026-10-27T07:21:24.993Z",
+ "viewport": "1440x900",
+ "title": "Perplexity",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "pplxSans",
+    "count": 12
+   }
+  ],
+  "h1": {
+   "family": "pplxSans",
+   "size": 26,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "-0.13px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "pplxSans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 76
+  },
+  "nav": {
+   "family": "pplxSans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "pplxSans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 3
+  },
+  {
+   "px": 16,
+   "count": 3
+  },
+  {
+   "px": 26,
+   "count": 3
+  },
+  {
+   "px": 12,
+   "count": 2
+  },
+  {
+   "px": 11,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "color(srgb 0.984314 0.984314 0.984314)",
+  "textColors": [
+   {
+    "color": "rgb(11, 40, 51)",
+    "count": 6
+   },
+   {
+    "color": "color(srgb 0.0431373 0.156863 0.2 / 0.75)",
+    "count": 2
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(1, 106, 113)",
+    "count": 1
+   },
+   {
+    "color": "rgb(251, 251, 251)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "color(srgb 0.984314 0.984314 0.984314)",
+    "count": 6
+   },
+   {
+    "color": "color(srgb 0.109804 0.109804 0.109804 / 0.035)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(1, 106, 113)",
+    "count": 1
+   },
+   {
+    "color": "color(srgb 0.145098 0.145098 0.145098)",
+    "count": 1
+   },
+   {
+    "color": "color(srgb 0.0588235 0.211765 0.223529 / 0.07)",
+    "count": 1
+   },
+   {
+    "color": "color(srgb 0.109804 0.109804 0.109804 / 0.07)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "color(srgb 0.0431373 0.156863 0.2 / 0.75)",
+    "radius": "9999px",
+    "padding": "4px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "color(srgb 0.0431373 0.156863 0.2 / 0.75)",
+    "radius": "9999px",
+    "padding": "4px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "color(srgb 0.0431373 0.156863 0.2 / 0.5)",
+    "radius": "6px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "color(srgb 0.0431373 0.156863 0.2 / 0.5)",
+    "radius": "6px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "color(srgb 0.0431373 0.156863 0.2 / 0.5)",
+    "radius": "6px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 20
+   },
+   {
+    "radius": "9999px",
+    "count": 20
+   },
+   {
+    "radius": "6px",
+    "count": 4
+   },
+   {
+    "radius": "26px",
+    "count": 3
+   },
+   {
+    "radius": "12px",
+    "count": 2
+   },
+   {
+    "radius": "11px",
+    "count": 2
+   },
+   {
+    "radius": "20px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, color(srgb 0.0431373 0.156863 0.2 / 0.0285) 0px 0px 0px 1px inset, color(srgb 0.0431373 0.156863 0.2 / 0.07) 0px 0px 2px 0px inset",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, color(srgb 0.0431373 0.156863 0.2 / 0.05) 0px 0px 0px 1px, color(srgb 0.0431373 0.156863 0.2 / 0.00999999) 0px 1px 0px 0px, color(srgb 0.0431373 0.156863 0.2 / 0.05) 0px 1px 1px 0px, color(srgb 0.0431373 0.156863 0.2 / 0.08) 0px 0px 2px 0px, color(srgb 0.0431373 0.156863 0.2 / 0.08) 0px 2px 6px -2px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "768px",
+    "count": 2
+   },
+   {
+    "maxWidth": "448px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.01,
+  "linkCount": 8
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 30
+   },
+   {
+    "duration": "0.3s",
+    "count": 11
+   },
+   {
+    "duration": "0.25s",
+    "count": 3
+   },
+   {
+    "duration": "0.163636s, 0.163636s, 0.163636s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 11
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 9
+   },
+   {
+    "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "count": 2
+   },
+   {
+    "easing": "cubic-bezier(0.65, 0, 0.35, 1), cubic-bezier(0.55, 0, 0.55, 0.2), cubic-bezier(0.55, 0, 0.55, 0.2)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

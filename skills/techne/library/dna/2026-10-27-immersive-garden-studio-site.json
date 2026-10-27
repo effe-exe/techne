@@ -1,0 +1,111 @@
+{
+ "url": "https://immersive-g.com",
+ "capturedAt": "2026-10-27T07:33:06.244Z",
+ "viewport": "1440x900",
+ "title": "Immersive Garden",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "PSTimes",
+    "count": 19
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 36,
+   "lineHeight": 1.2,
+   "measureCh": 19
+  },
+  "nav": null,
+  "button": {
+   "family": "PSTimes",
+   "size": 44,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 36,
+   "count": 18
+  },
+  {
+   "px": 44,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(232, 232, 232)",
+  "textColors": [
+   {
+    "color": "rgb(3, 3, 3)",
+    "count": 19
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(3, 3, 3)",
+    "count": 120
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(3, 3, 3)",
+    "radius": "0px",
+    "padding": "0px 0px 16px",
+    "size": 44,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "100%",
+    "count": 120
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "2088px",
+    "count": 58
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 8.59,
+  "linkCount": 24
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s",
+    "count": 120
+   },
+   {
+    "duration": "1.9s",
+    "count": 53
+   },
+   {
+    "duration": "0.5s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 53
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,211 @@
+{
+ "url": "https://darkroom.engineering",
+ "capturedAt": "2026-10-27T07:37:47.275Z",
+ "viewport": "1440x900",
+ "title": "where things get developed - darkroom.engineering",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "mono",
+    "count": 185
+   },
+   {
+    "family": "therma",
+    "count": 13
+   },
+   {
+    "family": "sauce",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "therma",
+   "size": 200,
+   "weight": "400",
+   "lineHeight": 0.8,
+   "tracking": "-9.99999px",
+   "transform": "uppercase"
+  },
+  "h2": {
+   "family": "therma",
+   "size": 120,
+   "weight": "700",
+   "lineHeight": 0.8,
+   "tracking": "-6px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 10,
+   "lineHeight": 1.2,
+   "measureCh": 32
+  },
+  "nav": {
+   "family": "mono",
+   "size": 14,
+   "weight": "200",
+   "lineHeight": 1,
+   "tracking": "-0.14px",
+   "transform": "uppercase"
+  },
+  "button": {
+   "family": "therma",
+   "size": 120,
+   "weight": "700",
+   "lineHeight": 0.8,
+   "tracking": "-6px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 168
+  },
+  {
+   "px": 10,
+   "count": 16
+  },
+  {
+   "px": 120,
+   "count": 9
+  },
+  {
+   "px": 200,
+   "count": 4
+  },
+  {
+   "px": 16,
+   "count": 1
+  },
+  {
+   "px": 251,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "lab(0 0 0)",
+  "textColors": [
+   {
+    "color": "lab(49.9009 73.4337 56.9833)",
+    "count": 190
+   },
+   {
+    "color": "lab(0 0 0)",
+    "count": 6
+   },
+   {
+    "color": "oklab(0.499977 0.175211 0.0930235)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "lab(0 0 0)",
+    "count": 5
+   },
+   {
+    "color": "lab(8.68092 26.9862 11.739)",
+    "count": 3
+   },
+   {
+    "color": "oklch(0.5882 0.2334 27.96)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "lab(49.9009 73.4337 56.9833)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 120,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "oklab(0.499977 0.175211 0.0930235)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 120,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "oklab(0.499977 0.175211 0.0930235)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 120,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "oklab(0.499977 0.175211 0.0930235)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 120,
+    "weight": "700"
+   },
+   {
+    "bg": "lab(8.68092 26.9862 11.739)",
+    "color": "lab(49.9009 73.4337 56.9833)",
+    "radius": "0px",
+    "padding": "6px 8px",
+    "size": 14,
+    "weight": "200"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "32px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [],
+  "pageHeightPx": 8542,
+  "mediaCoverage": 0.35,
+  "linkCount": 69
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 72
+   },
+   {
+    "duration": "0.3s",
+    "count": 7
+   },
+   {
+    "duration": "0.2s, 0.2s, 0.12s",
+    "count": 5
+   },
+   {
+    "duration": "0.001s",
+    "count": 2
+   },
+   {
+    "duration": "0.35s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+    "count": 86
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

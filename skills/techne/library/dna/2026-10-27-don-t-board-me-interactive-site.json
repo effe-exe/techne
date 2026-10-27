@@ -1,0 +1,309 @@
+{
+ "url": "https://dontboardme.com",
+ "capturedAt": "2026-10-27T07:34:16.912Z",
+ "viewport": "1440x900",
+ "title": "Main",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Neue Montreal",
+    "count": 77
+   },
+   {
+    "family": "Bayon",
+    "count": 36
+   }
+  ],
+  "h1": {
+   "family": "Times New Roman",
+   "size": 32,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Bayon",
+   "size": 293,
+   "weight": "400",
+   "lineHeight": 0.78,
+   "tracking": "-5.86px",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1,
+   "measureCh": 8
+  },
+  "nav": {
+   "family": "Bayon",
+   "size": 70,
+   "weight": "400",
+   "lineHeight": 0.78,
+   "tracking": "-1.4px",
+   "transform": "uppercase"
+  },
+  "button": {
+   "family": "Arial",
+   "size": 13.3,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 71
+  },
+  {
+   "px": 30,
+   "count": 13
+  },
+  {
+   "px": 70,
+   "count": 8
+  },
+  {
+   "px": 96,
+   "count": 6
+  },
+  {
+   "px": 11,
+   "count": 5
+  },
+  {
+   "px": 126,
+   "count": 2
+  },
+  {
+   "px": 186,
+   "count": 2
+  },
+  {
+   "px": 12,
+   "count": 1
+  },
+  {
+   "px": 16,
+   "count": 1
+  },
+  {
+   "px": 42,
+   "count": 1
+  },
+  {
+   "px": 72,
+   "count": 1
+  },
+  {
+   "px": 236,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(227, 53, 41)",
+    "count": 77
+   },
+   {
+    "color": "rgb(43, 103, 134)",
+    "count": 17
+   },
+   {
+    "color": "rgb(105, 52, 19)",
+    "count": 10
+   },
+   {
+    "color": "rgb(246, 246, 237)",
+    "count": 6
+   },
+   {
+    "color": "rgb(237, 226, 226)",
+    "count": 2
+   },
+   {
+    "color": "rgb(146, 80, 38)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(227, 53, 41)",
+    "count": 42
+   },
+   {
+    "color": "rgb(246, 246, 237)",
+    "count": 14
+   },
+   {
+    "color": "rgb(237, 226, 226)",
+    "count": 12
+   },
+   {
+    "color": "rgb(243, 243, 233)",
+    "count": 7
+   },
+   {
+    "color": "rgb(43, 103, 134)",
+    "count": 5
+   },
+   {
+    "color": "rgb(243, 243, 243)",
+    "count": 4
+   },
+   {
+    "color": "rgb(175, 216, 251)",
+    "count": 4
+   },
+   {
+    "color": "rgb(244, 206, 211)",
+    "count": 3
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 238)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 238)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 238)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 238)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 238)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50%",
+    "count": 52
+   },
+   {
+    "radius": "10px",
+    "count": 13
+   },
+   {
+    "radius": "150px",
+    "count": 6
+   },
+   {
+    "radius": "4px",
+    "count": 4
+   },
+   {
+    "radius": "3px",
+    "count": 4
+   },
+   {
+    "radius": "0px 0px 745px 745px",
+    "count": 1
+   },
+   {
+    "radius": "0px 0px 0px 10px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(221, 198, 202, 0.4) -3px 4px 14px 0px",
+    "count": 4
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "120px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [],
+  "pageHeightPx": 12529,
+  "mediaCoverage": 0.61,
+  "linkCount": 47
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 15
+   },
+   {
+    "duration": "0.4s",
+    "count": 10
+   },
+   {
+    "duration": "0.1s",
+    "count": 6
+   },
+   {
+    "duration": "0.3s",
+    "count": 6
+   },
+   {
+    "duration": "0.5s",
+    "count": 5
+   },
+   {
+    "duration": "1.4s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in",
+    "count": 24
+   },
+   {
+    "easing": "cubic-bezier(0.24, 1, 0.36, 1)",
+    "count": 17
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 5
+   },
+   {
+    "easing": "ease-out",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

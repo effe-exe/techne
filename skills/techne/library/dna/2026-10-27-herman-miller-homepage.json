@@ -1,0 +1,175 @@
+{
+ "url": "https://www.hermanmiller.com",
+ "capturedAt": "2026-10-27T07:54:25.725Z",
+ "viewport": "1440x900",
+ "title": "Welcome | Herman Miller",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Soehne",
+    "count": 17
+   },
+   {
+    "family": "Meta",
+    "count": 3
+   }
+  ],
+  "h1": {
+   "family": "Soehne",
+   "size": 32,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Soehne",
+   "size": 47.8,
+   "weight": "700",
+   "lineHeight": 1.1,
+   "tracking": "-0.4778px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 23,
+   "lineHeight": 1.2,
+   "measureCh": 40
+  },
+  "nav": null,
+  "button": {
+   "family": "Meta",
+   "size": 13,
+   "weight": "600",
+   "lineHeight": 1.2,
+   "tracking": "0.13008px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13.3,
+   "count": 10
+  },
+  {
+   "px": 13,
+   "count": 3
+  },
+  {
+   "px": 16,
+   "count": 2
+  },
+  {
+   "px": 23,
+   "count": 2
+  },
+  {
+   "px": 47.8,
+   "count": 2
+  },
+  {
+   "px": 32,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(37, 37, 37)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 16
+   },
+   {
+    "color": "rgb(37, 37, 37)",
+    "count": 2
+   },
+   {
+    "color": "rgb(172, 172, 172)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(37, 37, 37)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(37, 37, 37)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "12px 0px",
+    "size": 13,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(226, 45, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "5px",
+    "padding": "12px 10px",
+    "size": 13,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "5px",
+    "count": 3
+   },
+   {
+    "radius": "2px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "64px",
+    "count": 2
+   },
+   {
+    "padding": "24px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "456px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1480px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 1029,
+  "mediaCoverage": 1.76,
+  "linkCount": 12
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.12s, 0.12s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

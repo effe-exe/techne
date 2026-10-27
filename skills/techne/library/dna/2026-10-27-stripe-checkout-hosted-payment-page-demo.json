@@ -1,0 +1,258 @@
+{
+ "url": "https://checkout.stripe.dev/checkout",
+ "capturedAt": "2026-10-27T07:23:00.220Z",
+ "viewport": "1440x900",
+ "title": "Explore Stripe's payments integrations",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "-apple-system",
+    "count": 22
+   }
+  ],
+  "h1": {
+   "family": "-apple-system",
+   "size": 18,
+   "weight": "600",
+   "lineHeight": 1.56,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "-apple-system",
+   "size": 16,
+   "weight": "600",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 50
+  },
+  "nav": null,
+  "button": {
+   "family": "-apple-system",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 19
+  },
+  {
+   "px": 16,
+   "count": 3
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(53, 58, 68)",
+    "count": 13
+   },
+   {
+    "color": "rgb(103, 93, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(89, 97, 113)",
+    "count": 2
+   },
+   {
+    "color": "rgb(136, 136, 136)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 11
+   },
+   {
+    "color": "rgb(245, 246, 248)",
+    "count": 3
+   },
+   {
+    "color": "rgb(239, 239, 239)",
+    "count": 2
+   },
+   {
+    "color": "rgb(252, 254, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(236, 109, 98)",
+    "count": 1
+   },
+   {
+    "color": "rgb(245, 196, 81)",
+    "count": 1
+   },
+   {
+    "color": "rgb(104, 204, 88)",
+    "count": 1
+   },
+   {
+    "color": "rgba(236, 242, 247, 0.4)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(103, 93, 255)",
+    "radius": "0px",
+    "padding": "4px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(103, 93, 255)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "6px",
+    "padding": "6px 16px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "10px",
+    "padding": "1px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "10px",
+    "padding": "1px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "10px",
+    "padding": "1px",
+    "size": 12,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "10px",
+    "count": 28
+   },
+   {
+    "radius": "6px",
+    "count": 8
+   },
+   {
+    "radius": "100%",
+    "count": 3
+   },
+   {
+    "radius": "50%",
+    "count": 2
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   },
+   {
+    "radius": "8px 8px 0px 0px",
+    "count": 1
+   },
+   {
+    "radius": "12px",
+    "count": 1
+   },
+   {
+    "radius": "0px 0px 12px 12px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(136, 152, 170, 0.1) 0px 0px 0px 1px, rgba(129, 129, 136, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.08) 0px 5px 15px 0px",
+    "count": 3
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.12) 0px 1px 1px 0px, rgba(48, 49, 61, 0.08) 0px 2px 5px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.12) 0px 1px 1px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgb(236, 242, 247) 0px 0.5px 0px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "16px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [],
+  "pageHeightPx": 901,
+  "mediaCoverage": 0.01,
+  "linkCount": 0
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 16
+   },
+   {
+    "duration": "0.4s",
+    "count": 13
+   },
+   {
+    "duration": "0.2s",
+    "count": 12
+   },
+   {
+    "duration": "0.12s",
+    "count": 4
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "linear",
+    "count": 25
+   },
+   {
+    "easing": "ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

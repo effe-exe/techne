@@ -1,0 +1,214 @@
+{
+ "url": "https://gestalt.pinterest.systems",
+ "capturedAt": "2026-10-27T08:09:40.430Z",
+ "viewport": "1440x900",
+ "title": "Welcome to Gestalt - Pinterest's Design System",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "pinSans",
+    "count": 19
+   }
+  ],
+  "h1": {
+   "family": "pinSans",
+   "size": 70,
+   "weight": "900",
+   "lineHeight": 1,
+   "tracking": "-0.7px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "pinSans",
+   "size": 28,
+   "weight": "700",
+   "lineHeight": 1.1,
+   "tracking": "-0.5px",
+   "transform": "none"
+  },
+  "body": null,
+  "nav": null,
+  "button": {
+   "family": "Arial",
+   "size": 13.3,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 9
+  },
+  {
+   "px": 28,
+   "count": 6
+  },
+  {
+   "px": 16,
+   "count": 1
+  },
+  {
+   "px": 36,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  },
+  {
+   "px": 70,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 18
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(246, 246, 243)",
+    "count": 13
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(229, 229, 224)",
+    "count": 3
+   },
+   {
+    "color": "rgba(255, 255, 255, 0)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgba(255, 255, 255, 0)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(230, 0, 35)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "16px",
+    "padding": "6px 14px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": "rgba(255, 255, 255, 0)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "16px",
+    "padding": "6px 14px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": "rgba(255, 255, 255, 0)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "16px",
+    "padding": "6px 14px",
+    "size": 13.3,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "28px",
+    "count": 14
+   },
+   {
+    "radius": "16px",
+    "count": 12
+   },
+   {
+    "radius": "4px",
+    "count": 9
+   },
+   {
+    "radius": "32px",
+    "count": 6
+   },
+   {
+    "radius": "24px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "16px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1248px",
+    "count": 4
+   },
+   {
+    "maxWidth": "612px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1732px",
+    "count": 1
+   },
+   {
+    "maxWidth": "512px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1604px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 2707,
+  "mediaCoverage": 0.25,
+  "linkCount": 9
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.085s",
+    "count": 10
+   },
+   {
+    "duration": "0.2s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out",
+    "count": 10
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

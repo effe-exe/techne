@@ -1,0 +1,196 @@
+{
+ "url": "https://agenda.com",
+ "capturedAt": "2026-10-27T08:09:39.800Z",
+ "viewport": "1440x900",
+ "title": "Agenda - Notes meets Calendar",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Avenir Next",
+    "count": 19
+   },
+   {
+    "family": "Arial",
+    "count": 14
+   }
+  ],
+  "h1": {
+   "family": "Avenir Next",
+   "size": 24,
+   "weight": "300",
+   "lineHeight": 1.55,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Avenir Next",
+   "size": 24,
+   "weight": "300",
+   "lineHeight": 1.55,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": null,
+  "nav": null,
+  "button": {
+   "family": "Arial",
+   "size": 0,
+   "weight": "400",
+   "lineHeight": null,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 24,
+   "count": 9
+  },
+  {
+   "px": 14.7,
+   "count": 8
+  },
+  {
+   "px": 10.7,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "count": 14
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 13
+   },
+   {
+    "color": "rgb(255, 154, 1)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 9
+   },
+   {
+    "color": "rgb(43, 78, 108)",
+    "count": 7
+   },
+   {
+    "color": "rgb(255, 142, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 138, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(223, 227, 232)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.02)",
+    "count": 1
+   },
+   {
+    "color": "rgb(210, 225, 219)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "6px",
+    "padding": "6px",
+    "size": 21,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.4)",
+    "radius": "6px",
+    "padding": "6px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.4)",
+    "radius": "6px",
+    "padding": "6px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.4)",
+    "radius": "6px",
+    "padding": "6px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 0,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "6px",
+    "count": 6
+   },
+   {
+    "radius": "50%",
+    "count": 1
+   },
+   {
+    "radius": "10px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.3) 0px 0px 16px 4px inset",
+    "count": 9
+   },
+   {
+    "shadow": "rgba(128, 128, 128, 0) 0px 0px 3px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "480px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 11968,
+  "mediaCoverage": 3.14,
+  "linkCount": 30
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

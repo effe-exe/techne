@@ -1,0 +1,194 @@
+{
+ "url": "https://linear.app/method",
+ "capturedAt": "2026-10-27T07:13:52.287Z",
+ "viewport": "1440x900",
+ "title": "Linear Method – Practices for building",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter Variable",
+    "count": 56
+   },
+   {
+    "family": "Berkeley Mono",
+    "count": 11
+   },
+   {
+    "family": "Tiempos Headline",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "Tiempos Headline",
+   "size": 128,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": {
+   "size": 17,
+   "lineHeight": 1.6,
+   "measureCh": 48
+  },
+  "nav": {
+   "family": "Inter Variable",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter Variable",
+   "size": 13,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 53
+  },
+  {
+   "px": 15,
+   "count": 11
+  },
+  {
+   "px": 14,
+   "count": 2
+  },
+  {
+   "px": 17,
+   "count": 1
+  },
+  {
+   "px": 128,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(8, 9, 10)",
+  "textColors": [
+   {
+    "color": "rgb(138, 143, 152)",
+    "count": 53
+   },
+   {
+    "color": "rgb(247, 248, 248)",
+    "count": 9
+   },
+   {
+    "color": "rgb(98, 102, 109)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(8, 9, 10)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(8, 9, 10)",
+    "count": 2
+   },
+   {
+    "color": "rgb(35, 37, 42)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(138, 143, 152)",
+    "radius": "9999px",
+    "padding": "0px 12px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(138, 143, 152)",
+    "radius": "9999px",
+    "padding": "0px 12px",
+    "size": 13,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 8
+   },
+   {
+    "radius": "50%",
+    "count": 6
+   },
+   {
+    "radius": "6px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 8px 2px 0px, rgba(0, 0, 0, 0.01) 0px 5px 2px 0px, rgba(0, 0, 0, 0.04) 0px 3px 2px 0px, rgba(0, 0, 0, 0.07) 0px 1px 1px 0px, rgba(0, 0, 0, 0.08) 0px 0px 1px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1436px",
+    "count": 2
+   },
+   {
+    "maxWidth": "620px",
+    "count": 1
+   },
+   {
+    "maxWidth": "736px",
+    "count": 1
+   },
+   {
+    "maxWidth": "410px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 2701,
+  "mediaCoverage": 0.06,
+  "linkCount": 63
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s",
+    "count": 53
+   },
+   {
+    "duration": "0.16s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    "count": 9
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

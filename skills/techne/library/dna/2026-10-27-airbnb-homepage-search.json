@@ -1,0 +1,278 @@
+{
+ "url": "https://www.airbnb.com",
+ "capturedAt": "2026-10-27T08:07:14.975Z",
+ "viewport": "1440x900",
+ "title": "Airbnb | Vacation rentals, cabins, beach houses, & more",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Airbnb Cereal VF",
+    "count": 94
+   }
+  ],
+  "h1": {
+   "family": "Airbnb Cereal VF",
+   "size": 28,
+   "weight": "700",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Airbnb Cereal VF",
+   "size": 22,
+   "weight": "500",
+   "lineHeight": 1.18,
+   "tracking": "-0.44px",
+   "transform": "none"
+  },
+  "body": null,
+  "nav": null,
+  "button": {
+   "family": "Airbnb Cereal VF",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 90
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 21,
+   "count": 1
+  },
+  {
+   "px": 22,
+   "count": 1
+  },
+  {
+   "px": 28,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(34, 34, 34)",
+    "count": 63
+   },
+   {
+    "color": "rgb(108, 108, 108)",
+    "count": 28
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(193, 193, 193)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(221, 221, 221)",
+    "count": 3
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(247, 247, 247)",
+    "count": 2
+   },
+   {
+    "color": "rgb(40, 40, 40)",
+    "count": 1
+   },
+   {
+    "color": "rgb(235, 235, 235)",
+    "count": 1
+   },
+   {
+    "color": "rgb(218, 18, 73)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.25)",
+    "count": 1
+   },
+   {
+    "color": "rgb(34, 34, 34)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgba(255, 255, 255, 0.3)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "100px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(34, 34, 34)",
+    "radius": "32px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(34, 34, 34)",
+    "radius": "32px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(34, 34, 34)",
+    "radius": "50px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(34, 34, 34)",
+    "radius": "20px",
+    "padding": "11px 12px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 30
+   },
+   {
+    "radius": "8px",
+    "count": 9
+   },
+   {
+    "radius": "100px",
+    "count": 5
+   },
+   {
+    "radius": "32px",
+    "count": 5
+   },
+   {
+    "radius": "50%",
+    "count": 5
+   },
+   {
+    "radius": "32px 32px 0px 0px",
+    "count": 3
+   },
+   {
+    "radius": "50px",
+    "count": 2
+   },
+   {
+    "radius": "12px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.5) 0px -6px 15px 0px, rgba(0, 0, 0, 0.08) 0px 4px 4px 0px, rgba(0, 0, 0, 0.18) 0px 12px 15px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(218, 218, 218, 0.6) 0px 0.5px 1px 0px, rgba(0, 0, 0, 0.12) 0px -0.502px 1.004px 0px, rgba(0, 0, 0, 0.04) 0px -1.5px 3.5px 0px, rgba(0, 0, 0, 0.05) 0px 3px 5px 0px, rgba(0, 0, 0, 0.2) 0px 0.75px 1px 0px inset, rgba(34, 34, 34, 0.6) 0px -0.5px 5px 1px inset, rgba(0, 0, 0, 0.16) 0.502px 0.5px 2px 0px inset, rgba(0, 0, 0, 0.12) 0px -3px 7px 0px inset, rgba(0, 0, 0, 0.05) 0.502px 2px 4px 0px inset, rgba(0, 0, 0, 0.04) 1.004px 4px 4px 0px inset, rgba(184, 72, 155, 0.2) 0px -3px 7px 0px inset",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.16) 0px 2px 2px 0px, rgba(255, 255, 255, 0.04) 1px 1.5px 3px 0px inset, rgba(255, 255, 255, 0.04) -1px 1.25px 3px 0px inset, rgba(255, 56, 92, 0.3) 0px -1px 3px 0px inset, rgba(0, 0, 0, 0.16) 0px -1px 2px 0px inset",
+    "count": 1
+   },
+   {
+    "shadow": "color(srgb 0 0 0 / 0.02) 0px 0px 0px 1px, color(srgb 0 0 0 / 0.1) 0px 8px 24px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1920px",
+    "count": 3
+   },
+   {
+    "maxWidth": "850px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 1426,
+  "mediaCoverage": 0.02,
+  "linkCount": 151
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s, 0.3s, 0.3s",
+    "count": 30
+   },
+   {
+    "duration": "0.25s",
+    "count": 18
+   },
+   {
+    "duration": "0.2s, 0.1s, 0.1s",
+    "count": 8
+   },
+   {
+    "duration": "0.2s, 0.25s, 0.3s, 0.3s, 0.3s",
+    "count": 3
+   },
+   {
+    "duration": "0.451754s",
+    "count": 2
+   },
+   {
+    "duration": "0.175s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.2, 0, 0, 1), cubic-bezier(0.2, 0, 0, 1), cubic-bezier(0.2, 0, 0, 1)",
+    "count": 30
+   },
+   {
+    "easing": "cubic-bezier(0.2, 0, 0, 1)",
+    "count": 18
+   },
+   {
+    "easing": "cubic-bezier(0.2, 0, 0, 1), cubic-bezier(0.2, 0, 0, 1), cubic-bezier(0, 0, 1, 1)",
+    "count": 8
+   },
+   {
+    "easing": "cubic-bezier(0.2, 0, 0, 1), cubic-bezier(0.2, 0, 0, 1), cubic-bezier(0.2, 0, 0, 1), cubic-bezier(0.2, 0, 0, 1), cubic-bezier(0.2, 0, 0, 1)",
+    "count": 3
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

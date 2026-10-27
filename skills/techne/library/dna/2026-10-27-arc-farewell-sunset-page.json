@@ -1,0 +1,343 @@
+{
+ "url": "https://arc.net",
+ "capturedAt": "2026-10-27T07:07:47.605Z",
+ "viewport": "1440x900",
+ "title": "A farewell to Arc",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "ABC Oracle",
+    "count": 44
+   },
+   {
+    "family": "-apple-system",
+    "count": 41
+   },
+   {
+    "family": "ABC Favorit Mono",
+    "count": 7
+   },
+   {
+    "family": "Exposure VAR",
+    "count": 3
+   }
+  ],
+  "h1": {
+   "family": "Exposure VAR",
+   "size": 76,
+   "weight": "600",
+   "lineHeight": 1.13,
+   "tracking": "-2.432px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "ABC Oracle",
+   "size": 38,
+   "weight": "350",
+   "lineHeight": 1.29,
+   "tracking": "-1.14px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 21,
+   "lineHeight": 1.42,
+   "measureCh": 45
+  },
+  "nav": null,
+  "button": {
+   "family": "ABC Oracle",
+   "size": 18,
+   "weight": "350",
+   "lineHeight": 1,
+   "tracking": "-0.36px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 39
+  },
+  {
+   "px": 17,
+   "count": 22
+  },
+  {
+   "px": 20,
+   "count": 17
+  },
+  {
+   "px": 14,
+   "count": 10
+  },
+  {
+   "px": 64,
+   "count": 2
+  },
+  {
+   "px": 16,
+   "count": 1
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 22,
+   "count": 1
+  },
+  {
+   "px": 38,
+   "count": 1
+  },
+  {
+   "px": 76,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(11, 11, 11)",
+  "textColors": [
+   {
+    "color": "rgba(0, 0, 0, 0.68)",
+    "count": 26
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 25
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 14
+   },
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 9
+   },
+   {
+    "color": "rgb(127, 127, 127)",
+    "count": 7
+   },
+   {
+    "color": "rgb(159, 159, 159)",
+    "count": 6
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(0, 0, 0, 0.03)",
+    "count": 12
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgb(247, 247, 247)",
+    "count": 4
+   },
+   {
+    "color": "rgb(11, 11, 11)",
+    "count": 2
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.8)",
+    "count": 2
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.05)",
+    "count": 2
+   },
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "12px",
+    "padding": "0px 24px",
+    "size": 18,
+    "weight": "350"
+   },
+   {
+    "bg": null,
+    "color": "color(srgb 0 0 0 / 0.4)",
+    "radius": "12px",
+    "padding": "0px 24px",
+    "size": 17,
+    "weight": "350"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "24px 0px",
+    "size": 22,
+    "weight": "350"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "24px 0px",
+    "size": 22,
+    "weight": "350"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "24px 0px",
+    "size": 22,
+    "weight": "350"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 39
+   },
+   {
+    "radius": "3px",
+    "count": 28
+   },
+   {
+    "radius": "10px",
+    "count": 15
+   },
+   {
+    "radius": "12px",
+    "count": 7
+   },
+   {
+    "radius": "5px",
+    "count": 5
+   },
+   {
+    "radius": "50%",
+    "count": 5
+   },
+   {
+    "radius": "60px",
+    "count": 1
+   },
+   {
+    "radius": "16px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.05) 0.5px 1px 4px 0px inset",
+    "count": 12
+   },
+   {
+    "shadow": "rgb(255, 255, 255) 0px 4px 4px 0px inset, rgb(210, 210, 210) 0px 3px 0px 0px",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 0px 0px 0.5px inset, rgba(0, 0, 0, 0.05) 0.35px 0.7px 2.8px 0px inset",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.12) 0px 0px 0px 0.5px inset",
+    "count": 3
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "158.4px",
+    "count": 2
+   },
+   {
+    "padding": "3px",
+    "count": 1
+   },
+   {
+    "padding": "213.6px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "590px",
+    "count": 8
+   },
+   {
+    "maxWidth": "470px",
+    "count": 3
+   },
+   {
+    "maxWidth": "483px",
+    "count": 1
+   },
+   {
+    "maxWidth": "665.6px",
+    "count": 1
+   },
+   {
+    "maxWidth": "504px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 6173,
+  "mediaCoverage": 0.04,
+  "linkCount": 13
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.7s",
+    "count": 38
+   },
+   {
+    "duration": "0.2s",
+    "count": 12
+   },
+   {
+    "duration": "0.3s, 0.15s",
+    "count": 8
+   },
+   {
+    "duration": "0.08s, 0.08s",
+    "count": 5
+   },
+   {
+    "duration": "0.3s, 0.45s",
+    "count": 4
+   },
+   {
+    "duration": "0.3s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 9
+   },
+   {
+    "easing": "cubic-bezier(0.16, 1, 0.3, 1), ease",
+    "count": 8
+   },
+   {
+    "easing": "ease, cubic-bezier(0.16, 1, 0.3, 1)",
+    "count": 4
+   },
+   {
+    "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "count": 3
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

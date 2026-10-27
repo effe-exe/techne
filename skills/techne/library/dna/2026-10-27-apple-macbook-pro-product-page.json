@@ -1,0 +1,338 @@
+{
+ "url": "https://www.apple.com/macbook-pro/",
+ "capturedAt": "2026-10-27T07:51:48.917Z",
+ "viewport": "1440x900",
+ "title": "MacBook Pro - Apple",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "SF Pro Text",
+    "count": 116
+   },
+   {
+    "family": "SF Pro Display",
+    "count": 113
+   }
+  ],
+  "h1": {
+   "family": "SF Pro Display",
+   "size": 28,
+   "weight": "600",
+   "lineHeight": 1.14,
+   "tracking": "0.196px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "SF Pro Display",
+   "size": 48,
+   "weight": "600",
+   "lineHeight": 1.08,
+   "tracking": "-0.144px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.43,
+   "measureCh": 125
+  },
+  "nav": {
+   "family": "SF Pro Text",
+   "size": 17,
+   "weight": "600",
+   "lineHeight": 1.24,
+   "tracking": "-0.374px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "SF Pro Text",
+   "size": 17,
+   "weight": "400",
+   "lineHeight": 1.47,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 17,
+   "count": 72
+  },
+  {
+   "px": 28,
+   "count": 42
+  },
+  {
+   "px": 12,
+   "count": 38
+  },
+  {
+   "px": 21,
+   "count": 25
+  },
+  {
+   "px": 80,
+   "count": 13
+  },
+  {
+   "px": 48,
+   "count": 12
+  },
+  {
+   "px": 24,
+   "count": 10
+  },
+  {
+   "px": 14,
+   "count": 4
+  },
+  {
+   "px": 19,
+   "count": 4
+  },
+  {
+   "px": 40,
+   "count": 3
+  },
+  {
+   "px": 56,
+   "count": 2
+  },
+  {
+   "px": 19.9,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(245, 245, 247)",
+    "count": 80
+   },
+   {
+    "color": "rgb(29, 29, 31)",
+    "count": 48
+   },
+   {
+    "color": "rgb(134, 134, 139)",
+    "count": 41
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 26
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.8)",
+    "count": 12
+   },
+   {
+    "color": "rgb(41, 151, 255)",
+    "count": 11
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 53
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 17
+   },
+   {
+    "color": "rgb(29, 29, 31)",
+    "count": 5
+   },
+   {
+    "color": "rgb(245, 245, 247)",
+    "count": 5
+   },
+   {
+    "color": "rgb(42, 42, 45)",
+    "count": 3
+   },
+   {
+    "color": "rgb(232, 232, 237)",
+    "count": 1
+   },
+   {
+    "color": "rgb(250, 250, 252)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgba(255, 255, 255, 0.8)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(255, 255, 255, 0.8)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(255, 255, 255, 0.8)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(255, 255, 255, 0.8)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(255, 255, 255, 0.8)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "28px",
+    "count": 81
+   },
+   {
+    "radius": "999px",
+    "count": 19
+   },
+   {
+    "radius": "50%",
+    "count": 17
+   },
+   {
+    "radius": "20%",
+    "count": 9
+   },
+   {
+    "radius": "36px",
+    "count": 6
+   },
+   {
+    "radius": "10px",
+    "count": 5
+   },
+   {
+    "radius": "980px",
+    "count": 3
+   },
+   {
+    "radius": "56px",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.11) 0px 0px 0.5px 0px inset",
+    "count": 7
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "144px",
+    "count": 16
+   },
+   {
+    "padding": "17px",
+    "count": 1
+   },
+   {
+    "padding": "37px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1260px",
+    "count": 29
+   },
+   {
+    "maxWidth": "1036px",
+    "count": 6
+   },
+   {
+    "maxWidth": "48px",
+    "count": 5
+   },
+   {
+    "maxWidth": "980px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 42195,
+  "mediaCoverage": 0.91,
+  "linkCount": 458
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s",
+    "count": 31
+   },
+   {
+    "duration": "0.32s",
+    "count": 17
+   },
+   {
+    "duration": "0.344s",
+    "count": 16
+   },
+   {
+    "duration": "0.24s",
+    "count": 14
+   },
+   {
+    "duration": "0.25s",
+    "count": 13
+   },
+   {
+    "duration": "0.12s",
+    "count": 13
+   }
+  ],
+  "easings": [
+   {
+    "easing": "linear",
+    "count": 28
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.6, 1)",
+    "count": 25
+   },
+   {
+    "easing": "ease-out",
+    "count": 21
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 16
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

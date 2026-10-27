@@ -1,0 +1,362 @@
+{
+ "url": "https://cluely.com",
+ "capturedAt": "2026-10-27T07:43:15.749Z",
+ "viewport": "1440x900",
+ "title": "Cluely | Undetectable AI Notetaker & Meeting Assistant",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Geist",
+    "count": 155
+   },
+   {
+    "family": "EB Garamond",
+    "count": 5
+   },
+   {
+    "family": "ui-monospace",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "EB Garamond",
+   "size": 80,
+   "weight": "500",
+   "lineHeight": 0.96,
+   "tracking": "-1px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Geist",
+   "size": 19,
+   "weight": "500",
+   "lineHeight": 1.4,
+   "tracking": "-0.38px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 12,
+   "lineHeight": 1.6,
+   "measureCh": 80
+  },
+  "nav": {
+   "family": "Geist",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.38,
+   "tracking": "-0.4px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Geist",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "-0.13px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 73
+  },
+  {
+   "px": 16,
+   "count": 35
+  },
+  {
+   "px": 13,
+   "count": 10
+  },
+  {
+   "px": 10,
+   "count": 8
+  },
+  {
+   "px": 24,
+   "count": 6
+  },
+  {
+   "px": 18,
+   "count": 5
+  },
+  {
+   "px": 80,
+   "count": 5
+  },
+  {
+   "px": 14,
+   "count": 4
+  },
+  {
+   "px": 36,
+   "count": 3
+  },
+  {
+   "px": 56,
+   "count": 3
+  },
+  {
+   "px": 11,
+   "count": 2
+  },
+  {
+   "px": 28,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(237, 238, 242)",
+    "count": 70
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 26
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 19
+   },
+   {
+    "color": "rgb(46, 48, 56)",
+    "count": 17
+   },
+   {
+    "color": "oklab(0.999994 0.0000455677 0.0000200868 / 0.6)",
+    "count": 8
+   },
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "count": 6
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(255, 255, 255, 0.333)",
+    "count": 48
+   },
+   {
+    "color": "rgb(137, 139, 145)",
+    "count": 9
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.7)",
+    "count": 3
+   },
+   {
+    "color": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)",
+    "count": 3
+   },
+   {
+    "color": "rgba(24, 23, 28, 0.8)",
+    "count": 2
+   },
+   {
+    "color": "rgb(46, 48, 56)",
+    "count": 2
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.1)",
+    "count": 2
+   },
+   {
+    "color": "oklab(0.92 0.00112401 -0.00383883 / 0.5)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "12px",
+    "padding": "10px 20px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "12px",
+    "padding": "10px 20px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "3.35544e+07px",
+    "padding": "0px 12px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "3.35544e+07px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "3.35544e+07px",
+    "padding": "8px 8px 8px 6px",
+    "size": 12,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 96
+   },
+   {
+    "radius": "4px",
+    "count": 35
+   },
+   {
+    "radius": "6px",
+    "count": 16
+   },
+   {
+    "radius": "12px",
+    "count": 11
+   },
+   {
+    "radius": "8px",
+    "count": 6
+   },
+   {
+    "radius": "24px",
+    "count": 5
+   },
+   {
+    "radius": "16px",
+    "count": 4
+   },
+   {
+    "radius": "13px",
+    "count": 4
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(12, 68, 161) 0px 0px 0px 0.5px, rgb(2, 44, 112) 0px -1px 0px 0px inset, rgb(129, 182, 255) 0px 0.5px 0px 0px inset",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(207, 226, 255, 0.24) 0px 0px 0px 1px, rgba(255, 255, 255, 0.8) 0px -0.5px 0px 0px",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(175, 179, 196) 0px 0.7px 0px 0px inset",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(255, 255, 255, 0.25) 0px -1px 0px 0px",
+    "count": 3
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "10px",
+    "count": 1
+   },
+   {
+    "padding": "128px",
+    "count": 1
+   },
+   {
+    "padding": "80px",
+    "count": 1
+   },
+   {
+    "padding": "220px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 11
+   },
+   {
+    "maxWidth": "1152px",
+    "count": 5
+   },
+   {
+    "maxWidth": "600px",
+    "count": 5
+   },
+   {
+    "maxWidth": "560px",
+    "count": 2
+   },
+   {
+    "maxWidth": "288px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 6939,
+  "mediaCoverage": 0.38,
+  "linkCount": 30
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 26
+   },
+   {
+    "duration": "0.2s",
+    "count": 23
+   },
+   {
+    "duration": "0.075s",
+    "count": 12
+   },
+   {
+    "duration": "0.3s",
+    "count": 8
+   },
+   {
+    "duration": "0.16s",
+    "count": 5
+   },
+   {
+    "duration": "0.1s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 56
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 17
+   },
+   {
+    "easing": "ease-out",
+    "count": 2
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 1, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

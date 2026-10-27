@@ -1,0 +1,301 @@
+{
+ "url": "https://gsap.com",
+ "capturedAt": "2026-10-27T08:27:50.832Z",
+ "viewport": "1440x900",
+ "title": "Homepage | GSAP",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Mori",
+    "count": 88
+   }
+  ],
+  "h1": {
+   "family": "Mori",
+   "size": 32,
+   "weight": "400",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Mori",
+   "size": 24,
+   "weight": "400",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.4,
+   "measureCh": 55
+  },
+  "nav": {
+   "family": "Mori",
+   "size": 18,
+   "weight": "600",
+   "lineHeight": 1.05,
+   "tracking": "-0.18px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Mori",
+   "size": 18,
+   "weight": "600",
+   "lineHeight": 1.05,
+   "tracking": "-0.18px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18.9,
+   "count": 31
+  },
+  {
+   "px": 16,
+   "count": 13
+  },
+  {
+   "px": 18,
+   "count": 6
+  },
+  {
+   "px": 22.8,
+   "count": 6
+  },
+  {
+   "px": 14,
+   "count": 5
+  },
+  {
+   "px": 20.1,
+   "count": 5
+  },
+  {
+   "px": 39.9,
+   "count": 4
+  },
+  {
+   "px": 44.4,
+   "count": 4
+  },
+  {
+   "px": 15.4,
+   "count": 3
+  },
+  {
+   "px": 88.8,
+   "count": 3
+  },
+  {
+   "px": 40,
+   "count": 2
+  },
+  {
+   "px": 33.3,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(14, 16, 15)",
+  "textColors": [
+   {
+    "color": "rgb(255, 252, 225)",
+    "count": 46
+   },
+   {
+    "color": "rgb(14, 16, 15)",
+    "count": 24
+   },
+   {
+    "color": "rgb(124, 124, 111)",
+    "count": 8
+   },
+   {
+    "color": "rgb(254, 197, 251)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 135, 9)",
+    "count": 2
+   },
+   {
+    "color": "rgb(157, 149, 255)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(14, 16, 15)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 252, 225)",
+    "count": 2
+   },
+   {
+    "color": "rgb(254, 197, 251)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 135, 9)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(124, 124, 111)",
+    "radius": "0px",
+    "padding": "16px 0px",
+    "size": 18,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(124, 124, 111)",
+    "radius": "0px",
+    "padding": "16px 0px",
+    "size": 16,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 252, 225)",
+    "radius": "100px",
+    "padding": "9px 14px 8px",
+    "size": 16,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 252, 225)",
+    "radius": "100px",
+    "padding": "15px 24px",
+    "size": 20.1,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 252, 225)",
+    "radius": "100px",
+    "padding": "15px 24px",
+    "size": 20.1,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 11
+   },
+   {
+    "radius": "100px",
+    "count": 7
+   },
+   {
+    "radius": "50%",
+    "count": 3
+   },
+   {
+    "radius": "1px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "108.117px",
+    "count": 2
+   },
+   {
+    "padding": "220px",
+    "count": 1
+   },
+   {
+    "padding": "118.68px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "6px",
+    "count": 12
+   },
+   {
+    "maxWidth": "1920px",
+    "count": 10
+   },
+   {
+    "maxWidth": "540px",
+    "count": 3
+   },
+   {
+    "maxWidth": "491.251px",
+    "count": 1
+   },
+   {
+    "maxWidth": "190px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 9770,
+  "mediaCoverage": 0.24,
+  "linkCount": 107
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 51
+   },
+   {
+    "duration": "0.05s",
+    "count": 9
+   },
+   {
+    "duration": "0.7s, 0.7s",
+    "count": 6
+   },
+   {
+    "duration": "0.1s",
+    "count": 2
+   },
+   {
+    "duration": "0.15s",
+    "count": 1
+   },
+   {
+    "duration": "0.8s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.645, 0.045, 0.355, 1)",
+    "count": 50
+   },
+   {
+    "easing": "cubic-bezier(0.86, 0, 0.07, 1)",
+    "count": 10
+   },
+   {
+    "easing": "cubic-bezier(0.23, 1, 0.32, 1), cubic-bezier(0.23, 1, 0.32, 1)",
+    "count": 6
+   },
+   {
+    "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

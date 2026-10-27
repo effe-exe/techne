@@ -1,0 +1,249 @@
+{
+ "url": "https://streaksapp.com",
+ "capturedAt": "2026-10-27T08:10:47.524Z",
+ "viewport": "1440x900",
+ "title": "Streaks: the to-do list that helps you form good habits",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Roboto Condensed",
+    "count": 43
+   },
+   {
+    "family": "-apple-system",
+    "count": 41
+   }
+  ],
+  "h1": {
+   "family": "Roboto Condensed",
+   "size": 150,
+   "weight": "700",
+   "lineHeight": 0.9,
+   "tracking": "1.5px",
+   "transform": "uppercase"
+  },
+  "h2": {
+   "family": "Roboto Condensed",
+   "size": 54,
+   "weight": "700",
+   "lineHeight": 1.1,
+   "tracking": "-0.54px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 38,
+   "lineHeight": 1.15,
+   "measureCh": 35
+  },
+  "nav": {
+   "family": "Roboto Condensed",
+   "size": 27,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "0.27px",
+   "transform": "uppercase"
+  },
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 15,
+   "count": 21
+  },
+  {
+   "px": 18,
+   "count": 19
+  },
+  {
+   "px": 54,
+   "count": 11
+  },
+  {
+   "px": 23,
+   "count": 10
+  },
+  {
+   "px": 17,
+   "count": 8
+  },
+  {
+   "px": 14,
+   "count": 7
+  },
+  {
+   "px": 16,
+   "count": 4
+  },
+  {
+   "px": 26,
+   "count": 2
+  },
+  {
+   "px": 38,
+   "count": 1
+  },
+  {
+   "px": 150,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(110, 110, 115)",
+    "count": 27
+   },
+   {
+    "color": "rgb(29, 29, 31)",
+    "count": 26
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 9
+   },
+   {
+    "color": "rgb(232, 90, 55)",
+    "count": 9
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.85)",
+    "count": 7
+   },
+   {
+    "color": "rgba(60, 20, 8, 0.62)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(255, 244, 240)",
+    "count": 3
+   },
+   {
+    "color": "rgb(255, 112, 76)",
+    "count": 2
+   },
+   {
+    "color": "rgb(23, 17, 15)",
+    "count": 2
+   },
+   {
+    "color": "rgba(255, 112, 76, 0.88)",
+    "count": 1
+   },
+   {
+    "color": "rgb(244, 242, 241)",
+    "count": 1
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "999px",
+    "count": 10
+   },
+   {
+    "radius": "18px",
+    "count": 8
+   },
+   {
+    "radius": "30% / 25%",
+    "count": 4
+   },
+   {
+    "radius": "22px",
+    "count": 2
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   },
+   {
+    "radius": "7px",
+    "count": 1
+   },
+   {
+    "radius": "12px",
+    "count": 1
+   },
+   {
+    "radius": "27px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.04) 0px 1px 2px 0px",
+    "count": 9
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.04) 0px 1px 2px 0px, rgba(0, 0, 0, 0.04) 0px 8px 24px 0px",
+    "count": 8
+   },
+   {
+    "shadow": "rgb(68, 68, 68) 0px 0px 0px 2px, rgba(0, 0, 0, 0.25) 0px 20px 30px 0px",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(255, 255, 255, 0.5) 0px 0px 0px 1.5px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "120px",
+    "count": 11
+   },
+   {
+    "padding": "72px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1150px",
+    "count": 14
+   },
+   {
+    "maxWidth": "720px",
+    "count": 6
+   },
+   {
+    "maxWidth": "300px",
+    "count": 5
+   },
+   {
+    "maxWidth": "320px",
+    "count": 3
+   },
+   {
+    "maxWidth": "340px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 10285,
+  "mediaCoverage": 0.15,
+  "linkCount": 15
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 2
+   }
+  ],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "url": "https://telegram.org",
+ "capturedAt": "2026-10-27T08:11:40.552Z",
+ "viewport": "1440x900",
+ "title": "Telegram Messenger",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "-apple-system",
+    "count": 56
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 20,
+   "lineHeight": 1.48,
+   "measureCh": 29
+  },
+  "nav": null,
+  "button": {
+   "family": "-apple-system",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 16
+  },
+  {
+   "px": 14,
+   "count": 16
+  },
+  {
+   "px": 26,
+   "count": 9
+  },
+  {
+   "px": 15,
+   "count": 6
+  },
+  {
+   "px": 12,
+   "count": 3
+  },
+  {
+   "px": 16,
+   "count": 3
+  },
+  {
+   "px": 23,
+   "count": 2
+  },
+  {
+   "px": 20,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 136, 204)",
+    "count": 50
+   },
+   {
+    "color": "rgb(51, 51, 51)",
+    "count": 4
+   },
+   {
+    "color": "rgb(140, 140, 140)",
+    "count": 1
+   },
+   {
+    "color": "rgb(34, 34, 34)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(255, 255, 255, 0.84)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(138, 147, 157)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 12,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 19
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 1px 1px 3px 1px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "125px",
+    "count": 19
+   },
+   {
+    "maxWidth": "260px",
+    "count": 9
+   },
+   {
+    "maxWidth": "256px",
+    "count": 9
+   },
+   {
+    "maxWidth": "800px",
+    "count": 2
+   },
+   {
+    "maxWidth": "400px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 2744,
+  "mediaCoverage": 0.19,
+  "linkCount": 62
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s",
+    "count": 4
+   },
+   {
+    "duration": "0.2s",
+    "count": 4
+   },
+   {
+    "duration": "0.15s",
+    "count": 1
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 8
+   },
+   {
+    "easing": "ease-in-out, ease-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

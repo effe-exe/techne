@@ -1,0 +1,262 @@
+{
+ "url": "https://culturedcode.com/things/",
+ "capturedAt": "2026-10-27T07:08:34.884Z",
+ "viewport": "1440x900",
+ "title": "Things - To-Do List App for Mac & iOS",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "ui-sans-serif",
+    "count": 70
+   }
+  ],
+  "h1": {
+   "family": "ui-sans-serif",
+   "size": 24,
+   "weight": "400",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "ui-sans-serif",
+   "size": 36,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 24,
+   "lineHeight": 1.25,
+   "measureCh": 37
+  },
+  "nav": {
+   "family": "ui-sans-serif",
+   "size": 15,
+   "weight": "600",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "ui-sans-serif",
+   "size": 15,
+   "weight": "600",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 15.3,
+   "count": 34
+  },
+  {
+   "px": 20.3,
+   "count": 9
+  },
+  {
+   "px": 15.2,
+   "count": 9
+  },
+  {
+   "px": 13,
+   "count": 8
+  },
+  {
+   "px": 15,
+   "count": 4
+  },
+  {
+   "px": 24,
+   "count": 3
+  },
+  {
+   "px": 13.7,
+   "count": 2
+  },
+  {
+   "px": 16,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(242, 245, 247)",
+  "textColors": [
+   {
+    "color": "rgba(0, 15, 36, 0.46)",
+    "count": 22
+   },
+   {
+    "color": "rgba(0, 7, 18, 0.44)",
+    "count": 12
+   },
+   {
+    "color": "rgb(142, 145, 150)",
+    "count": 8
+   },
+   {
+    "color": "rgb(48, 51, 54)",
+    "count": 7
+   },
+   {
+    "color": "rgb(135, 146, 161)",
+    "count": 7
+   },
+   {
+    "color": "rgb(68, 71, 75)",
+    "count": 5
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(242, 245, 247)",
+    "count": 22
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 10
+   },
+   {
+    "color": "rgb(251, 252, 254)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(48, 51, 54)",
+    "radius": "6px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgba(38, 52, 74, 0.5)",
+    "radius": "6px",
+    "padding": "2px 5px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgba(38, 52, 74, 0.5)",
+    "radius": "6px",
+    "padding": "2px 5px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgba(38, 52, 74, 0.5)",
+    "radius": "6px",
+    "padding": "2px 5px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(48, 51, 54)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "18px",
+    "count": 17
+   },
+   {
+    "radius": "3px",
+    "count": 16
+   },
+   {
+    "radius": "4.5px",
+    "count": 14
+   },
+   {
+    "radius": "6px",
+    "count": 10
+   },
+   {
+    "radius": "12.8px",
+    "count": 8
+   },
+   {
+    "radius": "10.8px",
+    "count": 4
+   },
+   {
+    "radius": "5.472px",
+    "count": 2
+   },
+   {
+    "radius": "9.5976px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 2px 8px 0px, rgba(0, 0, 0, 0.1) 0px 0px 2px 0px",
+    "count": 8
+   },
+   {
+    "shadow": "rgba(38, 52, 74, 0.15) 0px 1px 0px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 2px 10px 0px, rgba(0, 0, 0, 0.05) 0px 0px 0px 1px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "81px",
+    "count": 5
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "900px",
+    "count": 8
+   },
+   {
+    "maxWidth": "500px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 8227,
+  "mediaCoverage": 0.15,
+  "linkCount": 74
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s",
+    "count": 4
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out",
+    "count": 5
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

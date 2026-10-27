@@ -1,0 +1,217 @@
+{
+ "url": "https://www.temu.com",
+ "capturedAt": "2026-10-27T08:13:18.423Z",
+ "viewport": "1440x900",
+ "title": "Temu | Login",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "miui",
+    "count": 48
+   }
+  ],
+  "h1": {
+   "family": "miui",
+   "size": 20,
+   "weight": "600",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": null,
+  "nav": null,
+  "button": {
+   "family": "miui",
+   "size": 16,
+   "weight": "600",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 15,
+   "count": 20
+  },
+  {
+   "px": 13,
+   "count": 19
+  },
+  {
+   "px": 12,
+   "count": 5
+  },
+  {
+   "px": 14,
+   "count": 2
+  },
+  {
+   "px": 16,
+   "count": 1
+  },
+  {
+   "px": 20,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(34, 34, 34)",
+    "count": 21
+   },
+   {
+    "color": "rgb(187, 187, 187)",
+    "count": 17
+   },
+   {
+    "color": "rgb(170, 170, 170)",
+    "count": 5
+   },
+   {
+    "color": "rgb(0, 101, 190)",
+    "count": 2
+   },
+   {
+    "color": "rgb(12, 171, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(10, 136, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(230, 230, 230)",
+    "count": 2
+   },
+   {
+    "color": "rgb(248, 254, 248)",
+    "count": 1
+   },
+   {
+    "color": "rgb(30, 30, 30)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(251, 119, 1)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "26px",
+    "padding": "0px 19px",
+    "size": 16,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(34, 34, 34)",
+    "radius": "42px",
+    "padding": "0px 12px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(34, 34, 34)",
+    "radius": "42px",
+    "padding": "0px 12px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(34, 34, 34)",
+    "radius": "42px",
+    "padding": "0px 12px",
+    "size": 15,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "42px",
+    "count": 4
+   },
+   {
+    "radius": "4px",
+    "count": 3
+   },
+   {
+    "radius": "25px",
+    "count": 2
+   },
+   {
+    "radius": "26px",
+    "count": 1
+   },
+   {
+    "radius": "12px",
+    "count": 1
+   },
+   {
+    "radius": "1e+07px",
+    "count": 1
+   },
+   {
+    "radius": "10px 0px 0px 10px",
+    "count": 1
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 3
+   },
+   {
+    "maxWidth": "414px",
+    "count": 1
+   },
+   {
+    "maxWidth": "216px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 1373,
+  "mediaCoverage": 0.02,
+  "linkCount": 33
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 1
+   }
+  ],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

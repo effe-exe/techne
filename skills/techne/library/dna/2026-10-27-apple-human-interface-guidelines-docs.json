@@ -1,0 +1,264 @@
+{
+ "url": "https://developer.apple.com/design/human-interface-guidelines",
+ "capturedAt": "2026-10-27T08:24:09.620Z",
+ "viewport": "1440x900",
+ "title": "Human Interface Guidelines | Apple Developer Documentation",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "SF Pro Text",
+    "count": 97
+   },
+   {
+    "family": "SF Pro Display",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "SF Pro Display",
+   "size": 48,
+   "weight": "700",
+   "lineHeight": 1.08,
+   "tracking": "-0.144px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "SF Pro Display",
+   "size": 32,
+   "weight": "700",
+   "lineHeight": 1.13,
+   "tracking": "0.128px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.29,
+   "measureCh": 14
+  },
+  "nav": {
+   "family": "SF Pro Text",
+   "size": 17,
+   "weight": "600",
+   "lineHeight": 1.24,
+   "tracking": "-0.374px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "SF Pro Text",
+   "size": 17,
+   "weight": "400",
+   "lineHeight": 1.47,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 87
+  },
+  {
+   "px": 14,
+   "count": 6
+  },
+  {
+   "px": 17,
+   "count": 4
+  },
+  {
+   "px": 21,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(81, 81, 84)",
+    "count": 65
+   },
+   {
+    "color": "rgb(29, 29, 31)",
+    "count": 15
+   },
+   {
+    "color": "rgb(0, 102, 204)",
+    "count": 6
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.8)",
+    "count": 6
+   },
+   {
+    "color": "rgb(110, 110, 115)",
+    "count": 6
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(250, 250, 252)",
+    "count": 1
+   },
+   {
+    "color": "rgb(245, 245, 247)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 113, 227)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(29, 29, 31)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(29, 29, 31)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(29, 29, 31)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(29, 29, 31)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(29, 29, 31)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "18px",
+    "count": 43
+   },
+   {
+    "radius": "6px",
+    "count": 6
+   },
+   {
+    "radius": "10px",
+    "count": 3
+   },
+   {
+    "radius": "12px",
+    "count": 2
+   },
+   {
+    "radius": "13px",
+    "count": 1
+   },
+   {
+    "radius": "0px 12px 12px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "980px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1024px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 3760,
+  "mediaCoverage": 0.33,
+  "linkCount": 198
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0s, 0.16s",
+    "count": 21
+   },
+   {
+    "duration": "0.32s",
+    "count": 9
+   },
+   {
+    "duration": "0.24s",
+    "count": 7
+   },
+   {
+    "duration": "0.15s",
+    "count": 7
+   },
+   {
+    "duration": "0.5s",
+    "count": 3
+   },
+   {
+    "duration": "0.3s, 0s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease-out",
+    "count": 21
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.6, 1)",
+    "count": 16
+   },
+   {
+    "easing": "ease-in",
+    "count": 7
+   },
+   {
+    "easing": "cubic-bezier(0.28, 0.11, 0.32, 1)",
+    "count": 3
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

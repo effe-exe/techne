@@ -1,0 +1,177 @@
+{
+ "url": "https://www.stedelijk.nl/en",
+ "capturedAt": "2026-10-27T07:48:01.628Z",
+ "viewport": "1440x900",
+ "title": "Stedelijk Museum Amsterdam",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Union Regular",
+    "count": 51
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "Union Regular",
+   "size": 104,
+   "weight": "400",
+   "lineHeight": 0.95,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.37,
+   "measureCh": 91
+  },
+  "nav": null,
+  "button": {
+   "family": "Union Regular",
+   "size": 18,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 104,
+   "count": 19
+  },
+  {
+   "px": 22,
+   "count": 18
+  },
+  {
+   "px": 14,
+   "count": 6
+  },
+  {
+   "px": 18,
+   "count": 4
+  },
+  {
+   "px": 40.9,
+   "count": 3
+  },
+  {
+   "px": 30,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(10, 10, 10)",
+    "count": 32
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 19
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(10, 10, 10)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(10, 10, 10)",
+    "radius": "0px",
+    "padding": "5.625px 9px",
+    "size": 18,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "5.625px 9px",
+    "size": 18,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(10, 10, 10)",
+    "radius": "0px",
+    "padding": "7.26px 11px",
+    "size": 22,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(10, 10, 10)",
+    "radius": "0px",
+    "padding": "7.26px 11px",
+    "size": 22,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(10, 10, 10)",
+    "radius": "0px",
+    "padding": "7.26px 11px",
+    "size": 22,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "670px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1600px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 3472,
+  "mediaCoverage": 0.17,
+  "linkCount": 89
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 4
+   },
+   {
+    "duration": "0.15s",
+    "count": 1
+   },
+   {
+    "duration": "0.5s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

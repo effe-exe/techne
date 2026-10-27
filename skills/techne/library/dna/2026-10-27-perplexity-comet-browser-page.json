@@ -1,0 +1,228 @@
+{
+ "url": "https://www.perplexity.ai/comet",
+ "capturedAt": "2026-10-27T07:43:02.396Z",
+ "viewport": "1440x900",
+ "title": "Comet Browser: a Personal AI Assistant",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "GT Standard VF Variable S Black",
+    "count": 19
+   },
+   {
+    "family": "GT Canon VF Variable L Black",
+    "count": 6
+   },
+   {
+    "family": "GT Standard Mono Regular",
+    "count": 6
+   },
+   {
+    "family": "FK Grotesk Regular",
+    "count": 1
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "GT Standard VF Variable S Black",
+   "size": 16,
+   "weight": "900",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.2,
+   "measureCh": 10
+  },
+  "nav": {
+   "family": "sans-serif",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 12
+  },
+  {
+   "px": 24,
+   "count": 5
+  },
+  {
+   "px": 14,
+   "count": 3
+  },
+  {
+   "px": 18,
+   "count": 3
+  },
+  {
+   "px": 20,
+   "count": 2
+  },
+  {
+   "px": 80,
+   "count": 2
+  },
+  {
+   "px": 12,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  },
+  {
+   "px": 56,
+   "count": 1
+  },
+  {
+   "px": 64,
+   "count": 1
+  },
+  {
+   "px": 90,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(251, 250, 244)",
+  "textColors": [
+   {
+    "color": "rgb(9, 23, 23)",
+    "count": 17
+   },
+   {
+    "color": "rgb(251, 250, 244)",
+    "count": 7
+   },
+   {
+    "color": "rgba(9, 23, 23, 0.75)",
+    "count": 5
+   },
+   {
+    "color": "rgba(9, 23, 23, 0.64)",
+    "count": 2
+   },
+   {
+    "color": "rgba(251, 250, 244, 0.8)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(251, 250, 244)",
+    "count": 18
+   },
+   {
+    "color": "rgb(9, 23, 23)",
+    "count": 14
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgb(246, 245, 238)",
+    "count": 5
+   },
+   {
+    "color": "rgba(38, 41, 41, 0.6)",
+    "count": 1
+   },
+   {
+    "color": "rgba(96, 88, 77, 0.1)",
+    "count": 1
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "24px",
+    "count": 23
+   },
+   {
+    "radius": "16px",
+    "count": 21
+   },
+   {
+    "radius": "10px",
+    "count": 14
+   },
+   {
+    "radius": "50px",
+    "count": 5
+   },
+   {
+    "radius": "120px",
+    "count": 4
+   },
+   {
+    "radius": "54px",
+    "count": 2
+   },
+   {
+    "radius": "122px",
+    "count": 2
+   },
+   {
+    "radius": "116px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.08) 0px 4px 12px 0px",
+    "count": 12
+   },
+   {
+    "shadow": "rgba(255, 255, 255, 0.56) 0px -2px 4px 0px, rgba(0, 0, 0, 0.02) 0px 24px 40px 0px, rgba(0, 0, 0, 0.02) 0px 4px 18px 0px, rgba(0, 0, 0, 0.01) 0px 27px 11px 0px, rgba(0, 0, 0, 0.01) 0px 15px 9px 0px, rgba(0, 0, 0, 0.03) 0px 7px 7px 0px, rgba(0, 0, 0, 0.04) 0px 1px 4px 0px",
+    "count": 9
+   },
+   {
+    "shadow": "rgba(255, 255, 255, 0.25) 0px -3px 7px 4px inset, rgba(255, 255, 255, 0.5) 0px -4px 36px 4px inset, rgba(0, 0, 0, 0.25) 4px 15px 25px 0px inset, rgba(42, 42, 40, 0.03) 0px 36px 16px 0px, rgb(239, 239, 239) -2px 2px 0px 2px inset, rgb(233, 233, 233) -2px -2px 0px 2px inset",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(41, 157, 169, 0.2) 0px -2px 4px 0px, rgba(0, 0, 0, 0.02) 0px 24px 40px 0px, rgba(0, 0, 0, 0.02) 0px 4px 18px 0px, rgba(0, 0, 0, 0.01) 0px 27px 11px 0px, rgba(0, 0, 0, 0.01) 0px 15px 9px 0px, rgba(0, 0, 0, 0.03) 0px 7px 7px 0px, rgba(0, 0, 0, 0.04) 0px 1px 4px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1400px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1200px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 7621,
+  "mediaCoverage": 1.93,
+  "linkCount": 14
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,290 @@
+{
+ "url": "https://www.starlingbank.com",
+ "capturedAt": "2026-10-27T07:25:42.676Z",
+ "viewport": "1440x900",
+ "title": "Starling | Award-winning bank accounts",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Avantt",
+    "count": 104
+   },
+   {
+    "family": "CoFo Sans Semi-Mono",
+    "count": 23
+   }
+  ],
+  "h1": {
+   "family": "Avantt",
+   "size": 48,
+   "weight": "550",
+   "lineHeight": 1.13,
+   "tracking": "-1.44px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Avantt",
+   "size": 36,
+   "weight": "550",
+   "lineHeight": 1.11,
+   "tracking": "-1.08px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.33,
+   "measureCh": 63
+  },
+  "nav": {
+   "family": "Avantt",
+   "size": 18,
+   "weight": "450",
+   "lineHeight": 1.33,
+   "tracking": "-0.36px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "CoFo Sans Semi-Mono",
+   "size": 18,
+   "weight": "550",
+   "lineHeight": 1.33,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18,
+   "count": 49
+  },
+  {
+   "px": 15,
+   "count": 35
+  },
+  {
+   "px": 24,
+   "count": 12
+  },
+  {
+   "px": 36,
+   "count": 12
+  },
+  {
+   "px": 16,
+   "count": 7
+  },
+  {
+   "px": 14,
+   "count": 6
+  },
+  {
+   "px": 12,
+   "count": 3
+  },
+  {
+   "px": 28,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  },
+  {
+   "px": 21.1,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 67
+   },
+   {
+    "color": "rgb(50, 30, 55)",
+    "count": 53
+   },
+   {
+    "color": "rgb(112, 98, 115)",
+    "count": 4
+   },
+   {
+    "color": "rgb(163, 169, 186)",
+    "count": 2
+   },
+   {
+    "color": "rgb(105, 53, 211)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 12
+   },
+   {
+    "color": "rgb(50, 30, 55)",
+    "count": 3
+   },
+   {
+    "color": "rgb(248, 245, 240)",
+    "count": 2
+   },
+   {
+    "color": "rgb(246, 239, 234)",
+    "count": 2
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.5)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(50, 30, 55)",
+    "radius": "0px",
+    "padding": "3px 8px",
+    "size": 18,
+    "weight": "550"
+   },
+   {
+    "bg": null,
+    "color": "rgb(50, 30, 55)",
+    "radius": "0px",
+    "padding": "3px 8px",
+    "size": 18,
+    "weight": "550"
+   },
+   {
+    "bg": null,
+    "color": "rgb(50, 30, 55)",
+    "radius": "0px",
+    "padding": "3px 8px",
+    "size": 18,
+    "weight": "550"
+   },
+   {
+    "bg": "rgb(80, 255, 235)",
+    "color": "rgb(50, 30, 55)",
+    "radius": "4px",
+    "padding": "10px 16px",
+    "size": 18,
+    "weight": "550"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "1px 6px",
+    "size": 18,
+    "weight": "450"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 23
+   },
+   {
+    "radius": "24px",
+    "count": 11
+   },
+   {
+    "radius": "16px",
+    "count": 9
+   },
+   {
+    "radius": "20px",
+    "count": 4
+   },
+   {
+    "radius": "17.904px",
+    "count": 4
+   },
+   {
+    "radius": "0px 0px 40px 40px",
+    "count": 2
+   },
+   {
+    "radius": "30px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.12) 0px 0px 28px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgb(50, 30, 55) 0px -2px 0px 0px inset",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.03) 0px 10px 10px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.5) 0px 0px 80px 10px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "16px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1441px",
+    "count": 15
+   },
+   {
+    "maxWidth": "1380px",
+    "count": 3
+   },
+   {
+    "maxWidth": "570px",
+    "count": 1
+   },
+   {
+    "maxWidth": "465px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7938,
+  "mediaCoverage": 0.14,
+  "linkCount": 75
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 11
+   },
+   {
+    "duration": "0.2s",
+    "count": 9
+   },
+   {
+    "duration": "0.5s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 16
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

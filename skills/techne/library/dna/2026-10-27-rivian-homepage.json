@@ -1,0 +1,334 @@
+{
+ "url": "https://rivian.com",
+ "capturedAt": "2026-10-27T07:52:50.023Z",
+ "viewport": "1440x900",
+ "title": "Rivian: Electric Vehicles Designed For Adventure",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "Adventure",
+    "count": 136
+   },
+   {
+    "family": "Liga",
+    "count": 3
+   }
+  ],
+  "h1": {
+   "family": "Adventure",
+   "size": 72,
+   "weight": "600",
+   "lineHeight": 1,
+   "tracking": "-3px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Adventure",
+   "size": 56,
+   "weight": "600",
+   "lineHeight": 1.07,
+   "tracking": "-2.5px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.43,
+   "measureCh": 48
+  },
+  "nav": {
+   "family": "Adventure",
+   "size": 10,
+   "weight": "400",
+   "lineHeight": 1.4,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Adventure",
+   "size": 14,
+   "weight": "600",
+   "lineHeight": 1.43,
+   "tracking": "-0.14px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 36
+  },
+  {
+   "px": 10,
+   "count": 28
+  },
+  {
+   "px": 16,
+   "count": 23
+  },
+  {
+   "px": 20,
+   "count": 14
+  },
+  {
+   "px": 32,
+   "count": 9
+  },
+  {
+   "px": 72,
+   "count": 7
+  },
+  {
+   "px": 24,
+   "count": 6
+  },
+  {
+   "px": 56,
+   "count": 5
+  },
+  {
+   "px": 12,
+   "count": 4
+  },
+  {
+   "px": 360,
+   "count": 3
+  },
+  {
+   "px": 11,
+   "count": 2
+  },
+  {
+   "px": 36,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 68
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 43
+   },
+   {
+    "color": "rgb(21, 21, 21)",
+    "count": 25
+   },
+   {
+    "color": "rgb(184, 184, 184)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(203, 203, 203)",
+    "count": 13
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 5
+   },
+   {
+    "color": "rgb(242, 242, 242)",
+    "count": 2
+   },
+   {
+    "color": "rgb(159, 161, 184)",
+    "count": 2
+   },
+   {
+    "color": "rgb(33, 33, 33)",
+    "count": 2
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.4)",
+    "count": 1
+   },
+   {
+    "color": "rgb(236, 236, 236)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(242, 242, 242)",
+    "color": "rgb(21, 21, 21)",
+    "radius": "36px",
+    "padding": "1px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "36px",
+    "padding": "0px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "36px",
+    "padding": "0px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "36px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "9999px",
+    "padding": "8px 12px",
+    "size": 14,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "40px",
+    "count": 34
+   },
+   {
+    "radius": "99px",
+    "count": 15
+   },
+   {
+    "radius": "20px",
+    "count": 11
+   },
+   {
+    "radius": "9999px",
+    "count": 8
+   },
+   {
+    "radius": "12px",
+    "count": 6
+   },
+   {
+    "radius": "36px",
+    "count": 4
+   },
+   {
+    "radius": "8px",
+    "count": 4
+   },
+   {
+    "radius": "80px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 9
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(7, 26, 36, 0.24) 0px 3px 10px 1px",
+    "count": 1
+   },
+   {
+    "shadow": "rgb(255, 255, 255) 0px 24px 0px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.15) 0px 2px 8px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "80px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "343px",
+    "count": 20
+   },
+   {
+    "maxWidth": "1920px",
+    "count": 6
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 4
+   },
+   {
+    "maxWidth": "380px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1px",
+    "count": 3
+   }
+  ],
+  "pageHeightPx": 17081,
+  "mediaCoverage": 1.91,
+  "linkCount": 90
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 37
+   },
+   {
+    "duration": "0.5s",
+    "count": 17
+   },
+   {
+    "duration": "0.15s",
+    "count": 8
+   },
+   {
+    "duration": "0.2s",
+    "count": 5
+   },
+   {
+    "duration": "0.1s",
+    "count": 2
+   },
+   {
+    "duration": "1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.83, 0, 0.17, 1)",
+    "count": 60
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 4
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 3
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

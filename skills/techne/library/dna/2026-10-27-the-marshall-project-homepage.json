@@ -1,0 +1,194 @@
+{
+ "url": "https://www.themarshallproject.org",
+ "capturedAt": "2026-10-27T07:51:01.151Z",
+ "viewport": "1440x900",
+ "title": "Criminal Justice and Immigration News and Investigations | The Marshall Project",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Pressura",
+    "count": 33
+   },
+   {
+    "family": "PressuraLight",
+    "count": 12
+   },
+   {
+    "family": "PressuraBold",
+    "count": 1
+   },
+   {
+    "family": "Times New Roman",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "Times New Roman",
+   "size": 32,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": null,
+  "nav": null,
+  "button": {
+   "family": "Arial",
+   "size": 13.3,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 31
+  },
+  {
+   "px": 12,
+   "count": 15
+  },
+  {
+   "px": 32,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(246, 246, 244)",
+  "textColors": [
+   {
+    "color": "rgb(255, 11, 58)",
+    "count": 21
+   },
+   {
+    "color": "rgb(136, 136, 136)",
+    "count": 15
+   },
+   {
+    "color": "rgb(206, 206, 204)",
+    "count": 5
+   },
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(11, 11, 11)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(136, 136, 136)",
+    "count": 23
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 17
+   },
+   {
+    "color": "rgba(11, 11, 11, 0.6)",
+    "count": 9
+   },
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 6
+   },
+   {
+    "color": "rgb(236, 236, 234)",
+    "count": 5
+   },
+   {
+    "color": "rgb(255, 11, 58)",
+    "count": 3
+   },
+   {
+    "color": "rgb(246, 246, 244)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 11, 58)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 11, 58)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "3px",
+    "padding": "6px 10px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3%",
+    "count": 46
+   },
+   {
+    "radius": "50%",
+    "count": 7
+   },
+   {
+    "radius": "3px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1139px",
+    "count": 12
+   },
+   {
+    "maxWidth": "500px",
+    "count": 3
+   },
+   {
+    "maxWidth": "225px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4935,
+  "mediaCoverage": 0.07,
+  "linkCount": 118
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s",
+    "count": 139
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 129
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 10
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

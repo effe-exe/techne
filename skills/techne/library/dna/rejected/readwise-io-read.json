@@ -1,0 +1,354 @@
+{
+ "url": "https://readwise.io/read",
+ "capturedAt": "2026-10-27T08:58:05.830Z",
+ "viewport": "1440x900",
+ "title": "Readwise Reader | The first read-it-later app built for power readers.",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 134
+   }
+  ],
+  "h1": {
+   "family": "Inter",
+   "size": 58,
+   "weight": "600",
+   "lineHeight": 1.17,
+   "tracking": "-1.16px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Inter",
+   "size": 14,
+   "weight": "600",
+   "lineHeight": 1.2,
+   "tracking": "1.54px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 20,
+   "lineHeight": 1.4,
+   "measureCh": 57
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 16,
+   "weight": "600",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 51
+  },
+  {
+   "px": 13,
+   "count": 24
+  },
+  {
+   "px": 40,
+   "count": 17
+  },
+  {
+   "px": 20,
+   "count": 11
+  },
+  {
+   "px": 18,
+   "count": 9
+  },
+  {
+   "px": 28,
+   "count": 8
+  },
+  {
+   "px": 58,
+   "count": 8
+  },
+  {
+   "px": 15,
+   "count": 3
+  },
+  {
+   "px": 24,
+   "count": 2
+  },
+  {
+   "px": 14,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 79
+   },
+   {
+    "color": "rgb(190, 201, 214)",
+    "count": 34
+   },
+   {
+    "color": "rgb(228, 147, 142)",
+    "count": 7
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.7)",
+    "count": 5
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 4
+   },
+   {
+    "color": "rgb(156, 159, 176)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(42, 53, 63)",
+    "count": 25
+   },
+   {
+    "color": "rgb(21, 28, 35)",
+    "count": 10
+   },
+   {
+    "color": "rgb(28, 36, 44)",
+    "count": 4
+   },
+   {
+    "color": "rgb(42, 48, 63)",
+    "count": 2
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(12, 17, 23)",
+    "count": 1
+   },
+   {
+    "color": "rgb(16, 22, 29)",
+    "count": 1
+   },
+   {
+    "color": "rgb(40, 49, 59)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "18px",
+    "padding": "8px 18px",
+    "size": 16,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "46px",
+    "padding": "14px 32px",
+    "size": 18,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "18px",
+    "padding": "8px 18px",
+    "size": 16,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "18px",
+    "padding": "8px 18px",
+    "size": 16,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "20px 0px",
+    "size": 16,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "16px",
+    "count": 18
+   },
+   {
+    "radius": "7.5px",
+    "count": 12
+   },
+   {
+    "radius": "50%",
+    "count": 11
+   },
+   {
+    "radius": "10px",
+    "count": 6
+   },
+   {
+    "radius": "18px",
+    "count": 4
+   },
+   {
+    "radius": "4px",
+    "count": 1
+   },
+   {
+    "radius": "46px",
+    "count": 1
+   },
+   {
+    "radius": "50px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.08) 7.52294px 7.52294px 18.8073px 0px",
+    "count": 12
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.08) 0px 10px 20px 0px",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(255, 255, 255, 0.11) 0px 1px 0px 0px inset",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.25) 4px 4px 10px 2px",
+    "count": 2
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "100px",
+    "count": 5
+   },
+   {
+    "padding": "80px",
+    "count": 2
+   },
+   {
+    "padding": "148px",
+    "count": 1
+   },
+   {
+    "padding": "77px",
+    "count": 1
+   },
+   {
+    "padding": "32px",
+    "count": 1
+   },
+   {
+    "padding": "70px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "530px",
+    "count": 12
+   },
+   {
+    "maxWidth": "690px",
+    "count": 8
+   },
+   {
+    "maxWidth": "1200px",
+    "count": 5
+   },
+   {
+    "maxWidth": "540px",
+    "count": 3
+   },
+   {
+    "maxWidth": "800px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 12148,
+  "mediaCoverage": 0.52,
+  "linkCount": 26
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 14
+   },
+   {
+    "duration": "0.4s",
+    "count": 12
+   },
+   {
+    "duration": "1.3s, 1.3s",
+    "count": 12
+   },
+   {
+    "duration": "0.1s, 0.7s",
+    "count": 12
+   },
+   {
+    "duration": "0.5s",
+    "count": 10
+   },
+   {
+    "duration": "0.2s",
+    "count": 9
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 25
+   },
+   {
+    "easing": "cubic-bezier(0.33, 1, 0.68, 1), cubic-bezier(0.33, 1, 0.68, 1)",
+    "count": 12
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 6
+   },
+   {
+    "easing": "ease, ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "techne",
+  "owner": { "name": "Federico Vietti" },
+  "plugins": [
+    {
+      "name": "techne",
+      "source": "./",
+      "description": "Evidence-first product design skill with 14 modes."
+    }
+  ]
+}

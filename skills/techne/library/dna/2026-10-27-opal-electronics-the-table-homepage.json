@@ -1,0 +1,95 @@
+{
+ "url": "https://opalcamera.com/opal-tadpole",
+ "capturedAt": "2026-10-27T07:34:10.413Z",
+ "viewport": "1440x900",
+ "title": "Opal Electronics",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Die Grotesk C",
+    "count": 7
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "Die Grotesk C",
+   "size": 48.9,
+   "weight": "700",
+   "lineHeight": 1.1,
+   "tracking": "0.978641px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 21,
+   "lineHeight": 1.1,
+   "measureCh": 34
+  },
+  "nav": {
+   "family": "Die Grotesk C",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "0.32px",
+   "transform": "none"
+  },
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 6
+  },
+  {
+   "px": 21,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 6
+   },
+   {
+    "color": "rgb(129, 129, 129)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 3656,
+  "mediaCoverage": 0.88,
+  "linkCount": 7
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "1.5s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

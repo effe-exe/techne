@@ -1,0 +1,249 @@
+{
+ "url": "https://www.hasselblad.com",
+ "capturedAt": "2026-10-27T07:56:51.078Z",
+ "viewport": "1440x900",
+ "title": "Hasselblad",
+ "lang": "en-us",
+ "fonts": {
+  "families": [
+   {
+    "family": "outfit",
+    "count": 45
+   },
+   {
+    "family": "Tw Cen",
+    "count": 41
+   }
+  ],
+  "h1": {
+   "family": "Tw Cen",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": 1.33,
+   "tracking": "2.004px",
+   "transform": "uppercase"
+  },
+  "h2": {
+   "family": "Tw Cen",
+   "size": 22,
+   "weight": "400",
+   "lineHeight": 1.18,
+   "tracking": "2px",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.43,
+   "measureCh": 86
+  },
+  "nav": {
+   "family": "outfit",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 2,
+   "tracking": "0.56px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Tw Cen",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": 1.83,
+   "tracking": "1.8px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 45
+  },
+  {
+   "px": 12,
+   "count": 20
+  },
+  {
+   "px": 20,
+   "count": 7
+  },
+  {
+   "px": 34,
+   "count": 7
+  },
+  {
+   "px": 22,
+   "count": 5
+  },
+  {
+   "px": 9,
+   "count": 1
+  },
+  {
+   "px": 13,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 45
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.65)",
+    "count": 38
+   },
+   {
+    "color": "rgb(203, 45, 45)",
+    "count": 1
+   },
+   {
+    "color": "rgb(128, 128, 128)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 6
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "6px 12px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "6px 12px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "6px 12px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "6px 12px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "6px 12px",
+    "size": 12,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px -4px 8px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "38px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 9
+   },
+   {
+    "maxWidth": "693px",
+    "count": 8
+   },
+   {
+    "maxWidth": "325px",
+    "count": 5
+   },
+   {
+    "maxWidth": "1200px",
+    "count": 2
+   },
+   {
+    "maxWidth": "640px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 5948,
+  "mediaCoverage": 1.5,
+  "linkCount": 72
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 48
+   },
+   {
+    "duration": "0.2s",
+    "count": 14
+   },
+   {
+    "duration": "0.4s",
+    "count": 5
+   },
+   {
+    "duration": "0.15s, 0.15s, 0.15s",
+    "count": 3
+   },
+   {
+    "duration": "0.1s",
+    "count": 2
+   },
+   {
+    "duration": "0.5s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 14
+   },
+   {
+    "easing": "ease-in",
+    "count": 3
+   },
+   {
+    "easing": "ease-in-out, ease-in-out, ease-in-out",
+    "count": 3
+   },
+   {
+    "easing": "ease-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "url": "https://teenage.engineering",
+ "capturedAt": "2026-10-27T07:52:04.485Z",
+ "viewport": "1440x900",
+ "title": "teenage engineering",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "te-20",
+    "count": 35
+   },
+   {
+    "family": "TechnoType",
+    "count": 3
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 19.1,
+   "lineHeight": 1.15,
+   "measureCh": 9
+  },
+  "nav": {
+   "family": "te-20",
+   "size": 16,
+   "weight": "100",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "te-20",
+   "size": 16,
+   "weight": "100",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 27
+  },
+  {
+   "px": 19.1,
+   "count": 8
+  },
+  {
+   "px": 39.7,
+   "count": 3
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(241, 242, 242)",
+    "count": 28
+   },
+   {
+    "color": "rgb(229, 229, 229)",
+    "count": 9
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(241, 242, 242)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "100"
+   },
+   {
+    "bg": null,
+    "color": "rgb(241, 242, 242)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "100"
+   },
+   {
+    "bg": null,
+    "color": "rgb(241, 242, 242)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "100"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "7.34694px",
+    "count": 2
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 5856,
+  "mediaCoverage": 1.01,
+  "linkCount": 49
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 2
+   },
+   {
+    "duration": "0.5s",
+    "count": 1
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out",
+    "count": 1
+   },
+   {
+    "easing": "ease, ease",
+    "count": 1
+   },
+   {
+    "easing": "ease-in",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

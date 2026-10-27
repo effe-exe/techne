@@ -1,0 +1,319 @@
+{
+ "url": "https://fal.ai",
+ "capturedAt": "2026-10-27T07:42:14.350Z",
+ "viewport": "1440x900",
+ "title": "Your full stack for generative media — fal, Creative infrastructure for Generative Media",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Focal Web",
+    "count": 97
+   },
+   {
+    "family": "Hal Timezone Mono",
+    "count": 26
+   },
+   {
+    "family": "Focal Text",
+    "count": 17
+   }
+  ],
+  "h1": {
+   "family": "Focal Web",
+   "size": 96,
+   "weight": "500",
+   "lineHeight": 0.9,
+   "tracking": "-3.84px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Focal Web",
+   "size": 59.1,
+   "weight": "500",
+   "lineHeight": 0.9,
+   "tracking": "-1.18286px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 12,
+   "lineHeight": 1.22,
+   "measureCh": 55
+  },
+  "nav": null,
+  "button": {
+   "family": "Focal Web",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 15.2,
+   "count": 66
+  },
+  {
+   "px": 9,
+   "count": 26
+  },
+  {
+   "px": 27.4,
+   "count": 13
+  },
+  {
+   "px": 12,
+   "count": 12
+  },
+  {
+   "px": 16.3,
+   "count": 9
+  },
+  {
+   "px": 59.1,
+   "count": 4
+  },
+  {
+   "px": 41.1,
+   "count": 4
+  },
+  {
+   "px": 13.7,
+   "count": 3
+  },
+  {
+   "px": 16,
+   "count": 1
+  },
+  {
+   "px": 96,
+   "count": 1
+  },
+  {
+   "px": 49.7,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 106
+   },
+   {
+    "color": "rgb(17, 94, 243)",
+    "count": 10
+   },
+   {
+    "color": "rgb(0, 64, 18)",
+    "count": 8
+   },
+   {
+    "color": "rgb(87, 24, 192)",
+    "count": 8
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(153, 237, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(64, 55, 0)",
+    "count": 18
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 14
+   },
+   {
+    "color": "rgb(229, 236, 231)",
+    "count": 14
+   },
+   {
+    "color": "rgb(153, 237, 255)",
+    "count": 13
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.6)",
+    "count": 5
+   },
+   {
+    "color": "rgb(197, 233, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(213, 187, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 196, 216)",
+    "count": 3
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "10px 18px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "10px 18px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(229, 236, 231)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "2px",
+    "padding": "10px 26px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "10px 26px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(173, 255, 0)",
+    "color": "rgb(64, 55, 0)",
+    "radius": "2px",
+    "padding": "13.7143px 22.2857px",
+    "size": 13.7,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "2px",
+    "count": 23
+   },
+   {
+    "radius": "100%",
+    "count": 19
+   },
+   {
+    "radius": "3.42857px",
+    "count": 14
+   },
+   {
+    "radius": "1.71429px",
+    "count": 12
+   },
+   {
+    "radius": "4px",
+    "count": 9
+   },
+   {
+    "radius": "3.42857px 3.42857px 0px 0px",
+    "count": 3
+   },
+   {
+    "radius": "4.8px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(1, 1, 63, 0.1) 0px 2px 19px -4px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "17.1429px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "356.571px",
+    "count": 18
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 10
+   },
+   {
+    "maxWidth": "164.571px",
+    "count": 10
+   },
+   {
+    "maxWidth": "137.143px",
+    "count": 8
+   },
+   {
+    "maxWidth": "822.857px",
+    "count": 7
+   }
+  ],
+  "pageHeightPx": 7248,
+  "mediaCoverage": 0.48,
+  "linkCount": 138
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 14
+   },
+   {
+    "duration": "0.1s, 0.1s",
+    "count": 9
+   },
+   {
+    "duration": "0.5s",
+    "count": 6
+   },
+   {
+    "duration": "0.3s",
+    "count": 2
+   },
+   {
+    "duration": "0.3s, 0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    "count": 21
+   },
+   {
+    "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94), cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    "count": 10
+   },
+   {
+    "easing": "cubic-bezier(0.333333, 0.666667, 0.666667, 1)",
+    "count": 1
+   },
+   {
+    "easing": "ease-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

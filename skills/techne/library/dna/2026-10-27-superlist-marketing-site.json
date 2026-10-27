@@ -1,0 +1,293 @@
+{
+ "url": "https://www.superlist.com",
+ "capturedAt": "2026-10-27T07:13:40.705Z",
+ "viewport": "1440x900",
+ "title": "Superlist — Task Management & To-Do List App for Work and Life",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 90
+   },
+   {
+    "family": "Haffer XH SemiBold",
+    "count": 20
+   },
+   {
+    "family": "Haffer XH Bold",
+    "count": 2
+   },
+   {
+    "family": "Haffer XH Regular",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "Haffer XH Bold",
+   "size": 68,
+   "weight": "700",
+   "lineHeight": 1.02,
+   "tracking": "-3px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Haffer XH SemiBold",
+   "size": 48,
+   "weight": "600",
+   "lineHeight": 1.08,
+   "tracking": "-1px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.2,
+   "measureCh": 8
+  },
+  "nav": {
+   "family": "sans-serif",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 14,
+   "weight": "600",
+   "lineHeight": 1,
+   "tracking": "-0.14px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 49
+  },
+  {
+   "px": 18,
+   "count": 20
+  },
+  {
+   "px": 16,
+   "count": 16
+  },
+  {
+   "px": 11,
+   "count": 11
+  },
+  {
+   "px": 48,
+   "count": 7
+  },
+  {
+   "px": 15,
+   "count": 3
+  },
+  {
+   "px": 12,
+   "count": 2
+  },
+  {
+   "px": 32,
+   "count": 2
+  },
+  {
+   "px": 24,
+   "count": 1
+  },
+  {
+   "px": 68,
+   "count": 1
+  },
+  {
+   "px": 88,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 253, 249)",
+  "textColors": [
+   {
+    "color": "rgb(142, 141, 160)",
+    "count": 47
+   },
+   {
+    "color": "rgb(24, 24, 37)",
+    "count": 33
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 10
+   },
+   {
+    "color": "rgb(89, 87, 92)",
+    "count": 10
+   },
+   {
+    "color": "rgb(24, 24, 36)",
+    "count": 8
+   },
+   {
+    "color": "rgb(119, 113, 107)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(24, 24, 36)",
+    "count": 11
+   },
+   {
+    "color": "rgb(255, 253, 249)",
+    "count": 10
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 6
+   },
+   {
+    "color": "rgb(240, 238, 234)",
+    "count": 1
+   },
+   {
+    "color": "rgb(240, 238, 235)",
+    "count": 1
+   },
+   {
+    "color": "rgb(250, 238, 231)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(24, 24, 36)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "999px",
+    "padding": "12px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(24, 24, 36)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "999px",
+    "padding": "12px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(24, 24, 36)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "999px",
+    "padding": "12px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(24, 24, 36)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "999px",
+    "padding": "12px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "100px",
+    "padding": "14px 24px",
+    "size": 12,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "100px",
+    "count": 8
+   },
+   {
+    "radius": "4px",
+    "count": 7
+   },
+   {
+    "radius": "20px",
+    "count": 6
+   },
+   {
+    "radius": "8px",
+    "count": 4
+   },
+   {
+    "radius": "999px",
+    "count": 4
+   },
+   {
+    "radius": "10px",
+    "count": 2
+   },
+   {
+    "radius": "200px 200px 0px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 1px 1px 0px, rgba(0, 0, 0, 0.05) 0px 2px 4px 0px, rgba(255, 255, 255, 0.45) 0px 0.5px 0px 0px inset",
+    "count": 4
+   },
+   {
+    "shadow": "rgb(248, 79, 57) 0px 0px 0px 0px",
+    "count": 4
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1200px",
+    "count": 8
+   },
+   {
+    "maxWidth": "1120px",
+    "count": 4
+   },
+   {
+    "maxWidth": "700px",
+    "count": 2
+   },
+   {
+    "maxWidth": "570px",
+    "count": 1
+   },
+   {
+    "maxWidth": "650px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 9356,
+  "mediaCoverage": 0.27,
+  "linkCount": 64
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 45
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+    "count": 45
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

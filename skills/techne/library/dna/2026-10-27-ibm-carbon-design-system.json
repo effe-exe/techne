@@ -1,0 +1,282 @@
+{
+ "url": "https://carbondesignsystem.com",
+ "capturedAt": "2026-10-27T08:23:00.642Z",
+ "viewport": "1440x900",
+ "title": "Home | Carbon Design System",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "IBM Plex Sans",
+    "count": 36
+   },
+   {
+    "family": "IBM Plex Serif",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "IBM Plex Serif",
+   "size": 187.2,
+   "weight": "200",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "IBM Plex Sans",
+   "size": 16,
+   "weight": "600",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 21.9,
+   "lineHeight": 1.4,
+   "measureCh": 46
+  },
+  "nav": {
+   "family": "IBM Plex Sans",
+   "size": 14,
+   "weight": "600",
+   "lineHeight": 1.29,
+   "tracking": "0.16px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "IBM Plex Sans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.29,
+   "tracking": "0.16px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 16
+  },
+  {
+   "px": 20,
+   "count": 8
+  },
+  {
+   "px": 16,
+   "count": 6
+  },
+  {
+   "px": 32,
+   "count": 2
+  },
+  {
+   "px": 48,
+   "count": 2
+  },
+  {
+   "px": 12,
+   "count": 1
+  },
+  {
+   "px": 64,
+   "count": 1
+  },
+  {
+   "px": 187.2,
+   "count": 1
+  },
+  {
+   "px": 21.9,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(244, 244, 244)",
+  "textColors": [
+   {
+    "color": "rgb(22, 22, 22)",
+    "count": 16
+   },
+   {
+    "color": "rgb(244, 244, 244)",
+    "count": 9
+   },
+   {
+    "color": "rgb(82, 82, 82)",
+    "count": 6
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(0, 45, 156)",
+    "count": 2
+   },
+   {
+    "color": "rgb(15, 98, 254)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(244, 244, 244)",
+    "count": 5
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(0, 45, 156)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 29, 108)",
+    "count": 1
+   },
+   {
+    "color": "rgb(22, 22, 22)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(15, 98, 254)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(15, 98, 254)",
+    "radius": "0px",
+    "padding": "14px 15px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(82, 82, 82)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(82, 82, 82)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(82, 82, 82)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 14,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(224, 224, 224) 1px 0px 0px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "48px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "537.601px",
+    "count": 3
+   },
+   {
+    "maxWidth": "320px",
+    "count": 2
+   },
+   {
+    "maxWidth": "547.201px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1584px",
+    "count": 2
+   },
+   {
+    "maxWidth": "256px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 11207,
+  "mediaCoverage": 1.73,
+  "linkCount": 150
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.16s",
+    "count": 14
+   },
+   {
+    "duration": "0.07s",
+    "count": 12
+   },
+   {
+    "duration": "0.11s",
+    "count": 5
+   },
+   {
+    "duration": "0.11s, 0.11s, 0.11s",
+    "count": 5
+   },
+   {
+    "duration": "0.6s",
+    "count": 3
+   },
+   {
+    "duration": "0.11s, 0.11s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.2, 0, 0.38, 0.9)",
+    "count": 13
+   },
+   {
+    "easing": "ease, ease, ease",
+    "count": 5
+   },
+   {
+    "easing": "ease, ease",
+    "count": 1
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.38, 0.9), cubic-bezier(0, 0, 0.38, 0.9), cubic-bezier(0, 0, 0.38, 0.9), cubic-bezier(0, 0, 0.38, 0.9)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

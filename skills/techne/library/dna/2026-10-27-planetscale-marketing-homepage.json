@@ -1,0 +1,192 @@
+{
+ "url": "https://planetscale.com",
+ "capturedAt": "2026-10-27T08:25:43.972Z",
+ "viewport": "1440x900",
+ "title": "PlanetScale - the world’s fastest and most scalable cloud hosting for Vitess, Neki, and Postgres",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "ui-monospace",
+    "count": 153
+   }
+  ],
+  "h1": {
+   "family": "ui-monospace",
+   "size": 16,
+   "weight": "700",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "ui-monospace",
+   "size": 16,
+   "weight": "700",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 136
+  },
+  "nav": {
+   "family": "ui-monospace",
+   "size": 16,
+   "weight": "600",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "ui-monospace",
+   "size": 16,
+   "weight": "600",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 153
+  }
+ ],
+ "color": {
+  "background": "rgb(250, 250, 250)",
+  "textColors": [
+   {
+    "color": "rgb(11, 110, 197)",
+    "count": 67
+   },
+   {
+    "color": "rgb(65, 65, 65)",
+    "count": 59
+   },
+   {
+    "color": "rgb(115, 115, 115)",
+    "count": 17
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 6
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(251, 202, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(250, 250, 250)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(65, 65, 65)",
+    "radius": "0px",
+    "padding": "0px 8px",
+    "size": 16,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(243, 88, 21)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px 8px",
+    "size": 16,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(65, 65, 65)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(65, 65, 65)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(17, 17, 17)",
+    "color": "rgb(250, 250, 250)",
+    "radius": "0px",
+    "padding": "16px 0px",
+    "size": 16,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "160px",
+    "count": 32
+   },
+   {
+    "maxWidth": "192px",
+    "count": 18
+   },
+   {
+    "maxWidth": "224px",
+    "count": 12
+   },
+   {
+    "maxWidth": "128px",
+    "count": 5
+   },
+   {
+    "maxWidth": "1280px",
+    "count": 3
+   }
+  ],
+  "pageHeightPx": 8292,
+  "mediaCoverage": 0.11,
+  "linkCount": 139
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 22
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 22
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

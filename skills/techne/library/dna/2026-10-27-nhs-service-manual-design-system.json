@@ -1,0 +1,207 @@
+{
+ "url": "https://service-manual.nhs.uk/design-system",
+ "capturedAt": "2026-10-27T08:28:13.644Z",
+ "viewport": "1440x900",
+ "title": "Design system – NHS digital service manual",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Frutiger W01",
+    "count": 43
+   }
+  ],
+  "h1": {
+   "family": "Frutiger W01",
+   "size": 48,
+   "weight": "600",
+   "lineHeight": 1.13,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Frutiger W01",
+   "size": 22,
+   "weight": "600",
+   "lineHeight": 1.38,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 19,
+   "lineHeight": 1.47,
+   "measureCh": 116
+  },
+  "nav": {
+   "family": "Frutiger W01",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Frutiger W01",
+   "size": 19,
+   "weight": "600",
+   "lineHeight": 1.47,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 24
+  },
+  {
+   "px": 19,
+   "count": 14
+  },
+  {
+   "px": 36,
+   "count": 2
+  },
+  {
+   "px": 22,
+   "count": 1
+  },
+  {
+   "px": 26,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(240, 244, 245)",
+  "textColors": [
+   {
+    "color": "rgb(0, 94, 184)",
+    "count": 13
+   },
+   {
+    "color": "rgb(33, 43, 50)",
+    "count": 9
+   },
+   {
+    "color": "rgb(0, 48, 135)",
+    "count": 9
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(76, 98, 114)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 94, 184)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(216, 221, 224)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(0, 127, 59)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "12px 16px",
+    "size": 19,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(0, 127, 59)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "12px 16px",
+    "size": 19,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(237, 244, 250)",
+    "color": "rgb(0, 94, 184)",
+    "radius": "0px 4px 4px 0px",
+    "padding": "0px 7px",
+    "size": 16,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 2
+   },
+   {
+    "radius": "4px 0px 0px 4px",
+    "count": 1
+   },
+   {
+    "radius": "0px 4px 4px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(0, 64, 30) 0px 4px 0px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgb(33, 43, 50) 0px 0px 4px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgb(51, 126, 198) 0px -1px 0px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1100px",
+    "count": 5
+   },
+   {
+    "maxWidth": "418px",
+    "count": 4
+   },
+   {
+    "maxWidth": "592px",
+    "count": 4
+   },
+   {
+    "maxWidth": "703px",
+    "count": 3
+   },
+   {
+    "maxWidth": "570.457px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 1376,
+  "mediaCoverage": 0,
+  "linkCount": 38
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

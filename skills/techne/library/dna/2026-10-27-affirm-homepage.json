@@ -1,0 +1,314 @@
+{
+ "url": "https://www.affirm.com",
+ "capturedAt": "2026-10-27T07:25:22.920Z",
+ "viewport": "1440x900",
+ "title": "Affirm | Pay over time with flexible payment plans and no fees",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Calibre",
+    "count": 40
+   },
+   {
+    "family": "Axiforma for Affirm",
+    "count": 26
+   }
+  ],
+  "h1": {
+   "family": "Axiforma for Affirm",
+   "size": 80,
+   "weight": "300",
+   "lineHeight": 1.1,
+   "tracking": "-3.2px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Axiforma for Affirm",
+   "size": 48,
+   "weight": "300",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 20,
+   "lineHeight": 1.3,
+   "measureCh": 60
+  },
+  "nav": {
+   "family": "Axiforma for Affirm",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Axiforma for Affirm",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18,
+   "count": 20
+  },
+  {
+   "px": 14,
+   "count": 19
+  },
+  {
+   "px": 20,
+   "count": 10
+  },
+  {
+   "px": 12,
+   "count": 6
+  },
+  {
+   "px": 15,
+   "count": 3
+  },
+  {
+   "px": 30,
+   "count": 3
+  },
+  {
+   "px": 24,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  },
+  {
+   "px": 50,
+   "count": 1
+  },
+  {
+   "px": 76,
+   "count": 1
+  },
+  {
+   "px": 80,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(19, 19, 31)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 44
+   },
+   {
+    "color": "rgb(12, 12, 20)",
+    "count": 7
+   },
+   {
+    "color": "rgb(159, 159, 159)",
+    "count": 5
+   },
+   {
+    "color": "rgb(168, 169, 252)",
+    "count": 4
+   },
+   {
+    "color": "rgb(0, 0, 97)",
+    "count": 4
+   },
+   {
+    "color": "rgb(247, 247, 248)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(226, 226, 255, 0.2)",
+    "count": 3
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(168, 169, 252)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "96px",
+    "padding": "10px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 4px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 4px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(16, 24, 32)",
+    "radius": "0px",
+    "padding": "8px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(16, 24, 32)",
+    "radius": "0px",
+    "padding": "8px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "24px",
+    "count": 47
+   },
+   {
+    "radius": "96px",
+    "count": 13
+   },
+   {
+    "radius": "16px 16px 0px 0px",
+    "count": 6
+   },
+   {
+    "radius": "10px",
+    "count": 3
+   },
+   {
+    "radius": "25.22px 25.22px 0px 0px",
+    "count": 3
+   },
+   {
+    "radius": "25px",
+    "count": 3
+   },
+   {
+    "radius": "999px",
+    "count": 3
+   },
+   {
+    "radius": "36px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(156, 173, 252, 0.1) 0px 0px 0px 1.5px inset",
+    "count": 15
+   },
+   {
+    "shadow": "rgb(12, 12, 20) 0px 0px 0px 1px inset",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "48px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1320px",
+    "count": 8
+   },
+   {
+    "maxWidth": "450px",
+    "count": 3
+   },
+   {
+    "maxWidth": "800px",
+    "count": 3
+   },
+   {
+    "maxWidth": "350px",
+    "count": 2
+   },
+   {
+    "maxWidth": "600px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7013,
+  "mediaCoverage": 0.43,
+  "linkCount": 96
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 28
+   },
+   {
+    "duration": "0.2s",
+    "count": 18
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 6
+   },
+   {
+    "duration": "0.5s",
+    "count": 4
+   },
+   {
+    "duration": "0.9s, 0.9s, 0.9s, 0.9s, 0.9s",
+    "count": 3
+   },
+   {
+    "duration": "0.25s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "linear",
+    "count": 21
+   },
+   {
+    "easing": "cubic-bezier(0.19, 1, 0.22, 1), cubic-bezier(0.19, 1, 0.22, 1)",
+    "count": 6
+   },
+   {
+    "easing": "ease, ease-out, ease-out, ease-out, ease-out",
+    "count": 3
+   },
+   {
+    "easing": "ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

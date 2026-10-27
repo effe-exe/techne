@@ -1,0 +1,266 @@
+{
+ "url": "https://www.booking.com",
+ "capturedAt": "2026-10-27T08:14:29.707Z",
+ "viewport": "1440x900",
+ "title": "Booking.com | Official site | The best hotels, flights, car rentals & accommodations",
+ "lang": "en-us",
+ "fonts": {
+  "families": [
+   {
+    "family": "BlinkMacSystemFont",
+    "count": 117
+   },
+   {
+    "family": "Avenir Next",
+    "count": 13
+   }
+  ],
+  "h1": {
+   "family": "Avenir Next",
+   "size": 24,
+   "weight": "700",
+   "lineHeight": 1.33,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Avenir Next",
+   "size": 24,
+   "weight": "700",
+   "lineHeight": 1.33,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 24,
+   "lineHeight": 1.33,
+   "measureCh": 48
+  },
+  "nav": {
+   "family": "BlinkMacSystemFont",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "BlinkMacSystemFont",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 76
+  },
+  {
+   "px": 14,
+   "count": 33
+  },
+  {
+   "px": 24,
+   "count": 10
+  },
+  {
+   "px": 12,
+   "count": 7
+  },
+  {
+   "px": 20,
+   "count": 3
+  },
+  {
+   "px": 48,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 103
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 18
+   },
+   {
+    "color": "rgb(0, 108, 228)",
+    "count": 6
+   },
+   {
+    "color": "rgb(89, 89, 89)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 59, 149)",
+    "count": 23
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgb(245, 245, 245)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 183, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(89, 89, 89)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "8px 12px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "8px 12px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(26, 26, 26)",
+    "radius": "4px",
+    "padding": "0px 8px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(26, 26, 26)",
+    "radius": "4px",
+    "padding": "0px 8px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "4px 24px",
+    "size": 20,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 56
+   },
+   {
+    "radius": "50%",
+    "count": 27
+   },
+   {
+    "radius": "4.36364px 4.36364px 4.36364px 0px",
+    "count": 24
+   },
+   {
+    "radius": "4px",
+    "count": 22
+   },
+   {
+    "radius": "9999px",
+    "count": 8
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(26, 26, 26, 0.16) 0px 2px 8px 0px",
+    "count": 53
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "8px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1000px",
+    "count": 4
+   },
+   {
+    "maxWidth": "1140px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1110px",
+    "count": 1
+   },
+   {
+    "maxWidth": "600px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 5592,
+  "mediaCoverage": 1.19,
+  "linkCount": 314
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.12s",
+    "count": 49
+   },
+   {
+    "duration": "0.3s",
+    "count": 6
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.2, 0, 0.4, 0.8)",
+    "count": 49
+   },
+   {
+    "easing": "ease-out",
+    "count": 6
+   },
+   {
+    "easing": "ease-out, ease-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

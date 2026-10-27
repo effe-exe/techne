@@ -1,0 +1,301 @@
+{
+ "url": "https://www.apple.com/shop/buy-iphone",
+ "capturedAt": "2026-10-27T07:16:28.247Z",
+ "viewport": "1440x900",
+ "title": "Buy iPhone - Apple",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "SF Pro Text",
+    "count": 223
+   },
+   {
+    "family": "SF Pro Display",
+    "count": 59
+   }
+  ],
+  "h1": {
+   "family": "SF Pro Display",
+   "size": 80,
+   "weight": "600",
+   "lineHeight": 1.05,
+   "tracking": "-1.2px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "SF Pro Display",
+   "size": 28,
+   "weight": "600",
+   "lineHeight": 1.14,
+   "tracking": "0.196px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 28,
+   "lineHeight": 1.14,
+   "measureCh": 24
+  },
+  "nav": {
+   "family": "SF Pro Text",
+   "size": 17,
+   "weight": "600",
+   "lineHeight": 1.24,
+   "tracking": "-0.374px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "SF Pro Text",
+   "size": 17,
+   "weight": "400",
+   "lineHeight": 1.47,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 84
+  },
+  {
+   "px": 12,
+   "count": 70
+  },
+  {
+   "px": 28,
+   "count": 54
+  },
+  {
+   "px": 17,
+   "count": 46
+  },
+  {
+   "px": 8.4,
+   "count": 14
+  },
+  {
+   "px": 37,
+   "count": 6
+  },
+  {
+   "px": 24,
+   "count": 2
+  },
+  {
+   "px": 12.6,
+   "count": 2
+  },
+  {
+   "px": 16.8,
+   "count": 2
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 80,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(245, 245, 247)",
+  "textColors": [
+   {
+    "color": "rgb(29, 29, 31)",
+    "count": 166
+   },
+   {
+    "color": "rgb(66, 66, 69)",
+    "count": 27
+   },
+   {
+    "color": "rgb(110, 110, 115)",
+    "count": 25
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 25
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.8)",
+    "count": 12
+   },
+   {
+    "color": "rgb(182, 68, 0)",
+    "count": 7
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 60
+   },
+   {
+    "color": "rgb(245, 245, 247)",
+    "count": 2
+   },
+   {
+    "color": "rgb(173, 216, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.8)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.8)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.8)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.8)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.8)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "18px",
+    "count": 54
+   },
+   {
+    "radius": "56px",
+    "count": 14
+   },
+   {
+    "radius": "980px",
+    "count": 12
+   },
+   {
+    "radius": "0px 0px 18px 18px",
+    "count": 12
+   },
+   {
+    "radius": "50%",
+    "count": 7
+   },
+   {
+    "radius": "36px",
+    "count": 2
+   },
+   {
+    "radius": "100%",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.08) 2px 4px 12px 0px",
+    "count": 54
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1024px",
+    "count": 1
+   },
+   {
+    "maxWidth": "640px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1300px",
+    "count": 1
+   },
+   {
+    "maxWidth": "980px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 14496,
+  "mediaCoverage": 0.27,
+  "linkCount": 399
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 54
+   },
+   {
+    "duration": "0.1s",
+    "count": 17
+   },
+   {
+    "duration": "0.32s",
+    "count": 14
+   },
+   {
+    "duration": "0.5s",
+    "count": 14
+   },
+   {
+    "duration": "0.24s",
+    "count": 11
+   },
+   {
+    "duration": "0.5s, 0.7s",
+    "count": 7
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0, 0, 0.5, 1)",
+    "count": 54
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.6, 1)",
+    "count": 25
+   },
+   {
+    "easing": "linear",
+    "count": 16
+   },
+   {
+    "easing": "ease-in, cubic-bezier(0.15, 0, 0.2, 1)",
+    "count": 14
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

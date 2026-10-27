@@ -1,0 +1,39 @@
+{
+ "url": "https://height.app",
+ "capturedAt": "2026-10-27T08:57:38.426Z",
+ "viewport": "1440x900",
+ "title": "",
+ "lang": "",
+ "fonts": {
+  "families": [],
+  "h1": null,
+  "h2": null,
+  "body": null,
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [],
+  "surfaces": [],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0,
+  "linkCount": 0
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,302 @@
+{
+ "url": "https://railway.com",
+ "capturedAt": "2026-10-27T08:22:28.175Z",
+ "viewport": "1440x900",
+ "title": "Railway | The all-in-one intelligent cloud provider",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 92
+   },
+   {
+    "family": "IBM Plex Serif",
+    "count": 5
+   },
+   {
+    "family": "Inter Tight",
+    "count": 2
+   },
+   {
+    "family": "ui-monospace",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "IBM Plex Serif",
+   "size": 54,
+   "weight": "500",
+   "lineHeight": 1.12,
+   "tracking": "-1.96px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "IBM Plex Serif",
+   "size": 36,
+   "weight": "400",
+   "lineHeight": 1.33,
+   "tracking": "-0.72px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 20,
+   "lineHeight": 1.4,
+   "measureCh": 41
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.63,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 71
+  },
+  {
+   "px": 18,
+   "count": 11
+  },
+  {
+   "px": 16,
+   "count": 5
+  },
+  {
+   "px": 20,
+   "count": 5
+  },
+  {
+   "px": 40,
+   "count": 4
+  },
+  {
+   "px": 36,
+   "count": 2
+  },
+  {
+   "px": 12,
+   "count": 1
+  },
+  {
+   "px": 54,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(19, 17, 28)",
+  "textColors": [
+   {
+    "color": "rgb(161, 160, 171)",
+    "count": 38
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 16
+   },
+   {
+    "color": "rgb(247, 247, 248)",
+    "count": 13
+   },
+   {
+    "color": "rgb(249, 168, 212)",
+    "count": 12
+   },
+   {
+    "color": "rgb(220, 220, 224)",
+    "count": 5
+   },
+   {
+    "color": "rgb(135, 133, 147)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(11, 11, 15)",
+    "count": 137
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.05)",
+    "count": 15
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.1)",
+    "count": 7
+   },
+   {
+    "color": "rgb(19, 17, 28)",
+    "count": 6
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.2)",
+    "count": 6
+   },
+   {
+    "color": "rgba(51, 50, 62, 0.5)",
+    "count": 6
+   },
+   {
+    "color": "rgb(51, 50, 62)",
+    "count": 4
+   },
+   {
+    "color": "rgba(66, 138, 114, 0.2)",
+    "count": 3
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(247, 247, 248)",
+    "radius": "6px",
+    "padding": "6px 12px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(247, 247, 248)",
+    "radius": "6px",
+    "padding": "6px 12px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(247, 247, 248)",
+    "radius": "6px",
+    "padding": "6px 12px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(247, 247, 248)",
+    "radius": "6px",
+    "padding": "6px 12px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(247, 247, 248)",
+    "radius": "6px",
+    "padding": "0px 12px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 14
+   },
+   {
+    "radius": "6px",
+    "count": 6
+   },
+   {
+    "radius": "16px",
+    "count": 2
+   },
+   {
+    "radius": "10px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.2) 0px 0px 0px 1.5px inset",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(62, 45, 45, 0.24) 0px 100px 191px 0px, rgba(62, 45, 45, 0.165) 0px 36.5016px 69.7181px 0px, rgba(62, 45, 45, 0.133) 0px 17.7209px 33.8469px 0px, rgba(62, 45, 45, 0.106) 0px 8.6871px 16.5924px 0px, rgba(62, 45, 45, 0.075) 0px 3.43489px 6.56065px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(65, 78, 166, 0.1) 0px -12px 127px 0px, rgba(65, 78, 166, 0.07) 0px -4.38px 46.357px 0px, rgba(65, 78, 166, 0.06) 0px -2.127px 22.506px 0px, rgba(65, 78, 166, 0.04) 0px -1.042px 11.033px 0px, rgba(65, 78, 166, 0.03) 0px -0.412px 4.362px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "96px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "16px",
+    "count": 10
+   },
+   {
+    "maxWidth": "12px",
+    "count": 8
+   },
+   {
+    "maxWidth": "1696px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1160px",
+    "count": 2
+   },
+   {
+    "maxWidth": "740px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 12212,
+  "mediaCoverage": 0.78,
+  "linkCount": 56
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 10
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 1, 1)",
+    "count": 4
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 3
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 2
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

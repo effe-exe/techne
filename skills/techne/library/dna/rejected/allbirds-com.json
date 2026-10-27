@@ -1,0 +1,306 @@
+{
+ "url": "https://www.allbirds.com",
+ "capturedAt": "2026-10-27T08:59:40.985Z",
+ "viewport": "1440x900",
+ "title": "Allbirds: Comfortable, Sustainable Shoes & Apparel",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "Geograph",
+    "count": 122
+   },
+   {
+    "family": "Akkurat Mono",
+    "count": 10
+   },
+   {
+    "family": "Self Modern",
+    "count": 3
+   }
+  ],
+  "h1": {
+   "family": "Geograph",
+   "size": 24,
+   "weight": "400",
+   "lineHeight": 1.33,
+   "tracking": "0.6px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Geograph",
+   "size": 19.2,
+   "weight": "700",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.3,
+   "measureCh": 82
+  },
+  "nav": {
+   "family": "Geograph",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Geograph",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 84
+  },
+  {
+   "px": 14,
+   "count": 39
+  },
+  {
+   "px": 16,
+   "count": 6
+  },
+  {
+   "px": 40,
+   "count": 3
+  },
+  {
+   "px": 20,
+   "count": 1
+  },
+  {
+   "px": 24,
+   "count": 1
+  },
+  {
+   "px": 19.2,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(236, 233, 226)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 58
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 56
+   },
+   {
+    "color": "rgb(33, 33, 33)",
+    "count": 15
+   },
+   {
+    "color": "rgb(51, 51, 51)",
+    "count": 3
+   },
+   {
+    "color": "rgb(31, 31, 31)",
+    "count": 2
+   },
+   {
+    "color": "rgb(87, 87, 87)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 21
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.15)",
+    "count": 4
+   },
+   {
+    "color": "rgb(33, 33, 33)",
+    "count": 2
+   },
+   {
+    "color": "oklab(0.247757 0.0000112727 0.00000496209 / 0.5)",
+    "count": 1
+   },
+   {
+    "color": "rgb(224, 218, 207)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(51, 51, 51)",
+    "radius": "2px",
+    "padding": "8px 25px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(51, 51, 51)",
+    "radius": "2px",
+    "padding": "8px 25px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(51, 51, 51)",
+    "radius": "2px",
+    "padding": "8px 25px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 41
+   },
+   {
+    "radius": "16px",
+    "count": 15
+   },
+   {
+    "radius": "16px 16px 0px 0px",
+    "count": 12
+   },
+   {
+    "radius": "20px",
+    "count": 5
+   },
+   {
+    "radius": "2px",
+    "count": 3
+   },
+   {
+    "radius": "24px",
+    "count": 3
+   },
+   {
+    "radius": "4px",
+    "count": 2
+   },
+   {
+    "radius": "3px 3px 0px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(63, 63, 68, 0.4) 0px 4px 10px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "32px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "2560px",
+    "count": 2
+   },
+   {
+    "maxWidth": "531px",
+    "count": 1
+   },
+   {
+    "maxWidth": "384px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 3662,
+  "mediaCoverage": 1.32,
+  "linkCount": 186
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 32
+   },
+   {
+    "duration": "0.2s, 0.2s, 0.2s, 0.2s",
+    "count": 24
+   },
+   {
+    "duration": "0.3s",
+    "count": 13
+   },
+   {
+    "duration": "0.2s",
+    "count": 4
+   },
+   {
+    "duration": "0.9s",
+    "count": 3
+   },
+   {
+    "duration": "0.05s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 47
+   },
+   {
+    "easing": "cubic-bezier(0.37, 0, 0.63, 1), cubic-bezier(0.37, 0, 0.63, 1), cubic-bezier(0.37, 0, 0.63, 1), cubic-bezier(0.61, 1, 0.88, 1)",
+    "count": 24
+   },
+   {
+    "easing": "cubic-bezier(0.37, 0, 0.63, 1)",
+    "count": 4
+   },
+   {
+    "easing": "cubic-bezier(0.12, 0, 0.39, 0)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

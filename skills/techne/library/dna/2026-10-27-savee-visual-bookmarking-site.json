@@ -1,0 +1,310 @@
+{
+ "url": "https://savee.com",
+ "capturedAt": "2026-10-27T08:27:59.996Z",
+ "viewport": "1440x900",
+ "title": "Savee",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "saveeFont",
+    "count": 137
+   }
+  ],
+  "h1": {
+   "family": "saveeFont",
+   "size": 95.8,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "-3.3516px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "saveeFont",
+   "size": 64.8,
+   "weight": "500",
+   "lineHeight": 1.05,
+   "tracking": "-1.62px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 21,
+   "lineHeight": 1.38,
+   "measureCh": 65
+  },
+  "nav": {
+   "family": "saveeFont",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.38,
+   "tracking": "-0.16px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "saveeFont",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "-0.14px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 57
+  },
+  {
+   "px": 14,
+   "count": 48
+  },
+  {
+   "px": 21,
+   "count": 18
+  },
+  {
+   "px": 64.8,
+   "count": 6
+  },
+  {
+   "px": 11,
+   "count": 3
+  },
+  {
+   "px": 48,
+   "count": 3
+  },
+  {
+   "px": 13,
+   "count": 1
+  },
+  {
+   "px": 18,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(253, 253, 253)",
+  "textColors": [
+   {
+    "color": "rgb(5, 5, 5)",
+    "count": 48
+   },
+   {
+    "color": "rgb(64, 64, 64)",
+    "count": 32
+   },
+   {
+    "color": "rgb(70, 70, 70)",
+    "count": 24
+   },
+   {
+    "color": "rgb(253, 253, 253)",
+    "count": 13
+   },
+   {
+    "color": "rgb(163, 163, 163)",
+    "count": 11
+   },
+   {
+    "color": "rgb(120, 120, 120)",
+    "count": 9
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(228, 228, 228)",
+    "count": 16
+   },
+   {
+    "color": "rgb(253, 253, 253)",
+    "count": 8
+   },
+   {
+    "color": "rgb(243, 243, 243)",
+    "count": 1
+   },
+   {
+    "color": "oklab(0.994042 0.0000453293 0.000019908 / 0.8)",
+    "count": 1
+   },
+   {
+    "color": "rgb(238, 238, 238)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(64, 64, 64)",
+    "radius": "3.35544e+07px",
+    "padding": "16px 20px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(5, 5, 5)",
+    "color": "rgb(253, 253, 253)",
+    "radius": "3.35544e+07px",
+    "padding": "16px 20px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(228, 228, 228)",
+    "color": "rgb(5, 5, 5)",
+    "radius": "17.2368px",
+    "padding": "0px",
+    "size": 95.8,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(228, 228, 228)",
+    "color": "rgb(5, 5, 5)",
+    "radius": "17.2368px",
+    "padding": "0px",
+    "size": 95.8,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(228, 228, 228)",
+    "color": "rgb(5, 5, 5)",
+    "radius": "17.2368px",
+    "padding": "0px",
+    "size": 95.8,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 58
+   },
+   {
+    "radius": "16px",
+    "count": 24
+   },
+   {
+    "radius": "12px",
+    "count": 23
+   },
+   {
+    "radius": "32px",
+    "count": 9
+   },
+   {
+    "radius": "8px",
+    "count": 6
+   },
+   {
+    "radius": "17.2368px",
+    "count": 3
+   },
+   {
+    "radius": "24px",
+    "count": 3
+   },
+   {
+    "radius": "16px 16px 0px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px",
+    "count": 24
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+    "count": 10
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px",
+    "count": 4
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "212px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1152px",
+    "count": 7
+   },
+   {
+    "maxWidth": "896px",
+    "count": 6
+   },
+   {
+    "maxWidth": "672px",
+    "count": 5
+   },
+   {
+    "maxWidth": "1600px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1280px",
+    "count": 3
+   }
+  ],
+  "pageHeightPx": 8773,
+  "mediaCoverage": 0.46,
+  "linkCount": 76
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 53
+   },
+   {
+    "duration": "0.18s",
+    "count": 39
+   },
+   {
+    "duration": "1s",
+    "count": 36
+   },
+   {
+    "duration": "0.7s",
+    "count": 28
+   },
+   {
+    "duration": "0.5s",
+    "count": 24
+   },
+   {
+    "duration": "0.075s",
+    "count": 24
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 123
+   },
+   {
+    "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "count": 72
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 45
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,306 @@
+{
+ "url": "https://tailwindcss.com",
+ "capturedAt": "2026-10-27T08:20:27.312Z",
+ "viewport": "1440x900",
+ "title": "Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "plexMono",
+    "count": 195
+   },
+   {
+    "family": "inter",
+    "count": 79
+   }
+  ],
+  "h1": {
+   "family": "inter",
+   "size": 96,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "-4.8px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "inter",
+   "size": 40,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "-2px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.56,
+   "measureCh": 85
+  },
+  "nav": null,
+  "button": {
+   "family": "inter",
+   "size": 12,
+   "weight": "500",
+   "lineHeight": 1.67,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 177
+  },
+  {
+   "px": 14,
+   "count": 41
+  },
+  {
+   "px": 12,
+   "count": 18
+  },
+  {
+   "px": 16,
+   "count": 12
+  },
+  {
+   "px": 24,
+   "count": 9
+  },
+  {
+   "px": 17,
+   "count": 4
+  },
+  {
+   "px": 30,
+   "count": 4
+  },
+  {
+   "px": 20,
+   "count": 3
+  },
+  {
+   "px": 40,
+   "count": 3
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 36,
+   "count": 1
+  },
+  {
+   "px": 96,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "lab(1.90334 0.278696 -5.48866)",
+    "count": 45
+   },
+   {
+    "color": "lab(84.7652 -1.94535 -7.93337)",
+    "count": 37
+   },
+   {
+    "color": "lab(64.5597 64.3615 -12.7988)",
+    "count": 34
+   },
+   {
+    "color": "lab(80.3307 -20.2945 -31.385)",
+    "count": 29
+   },
+   {
+    "color": "lab(98.1434 -0.369519 -1.05966)",
+    "count": 27
+   },
+   {
+    "color": "lab(65.5349 -2.25151 -14.5072)",
+    "count": 24
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 19
+   },
+   {
+    "color": "oklab(0.129999 -0.00404751 -0.027702 / 0.025)",
+    "count": 11
+   },
+   {
+    "color": "oklab(0.129999 -0.00404751 -0.027702 / 0.2)",
+    "count": 7
+   },
+   {
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.15)",
+    "count": 6
+   },
+   {
+    "color": "oklab(0.129999 -0.00404751 -0.027702 / 0.05)",
+    "count": 4
+   },
+   {
+    "color": "lab(1.90334 0.278696 -5.48866)",
+    "count": 4
+   },
+   {
+    "color": "lab(70.687 -23.6078 -45.9483)",
+    "count": 3
+   },
+   {
+    "color": "lab(63.3038 -18.433 -51.0407)",
+    "count": 3
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "oklab(0.129999 -0.00404751 -0.027702 / 0.05)",
+    "color": "lab(1.90334 0.278696 -5.48866)",
+    "radius": "16px",
+    "padding": "2px 6px 2px 10px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": "oklab(0.129999 -0.00404751 -0.027702 / 0.02)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "3.35544e+07px",
+    "padding": "4px 8px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "oklab(0.129999 -0.00404751 -0.027702 / 0.5)",
+    "radius": "3.35544e+07px",
+    "padding": "8px 16px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": "lab(56.9303 76.8162 -8.07021)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "8px 12px",
+    "size": 14,
+    "weight": "700"
+   },
+   {
+    "bg": "oklab(0.999994 0.0000455678 0.0000200868 / 0.1)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "4px 8px",
+    "size": 12,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 24
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 23
+   },
+   {
+    "radius": "16px",
+    "count": 11
+   },
+   {
+    "radius": "12px",
+    "count": 6
+   },
+   {
+    "radius": "32px",
+    "count": 2
+   },
+   {
+    "radius": "24px",
+    "count": 1
+   },
+   {
+    "radius": "16px 16px 0px 0px",
+    "count": 1
+   },
+   {
+    "radius": "32px 32px 0px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.129999 -0.00404751 -0.027702 / 0.1) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 188
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.999994 0.0000455678 0.0000200868 / 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.129999 -0.00404751 -0.027702 / 0.1) 0px 0px 0px 1px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+    "count": 6
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.999994 0.0000455678 0.0000200868 / 0.1) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+    "count": 4
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "320px",
+    "count": 33
+   },
+   {
+    "maxWidth": "576px",
+    "count": 8
+   },
+   {
+    "maxWidth": "768px",
+    "count": 3
+   },
+   {
+    "maxWidth": "512px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 10345,
+  "mediaCoverage": 0.22,
+  "linkCount": 80
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 220
+   },
+   {
+    "duration": "0.35s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 224
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

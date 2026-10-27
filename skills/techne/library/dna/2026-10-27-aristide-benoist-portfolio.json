@@ -1,0 +1,96 @@
+{
+ "url": "https://aristidebenoist.com",
+ "capturedAt": "2026-10-27T07:41:05.863Z",
+ "viewport": "1440x900",
+ "title": "Aristide Benoist — Independent developer",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "jws",
+    "count": 27
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 11,
+   "lineHeight": 0.91,
+   "measureCh": 262
+  },
+  "nav": {
+   "family": "TNY",
+   "size": 50,
+   "weight": "400",
+   "lineHeight": 0.88,
+   "tracking": "-1px",
+   "transform": "none"
+  },
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 11,
+   "count": 16
+  },
+  {
+   "px": 12,
+   "count": 10
+  },
+  {
+   "px": 10,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(20, 20, 20)",
+  "textColors": [
+   {
+    "color": "rgb(186, 196, 184)",
+    "count": 27
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(186, 196, 184)",
+    "count": 4
+   },
+   {
+    "color": "rgb(204, 153, 51)",
+    "count": 2
+   },
+   {
+    "color": "rgb(30, 30, 30)",
+    "count": 2
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 900,
+  "mediaCoverage": 5.29,
+  "linkCount": 47
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.5s",
+    "count": 26
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    "count": 26
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

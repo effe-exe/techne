@@ -1,0 +1,214 @@
+{
+ "url": "https://fonts.adobe.com",
+ "capturedAt": "2026-10-27T08:26:53.775Z",
+ "viewport": "1440x900",
+ "title": "Adobe Fonts | Explore unlimited fonts",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "adobe-clean",
+    "count": 62
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "adobe-clean",
+   "size": 22,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.5,
+   "measureCh": 18
+  },
+  "nav": null,
+  "button": {
+   "family": "adobe-clean",
+   "size": 14,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 32
+  },
+  {
+   "px": 12,
+   "count": 6
+  },
+  {
+   "px": 18,
+   "count": 6
+  },
+  {
+   "px": 15,
+   "count": 5
+  },
+  {
+   "px": 28,
+   "count": 5
+  },
+  {
+   "px": 11,
+   "count": 4
+  },
+  {
+   "px": 22,
+   "count": 1
+  },
+  {
+   "px": 32,
+   "count": 1
+  },
+  {
+   "px": 60,
+   "count": 1
+  },
+  {
+   "px": 13.3,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(213, 213, 213)",
+    "count": 21
+   },
+   {
+    "color": "rgb(75, 75, 75)",
+    "count": 13
+   },
+   {
+    "color": "rgb(44, 44, 44)",
+    "count": 10
+   },
+   {
+    "color": "rgb(70, 70, 70)",
+    "count": 5
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(177, 177, 177)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgb(34, 34, 34)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(41, 41, 41)",
+    "radius": "16px",
+    "padding": "5px 16px 6px",
+    "size": 14,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(75, 75, 75)",
+    "radius": "16px",
+    "padding": "0px 14px",
+    "size": 15,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(75, 75, 75)",
+    "radius": "16px",
+    "padding": "0px 14px",
+    "size": 15,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(75, 75, 75)",
+    "radius": "16px",
+    "padding": "0px 14px",
+    "size": 15,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(75, 75, 75)",
+    "radius": "16px",
+    "padding": "0px 14px",
+    "size": 15,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "16px",
+    "count": 6
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "550px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.67,
+  "linkCount": 34
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.125s, 0.125s, 0.125s, 0.125s",
+    "count": 5
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   },
+   {
+    "duration": "0.125s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out, ease-out, ease-out, ease-out",
+    "count": 5
+   },
+   {
+    "easing": "ease-out",
+    "count": 1
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,305 @@
+{
+ "url": "https://flexibits.com/fantastical",
+ "capturedAt": "2026-10-27T07:10:07.248Z",
+ "viewport": "1440x900",
+ "title": "Flexibits | Fantastical — The calendar and tasks app you won’t be able to live without.",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Effra",
+    "count": 145
+   }
+  ],
+  "h1": {
+   "family": "Effra",
+   "size": 40,
+   "weight": "500",
+   "lineHeight": 1.1,
+   "tracking": "-0.64px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Effra",
+   "size": 24,
+   "weight": "400",
+   "lineHeight": 1.33,
+   "tracking": "-0.4px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.56,
+   "measureCh": 20
+  },
+  "nav": {
+   "family": "Effra",
+   "size": 17,
+   "weight": "500",
+   "lineHeight": 1.35,
+   "tracking": "-0.1px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Effra",
+   "size": 15,
+   "weight": "500",
+   "lineHeight": 1.87,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18,
+   "count": 40
+  },
+  {
+   "px": 14,
+   "count": 38
+  },
+  {
+   "px": 40,
+   "count": 22
+  },
+  {
+   "px": 24,
+   "count": 20
+  },
+  {
+   "px": 64,
+   "count": 10
+  },
+  {
+   "px": 17,
+   "count": 7
+  },
+  {
+   "px": 15,
+   "count": 4
+  },
+  {
+   "px": 13,
+   "count": 3
+  },
+  {
+   "px": 44,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgba(60, 60, 67, 0.6)",
+    "count": 67
+   },
+   {
+    "color": "rgb(29, 30, 31)",
+    "count": 41
+   },
+   {
+    "color": "rgba(235, 235, 245, 0.6)",
+    "count": 19
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 12
+   },
+   {
+    "color": "rgb(64, 143, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(255, 170, 0)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 16
+   },
+   {
+    "color": "rgb(247, 247, 247)",
+    "count": 15
+   },
+   {
+    "color": "rgb(255, 170, 0)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 204, 2)",
+    "count": 2
+   },
+   {
+    "color": "rgba(116, 116, 128, 0.08)",
+    "count": 2
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.8)",
+    "count": 1
+   },
+   {
+    "color": "rgb(235, 235, 235)",
+    "count": 1
+   },
+   {
+    "color": "rgb(237, 245, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(64, 143, 255)",
+    "radius": "24px",
+    "padding": "0px 19px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(64, 143, 255)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "24px",
+    "padding": "0px 19px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(64, 143, 255)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "24px",
+    "padding": "0px 31px",
+    "size": 17,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "50%",
+    "padding": "1px 6px",
+    "size": 18,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "50%",
+    "padding": "1px 6px",
+    "size": 18,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "28px",
+    "count": 48
+   },
+   {
+    "radius": "20px",
+    "count": 29
+   },
+   {
+    "radius": "24px",
+    "count": 13
+   },
+   {
+    "radius": "800px",
+    "count": 4
+   },
+   {
+    "radius": "15px",
+    "count": 3
+   },
+   {
+    "radius": "50%",
+    "count": 2
+   },
+   {
+    "radius": "19px",
+    "count": 1
+   },
+   {
+    "radius": "50px 0px 0px 50px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "100px",
+    "count": 12
+   },
+   {
+    "padding": "90px",
+    "count": 1
+   },
+   {
+    "padding": "80px",
+    "count": 1
+   },
+   {
+    "padding": "86px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1024px",
+    "count": 20
+   },
+   {
+    "maxWidth": "1800px",
+    "count": 1
+   },
+   {
+    "maxWidth": "740px",
+    "count": 1
+   },
+   {
+    "maxWidth": "768px",
+    "count": 1
+   },
+   {
+    "maxWidth": "824px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 16379,
+  "mediaCoverage": 0.23,
+  "linkCount": 80
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "2s",
+    "count": 3
+   },
+   {
+    "duration": "0.3s",
+    "count": 2
+   },
+   {
+    "duration": "0.6s",
+    "count": 1
+   },
+   {
+    "duration": "1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 7
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

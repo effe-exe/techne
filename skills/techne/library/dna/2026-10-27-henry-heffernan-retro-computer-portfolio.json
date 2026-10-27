@@ -1,0 +1,82 @@
+{
+ "url": "https://henryheffernan.com",
+ "capturedAt": "2026-10-27T07:43:27.923Z",
+ "viewport": "1440x900",
+ "title": "Henry Heffernan - Portfolio 2022",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "monospace",
+    "count": 18
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 16,
+   "lineHeight": "normal",
+   "measureCh": 13
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 18
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 18
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(29, 46, 47)",
+    "count": 1
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "500px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 2,
+  "linkCount": 0
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

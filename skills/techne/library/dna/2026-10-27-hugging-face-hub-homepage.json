@@ -1,0 +1,294 @@
+{
+ "url": "https://huggingface.co",
+ "capturedAt": "2026-10-27T07:42:00.418Z",
+ "viewport": "1440x900",
+ "title": "Hugging Face – The AI community building the future.",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "Source Sans Pro",
+    "count": 131
+   },
+   {
+    "family": "IBM Plex Mono",
+    "count": 10
+   }
+  ],
+  "h1": {
+   "family": "Source Sans Pro",
+   "size": 48,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Source Sans Pro",
+   "size": 18,
+   "weight": "600",
+   "lineHeight": 1.56,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.56,
+   "measureCh": 57
+  },
+  "nav": {
+   "family": "Source Sans Pro",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Source Sans Pro",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 62
+  },
+  {
+   "px": 14,
+   "count": 19
+  },
+  {
+   "px": 18,
+   "count": 17
+  },
+  {
+   "px": 15,
+   "count": 14
+  },
+  {
+   "px": 12,
+   "count": 12
+  },
+  {
+   "px": 13.4,
+   "count": 5
+  },
+  {
+   "px": 20,
+   "count": 4
+  },
+  {
+   "px": 24,
+   "count": 3
+  },
+  {
+   "px": 30,
+   "count": 3
+  },
+  {
+   "px": 48,
+   "count": 1
+  },
+  {
+   "px": 10.4,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 45
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 30
+   },
+   {
+    "color": "oklch(0.551 0.027 264.364)",
+    "count": 23
+   },
+   {
+    "color": "oklch(0.446 0.03 256.802)",
+    "count": 22
+   },
+   {
+    "color": "oklch(0.707 0.022 261.325)",
+    "count": 11
+   },
+   {
+    "color": "oklch(0.928 0.006 264.531)",
+    "count": 7
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.1)",
+    "count": 5
+   },
+   {
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.4)",
+    "count": 3
+   },
+   {
+    "color": "oklch(0.705 0.213 47.604)",
+    "count": 2
+   },
+   {
+    "color": "oklch(0.606 0.25 292.717)",
+    "count": 2
+   },
+   {
+    "color": "oklch(0.623 0.214 259.815)",
+    "count": 2
+   },
+   {
+    "color": "oklch(0.637 0.237 25.331)",
+    "count": 2
+   },
+   {
+    "color": "rgb(11, 15, 25)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "2px 8px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "oklch(0.551 0.027 264.364)",
+    "radius": "3.35544e+07px",
+    "padding": "4px 10px 4px 8px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 41
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 17
+   },
+   {
+    "radius": "25.6px",
+    "count": 12
+   },
+   {
+    "radius": "12px",
+    "count": 10
+   },
+   {
+    "radius": "6px",
+    "count": 7
+   },
+   {
+    "radius": "4px",
+    "count": 6
+   },
+   {
+    "radius": "50%",
+    "count": 3
+   },
+   {
+    "radius": "0px 12px 12px 0px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+    "count": 25
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+    "count": 17
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 2px 4px 0px inset",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "56px",
+    "count": 1
+   },
+   {
+    "padding": "80px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 6
+   },
+   {
+    "maxWidth": "512px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1024px",
+    "count": 2
+   },
+   {
+    "maxWidth": "384px",
+    "count": 1
+   },
+   {
+    "maxWidth": "672px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 5986,
+  "mediaCoverage": 0.22,
+  "linkCount": 103
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 18
+   },
+   {
+    "duration": "0.2s",
+    "count": 6
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 24
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

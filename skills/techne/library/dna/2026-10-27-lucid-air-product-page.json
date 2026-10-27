@@ -1,0 +1,326 @@
+{
+ "url": "https://lucidmotors.com/air",
+ "capturedAt": "2026-10-27T07:53:05.521Z",
+ "viewport": "1440x900",
+ "title": "Air | Lucid Motors",
+ "lang": "en-us",
+ "fonts": {
+  "families": [
+   {
+    "family": "Lucid Sans VF",
+    "count": 220
+   },
+   {
+    "family": "Lucid Serif VF",
+    "count": 15
+   },
+   {
+    "family": "Lucid Serif Italic VF",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "Lucid Serif VF",
+   "size": 72,
+   "weight": "400",
+   "lineHeight": 1.11,
+   "tracking": "-0.5px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Lucid Serif VF",
+   "size": 48,
+   "weight": "400",
+   "lineHeight": 1.17,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 115
+  },
+  "nav": {
+   "family": "Times New Roman",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Times New Roman",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 87
+  },
+  {
+   "px": 12,
+   "count": 52
+  },
+  {
+   "px": 20,
+   "count": 37
+  },
+  {
+   "px": 14,
+   "count": 18
+  },
+  {
+   "px": 24,
+   "count": 14
+  },
+  {
+   "px": 48,
+   "count": 11
+  },
+  {
+   "px": 18,
+   "count": 8
+  },
+  {
+   "px": 10,
+   "count": 4
+  },
+  {
+   "px": 13,
+   "count": 4
+  },
+  {
+   "px": 72,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(15, 15, 15)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 98
+   },
+   {
+    "color": "rgb(50, 50, 50)",
+    "count": 55
+   },
+   {
+    "color": "rgb(215, 190, 150)",
+    "count": 32
+   },
+   {
+    "color": "rgb(127, 127, 127)",
+    "count": 26
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 18
+   },
+   {
+    "color": "rgb(27, 27, 27)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(15, 15, 15)",
+    "count": 23
+   },
+   {
+    "color": "rgb(240, 240, 240)",
+    "count": 2
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.2)",
+    "count": 1
+   },
+   {
+    "color": "rgb(28, 28, 28)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(219, 212, 197)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "12px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 238)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "4px 0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "4px 0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "4px 0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 87
+   },
+   {
+    "radius": "50%",
+    "count": 16
+   },
+   {
+    "radius": "16px",
+    "count": 4
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   },
+   {
+    "radius": "2px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.3) 0px 0px 7px -2px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "120px",
+    "count": 10
+   },
+   {
+    "padding": "24px",
+    "count": 10
+   },
+   {
+    "padding": "48px",
+    "count": 3
+   },
+   {
+    "padding": "12px",
+    "count": 1
+   },
+   {
+    "padding": "96px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1392px",
+    "count": 33
+   },
+   {
+    "maxWidth": "448px",
+    "count": 4
+   },
+   {
+    "maxWidth": "190px",
+    "count": 4
+   },
+   {
+    "maxWidth": "1920px",
+    "count": 3
+   },
+   {
+    "maxWidth": "400px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 18676,
+  "mediaCoverage": 0.08,
+  "linkCount": 193
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 168
+   },
+   {
+    "duration": "0.5s",
+    "count": 38
+   },
+   {
+    "duration": "0.6s",
+    "count": 17
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 6
+   },
+   {
+    "duration": "10s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 158
+   },
+   {
+    "easing": "ease-in",
+    "count": 12
+   },
+   {
+    "easing": "ease-in-out, ease-in",
+    "count": 5
+   },
+   {
+    "easing": "ease-in-out, ease-in-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

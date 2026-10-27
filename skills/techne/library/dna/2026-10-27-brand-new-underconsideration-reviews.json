@@ -1,0 +1,222 @@
+{
+ "url": "https://www.underconsideration.com/brandnew",
+ "capturedAt": "2026-10-27T07:52:53.974Z",
+ "viewport": "1440x900",
+ "title": "Brand New",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "ABCSocial",
+    "count": 181
+   },
+   {
+    "family": "Alaska",
+    "count": 38
+   }
+  ],
+  "h1": {
+   "family": "Alaska",
+   "size": 18,
+   "weight": "400",
+   "lineHeight": 1.25,
+   "tracking": "-0.18px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "ABCSocial",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "0.175px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.6,
+   "measureCh": 25
+  },
+  "nav": {
+   "family": "ABCSocial",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.35,
+   "tracking": "0.175px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "ABCSocial",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "0.175px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 111
+  },
+  {
+   "px": 9.6,
+   "count": 54
+  },
+  {
+   "px": 24,
+   "count": 33
+  },
+  {
+   "px": 16,
+   "count": 7
+  },
+  {
+   "px": 17.6,
+   "count": 6
+  },
+  {
+   "px": 18,
+   "count": 5
+  },
+  {
+   "px": 12.8,
+   "count": 1
+  },
+  {
+   "px": 10.6,
+   "count": 1
+  },
+  {
+   "px": 13.2,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgba(0, 0, 0, 0.075)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 85
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.95)",
+    "count": 55
+   },
+   {
+    "color": "rgb(250, 40, 55)",
+    "count": 37
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.5)",
+    "count": 35
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.4)",
+    "count": 7
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 61
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.15)",
+    "count": 2
+   },
+   {
+    "color": "rgb(236, 236, 236)",
+    "count": 1
+   },
+   {
+    "color": "rgb(250, 40, 55)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "1px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 2px 2px 5px 0px",
+    "count": 36
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 2px 5px 0px",
+    "count": 11
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "8px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1200px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 6209,
+  "mediaCoverage": 0.11,
+  "linkCount": 192
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s",
+    "count": 249
+   },
+   {
+    "duration": "0.6s",
+    "count": 35
+   },
+   {
+    "duration": "0.5s",
+    "count": 4
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   },
+   {
+    "duration": "0.4s, 0.4s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.165, 0.84, 0.44, 1)",
+    "count": 35
+   },
+   {
+    "easing": "linear",
+    "count": 1
+   },
+   {
+    "easing": "ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

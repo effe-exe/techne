@@ -1,0 +1,296 @@
+{
+ "url": "https://www.kitchenstories.com",
+ "capturedAt": "2026-10-27T08:17:50.994Z",
+ "viewport": "1440x900",
+ "title": "Homepage - Kitchen Stories",
+ "lang": "de",
+ "fonts": {
+  "families": [
+   {
+    "family": "Plus Jakarta Sans",
+    "count": 166
+   },
+   {
+    "family": "Arial",
+    "count": 11
+   },
+   {
+    "family": "Spectral",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "Plus Jakarta Sans",
+   "size": 19.2,
+   "weight": "700",
+   "lineHeight": 1.2,
+   "tracking": "0.3px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Plus Jakarta Sans",
+   "size": 11.2,
+   "weight": "700",
+   "lineHeight": 1.2,
+   "tracking": "0.3px",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 12.8,
+   "lineHeight": 1.25,
+   "measureCh": 15
+  },
+  "nav": {
+   "family": "Plus Jakarta Sans",
+   "size": 15,
+   "weight": "600",
+   "lineHeight": 1.25,
+   "tracking": "0.2px",
+   "transform": "capitalize"
+  },
+  "button": {
+   "family": "Plus Jakarta Sans",
+   "size": 12.8,
+   "weight": "700",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 76
+  },
+  {
+   "px": 15,
+   "count": 68
+  },
+  {
+   "px": 16,
+   "count": 6
+  },
+  {
+   "px": 20,
+   "count": 6
+  },
+  {
+   "px": 9.6,
+   "count": 5
+  },
+  {
+   "px": 10,
+   "count": 4
+  },
+  {
+   "px": 14.7,
+   "count": 4
+  },
+  {
+   "px": 11,
+   "count": 3
+  },
+  {
+   "px": 12.8,
+   "count": 2
+  },
+  {
+   "px": 13,
+   "count": 1
+  },
+  {
+   "px": 38,
+   "count": 1
+  },
+  {
+   "px": 19.2,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(33, 33, 33)",
+    "count": 71
+   },
+   {
+    "color": "rgb(252, 100, 45)",
+    "count": 56
+   },
+   {
+    "color": "rgb(88, 84, 80)",
+    "count": 21
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 18
+   },
+   {
+    "color": "rgb(81, 81, 81)",
+    "count": 4
+   },
+   {
+    "color": "rgb(158, 158, 158)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgba(106, 106, 107, 0.5)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 245, 234)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(20, 95, 72)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "30px",
+    "padding": "10px 0px",
+    "size": 14.7,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(20, 95, 72)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "30px",
+    "padding": "10px 0px",
+    "size": 14.7,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(158, 158, 158)",
+    "radius": "0px",
+    "padding": "5px",
+    "size": 10,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(158, 158, 158)",
+    "radius": "0px",
+    "padding": "5px",
+    "size": 10,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(158, 158, 158)",
+    "radius": "0px",
+    "padding": "5px",
+    "size": 10,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "5px",
+    "count": 62
+   },
+   {
+    "radius": "10px",
+    "count": 58
+   },
+   {
+    "radius": "100%",
+    "count": 54
+   },
+   {
+    "radius": "50px",
+    "count": 16
+   },
+   {
+    "radius": "50%",
+    "count": 5
+   },
+   {
+    "radius": "30px",
+    "count": 2
+   },
+   {
+    "radius": "4px",
+    "count": 2
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1296px",
+    "count": 4
+   },
+   {
+    "maxWidth": "200px",
+    "count": 1
+   },
+   {
+    "maxWidth": "400px",
+    "count": 1
+   },
+   {
+    "maxWidth": "145px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 9090,
+  "mediaCoverage": 4.25,
+  "linkCount": 292
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.11s",
+    "count": 268
+   },
+   {
+    "duration": "0.5s",
+    "count": 122
+   },
+   {
+    "duration": "0.25s, 0.25s",
+    "count": 18
+   },
+   {
+    "duration": "0.25s",
+    "count": 3
+   },
+   {
+    "duration": "0.2s",
+    "count": 2
+   },
+   {
+    "duration": "0.15s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 334
+   },
+   {
+    "easing": "ease, ease",
+    "count": 18
+   },
+   {
+    "easing": "ease-out",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,305 @@
+{
+ "url": "https://mercury.com",
+ "capturedAt": "2026-10-27T07:08:00.639Z",
+ "viewport": "1440x900",
+ "title": "Online Business Banking For Startups, Small Businesses & Scaling Companies",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "arcadia",
+    "count": 152
+   },
+   {
+    "family": "arcadiaDisplay",
+    "count": 22
+   }
+  ],
+  "h1": {
+   "family": "arcadiaDisplay",
+   "size": 49.3,
+   "weight": "480",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "arcadiaDisplay",
+   "size": 42,
+   "weight": "480",
+   "lineHeight": 1.15,
+   "tracking": "0.42px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1,
+   "measureCh": 6
+  },
+  "nav": {
+   "family": "arcadia",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "arcadia",
+   "size": 16,
+   "weight": "420",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 93
+  },
+  {
+   "px": 12,
+   "count": 30
+  },
+  {
+   "px": 18,
+   "count": 25
+  },
+  {
+   "px": 28,
+   "count": 7
+  },
+  {
+   "px": 21,
+   "count": 5
+  },
+  {
+   "px": 32,
+   "count": 4
+  },
+  {
+   "px": 65.3,
+   "count": 4
+  },
+  {
+   "px": 42,
+   "count": 3
+  },
+  {
+   "px": 24,
+   "count": 2
+  },
+  {
+   "px": 49.3,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(237, 237, 243)",
+    "count": 130
+   },
+   {
+    "color": "rgb(195, 195, 204)",
+    "count": 40
+   },
+   {
+    "color": "rgb(244, 245, 249)",
+    "count": 2
+   },
+   {
+    "color": "rgb(42, 41, 36)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(23, 23, 33)",
+    "count": 6
+   },
+   {
+    "color": "rgb(30, 30, 42)",
+    "count": 5
+   },
+   {
+    "color": "rgb(205, 221, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(246, 245, 242)",
+    "count": 1
+   },
+   {
+    "color": "rgba(175, 178, 206, 0.2)",
+    "count": 1
+   },
+   {
+    "color": "rgb(39, 39, 53)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(237, 237, 243)",
+    "radius": "40px",
+    "padding": "0px 20px",
+    "size": 16,
+    "weight": "420"
+   },
+   {
+    "bg": null,
+    "color": "rgb(237, 237, 243)",
+    "radius": "40px",
+    "padding": "0px 20px",
+    "size": 16,
+    "weight": "420"
+   },
+   {
+    "bg": null,
+    "color": "rgb(237, 237, 243)",
+    "radius": "40px",
+    "padding": "0px 20px",
+    "size": 16,
+    "weight": "420"
+   },
+   {
+    "bg": null,
+    "color": "rgb(237, 237, 243)",
+    "radius": "40px",
+    "padding": "0px 20px",
+    "size": 16,
+    "weight": "420"
+   },
+   {
+    "bg": "rgb(82, 102, 235)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "32px",
+    "padding": "0px 20px",
+    "size": 16,
+    "weight": "420"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 106
+   },
+   {
+    "radius": "12px",
+    "count": 28
+   },
+   {
+    "radius": "8px",
+    "count": 13
+   },
+   {
+    "radius": "40px",
+    "count": 10
+   },
+   {
+    "radius": "32px",
+    "count": 4
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 3
+   },
+   {
+    "radius": "32px 0px 0px 32px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(28, 28, 35, 0.02) 0px 10px 16px 0px, rgba(28, 28, 35, 0.04) 0px 6px 10px 0px, rgba(28, 28, 35, 0.09) 0px 0px 3px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 0px 3px 0px, rgba(0, 0, 0, 0.05) 0px 8px 12px 0px, rgba(0, 0, 0, 0.05) 0px 12px 20px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1952px",
+    "count": 23
+   },
+   {
+    "maxWidth": "32px",
+    "count": 10
+   },
+   {
+    "maxWidth": "8px",
+    "count": 10
+   },
+   {
+    "maxWidth": "608px",
+    "count": 10
+   },
+   {
+    "maxWidth": "1376px",
+    "count": 4
+   }
+  ],
+  "pageHeightPx": 13019,
+  "mediaCoverage": 0.84,
+  "linkCount": 176
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 30
+   },
+   {
+    "duration": "0.15s",
+    "count": 22
+   },
+   {
+    "duration": "0.5s",
+    "count": 11
+   },
+   {
+    "duration": "0.2s",
+    "count": 2
+   },
+   {
+    "duration": "0.6s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 41
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 22
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.6, 1)",
+    "count": 9
+   },
+   {
+    "easing": "cubic-bezier(0.65, 0.05, 0.36, 1)",
+    "count": 2
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

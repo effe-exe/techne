@@ -1,0 +1,138 @@
+{
+ "url": "https://www.robin-noguier.com",
+ "capturedAt": "2026-10-27T07:43:00.523Z",
+ "viewport": "1440x900",
+ "title": "Robin Noguier - Interactive Designer",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "silka_rm",
+    "count": 4
+   },
+   {
+    "family": "eksell_rm_large",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "eksell_rm_large",
+   "size": 135,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": {
+   "size": 20,
+   "lineHeight": 1.6,
+   "measureCh": 58
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 2
+  },
+  {
+   "px": 135,
+   "count": 2
+  },
+  {
+   "px": 16,
+   "count": 1
+  },
+  {
+   "px": 20,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(13, 13, 13)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(213, 222, 221)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.1)",
+    "count": 1
+   },
+   {
+    "color": "rgb(213, 222, 221)",
+    "count": 1
+   },
+   {
+    "color": "rgb(28, 28, 28)",
+    "count": 1
+   },
+   {
+    "color": "rgb(61, 102, 129)",
+    "count": 1
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 9
+   },
+   {
+    "radius": "31.5px 31.5px 31.5px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "580px",
+    "count": 2
+   },
+   {
+    "maxWidth": "370px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 1.06,
+  "linkCount": 2
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,262 @@
+{
+ "url": "https://superhuman.com",
+ "capturedAt": "2026-10-27T08:57:52.437Z",
+ "viewport": "1440x900",
+ "title": "Superhuman: Docs, Mail, and AI That Work Everywhere",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Super Sans VF",
+    "count": 104
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "Super Sans VF",
+   "size": 49,
+   "weight": "460",
+   "lineHeight": 1.2,
+   "tracking": "-1.3475px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.2,
+   "measureCh": 27
+  },
+  "nav": {
+   "family": "Super Sans VF",
+   "size": 16,
+   "weight": "460",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Super Sans VF",
+   "size": 16,
+   "weight": "460",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 49
+  },
+  {
+   "px": 14,
+   "count": 19
+  },
+  {
+   "px": 25,
+   "count": 12
+  },
+  {
+   "px": 18,
+   "count": 11
+  },
+  {
+   "px": 49,
+   "count": 6
+  },
+  {
+   "px": 18.7,
+   "count": 4
+  },
+  {
+   "px": 20,
+   "count": 1
+  },
+  {
+   "px": 28,
+   "count": 1
+  },
+  {
+   "px": 39,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "color(srgb 1 1 1 / 0.8)",
+    "count": 38
+   },
+   {
+    "color": "rgb(41, 40, 39)",
+    "count": 23
+   },
+   {
+    "color": "color(srgb 0.0784314 0.0784314 0.0745098 / 0.65)",
+    "count": 18
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 17
+   },
+   {
+    "color": "rgb(113, 76, 182)",
+    "count": 4
+   },
+   {
+    "color": "rgb(212, 199, 255)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(247, 245, 242)",
+    "count": 9
+   },
+   {
+    "color": "rgb(242, 240, 235)",
+    "count": 3
+   },
+   {
+    "color": "rgb(40, 22, 71)",
+    "count": 3
+   },
+   {
+    "color": "rgb(232, 224, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "color(srgb 0.988235 0.980392 0.968627 / 0.2)",
+    "count": 1
+   },
+   {
+    "color": "rgb(113, 76, 182)",
+    "count": 1
+   },
+   {
+    "color": "rgb(222, 219, 213)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(41, 40, 39)",
+    "radius": "0px",
+    "padding": "0px 8px",
+    "size": 16,
+    "weight": "460"
+   },
+   {
+    "bg": null,
+    "color": "rgb(41, 40, 39)",
+    "radius": "0px",
+    "padding": "0px 8px",
+    "size": 16,
+    "weight": "460"
+   },
+   {
+    "bg": null,
+    "color": "rgb(41, 40, 39)",
+    "radius": "0px",
+    "padding": "0px 8px",
+    "size": 16,
+    "weight": "460"
+   },
+   {
+    "bg": null,
+    "color": "rgb(41, 40, 39)",
+    "radius": "0px",
+    "padding": "0px 8px",
+    "size": 16,
+    "weight": "460"
+   },
+   {
+    "bg": null,
+    "color": "rgb(41, 40, 39)",
+    "radius": "0px",
+    "padding": "0px 8px",
+    "size": 16,
+    "weight": "460"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "12px",
+    "count": 21
+   },
+   {
+    "radius": "8px",
+    "count": 8
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "color(srgb 0.278431 0.270588 0.262745 / 0.04) 0px 0px 0px 1px, color(srgb 0.278431 0.270588 0.262745 / 0.06) 0px 4px 8px -2px, color(srgb 0.278431 0.270588 0.262745 / 0.04) 0px 2px 4px 0px, color(srgb 0.278431 0.270588 0.262745 / 0.04) 0px 1px 2px 0px, color(srgb 0.870588 0.858824 0.835294 / 0.2) 0px 0px 0px 1px",
+    "count": 3
+   },
+   {
+    "shadow": "color(srgb 0.45098 0.443137 0.427451 / 0.2) 0px 0px 0px 1px inset",
+    "count": 1
+   },
+   {
+    "shadow": "rgb(212, 199, 255) 0px 0px 0px 1px inset",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "900px",
+    "count": 69
+   },
+   {
+    "maxWidth": "312px",
+    "count": 4
+   },
+   {
+    "maxWidth": "768px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1280px",
+    "count": 1
+   },
+   {
+    "maxWidth": "365.794px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7383,
+  "mediaCoverage": 0.54,
+  "linkCount": 92
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 55
+   },
+   {
+    "duration": "0.3s",
+    "count": 7
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 19
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,293 @@
+{
+ "url": "https://animejs.com",
+ "capturedAt": "2026-10-27T08:29:19.088Z",
+ "viewport": "1440x900",
+ "title": "Anime.js | JavaScript Animation Engine",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Mono",
+    "count": 140
+   },
+   {
+    "family": "DIN",
+    "count": 39
+   }
+  ],
+  "h1": {
+   "family": "DIN",
+   "size": 12,
+   "weight": "600",
+   "lineHeight": "normal",
+   "tracking": "0.12px",
+   "transform": "uppercase"
+  },
+  "h2": {
+   "family": "DIN",
+   "size": 64,
+   "weight": "700",
+   "lineHeight": 0.86,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 20,
+   "lineHeight": 1.25,
+   "measureCh": 34
+  },
+  "nav": {
+   "family": "Mono",
+   "size": 12,
+   "weight": "600",
+   "lineHeight": 2,
+   "tracking": "0.12px",
+   "transform": "uppercase"
+  },
+  "button": {
+   "family": "Mono",
+   "size": 12,
+   "weight": "600",
+   "lineHeight": 2,
+   "tracking": "0.12px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 128
+  },
+  {
+   "px": 20,
+   "count": 22
+  },
+  {
+   "px": 14,
+   "count": 13
+  },
+  {
+   "px": 52,
+   "count": 9
+  },
+  {
+   "px": 16,
+   "count": 5
+  },
+  {
+   "px": 9.6,
+   "count": 1
+  },
+  {
+   "px": 11.9,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(37, 36, 35)",
+  "textColors": [
+   {
+    "color": "rgb(97, 174, 238)",
+    "count": 31
+   },
+   {
+    "color": "rgb(209, 154, 102)",
+    "count": 29
+   },
+   {
+    "color": "rgb(171, 178, 191)",
+    "count": 26
+   },
+   {
+    "color": "rgb(152, 195, 121)",
+    "count": 25
+   },
+   {
+    "color": "rgb(213, 211, 209)",
+    "count": 22
+   },
+   {
+    "color": "rgb(180, 177, 175)",
+    "count": 18
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 75, 75)",
+    "count": 196
+   },
+   {
+    "color": "rgb(141, 255, 85)",
+    "count": 5
+   },
+   {
+    "color": "rgb(48, 46, 45)",
+    "count": 3
+   },
+   {
+    "color": "rgb(183, 255, 84)",
+    "count": 2
+   },
+   {
+    "color": "rgb(53, 52, 50)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 204, 42)",
+    "count": 2
+   },
+   {
+    "color": "rgb(212, 67, 67)",
+    "count": 1
+   },
+   {
+    "color": "rgb(163, 105, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 75, 75)",
+    "radius": "0px",
+    "padding": "0px 12px",
+    "size": 12,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(147, 144, 141)",
+    "radius": "0px 4px 0px 0px",
+    "padding": "0px 4px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(147, 144, 141)",
+    "radius": "4px",
+    "padding": "0px 16px",
+    "size": 12,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(246, 244, 242)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(246, 244, 242)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50%",
+    "count": 74
+   },
+   {
+    "radius": "12px",
+    "count": 14
+   },
+   {
+    "radius": "2px",
+    "count": 11
+   },
+   {
+    "radius": "0px 12px 0px 0px",
+    "count": 8
+   },
+   {
+    "radius": "4px",
+    "count": 5
+   },
+   {
+    "radius": "20px",
+    "count": 5
+   },
+   {
+    "radius": "3px",
+    "count": 2
+   },
+   {
+    "radius": "0px 4px 0px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "128px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "432px",
+    "count": 12
+   },
+   {
+    "maxWidth": "320px",
+    "count": 9
+   },
+   {
+    "maxWidth": "1500px",
+    "count": 7
+   },
+   {
+    "maxWidth": "336px",
+    "count": 3
+   },
+   {
+    "maxWidth": "400px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 21143,
+  "mediaCoverage": 0.19,
+  "linkCount": 126
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.5s",
+    "count": 50
+   },
+   {
+    "duration": "0.125s",
+    "count": 39
+   },
+   {
+    "duration": "0.1s",
+    "count": 21
+   },
+   {
+    "duration": "0.125s, 0.125s",
+    "count": 9
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out",
+    "count": 109
+   },
+   {
+    "easing": "ease, ease",
+    "count": 9
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

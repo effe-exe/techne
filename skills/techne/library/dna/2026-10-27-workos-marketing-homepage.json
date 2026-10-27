@@ -1,0 +1,314 @@
+{
+ "url": "https://workos.com",
+ "capturedAt": "2026-10-27T08:26:57.593Z",
+ "viewport": "1440x900",
+ "title": "WorkOS — Your app, Enterprise Ready.",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Untitled Sans",
+    "count": 79
+   },
+   {
+    "family": "IBM Plex Mono",
+    "count": 36
+   }
+  ],
+  "h1": {
+   "family": "Untitled Sans",
+   "size": 80,
+   "weight": "500",
+   "lineHeight": 1.05,
+   "tracking": "-5.6px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Untitled Sans",
+   "size": 28,
+   "weight": "500",
+   "lineHeight": 1.2,
+   "tracking": "-1.4px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 19,
+   "lineHeight": 1.6,
+   "measureCh": 67
+  },
+  "nav": {
+   "family": "Untitled Sans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Untitled Sans",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 45
+  },
+  {
+   "px": 12,
+   "count": 37
+  },
+  {
+   "px": 16,
+   "count": 9
+  },
+  {
+   "px": 20,
+   "count": 9
+  },
+  {
+   "px": 19,
+   "count": 5
+  },
+  {
+   "px": 28,
+   "count": 5
+  },
+  {
+   "px": 52,
+   "count": 4
+  },
+  {
+   "px": 80,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(101, 107, 138)",
+    "count": 48
+   },
+   {
+    "color": "rgb(210, 114, 255)",
+    "count": 20
+   },
+   {
+    "color": "rgb(41, 54, 61)",
+    "count": 14
+   },
+   {
+    "color": "rgb(35, 240, 195)",
+    "count": 13
+   },
+   {
+    "color": "rgb(99, 99, 241)",
+    "count": 8
+   },
+   {
+    "color": "rgb(197, 202, 232)",
+    "count": 7
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 55
+   },
+   {
+    "color": "rgb(249, 249, 251)",
+    "count": 26
+   },
+   {
+    "color": "rgb(236, 237, 237)",
+    "count": 14
+   },
+   {
+    "color": "rgb(41, 54, 61)",
+    "count": 14
+   },
+   {
+    "color": "rgb(26, 23, 54)",
+    "count": 11
+   },
+   {
+    "color": "rgba(0, 0, 59, 0.05)",
+    "count": 10
+   },
+   {
+    "color": "rgb(15, 33, 81)",
+    "count": 6
+   },
+   {
+    "color": "rgb(222, 222, 255)",
+    "count": 6
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(34, 34, 34)",
+    "radius": "0px",
+    "padding": "0px 10px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(41, 54, 61)",
+    "radius": "0px",
+    "padding": "0px 10px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(41, 54, 61)",
+    "radius": "0px",
+    "padding": "0px 10px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(34, 34, 34)",
+    "radius": "0px",
+    "padding": "0px 10px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(41, 54, 61)",
+    "radius": "0px",
+    "padding": "0px 10px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "100px",
+    "count": 78
+   },
+   {
+    "radius": "8px",
+    "count": 54
+   },
+   {
+    "radius": "50%",
+    "count": 48
+   },
+   {
+    "radius": "4px",
+    "count": 41
+   },
+   {
+    "radius": "16px",
+    "count": 14
+   },
+   {
+    "radius": "7px",
+    "count": 12
+   },
+   {
+    "radius": "18px",
+    "count": 2
+   },
+   {
+    "radius": "2px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(17, 7, 53, 0.05) 0px 51px 78px 0px, rgba(17, 7, 53, 0.035) 0px 21.3066px 35.4944px 0px, rgba(17, 7, 53, 0.03) 0px 11.3915px 18.9418px 0px, rgba(17, 7, 53, 0.024) 0px 6.38599px 9.8801px 0px, rgba(17, 7, 53, 0.02) 0px 3.39155px 4.58665px 0px, rgba(17, 7, 53, 0.016) 0px 1.4113px 1.55262px 0px, rgba(41, 56, 78, 0.05) 0px 1px 0px 0px inset",
+    "count": 51
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.04) 0px 0px 0px 1px, rgba(0, 0, 0, 0.17) 0px 5px 10px -4px",
+    "count": 14
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 1px 2px 0px inset",
+    "count": 14
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.03) 0px 10px 3px 0px, rgb(255, 255, 255) 1px 1px 1px 0px inset, rgba(0, 0, 0, 0.05) 0px -1px 10px 0px inset, rgba(0, 0, 0, 0.2) 0px 1px 1px 0px, rgba(0, 0, 0, 0.17) 0px 2px 5px 0px",
+    "count": 14
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "120px",
+    "count": 6
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1200px",
+    "count": 10
+   },
+   {
+    "maxWidth": "430px",
+    "count": 6
+   },
+   {
+    "maxWidth": "190px",
+    "count": 6
+   },
+   {
+    "maxWidth": "450px",
+    "count": 1
+   },
+   {
+    "maxWidth": "859px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 8543,
+  "mediaCoverage": 0.59,
+  "linkCount": 175
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 52
+   },
+   {
+    "duration": "0.15s",
+    "count": 10
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 4
+   },
+   {
+    "duration": "0.2s, 0.15s",
+    "count": 1
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 5
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

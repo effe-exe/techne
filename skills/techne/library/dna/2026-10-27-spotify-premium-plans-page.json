@@ -1,0 +1,313 @@
+{
+ "url": "https://www.spotify.com/us/premium/",
+ "capturedAt": "2026-10-27T08:07:38.526Z",
+ "viewport": "1440x900",
+ "title": "Spotify Premium (USA) - Try 2 months for $0",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "SpotifyMixUI",
+    "count": 101
+   },
+   {
+    "family": "SpotifyMixUITitle",
+    "count": 21
+   },
+   {
+    "family": "SpotifyMixUITitleVariable",
+    "count": 19
+   }
+  ],
+  "h1": {
+   "family": "SpotifyMixUITitleVariable",
+   "size": 128,
+   "weight": "900",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "SpotifyMixUITitleVariable",
+   "size": 48,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 12,
+   "lineHeight": "normal",
+   "measureCh": 50
+  },
+  "nav": {
+   "family": "SpotifyMixUI",
+   "size": 16,
+   "weight": "700",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "SpotifyMixUI",
+   "size": 18,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 74
+  },
+  {
+   "px": 12,
+   "count": 21
+  },
+  {
+   "px": 20,
+   "count": 11
+  },
+  {
+   "px": 24,
+   "count": 11
+  },
+  {
+   "px": 32,
+   "count": 11
+  },
+  {
+   "px": 128,
+   "count": 6
+  },
+  {
+   "px": 14,
+   "count": 4
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 64,
+   "count": 1
+  },
+  {
+   "px": 12.8,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 98
+   },
+   {
+    "color": "rgb(145, 148, 150)",
+    "count": 13
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 10
+   },
+   {
+    "color": "rgb(167, 167, 167)",
+    "count": 6
+   },
+   {
+    "color": "rgb(179, 179, 179)",
+    "count": 3
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.7)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(36, 36, 36)",
+    "count": 12
+   },
+   {
+    "color": "rgb(18, 18, 18)",
+    "count": 4
+   },
+   {
+    "color": "rgb(3, 83, 65)",
+    "count": 3
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(29, 117, 222)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.75)",
+    "count": 1
+   },
+   {
+    "color": "rgb(87, 109, 214)",
+    "count": 1
+   },
+   {
+    "color": "rgb(13, 114, 234)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 18,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "20px 20px 20px 0px",
+    "size": 16,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(158, 158, 255)",
+    "radius": "9999px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(158, 158, 255)",
+    "radius": "9999px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 19
+   },
+   {
+    "radius": "24px",
+    "count": 12
+   },
+   {
+    "radius": "10px 10px 0px 0px",
+    "count": 4
+   },
+   {
+    "radius": "0px 0px 10px 10px",
+    "count": 4
+   },
+   {
+    "radius": "50%",
+    "count": 3
+   },
+   {
+    "radius": "6px 0px",
+    "count": 2
+   },
+   {
+    "radius": "500px",
+    "count": 1
+   },
+   {
+    "radius": "48px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "256px",
+    "count": 2
+   },
+   {
+    "padding": "100px",
+    "count": 1
+   },
+   {
+    "padding": "16px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "450px",
+    "count": 16
+   },
+   {
+    "maxWidth": "1728px",
+    "count": 7
+   },
+   {
+    "maxWidth": "1120px",
+    "count": 5
+   },
+   {
+    "maxWidth": "428px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1408px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 14651,
+  "mediaCoverage": 0.17,
+  "linkCount": 66
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 20
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   },
+   {
+    "duration": "0.1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.3, 0, 0, 1)",
+    "count": 20
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

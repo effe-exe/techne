@@ -1,0 +1,249 @@
+{
+ "url": "https://hinge.co",
+ "capturedAt": "2026-10-27T08:12:21.116Z",
+ "viewport": "1440x900",
+ "title": "Download Hinge, the dating app designed to be deleted | Hinge",
+ "lang": "en-us",
+ "fonts": {
+  "families": [
+   {
+    "family": "Modern Era",
+    "count": 49
+   },
+   {
+    "family": "Tiempos Headline",
+    "count": 8
+   }
+  ],
+  "h1": {
+   "family": "Tiempos Headline",
+   "size": 58,
+   "weight": "600",
+   "lineHeight": 1.18,
+   "tracking": "0.29px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Tiempos Headline",
+   "size": 64,
+   "weight": "400",
+   "lineHeight": 1.12,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.42,
+   "measureCh": 57
+  },
+  "nav": {
+   "family": "Modern Era",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "0.16px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Modern Era",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "0.16px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 34
+  },
+  {
+   "px": 18,
+   "count": 10
+  },
+  {
+   "px": 58,
+   "count": 5
+  },
+  {
+   "px": 38,
+   "count": 3
+  },
+  {
+   "px": 12,
+   "count": 2
+  },
+  {
+   "px": 20,
+   "count": 2
+  },
+  {
+   "px": 13,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 254, 253)",
+  "textColors": [
+   {
+    "color": "rgb(255, 254, 253)",
+    "count": 44
+   },
+   {
+    "color": "rgb(103, 41, 95)",
+    "count": 3
+   },
+   {
+    "color": "rgb(72, 72, 72)",
+    "count": 3
+   },
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 3
+   },
+   {
+    "color": "rgb(217, 201, 215)",
+    "count": 2
+   },
+   {
+    "color": "rgb(163, 163, 163)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 4
+   },
+   {
+    "color": "rgb(217, 201, 215)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(26, 26, 26)",
+    "color": "rgb(255, 254, 253)",
+    "radius": "9999px",
+    "padding": "0px 32px",
+    "size": 16,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 254, 253)",
+    "radius": "0px",
+    "padding": "16px 0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 254, 253)",
+    "radius": "0px",
+    "padding": "16px 0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 254, 253)",
+    "radius": "0px",
+    "padding": "16px 0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(26, 26, 26)",
+    "color": "rgb(255, 254, 253)",
+    "radius": "9999px",
+    "padding": "0px 32px",
+    "size": 16,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 6
+   },
+   {
+    "radius": "8px",
+    "count": 4
+   },
+   {
+    "radius": "0px 8px 8px 0px",
+    "count": 2
+   },
+   {
+    "radius": "2px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1344px",
+    "count": 8
+   },
+   {
+    "maxWidth": "712px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1628px",
+    "count": 1
+   },
+   {
+    "maxWidth": "176px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4933,
+  "mediaCoverage": 0.34,
+  "linkCount": 56
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 6
+   },
+   {
+    "duration": "0.7s",
+    "count": 3
+   },
+   {
+    "duration": "0.2s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 9
+   },
+   {
+    "easing": "cubic-bezier(0.5, 0, 0.09, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

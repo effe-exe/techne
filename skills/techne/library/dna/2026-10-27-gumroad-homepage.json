@@ -1,0 +1,229 @@
+{
+ "url": "https://gumroad.com",
+ "capturedAt": "2026-10-27T07:21:28.687Z",
+ "viewport": "1440x900",
+ "title": "Earn your first dollar online with Gumroad",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "ABC Favorit",
+    "count": 159
+   }
+  ],
+  "h1": {
+   "family": "ABC Favorit",
+   "size": 96,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "-0.4px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "ABC Favorit",
+   "size": 48,
+   "weight": "400",
+   "lineHeight": 1.25,
+   "tracking": "-0.4px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.5,
+   "measureCh": 28
+  },
+  "nav": null,
+  "button": {
+   "family": "Arial",
+   "size": 13.3,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 24,
+   "count": 103
+  },
+  {
+   "px": 18,
+   "count": 18
+  },
+  {
+   "px": 16,
+   "count": 14
+  },
+  {
+   "px": 20,
+   "count": 12
+  },
+  {
+   "px": 14,
+   "count": 4
+  },
+  {
+   "px": 36,
+   "count": 4
+  },
+  {
+   "px": 48,
+   "count": 1
+  },
+  {
+   "px": 72,
+   "count": 1
+  },
+  {
+   "px": 96,
+   "count": 1
+  },
+  {
+   "px": 192,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(244, 244, 240)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 142
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 17
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 24
+   },
+   {
+    "color": "rgb(244, 244, 240)",
+    "count": 7
+   },
+   {
+    "color": "rgb(255, 201, 0)",
+    "count": 6
+   },
+   {
+    "color": "rgb(241, 243, 51)",
+    "count": 4
+   },
+   {
+    "color": "rgb(220, 52, 30)",
+    "count": 4
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "6px",
+    "padding": "8px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 144, 232)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "0px 24px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 123
+   },
+   {
+    "radius": "4px",
+    "count": 14
+   },
+   {
+    "radius": "16px",
+    "count": 9
+   },
+   {
+    "radius": "24px",
+    "count": 6
+   },
+   {
+    "radius": "24px 24px 24px 4px",
+    "count": 4
+   },
+   {
+    "radius": "6px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "768px",
+    "count": 4
+   },
+   {
+    "maxWidth": "1152px",
+    "count": 4
+   },
+   {
+    "maxWidth": "896px",
+    "count": 2
+   },
+   {
+    "maxWidth": "672px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1024px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 1.72,
+  "linkCount": 141
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 114
+   },
+   {
+    "duration": "0.2s",
+    "count": 8
+   },
+   {
+    "duration": "0.1s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 123
+   },
+   {
+    "easing": "linear",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

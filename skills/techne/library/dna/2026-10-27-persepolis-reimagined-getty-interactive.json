@@ -1,0 +1,130 @@
+{
+ "url": "https://persepolis.getty.edu",
+ "capturedAt": "2026-10-27T07:34:54.853Z",
+ "viewport": "1440x900",
+ "title": "Persepolis Reimagined",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Graphik",
+    "count": 1
+   },
+   {
+    "family": "Maghfirea",
+    "count": 1
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 14.3,
+   "lineHeight": 1.33,
+   "measureCh": 198
+  },
+  "nav": null,
+  "button": {
+   "family": "Graphik",
+   "size": 25.5,
+   "weight": "400",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14.3,
+   "count": 1
+  },
+  {
+   "px": 46.3,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(37, 37, 37)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(246, 206, 160)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(255, 255, 255, 0.3)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "25.5px",
+    "padding": "0px",
+    "size": 25.5,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "25.5px",
+    "padding": "0px",
+    "size": 25.5,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "25.5px",
+    "count": 2
+   },
+   {
+    "radius": "50%",
+    "count": 2
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 900,
+  "mediaCoverage": 1.06,
+  "linkCount": 1
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.6s",
+    "count": 4
+   },
+   {
+    "duration": "0.3s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+    "count": 4
+   },
+   {
+    "easing": "cubic-bezier(0.55, 0.085, 0.68, 0.53)",
+    "count": 2
+   },
+   {
+    "easing": "linear",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

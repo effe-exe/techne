@@ -1,0 +1,215 @@
+{
+ "url": "https://www.windy.com",
+ "capturedAt": "2026-10-27T08:29:50.091Z",
+ "viewport": "1440x900",
+ "title": "Windy: Wind map & weather forecast",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "-apple-system",
+    "count": 17
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": null,
+  "nav": {
+   "family": "iconfont",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 13
+  },
+  {
+   "px": 10,
+   "count": 1
+  },
+  {
+   "px": 13,
+   "count": 1
+  },
+  {
+   "px": 14,
+   "count": 1
+  },
+  {
+   "px": 16,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(136, 136, 136)",
+  "textColors": [
+   {
+    "color": "rgb(255, 243, 225)",
+    "count": 8
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(255, 227, 161)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(77, 77, 77)",
+    "count": 20
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.18)",
+    "count": 12
+   },
+   {
+    "color": "rgb(212, 149, 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(146, 146, 146)",
+    "count": 1
+   },
+   {
+    "color": "rgb(236, 236, 236)",
+    "count": 1
+   },
+   {
+    "color": "rgb(248, 248, 248)",
+    "count": 1
+   },
+   {
+    "color": "rgb(157, 3, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "14px",
+    "count": 14
+   },
+   {
+    "radius": "20.02px 0px 0px 20.02px",
+    "count": 11
+   },
+   {
+    "radius": "33px",
+    "count": 11
+   },
+   {
+    "radius": "9px",
+    "count": 9
+   },
+   {
+    "radius": "12px",
+    "count": 5
+   },
+   {
+    "radius": "3.85px",
+    "count": 4
+   },
+   {
+    "radius": "5px",
+    "count": 3
+   },
+   {
+    "radius": "24px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(0, 0, 0) 0px 0px 4px 0px",
+    "count": 18
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "130px",
+    "count": 129
+   },
+   {
+    "maxWidth": "150px",
+    "count": 71
+   },
+   {
+    "maxWidth": "143px",
+    "count": 11
+   },
+   {
+    "maxWidth": "1800px",
+    "count": 1
+   },
+   {
+    "maxWidth": "196px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 1.02,
+  "linkCount": 33
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 208
+   },
+   {
+    "duration": "0.25s, 0.5s",
+    "count": 13
+   },
+   {
+    "duration": "0.5s",
+    "count": 5
+   },
+   {
+    "duration": "0.7s",
+    "count": 4
+   },
+   {
+    "duration": "0.25s",
+    "count": 2
+   },
+   {
+    "duration": "0.5s, 0.7s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 13
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 5
+   },
+   {
+    "easing": "ease-out",
+    "count": 1
+   },
+   {
+    "easing": "ease-out, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

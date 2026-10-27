@@ -1,0 +1,233 @@
+{
+ "url": "https://www.glossier.com",
+ "capturedAt": "2026-10-27T07:18:12.983Z",
+ "viewport": "1440x900",
+ "title": "Glossier",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Apercu",
+    "count": 108
+   },
+   {
+    "family": "Apercu Mono",
+    "count": 6
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "Apercu",
+   "size": 20,
+   "weight": "400",
+   "lineHeight": 1.4,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.4,
+   "measureCh": 63
+  },
+  "nav": {
+   "family": "Apercu",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.43,
+   "tracking": "0.03px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Apercu",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.4,
+   "tracking": "0.03px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 78
+  },
+  {
+   "px": 12,
+   "count": 32
+  },
+  {
+   "px": 20,
+   "count": 2
+  },
+  {
+   "px": 16,
+   "count": 1
+  },
+  {
+   "px": 32,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 93
+   },
+   {
+    "color": "rgb(102, 102, 102)",
+    "count": 12
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(247, 247, 247)",
+    "count": 15
+   },
+   {
+    "color": "rgb(6, 0, 255)",
+    "count": 6
+   },
+   {
+    "color": "rgb(251, 209, 218)",
+    "count": 6
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 4
+   },
+   {
+    "color": "rgb(250, 242, 244)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "4px 8px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 12,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "16px",
+    "count": 2
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1920px",
+    "count": 8
+   },
+   {
+    "maxWidth": "78px",
+    "count": 1
+   },
+   {
+    "maxWidth": "384px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4605,
+  "mediaCoverage": 0.6,
+  "linkCount": 190
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.4s",
+    "count": 119
+   },
+   {
+    "duration": "0.5s, 0.5s",
+    "count": 8
+   },
+   {
+    "duration": "0.2s",
+    "count": 6
+   },
+   {
+    "duration": "0.1s, 0.1s",
+    "count": 3
+   },
+   {
+    "duration": "0.4s, 0s",
+    "count": 1
+   },
+   {
+    "duration": "0.9s, 0.9s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 115
+   },
+   {
+    "easing": "ease-in-out, ease-in-out",
+    "count": 13
+   },
+   {
+    "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,289 @@
+{
+ "url": "https://cavalry.scenegroup.co",
+ "capturedAt": "2026-10-27T08:27:45.813Z",
+ "viewport": "1440x900",
+ "title": "Free 2D animation & motion graphics software for Mac and Windows | Cavalry",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Canva Sans-65f8d9fc23ecf321",
+    "count": 65
+   },
+   {
+    "family": "Canva Sans",
+    "count": 4
+   },
+   {
+    "family": "Arial",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "Canva Sans-65f8d9fc23ecf321",
+   "size": 64,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Canva Sans-65f8d9fc23ecf321",
+   "size": 32,
+   "weight": "600",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.57,
+   "measureCh": 50
+  },
+  "nav": {
+   "family": "Canva Sans-65f8d9fc23ecf321",
+   "size": 18,
+   "weight": "600",
+   "lineHeight": 1.33,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Canva Sans-65f8d9fc23ecf321",
+   "size": 18,
+   "weight": "600",
+   "lineHeight": 1.33,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18,
+   "count": 17
+  },
+  {
+   "px": 32,
+   "count": 17
+  },
+  {
+   "px": 24,
+   "count": 13
+  },
+  {
+   "px": 16,
+   "count": 10
+  },
+  {
+   "px": 14,
+   "count": 9
+  },
+  {
+   "px": 13,
+   "count": 3
+  },
+  {
+   "px": 64,
+   "count": 1
+  },
+  {
+   "px": 19.2,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(100, 55, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 30
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 23
+   },
+   {
+    "color": "rgb(100, 55, 255)",
+    "count": 17
+   },
+   {
+    "color": "rgb(56, 96, 190)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 17
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 4
+   },
+   {
+    "color": "rgb(100, 55, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(17, 17, 17)",
+    "count": 1
+   },
+   {
+    "color": "rgb(170, 170, 170)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 0)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "22px",
+    "padding": "10px 20px",
+    "size": 18,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(255, 255, 0)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "22px",
+    "padding": "10px 20px",
+    "size": 18,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(100, 55, 255)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "22px",
+    "padding": "10px 20px",
+    "size": 18,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(100, 55, 255)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "22px",
+    "padding": "8px 16px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(100, 55, 255)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "22px",
+    "padding": "10px 20px",
+    "size": 18,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "22px",
+    "count": 18
+   },
+   {
+    "radius": "16px",
+    "count": 13
+   },
+   {
+    "radius": "14px",
+    "count": 9
+   },
+   {
+    "radius": "48px",
+    "count": 3
+   },
+   {
+    "radius": "50%",
+    "count": 2
+   },
+   {
+    "radius": "39.1115px",
+    "count": 1
+   },
+   {
+    "radius": "29.1115px",
+    "count": 1
+   },
+   {
+    "radius": "28.8885px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px -3px 102px 28px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 10
+   },
+   {
+    "maxWidth": "336.094px",
+    "count": 2
+   },
+   {
+    "maxWidth": "294.902px",
+    "count": 2
+   },
+   {
+    "maxWidth": "339.138px",
+    "count": 1
+   },
+   {
+    "maxWidth": "560.156px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 5097,
+  "mediaCoverage": 0.14,
+  "linkCount": 45
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 20
+   },
+   {
+    "duration": "0.3s",
+    "count": 11
+   },
+   {
+    "duration": "0.68s, 0.68s",
+    "count": 9
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.22, 1, 0.36, 1), cubic-bezier(0.22, 1, 0.36, 1)",
+    "count": 9
+   },
+   {
+    "easing": "ease-in",
+    "count": 7
+   },
+   {
+    "easing": "ease, ease",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

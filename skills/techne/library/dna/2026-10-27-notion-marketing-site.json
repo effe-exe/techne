@@ -1,0 +1,290 @@
+{
+ "url": "https://www.notion.com",
+ "capturedAt": "2026-10-27T07:07:55.066Z",
+ "viewport": "1440x900",
+ "title": "The AI workspace that works for you. | Notion",
+ "lang": "en-us",
+ "fonts": {
+  "families": [
+   {
+    "family": "NotionInter",
+    "count": 58
+   }
+  ],
+  "h1": {
+   "family": "NotionInter",
+   "size": 96,
+   "weight": "600",
+   "lineHeight": 1.04,
+   "tracking": "-4.6px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "NotionInter",
+   "size": 54,
+   "weight": "700",
+   "lineHeight": 1.04,
+   "tracking": "-1.87501px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 20,
+   "lineHeight": 1.4,
+   "measureCh": 125
+  },
+  "nav": {
+   "family": "NotionInter",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "NotionInter",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 41
+  },
+  {
+   "px": 16,
+   "count": 5
+  },
+  {
+   "px": 12,
+   "count": 4
+  },
+  {
+   "px": 22,
+   "count": 3
+  },
+  {
+   "px": 54,
+   "count": 2
+  },
+  {
+   "px": 20,
+   "count": 1
+  },
+  {
+   "px": 42,
+   "count": 1
+  },
+  {
+   "px": 72,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgba(0, 0, 0, 0.898)",
+    "count": 28
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 10
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.54)",
+    "count": 10
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.95)",
+    "count": 5
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(0, 91, 171)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 16
+   },
+   {
+    "color": "rgb(249, 249, 248)",
+    "count": 6
+   },
+   {
+    "color": "rgb(246, 245, 244)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.898)",
+    "radius": "4px",
+    "padding": "5px 10px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.898)",
+    "radius": "4px",
+    "padding": "5px 10px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(0, 117, 222)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "4px 14px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(0, 117, 222)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "8px",
+    "padding": "6px 15px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(230, 243, 254)",
+    "color": "rgb(0, 91, 171)",
+    "radius": "8px",
+    "padding": "6px 15px",
+    "size": 16,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 52
+   },
+   {
+    "radius": "4px",
+    "count": 20
+   },
+   {
+    "radius": "12px",
+    "count": 17
+   },
+   {
+    "radius": "9999.01px",
+    "count": 7
+   },
+   {
+    "radius": "100%",
+    "count": 3
+   },
+   {
+    "radius": "12px 12px 0px 0px",
+    "count": 2
+   },
+   {
+    "radius": "12px 0px 0px",
+    "count": 2
+   },
+   {
+    "radius": "50%",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.01) 0px 0.175px 1.041px 0px, rgba(0, 0, 0, 0.02) 0px 0.8px 2.925px 0px, rgba(0, 0, 0, 0.027) 0px 2.025px 7.847px 0px, rgba(0, 0, 0, 0.04) 0px 4px 18px 0px",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 1px 0px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.008) 0px 0.667px 3.502px 0px, rgba(0, 0, 0, 0.016) 0px 2.933px 7.252px 0px, rgba(0, 0, 0, 0.02) 0px 7.2px 14.462px 0px, rgba(0, 0, 0, 0.024) 0px 13.867px 28.348px 0px, rgba(0, 0, 0, 0.03) 0px 23.333px 52.123px 0px, rgba(0, 0, 0, 0.04) 0px 36px 89px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "24px",
+    "count": 3
+   },
+   {
+    "padding": "96px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "116px",
+    "count": 23
+   },
+   {
+    "maxWidth": "84px",
+    "count": 14
+   },
+   {
+    "maxWidth": "86px",
+    "count": 9
+   },
+   {
+    "maxWidth": "280px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1184px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 4687,
+  "mediaCoverage": 0.73,
+  "linkCount": 94
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 72
+   },
+   {
+    "duration": "0.15s",
+    "count": 5
+   },
+   {
+    "duration": "0.3s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.42, 0, 1, 1)",
+    "count": 65
+   },
+   {
+    "easing": "cubic-bezier(0.645, 0.045, 0.355, 1)",
+    "count": 6
+   },
+   {
+    "easing": "cubic-bezier(0.86, 0, 0.07, 1)",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

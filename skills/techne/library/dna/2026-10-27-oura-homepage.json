@@ -1,0 +1,330 @@
+{
+ "url": "https://ouraring.com",
+ "capturedAt": "2026-10-27T07:21:13.651Z",
+ "viewport": "1440x900",
+ "title": "Oura Ring. Smart Ring for Fitness, Stress, Sleep & Health.",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "AkkuratLL",
+    "count": 92
+   },
+   {
+    "family": "Editorial New",
+    "count": 6
+   }
+  ],
+  "h1": {
+   "family": "Editorial New",
+   "size": 80,
+   "weight": "300",
+   "lineHeight": 1.1,
+   "tracking": "-4px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Editorial New",
+   "size": 68,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "-2.04px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.5,
+   "measureCh": 34
+  },
+  "nav": {
+   "family": "AkkuratLL",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "AkkuratLL",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 49
+  },
+  {
+   "px": 12,
+   "count": 19
+  },
+  {
+   "px": 24,
+   "count": 8
+  },
+  {
+   "px": 40,
+   "count": 8
+  },
+  {
+   "px": 13,
+   "count": 4
+  },
+  {
+   "px": 20,
+   "count": 4
+  },
+  {
+   "px": 14,
+   "count": 2
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 56,
+   "count": 1
+  },
+  {
+   "px": 68,
+   "count": 1
+  },
+  {
+   "px": 19.2,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(247, 241, 232)",
+    "count": 45
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 19
+   },
+   {
+    "color": "rgb(168, 165, 160)",
+    "count": 14
+   },
+   {
+    "color": "rgb(74, 71, 65)",
+    "count": 13
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(105, 105, 105)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(247, 241, 232)",
+    "count": 7
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "oklab(0.259904 -0.000768863 -0.00799377 / 0.4)",
+    "count": 6
+   },
+   {
+    "color": "rgb(239, 230, 219)",
+    "count": 3
+   },
+   {
+    "color": "oklch(0.371 0 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(28, 27, 26)",
+    "count": 2
+   },
+   {
+    "color": "rgb(206, 212, 184)",
+    "count": 1
+   },
+   {
+    "color": "oklab(0.398852 0.00102159 0.0106092 / 0.1)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "3.35544e+07px",
+    "padding": "12px 24px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "3.35544e+07px",
+    "padding": "12px 24px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "3.35544e+07px",
+    "padding": "12px 24px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(247, 241, 232)",
+    "color": "rgb(131, 130, 128)",
+    "radius": "3.35544e+07px",
+    "padding": "16px 12px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(74, 71, 65)",
+    "color": "rgb(247, 241, 232)",
+    "radius": "3.35544e+07px",
+    "padding": "16px 12px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 27
+   },
+   {
+    "radius": "8px",
+    "count": 9
+   },
+   {
+    "radius": "12px",
+    "count": 7
+   },
+   {
+    "radius": "24px",
+    "count": 6
+   },
+   {
+    "radius": "4px",
+    "count": 6
+   },
+   {
+    "radius": "6px",
+    "count": 4
+   },
+   {
+    "radius": "90px",
+    "count": 3
+   },
+   {
+    "radius": "24px 0px 0px 24px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.06) 0px 1px 0px 0px inset",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "80px",
+    "count": 2
+   },
+   {
+    "padding": "8px",
+    "count": 1
+   },
+   {
+    "padding": "64px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 6
+   },
+   {
+    "maxWidth": "400px",
+    "count": 6
+   },
+   {
+    "maxWidth": "480px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1312px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 6622,
+  "mediaCoverage": 0.67,
+  "linkCount": 51
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 30
+   },
+   {
+    "duration": "0.5s",
+    "count": 7
+   },
+   {
+    "duration": "0.3s",
+    "count": 5
+   },
+   {
+    "duration": "0.4s",
+    "count": 1
+   },
+   {
+    "duration": "0.7s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 44
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

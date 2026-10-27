@@ -1,0 +1,271 @@
+{
+ "url": "https://www.whatsapp.com",
+ "capturedAt": "2026-10-27T08:11:33.293Z",
+ "viewport": "1440x900",
+ "title": "WhatsApp | Secure and Reliable Free Private Messaging and Calling",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "WhatsApp Sans Var",
+    "count": 59
+   }
+  ],
+  "h1": {
+   "family": "WhatsApp Sans Var",
+   "size": 80,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "WhatsApp Sans Var",
+   "size": 60,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.44,
+   "measureCh": 109
+  },
+  "nav": null,
+  "button": {
+   "family": "WhatsApp Sans Var",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18,
+   "count": 25
+  },
+  {
+   "px": 16,
+   "count": 18
+  },
+  {
+   "px": 12,
+   "count": 8
+  },
+  {
+   "px": 10,
+   "count": 2
+  },
+  {
+   "px": 60,
+   "count": 2
+  },
+  {
+   "px": 24,
+   "count": 1
+  },
+  {
+   "px": 32,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  },
+  {
+   "px": 80,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 32
+   },
+   {
+    "color": "rgb(28, 30, 33)",
+    "count": 23
+   },
+   {
+    "color": "rgb(0, 128, 62)",
+    "count": 1
+   },
+   {
+    "color": "rgb(94, 94, 94)",
+    "count": 1
+   },
+   {
+    "color": "rgb(17, 27, 33)",
+    "count": 1
+   },
+   {
+    "color": "rgb(240, 244, 249)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(252, 245, 235)",
+    "count": 10
+   },
+   {
+    "color": "rgb(17, 27, 33)",
+    "count": 3
+   },
+   {
+    "color": "rgb(230, 255, 218)",
+    "count": 2
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.4)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(28, 30, 33)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(28, 30, 33)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(44, 44, 46)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "50px",
+    "padding": "16px 28px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(17, 27, 33)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "50px",
+    "padding": "16px 28px",
+    "size": 16,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50px",
+    "count": 6
+   },
+   {
+    "radius": "50%",
+    "count": 5
+   },
+   {
+    "radius": "25px",
+    "count": 2
+   },
+   {
+    "radius": "28.458px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.04) 0px 0px 40px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "16px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1080px",
+    "count": 8
+   },
+   {
+    "maxWidth": "16px",
+    "count": 5
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1050px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 7522,
+  "mediaCoverage": 0.33,
+  "linkCount": 151
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "1s",
+    "count": 16
+   },
+   {
+    "duration": "0.33s, 0.5s, 0.33s",
+    "count": 9
+   },
+   {
+    "duration": "0.33s",
+    "count": 6
+   },
+   {
+    "duration": "0.5s, 0.5s",
+    "count": 1
+   },
+   {
+    "duration": "0.33s, 0.33s",
+    "count": 1
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.33, 0, 0, 1)",
+    "count": 21
+   },
+   {
+    "easing": "linear, ease-out, linear",
+    "count": 9
+   },
+   {
+    "easing": "cubic-bezier(0.66, 0, 0.34, 1)",
+    "count": 3
+   },
+   {
+    "easing": "ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

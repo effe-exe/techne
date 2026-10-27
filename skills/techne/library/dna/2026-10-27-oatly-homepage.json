@@ -1,0 +1,242 @@
+{
+ "url": "https://www.oatly.com",
+ "capturedAt": "2026-10-27T07:53:10.855Z",
+ "viewport": "1440x900",
+ "title": "the Original Oat Drink Company | Oatly",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Margo Pro Regular",
+    "count": 55
+   },
+   {
+    "family": "Margo Pro Bold",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "Margo Pro Regular",
+   "size": 32,
+   "weight": "700",
+   "lineHeight": 1.3,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Margo Pro Regular",
+   "size": 27,
+   "weight": "500",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 15,
+   "lineHeight": "normal",
+   "measureCh": 69
+  },
+  "nav": {
+   "family": "Margo Pro Regular",
+   "size": 22.9,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Margo Pro Regular",
+   "size": 15,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 40
+  },
+  {
+   "px": 14,
+   "count": 3
+  },
+  {
+   "px": 15,
+   "count": 3
+  },
+  {
+   "px": 22.9,
+   "count": 3
+  },
+  {
+   "px": 16.9,
+   "count": 2
+  },
+  {
+   "px": 19.5,
+   "count": 2
+  },
+  {
+   "px": 27,
+   "count": 1
+  },
+  {
+   "px": 32,
+   "count": 1
+  },
+  {
+   "px": 29.9,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 47
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgb(34, 34, 34)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 17
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.5)",
+    "count": 1
+   },
+   {
+    "color": "rgb(246, 246, 246)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 254, 246)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(34, 34, 34)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "3px",
+    "padding": "11px 16px",
+    "size": 16.9,
+    "weight": "900"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "3px",
+    "padding": "11px 16px",
+    "size": 16.9,
+    "weight": "900"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px 11.2px",
+    "size": 20,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "11.2px",
+    "size": 20,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "100px",
+    "count": 4
+   },
+   {
+    "radius": "3px",
+    "count": 2
+   },
+   {
+    "radius": "5px",
+    "count": 1
+   },
+   {
+    "radius": "9999px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(0, 0, 0) 2px 2px 0px 0px",
+    "count": 13
+   },
+   {
+    "shadow": "rgb(0, 0, 0) 0px 0px 0px 1px inset",
+    "count": 2
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "20.6737px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1364.66px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1398.65px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 1.3,
+  "linkCount": 94
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 9
+   },
+   {
+    "duration": "0.4s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

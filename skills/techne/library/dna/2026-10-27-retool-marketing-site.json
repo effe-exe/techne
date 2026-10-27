@@ -1,0 +1,326 @@
+{
+ "url": "https://retool.com",
+ "capturedAt": "2026-10-27T07:09:36.915Z",
+ "viewport": "1440x900",
+ "title": "Build internal software better, with AI. | Retool",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "saansFont",
+    "count": 114
+   },
+   {
+    "family": "pxGroteskFont",
+    "count": 49
+   },
+   {
+    "family": "ui-sans-serif",
+    "count": 5
+   }
+  ],
+  "h1": {
+   "family": "saansFont",
+   "size": 72,
+   "weight": "300",
+   "lineHeight": 1.05,
+   "tracking": "-1.584px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "saansFont",
+   "size": 48,
+   "weight": "300",
+   "lineHeight": 1.05,
+   "tracking": "-0.48px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.5,
+   "measureCh": 28
+  },
+  "nav": {
+   "family": "pxGroteskFont",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "pxGroteskFont",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "0.12px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 24,
+   "count": 87
+  },
+  {
+   "px": 12,
+   "count": 28
+  },
+  {
+   "px": 14,
+   "count": 27
+  },
+  {
+   "px": 16,
+   "count": 17
+  },
+  {
+   "px": 48,
+   "count": 5
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 32,
+   "count": 1
+  },
+  {
+   "px": 60,
+   "count": 1
+  },
+  {
+   "px": 72,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(21, 21, 21)",
+  "textColors": [
+   {
+    "color": "rgb(233, 235, 223)",
+    "count": 115
+   },
+   {
+    "color": "rgb(203, 204, 196)",
+    "count": 27
+   },
+   {
+    "color": "rgba(233, 235, 223, 0.6)",
+    "count": 9
+   },
+   {
+    "color": "rgb(21, 21, 21)",
+    "count": 8
+   },
+   {
+    "color": "rgba(21, 21, 21, 0.6)",
+    "count": 4
+   },
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(36, 36, 36)",
+    "count": 34
+   },
+   {
+    "color": "rgb(21, 21, 21)",
+    "count": 3
+   },
+   {
+    "color": "rgb(233, 235, 223)",
+    "count": 2
+   },
+   {
+    "color": "rgba(247, 248, 244, 0.867)",
+    "count": 2
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.45)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.6)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(233, 235, 223)",
+    "radius": "0px",
+    "padding": "8px 0px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(233, 235, 223)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(233, 235, 223)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(233, 235, 223)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(233, 235, 223)",
+    "radius": "0px",
+    "padding": "4px 0px 0px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 40
+   },
+   {
+    "radius": "8px",
+    "count": 38
+   },
+   {
+    "radius": "5px",
+    "count": 24
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 10
+   },
+   {
+    "radius": "36px",
+    "count": 6
+   },
+   {
+    "radius": "12px",
+    "count": 5
+   },
+   {
+    "radius": "16px",
+    "count": 5
+   },
+   {
+    "radius": "24px",
+    "count": 4
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(233, 234, 231) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 24
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.35) 0px 68px 116px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "40px",
+    "count": 2
+   },
+   {
+    "padding": "80px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 9
+   },
+   {
+    "maxWidth": "312px",
+    "count": 5
+   },
+   {
+    "maxWidth": "640px",
+    "count": 4
+   },
+   {
+    "maxWidth": "540px",
+    "count": 3
+   },
+   {
+    "maxWidth": "2240px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 11888,
+  "mediaCoverage": 0.55,
+  "linkCount": 174
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 96
+   },
+   {
+    "duration": "0.3s",
+    "count": 78
+   },
+   {
+    "duration": "0.6s",
+    "count": 69
+   },
+   {
+    "duration": "0.4s",
+    "count": 46
+   },
+   {
+    "duration": "0.5s",
+    "count": 8
+   },
+   {
+    "duration": "0.5s, 0.5s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.72, 0, 0.12, 1)",
+    "count": 216
+   },
+   {
+    "easing": "cubic-bezier(0.12, 1, 0.72, 1)",
+    "count": 74
+   },
+   {
+    "easing": "cubic-bezier(0.72, 0, 0.36, 1)",
+    "count": 6
+   },
+   {
+    "easing": "cubic-bezier(0.24, 0.01, 0.36, 1)",
+    "count": 5
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,181 @@
+{
+ "url": "https://oryzo.ai",
+ "capturedAt": "2026-10-27T07:44:08.057Z",
+ "viewport": "1440x900",
+ "title": "ORYZO AI",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "halyard-display-variable",
+    "count": 10
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "halyard-display-variable",
+   "size": 51,
+   "weight": "500",
+   "lineHeight": 0.9,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "body": null,
+  "nav": {
+   "family": "halyard-display-variable",
+   "size": 12,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "button": {
+   "family": "Arial",
+   "size": 7.5,
+   "weight": "500",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 5
+  },
+  {
+   "px": 18,
+   "count": 3
+  },
+  {
+   "px": 40.8,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(16, 9, 4)",
+  "textColors": [
+   {
+    "color": "rgb(255, 237, 215)",
+    "count": 9
+   },
+   {
+    "color": "rgb(220, 80, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgba(32, 25, 20, 0.75)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 237, 215)",
+    "count": 1
+   },
+   {
+    "color": "rgb(16, 9, 4)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(56, 36, 22)",
+    "color": "rgb(255, 237, 215)",
+    "radius": "36px",
+    "padding": "14.4px 24px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 237, 215)",
+    "radius": "22.5px",
+    "padding": "7.5px 0px",
+    "size": 7.5,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 237, 215)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "12px",
+    "count": 4
+   },
+   {
+    "radius": "36px",
+    "count": 1
+   },
+   {
+    "radius": "22.5px",
+    "count": 1
+   },
+   {
+    "radius": "50%",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(255, 140, 0, 0.6) 0px 0px 10px 3px",
+    "count": 1
+   },
+   {
+    "shadow": "rgb(255, 160, 0) 0px 0px 3px 2px inset, rgb(224, 112, 16) 0px 0px 8px 4px inset",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 56691,
+  "mediaCoverage": 0.02,
+  "linkCount": 22
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.18s",
+    "count": 5
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 2
+   },
+   {
+    "duration": "0.3s",
+    "count": 2
+   },
+   {
+    "duration": "0.25s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 3
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

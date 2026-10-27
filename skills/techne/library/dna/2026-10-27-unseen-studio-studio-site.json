@@ -1,0 +1,222 @@
+{
+ "url": "https://unseen.co",
+ "capturedAt": "2026-10-27T07:38:53.020Z",
+ "viewport": "1440x900",
+ "title": "Unseen Studio® – Brand, Digital & Motion",
+ "lang": "en-GB",
+ "fonts": {
+  "families": [
+   {
+    "family": "Neue Montreal",
+    "count": 14
+   }
+  ],
+  "h1": {
+   "family": "Neue Montreal",
+   "size": 28.8,
+   "weight": "700",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": {
+   "size": 14.4,
+   "lineHeight": 1.15,
+   "measureCh": 40
+  },
+  "nav": {
+   "family": "Neue Montreal",
+   "size": 14.4,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Neue Montreal",
+   "size": 14.4,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 18.7,
+   "count": 4
+  },
+  {
+   "px": 15.1,
+   "count": 3
+  },
+  {
+   "px": 16.2,
+   "count": 2
+  },
+  {
+   "px": 14.4,
+   "count": 2
+  },
+  {
+   "px": 11.5,
+   "count": 2
+  },
+  {
+   "px": 28.8,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 5
+   },
+   {
+    "color": "rgb(33, 33, 33)",
+    "count": 4
+   },
+   {
+    "color": "rgb(66, 66, 66)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(214, 214, 214)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(33, 33, 33)",
+    "count": 7
+   },
+   {
+    "color": "rgb(239, 222, 217)",
+    "count": 7
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(241, 237, 235)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "50%",
+    "padding": "0px",
+    "size": 14.4,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "50%",
+    "padding": "0px",
+    "size": 14.4,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14.4,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "50%",
+    "padding": "0px",
+    "size": 14.4,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "23.76px",
+    "count": 6
+   },
+   {
+    "radius": "100%",
+    "count": 4
+   },
+   {
+    "radius": "50%",
+    "count": 3
+   },
+   {
+    "radius": "17.28px",
+    "count": 1
+   },
+   {
+    "radius": "21.6px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "14.4px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "590.4px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 1.01,
+  "linkCount": 22
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "1s",
+    "count": 16
+   },
+   {
+    "duration": "0.5s",
+    "count": 5
+   },
+   {
+    "duration": "0.5s, 0.5s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "count": 14
+   },
+   {
+    "easing": "ease-out",
+    "count": 7
+   },
+   {
+    "easing": "ease-out, ease-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

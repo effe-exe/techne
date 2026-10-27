@@ -1,0 +1,19 @@
+{
+  "name": "techne",
+  "version": "1.0.0",
+  "description": "Evidence-first product design: data-driven, ethical, opinionated. Critique, experiments, flows, redesigns, visual design, design systems, inspiration, Figma and prototypes.",
+  "author": {
+    "name": "Federico Vietti",
+    "url": "https://github.com/effe-exe"
+  },
+  "repository": "https://github.com/effe-exe/techne",
+  "keywords": [
+    "product-design",
+    "ux",
+    "ui",
+    "design-systems",
+    "experimentation",
+    "figma"
+  ],
+  "license": "MIT"
+}

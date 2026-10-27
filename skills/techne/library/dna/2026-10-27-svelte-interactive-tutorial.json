@@ -1,0 +1,262 @@
+{
+ "url": "https://svelte.dev/tutorial",
+ "capturedAt": "2026-10-27T08:25:31.703Z",
+ "viewport": "1440x900",
+ "title": "Introduction / Welcome to Svelte • Svelte Tutorial",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Fira Sans",
+    "count": 147
+   },
+   {
+    "family": "Georgia",
+    "count": 12
+   },
+   {
+    "family": "DM Serif Display",
+    "count": 2
+   },
+   {
+    "family": "Fira Mono",
+    "count": 2
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "DM Serif Display",
+   "size": 30,
+   "weight": "500",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.5,
+   "measureCh": 42
+  },
+  "nav": {
+   "family": "Fira Sans",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Fira Sans",
+   "size": 10,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 145
+  },
+  {
+   "px": 18,
+   "count": 10
+  },
+  {
+   "px": 13,
+   "count": 4
+  },
+  {
+   "px": 14,
+   "count": 2
+  },
+  {
+   "px": 30,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(38, 38, 38)",
+    "count": 150
+   },
+   {
+    "color": "rgb(212, 48, 8)",
+    "count": 6
+   },
+   {
+    "color": "rgb(102, 102, 102)",
+    "count": 3
+   },
+   {
+    "color": "rgb(20, 20, 20)",
+    "count": 2
+   },
+   {
+    "color": "rgb(128, 128, 128)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(253, 253, 253)",
+    "count": 7
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(250, 250, 250)",
+    "count": 3
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.04)",
+    "count": 2
+   },
+   {
+    "color": "rgb(128, 128, 128)",
+    "count": 1
+   },
+   {
+    "color": "rgb(238, 238, 238)",
+    "count": 1
+   },
+   {
+    "color": "rgb(204, 204, 204)",
+    "count": 1
+   },
+   {
+    "color": "rgb(212, 48, 8)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(38, 38, 38)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 10,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(38, 38, 38)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 10,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(128, 128, 128)",
+    "radius": "4px",
+    "padding": "0px 10px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(38, 38, 38)",
+    "radius": "0px",
+    "padding": "0px 10px 0px 25px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(212, 48, 8)",
+    "radius": "0px",
+    "padding": "0px 10px 0px 37px",
+    "size": 13,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "2px",
+    "count": 45
+   },
+   {
+    "radius": "4px",
+    "count": 17
+   },
+   {
+    "radius": "2.5px",
+    "count": 2
+   },
+   {
+    "radius": "56px",
+    "count": 1
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(212, 48, 8) 0px -1px 0px 0px inset",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "730px",
+    "count": 4
+   },
+   {
+    "maxWidth": "1324px",
+    "count": 1
+   },
+   {
+    "maxWidth": "760px",
+    "count": 1
+   },
+   {
+    "maxWidth": "770px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 900,
+  "mediaCoverage": 0.01,
+  "linkCount": 156
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s",
+    "count": 7
+   },
+   {
+    "duration": "0.2s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 7
+   },
+   {
+    "easing": "ease-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

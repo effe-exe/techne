@@ -1,0 +1,286 @@
+{
+ "url": "https://www.bemyeyes.com",
+ "capturedAt": "2026-10-27T07:32:51.349Z",
+ "viewport": "1440x900",
+ "title": "Accessibility Technology for blind & low vision people - Be My Eyes",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 82
+   }
+  ],
+  "h1": {
+   "family": "Inter",
+   "size": 64,
+   "weight": "500",
+   "lineHeight": 1.15,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Inter",
+   "size": 44,
+   "weight": "500",
+   "lineHeight": 1.25,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.33,
+   "measureCh": 109
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 16,
+   "weight": "600",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.71,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 37
+  },
+  {
+   "px": 16,
+   "count": 24
+  },
+  {
+   "px": 18,
+   "count": 7
+  },
+  {
+   "px": 44,
+   "count": 6
+  },
+  {
+   "px": 50,
+   "count": 4
+  },
+  {
+   "px": 20,
+   "count": 3
+  },
+  {
+   "px": 64,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(248, 248, 255)",
+  "textColors": [
+   {
+    "color": "rgb(248, 248, 255)",
+    "count": 31
+   },
+   {
+    "color": "rgb(30, 30, 30)",
+    "count": 21
+   },
+   {
+    "color": "rgb(20, 42, 90)",
+    "count": 16
+   },
+   {
+    "color": "rgb(0, 90, 238)",
+    "count": 5
+   },
+   {
+    "color": "rgb(11, 23, 48)",
+    "count": 4
+   },
+   {
+    "color": "rgb(33, 33, 33)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(237, 159, 16)",
+    "count": 6
+   },
+   {
+    "color": "rgb(248, 248, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(11, 23, 48)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(24, 99, 220)",
+    "radius": "2px",
+    "padding": "8px 27px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(24, 99, 220)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "8px 27px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(24, 99, 220)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "8px 27px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(248, 248, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(248, 248, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 9
+   },
+   {
+    "radius": "4px",
+    "count": 8
+   },
+   {
+    "radius": "9999px",
+    "count": 6
+   },
+   {
+    "radius": "12px",
+    "count": 5
+   },
+   {
+    "radius": "24px",
+    "count": 4
+   },
+   {
+    "radius": "2px",
+    "count": 3
+   },
+   {
+    "radius": "32px",
+    "count": 3
+   },
+   {
+    "radius": "0px 0px 6px 6px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(172, 171, 171, 0.3) 0px -1px 10px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "64px",
+    "count": 3
+   },
+   {
+    "padding": "48px",
+    "count": 1
+   },
+   {
+    "padding": "16px",
+    "count": 1
+   },
+   {
+    "padding": "32px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 12
+   },
+   {
+    "maxWidth": "120px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4524,
+  "mediaCoverage": 0,
+  "linkCount": 105
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.4s",
+    "count": 9
+   },
+   {
+    "duration": "0.15s",
+    "count": 6
+   },
+   {
+    "duration": "0.3s",
+    "count": 5
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 2
+   },
+   {
+    "duration": "1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 12
+   },
+   {
+    "easing": "ease, ease",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

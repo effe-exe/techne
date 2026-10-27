@@ -1,0 +1,10 @@
+# Source books/PDFs are never committed: distilled notes go to skills/techne/references/books/
+books/*
+!books/README.md
+dist/
+.DS_Store
+__pycache__/
+*.pyc
+
+# Taste library screenshots: local visual reference only (size + copyright)
+skills/techne/library/.shots/

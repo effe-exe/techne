@@ -1,0 +1,325 @@
+{
+ "url": "https://supabase.com",
+ "capturedAt": "2026-10-27T08:20:20.682Z",
+ "viewport": "1440x900",
+ "title": "Supabase | The Postgres Development Platform",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 94
+   },
+   {
+    "family": "Source Code Pro",
+    "count": 44
+   },
+   {
+    "family": "Manrope",
+    "count": 29
+   }
+  ],
+  "h1": {
+   "family": "Manrope",
+   "size": 46,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Manrope",
+   "size": 16,
+   "weight": "600",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.38,
+   "measureCh": 7
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 16,
+   "weight": "450",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 14,
+   "weight": "500",
+   "lineHeight": 1.14,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 55
+  },
+  {
+   "px": 13,
+   "count": 44
+  },
+  {
+   "px": 12,
+   "count": 20
+  },
+  {
+   "px": 16,
+   "count": 17
+  },
+  {
+   "px": 15,
+   "count": 15
+  },
+  {
+   "px": 34,
+   "count": 8
+  },
+  {
+   "px": 22,
+   "count": 6
+  },
+  {
+   "px": 46,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "oklch(0.995 0 337.5)",
+  "textColors": [
+   {
+    "color": "oklch(0.1 0 337.5)",
+    "count": 52
+   },
+   {
+    "color": "oklch(0.52065 0 337.5)",
+    "count": 36
+   },
+   {
+    "color": "rgb(21, 89, 59)",
+    "count": 15
+   },
+   {
+    "color": "rgb(82, 82, 82)",
+    "count": 11
+   },
+   {
+    "color": "rgb(107, 53, 220)",
+    "count": 10
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 10
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "oklch(0.995 0 337.5)",
+    "count": 64
+   },
+   {
+    "color": "oklch(1 0 337.5)",
+    "count": 35
+   },
+   {
+    "color": "oklab(0.52065 0 0 / 0.1)",
+    "count": 19
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 16
+   },
+   {
+    "color": "oklch(0.52065 0 337.5)",
+    "count": 6
+   },
+   {
+    "color": "rgb(63, 207, 142)",
+    "count": 3
+   },
+   {
+    "color": "oklch(0.1 0 337.5 / 0.0812725)",
+    "count": 3
+   },
+   {
+    "color": "oklab(0.1 0 0 / 0.0187709)",
+    "count": 3
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "oklch(0.1 0 337.5)",
+    "radius": "8.86154px",
+    "padding": "8px 10px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "oklch(0.1 0 337.5)",
+    "radius": "8.86154px",
+    "padding": "8px 10px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "oklch(0.1 0 337.5)",
+    "radius": "8.86154px",
+    "padding": "8px 10px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": "oklch(0.525 0.12 157.5)",
+    "color": "oklch(0.99 0.00275 157.5)",
+    "radius": "8px",
+    "padding": "4px 10px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": "oklch(0.525 0.12 157.5)",
+    "color": "oklch(0.99 0.00275 157.5)",
+    "radius": "9.29231px",
+    "padding": "8px 16px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "10.6667px",
+    "count": 68
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 61
+   },
+   {
+    "radius": "5.33333px",
+    "count": 27
+   },
+   {
+    "radius": "21.3333px",
+    "count": 16
+   },
+   {
+    "radius": "16px",
+    "count": 14
+   },
+   {
+    "radius": "8px",
+    "count": 13
+   },
+   {
+    "radius": "15px",
+    "count": 7
+   },
+   {
+    "radius": "8.86154px",
+    "count": 4
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(255, 255, 255, 0.12) 0px 0px 0px 1px inset",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.999994 0.0000455678 0.0000200868 / 0.3) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.04) 0px 1px 3px 0px, rgba(0, 0, 0, 0.027) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.04) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.04) 0px -1px 0px 0px inset, rgba(0, 0, 0, 0.067) 0px 0px 0px 1px inset",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 4
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 10
+   },
+   {
+    "maxWidth": "576px",
+    "count": 2
+   },
+   {
+    "maxWidth": "250px",
+    "count": 1
+   },
+   {
+    "maxWidth": "200px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7691,
+  "mediaCoverage": 0.16,
+  "linkCount": 119
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.4s",
+    "count": 373
+   },
+   {
+    "duration": "0.15s",
+    "count": 46
+   },
+   {
+    "duration": "0.2s",
+    "count": 14
+   },
+   {
+    "duration": "0.3s",
+    "count": 2
+   },
+   {
+    "duration": "0.75s",
+    "count": 1
+   },
+   {
+    "duration": "1s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 52
+   },
+   {
+    "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "count": 10
+   },
+   {
+    "easing": "ease-out",
+    "count": 2
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

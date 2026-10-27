@@ -1,0 +1,354 @@
+{
+ "url": "https://cursor.com",
+ "capturedAt": "2026-10-27T07:21:33.494Z",
+ "viewport": "1440x900",
+ "title": "AI Coding Agent for Building Ambitious Software | Cursor",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "system-ui",
+    "count": 124
+   },
+   {
+    "family": "CursorGothic",
+    "count": 56
+   },
+   {
+    "family": "berkeleyMono",
+    "count": 23
+   },
+   {
+    "family": "Lato",
+    "count": 13
+   },
+   {
+    "family": "-apple-system",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "CursorGothic",
+   "size": 26,
+   "weight": "400",
+   "lineHeight": 1.25,
+   "tracking": "-0.325px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "system-ui",
+   "size": 20,
+   "weight": "700",
+   "lineHeight": 1.55,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 13,
+   "lineHeight": 1.55,
+   "measureCh": 60
+  },
+  "nav": {
+   "family": "CursorGothic",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "CursorGothic",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "0.14px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 92
+  },
+  {
+   "px": 14,
+   "count": 31
+  },
+  {
+   "px": 16,
+   "count": 30
+  },
+  {
+   "px": 13,
+   "count": 29
+  },
+  {
+   "px": 11,
+   "count": 20
+  },
+  {
+   "px": 22,
+   "count": 8
+  },
+  {
+   "px": 10,
+   "count": 2
+  },
+  {
+   "px": 20,
+   "count": 2
+  },
+  {
+   "px": 19,
+   "count": 1
+  },
+  {
+   "px": 26,
+   "count": 1
+  },
+  {
+   "px": 36,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(247, 247, 244)",
+  "textColors": [
+   {
+    "color": "rgb(38, 37, 30)",
+    "count": 88
+   },
+   {
+    "color": "oklab(0.263084 -0.00230259 0.0124794 / 0.6)",
+    "count": 50
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.38)",
+    "count": 12
+   },
+   {
+    "color": "oklab(0.263084 -0.00230259 0.0124794 / 0.4)",
+    "count": 9
+   },
+   {
+    "color": "rgb(20, 20, 20)",
+    "count": 8
+   },
+   {
+    "color": "rgb(245, 78, 0)",
+    "count": 7
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(38, 37, 30)",
+    "count": 81
+   },
+   {
+    "color": "rgb(242, 241, 237)",
+    "count": 45
+   },
+   {
+    "color": "rgb(247, 247, 244)",
+    "count": 28
+   },
+   {
+    "color": "rgb(235, 234, 229)",
+    "count": 6
+   },
+   {
+    "color": "oklab(0.263084 -0.00230259 0.0124794 / 0.2)",
+    "count": 3
+   },
+   {
+    "color": "color(srgb 0.14902 0.145098 0.117647 / 0.03)",
+    "count": 2
+   },
+   {
+    "color": "rgb(217, 213, 207)",
+    "count": 1
+   },
+   {
+    "color": "rgb(182, 185, 190)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(38, 37, 30)",
+    "color": "rgb(247, 247, 244)",
+    "radius": "3.35544e+07px",
+    "padding": "5.6px 10.5px 5.88px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(38, 37, 30)",
+    "radius": "0px",
+    "padding": "5.6px 15px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(38, 37, 30)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(38, 37, 30)",
+    "radius": "0px",
+    "padding": "5.6px 15px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(38, 37, 30)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 132
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 74
+   },
+   {
+    "radius": "8px",
+    "count": 25
+   },
+   {
+    "radius": "10px",
+    "count": 16
+   },
+   {
+    "radius": "9999px",
+    "count": 7
+   },
+   {
+    "radius": "2px",
+    "count": 5
+   },
+   {
+    "radius": "1.5px",
+    "count": 5
+   },
+   {
+    "radius": "2px 0px 0px 2px",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.14) 0px 28px 70px 0px, rgba(0, 0, 0, 0.1) 0px 14px 32px 0px, oklab(0.263084 -0.00230259 0.0124794 / 0.1) 0px 0px 0px 1px",
+    "count": 6
+   },
+   {
+    "shadow": "rgb(252, 252, 252) 0px 0px 0px 2px",
+    "count": 3
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.3) 0px 22px 70px 4px, rgba(0, 0, 0, 0.15) 0px 0px 0px 0.5px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.25) 0px 25px 50px -12px, rgba(0, 0, 0, 0.15) 0px 12px 24px -8px, oklab(0.263084 -0.00230259 0.0124794 / 0.1) 0px 0px 0px 0.5px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "67.2px",
+    "count": 7
+   },
+   {
+    "padding": "112px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1300px",
+    "count": 10
+   },
+   {
+    "maxWidth": "658.321px",
+    "count": 7
+   },
+   {
+    "maxWidth": "580px",
+    "count": 7
+   },
+   {
+    "maxWidth": "320px",
+    "count": 2
+   },
+   {
+    "maxWidth": "672px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 8199,
+  "mediaCoverage": 0.34,
+  "linkCount": 100
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 58
+   },
+   {
+    "duration": "0.6s",
+    "count": 30
+   },
+   {
+    "duration": "0.2s",
+    "count": 13
+   },
+   {
+    "duration": "0.12s",
+    "count": 8
+   },
+   {
+    "duration": "0.14s",
+    "count": 6
+   },
+   {
+    "duration": "0.5s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 72
+   },
+   {
+    "easing": "cubic-bezier(0.25, 1, 0.5, 1)",
+    "count": 6
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

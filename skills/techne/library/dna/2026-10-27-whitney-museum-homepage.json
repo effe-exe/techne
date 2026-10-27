@@ -1,0 +1,216 @@
+{
+ "url": "https://whitney.org",
+ "capturedAt": "2026-10-27T07:48:02.387Z",
+ "viewport": "1440x900",
+ "title": "Whitney Museum of American Art",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "haas-grotesk-text",
+    "count": 31
+   },
+   {
+    "family": "haas-grotesk-sign",
+    "count": 17
+   }
+  ],
+  "h1": {
+   "family": "haas-grotesk-sign",
+   "size": 65,
+   "weight": "400",
+   "lineHeight": 0.85,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "haas-grotesk-sign",
+   "size": 35,
+   "weight": "400",
+   "lineHeight": 0.85,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 15,
+   "lineHeight": 1.4,
+   "measureCh": 54
+  },
+  "nav": {
+   "family": "haas-grotesk-sign",
+   "size": 0,
+   "weight": "400",
+   "lineHeight": null,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "haas-grotesk-text",
+   "size": 15,
+   "weight": "400",
+   "lineHeight": 0,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 15,
+   "count": 27
+  },
+  {
+   "px": 35,
+   "count": 16
+  },
+  {
+   "px": 20,
+   "count": 4
+  },
+  {
+   "px": 65,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 42
+   },
+   {
+    "color": "rgb(148, 148, 148)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(102, 102, 102)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgba(255, 255, 255, 0)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "2px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "16px 16px 16px 0px",
+    "size": 35,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "16px",
+    "size": 35,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "16px",
+    "size": 35,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "6px",
+    "count": 1
+   },
+   {
+    "radius": "2px",
+    "count": 1
+   },
+   {
+    "radius": "50%",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1200px",
+    "count": 16
+   },
+   {
+    "maxWidth": "800px",
+    "count": 13
+   },
+   {
+    "maxWidth": "1696px",
+    "count": 4
+   },
+   {
+    "maxWidth": "1602px",
+    "count": 1
+   },
+   {
+    "maxWidth": "640px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 5326,
+  "mediaCoverage": 0.3,
+  "linkCount": 105
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s, 0.1s, 0.1s, 0.1s, 0.1s, 0.1s",
+    "count": 132
+   },
+   {
+    "duration": "0.2s",
+    "count": 4
+   },
+   {
+    "duration": "0.1s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out, ease-out, ease-out, ease-out, ease-out, ease-out",
+    "count": 132
+   },
+   {
+    "easing": "ease-out",
+    "count": 6
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

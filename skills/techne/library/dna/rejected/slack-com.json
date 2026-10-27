@@ -1,0 +1,346 @@
+{
+ "url": "https://slack.com",
+ "capturedAt": "2026-10-27T08:59:16.041Z",
+ "viewport": "1440x900",
+ "title": "Slack | AI Work Platform & Productivity Tools",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "Salesforce-Sans",
+    "count": 71
+   },
+   {
+    "family": "Salesforce-Avant-Garde",
+    "count": 21
+   }
+  ],
+  "h1": {
+   "family": "Salesforce-Avant-Garde",
+   "size": 64,
+   "weight": "700",
+   "lineHeight": 1.06,
+   "tracking": "-0.768px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Salesforce-Avant-Garde",
+   "size": 50,
+   "weight": "600",
+   "lineHeight": 1.12,
+   "tracking": "-0.6px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.55,
+   "measureCh": 59
+  },
+  "nav": {
+   "family": "Salesforce-Sans",
+   "size": 0,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Salesforce-Sans",
+   "size": 14,
+   "weight": "700",
+   "lineHeight": 1.29,
+   "tracking": "0.798px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 31
+  },
+  {
+   "px": 14,
+   "count": 23
+  },
+  {
+   "px": 24,
+   "count": 13
+  },
+  {
+   "px": 12,
+   "count": 12
+  },
+  {
+   "px": 32,
+   "count": 5
+  },
+  {
+   "px": 15,
+   "count": 4
+  },
+  {
+   "px": 50,
+   "count": 2
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 64,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 26
+   },
+   {
+    "color": "rgb(115, 3, 148)",
+    "count": 15
+   },
+   {
+    "color": "rgb(0, 0, 238)",
+    "count": 12
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 10
+   },
+   {
+    "color": "rgb(11, 92, 171)",
+    "count": 10
+   },
+   {
+    "color": "rgb(29, 29, 29)",
+    "count": 5
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(249, 237, 255)",
+    "count": 12
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(72, 26, 84)",
+    "count": 4
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.5)",
+    "count": 3
+   },
+   {
+    "color": "rgb(46, 0, 57)",
+    "count": 1
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.5)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(115, 3, 148)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "4px",
+    "padding": "19px 40px 20px",
+    "size": 14,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "4px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "16px",
+    "count": 33
+   },
+   {
+    "radius": "4px",
+    "count": 21
+   },
+   {
+    "radius": "999px",
+    "count": 13
+   },
+   {
+    "radius": "16px 16px 0px 0px",
+    "count": 8
+   },
+   {
+    "radius": "32px",
+    "count": 6
+   },
+   {
+    "radius": "48px",
+    "count": 5
+   },
+   {
+    "radius": "50%",
+    "count": 3
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(255, 255, 255, 0.25) 0px 0px 0px 1px inset",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 0px 16px 0px",
+    "count": 4
+   },
+   {
+    "shadow": "rgb(115, 3, 148) 0px 0px 0px 1px inset",
+    "count": 3
+   },
+   {
+    "shadow": "rgba(24, 24, 24, 0.1) 0px 0px 32px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "80px",
+    "count": 3
+   },
+   {
+    "padding": "104px",
+    "count": 1
+   },
+   {
+    "padding": "72px",
+    "count": 1
+   },
+   {
+    "padding": "42px",
+    "count": 1
+   },
+   {
+    "padding": "8px",
+    "count": 1
+   },
+   {
+    "padding": "48px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1230px",
+    "count": 21
+   },
+   {
+    "maxWidth": "400px",
+    "count": 8
+   },
+   {
+    "maxWidth": "285px",
+    "count": 4
+   },
+   {
+    "maxWidth": "180px",
+    "count": 3
+   },
+   {
+    "maxWidth": "848px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 10756,
+  "mediaCoverage": 0.19,
+  "linkCount": 268
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.42s, 0.42s, 0.42s",
+    "count": 9
+   },
+   {
+    "duration": "0.2s",
+    "count": 9
+   },
+   {
+    "duration": "0.42s",
+    "count": 5
+   },
+   {
+    "duration": "4s",
+    "count": 4
+   },
+   {
+    "duration": "0.65s",
+    "count": 4
+   },
+   {
+    "duration": "0.5s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.165, 0.84, 0.44, 1)",
+    "count": 14
+   },
+   {
+    "easing": "cubic-bezier(0.165, 0.84, 0.44, 1), cubic-bezier(0.165, 0.84, 0.44, 1), cubic-bezier(0.165, 0.84, 0.44, 1)",
+    "count": 9
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 4
+   },
+   {
+    "easing": "linear",
+    "count": 3
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

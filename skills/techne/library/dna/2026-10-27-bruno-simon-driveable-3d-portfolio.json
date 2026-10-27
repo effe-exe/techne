@@ -1,0 +1,73 @@
+{
+ "url": "https://bruno-simon.com",
+ "capturedAt": "2026-10-27T07:33:27.517Z",
+ "viewport": "1440x900",
+ "title": "Bruno's",
+ "lang": "en",
+ "fonts": {
+  "families": [],
+  "h1": null,
+  "h2": null,
+  "body": null,
+  "nav": null,
+  "button": {
+   "family": "Nunito",
+   "size": 20,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 20,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 20,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 900,
+  "mediaCoverage": 1,
+  "linkCount": 19
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 2
+   }
+  ],
+  "easings": [],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

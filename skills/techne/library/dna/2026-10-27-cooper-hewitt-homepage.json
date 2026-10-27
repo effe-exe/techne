@@ -1,0 +1,149 @@
+{
+ "url": "https://www.cooperhewitt.org",
+ "capturedAt": "2026-10-27T07:46:38.974Z",
+ "viewport": "1440x900",
+ "title": "Cooper Hewitt, Smithsonian Design Museum | 2 East 91st St New York NY 10128",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "CooperHewittDisplay",
+    "count": 30
+   },
+   {
+    "family": "CooperHewitt",
+    "count": 3
+   }
+  ],
+  "h1": {
+   "family": "CooperHewittDisplay",
+   "size": 40,
+   "weight": "500",
+   "lineHeight": 1.35,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "h2": null,
+  "body": {
+   "size": 18,
+   "lineHeight": 1.3,
+   "measureCh": 36
+  },
+  "nav": {
+   "family": "CooperHewitt",
+   "size": 18,
+   "weight": "400",
+   "lineHeight": 1.11,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 12
+  },
+  {
+   "px": 20,
+   "count": 10
+  },
+  {
+   "px": 16,
+   "count": 4
+  },
+  {
+   "px": 40,
+   "count": 3
+  },
+  {
+   "px": 18,
+   "count": 2
+  },
+  {
+   "px": 42,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 25
+   },
+   {
+    "color": "rgb(255, 87, 0)",
+    "count": 4
+   },
+   {
+    "color": "rgb(51, 51, 51)",
+    "count": 2
+   },
+   {
+    "color": "rgb(121, 123, 121)",
+    "count": 1
+   },
+   {
+    "color": "rgb(131, 131, 131)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(255, 255, 255) 5px 0px 0px 0px, rgb(255, 255, 255) -5px 0px 0px 0px",
+    "count": 5
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 2021,
+  "mediaCoverage": 0.93,
+  "linkCount": 126
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 28
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 10
+   },
+   {
+    "duration": "0.8s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 28
+   },
+   {
+    "easing": "ease-in-out, ease-in-out",
+    "count": 10
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,298 @@
+{
+ "url": "https://www.theverge.com",
+ "capturedAt": "2026-10-27T07:47:07.092Z",
+ "viewport": "1440x900",
+ "title": "The Verge",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "polySans",
+    "count": 139
+   },
+   {
+    "family": "fkRomanStandard",
+    "count": 43
+   },
+   {
+    "family": "polySansMono",
+    "count": 11
+   },
+   {
+    "family": "manuka",
+    "count": 1
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "polySans",
+   "size": 24,
+   "weight": "700",
+   "lineHeight": 1.1,
+   "tracking": "0.24px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 24,
+   "lineHeight": 1.2,
+   "measureCh": 40
+  },
+  "nav": {
+   "family": "ui-sans-serif",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "polySansMono",
+   "size": 11,
+   "weight": "500",
+   "lineHeight": 1.2,
+   "tracking": "1.1px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 11,
+   "count": 84
+  },
+  {
+   "px": 16,
+   "count": 38
+  },
+  {
+   "px": 18,
+   "count": 19
+  },
+  {
+   "px": 20,
+   "count": 18
+  },
+  {
+   "px": 24,
+   "count": 11
+  },
+  {
+   "px": 19,
+   "count": 6
+  },
+  {
+   "px": 12,
+   "count": 4
+  },
+  {
+   "px": 15,
+   "count": 4
+  },
+  {
+   "px": 26,
+   "count": 4
+  },
+  {
+   "px": 14,
+   "count": 3
+  },
+  {
+   "px": 31,
+   "count": 2
+  },
+  {
+   "px": 90,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(19, 19, 19)",
+    "count": 76
+   },
+   {
+    "color": "rgb(82, 0, 255)",
+    "count": 48
+   },
+   {
+    "color": "rgb(99, 99, 99)",
+    "count": 34
+   },
+   {
+    "color": "rgb(74, 74, 74)",
+    "count": 32
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(238, 230, 255)",
+    "count": 10
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgba(60, 255, 208, 0.8)",
+    "count": 3
+   },
+   {
+    "color": "rgb(233, 233, 233)",
+    "count": 3
+   },
+   {
+    "color": "rgba(82, 0, 255, 0.85)",
+    "count": 2
+   },
+   {
+    "color": "rgb(246, 246, 246)",
+    "count": 1
+   },
+   {
+    "color": "color(srgb 1 1 1 / 0.55)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(82, 0, 255)",
+    "radius": "1px",
+    "padding": "0px 20px",
+    "size": 11,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(19, 19, 19)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(19, 19, 19)",
+    "radius": "0px",
+    "padding": "14px 0px 14px 14px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(19, 19, 19)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(82, 0, 255)",
+    "color": "rgb(214, 243, 31)",
+    "radius": "999px",
+    "padding": "11px 16px",
+    "size": 12,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3px",
+    "count": 25
+   },
+   {
+    "radius": "2px",
+    "count": 14
+   },
+   {
+    "radius": "50%",
+    "count": 12
+   },
+   {
+    "radius": "24px",
+    "count": 3
+   },
+   {
+    "radius": "999px",
+    "count": 2
+   },
+   {
+    "radius": "1px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px -1px 0px 0px inset",
+    "count": 41
+   },
+   {
+    "shadow": "rgb(82, 0, 255) 0px -1px 0px 0px inset",
+    "count": 27
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px inset",
+    "count": 2
+   },
+   {
+    "shadow": "rgb(255, 255, 255) 0px 3px 0px 20px, rgba(0, 0, 0, 0.3) 0px -25px 40px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "8px",
+    "count": 12
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "380px",
+    "count": 4
+   },
+   {
+    "maxWidth": "680px",
+    "count": 2
+   },
+   {
+    "maxWidth": "46px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1100px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1300px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 22958,
+  "mediaCoverage": 0.2,
+  "linkCount": 491
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 12
+   }
+  ],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

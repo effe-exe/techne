@@ -1,0 +1,237 @@
+{
+ "url": "https://pudding.cool",
+ "capturedAt": "2026-10-27T07:46:09.208Z",
+ "viewport": "1440x900",
+ "title": "The Pudding",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Atlas Typewriter",
+    "count": 65
+   },
+   {
+    "family": "Atlas Grotesk",
+    "count": 44
+   },
+   {
+    "family": "Gooper SemiCondensed",
+    "count": 4
+   }
+  ],
+  "h1": null,
+  "h2": null,
+  "body": {
+   "size": 14,
+   "lineHeight": 1.32,
+   "measureCh": 43
+  },
+  "nav": null,
+  "button": {
+   "family": "Atlas Typewriter",
+   "size": 12.8,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 54
+  },
+  {
+   "px": 16,
+   "count": 46
+  },
+  {
+   "px": 12.8,
+   "count": 10
+  },
+  {
+   "px": 24,
+   "count": 3
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(38, 38, 38)",
+    "count": 79
+   },
+   {
+    "color": "rgb(109, 109, 109)",
+    "count": 28
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(223, 32, 223)",
+    "count": 1
+   },
+   {
+    "color": "rgb(154, 76, 173)",
+    "count": 1
+   },
+   {
+    "color": "rgb(251, 205, 81)",
+    "count": 1
+   },
+   {
+    "color": "rgb(246, 147, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(230, 143, 51)",
+    "count": 1
+   },
+   {
+    "color": "rgb(240, 228, 168)",
+    "count": 1
+   },
+   {
+    "color": "rgb(76, 130, 184)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "0px",
+    "size": 12.8,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "0px",
+    "size": 12.8,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "0px",
+    "size": 12.8,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "0px",
+    "size": 12.8,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "0px",
+    "size": 12.8,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "28px",
+    "count": 27
+   },
+   {
+    "radius": "2px",
+    "count": 9
+   },
+   {
+    "radius": "6px",
+    "count": 3
+   },
+   {
+    "radius": "3px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.3) 0px 2px 1px 0px",
+    "count": 3
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "32px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1280px",
+    "count": 3
+   },
+   {
+    "maxWidth": "300px",
+    "count": 2
+   },
+   {
+    "maxWidth": "150px",
+    "count": 2
+   },
+   {
+    "maxWidth": "256px",
+    "count": 1
+   },
+   {
+    "maxWidth": "260px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 6764,
+  "mediaCoverage": 0.28,
+  "linkCount": 67
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s, 0.25s",
+    "count": 75
+   },
+   {
+    "duration": "0.1s",
+    "count": 6
+   },
+   {
+    "duration": "0.25s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 75
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

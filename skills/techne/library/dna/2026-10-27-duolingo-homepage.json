@@ -1,0 +1,241 @@
+{
+ "url": "https://www.duolingo.com",
+ "capturedAt": "2026-10-27T07:55:12.693Z",
+ "viewport": "1440x900",
+ "title": "Duolingo - The world’s most popular way to learn",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "duolingo-sans",
+    "count": 123
+   },
+   {
+    "family": "feather",
+    "count": 7
+   }
+  ],
+  "h1": {
+   "family": "duolingo-sans",
+   "size": 32,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "feather",
+   "size": 48,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 17,
+   "lineHeight": 1.41,
+   "measureCh": 56
+  },
+  "nav": {
+   "family": "duolingo-sans",
+   "size": 17,
+   "weight": "400",
+   "lineHeight": 1.18,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "duolingo-sans",
+   "size": 15,
+   "weight": "700",
+   "lineHeight": 1.15,
+   "tracking": "0.8px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 15,
+   "count": 83
+  },
+  {
+   "px": 13,
+   "count": 32
+  },
+  {
+   "px": 17,
+   "count": 5
+  },
+  {
+   "px": 48,
+   "count": 5
+  },
+  {
+   "px": 14,
+   "count": 2
+  },
+  {
+   "px": 64,
+   "count": 2
+  },
+  {
+   "px": 32,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(165, 237, 110)",
+    "count": 67
+   },
+   {
+    "color": "rgb(119, 119, 119)",
+    "count": 46
+   },
+   {
+    "color": "rgb(88, 204, 2)",
+    "count": 6
+   },
+   {
+    "color": "rgb(75, 75, 75)",
+    "count": 3
+   },
+   {
+    "color": "rgb(28, 176, 246)",
+    "count": 3
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(88, 204, 2)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(221, 244, 255)",
+    "count": 1
+   },
+   {
+    "color": "rgb(16, 15, 62)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.4)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.3)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(175, 175, 175)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(28, 176, 246)",
+    "radius": "12px",
+    "padding": "0px 16px",
+    "size": 15,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 4, 55)",
+    "radius": "12px",
+    "padding": "0px 16px",
+    "size": 15,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "12px",
+    "count": 7
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "96px",
+    "count": 2
+   },
+   {
+    "padding": "70px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "503px",
+    "count": 5
+   },
+   {
+    "maxWidth": "473px",
+    "count": 5
+   },
+   {
+    "maxWidth": "330px",
+    "count": 3
+   },
+   {
+    "maxWidth": "988px",
+    "count": 2
+   },
+   {
+    "maxWidth": "583px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 7803,
+  "mediaCoverage": 0.82,
+  "linkCount": 116
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s, 0.4s",
+    "count": 1
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   },
+   {
+    "duration": "0.5s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, cubic-bezier(0.22, 1, 0.36, 1)",
+    "count": 1
+   },
+   {
+    "easing": "ease-in-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

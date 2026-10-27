@@ -1,0 +1,254 @@
+{
+ "url": "https://copilot.money",
+ "capturedAt": "2026-10-27T07:16:02.300Z",
+ "viewport": "1440x900",
+ "title": "Your money, beautifully organized | Copilot Money – Personal Finance App for Web, iPhone, Mac and iPad",
+ "lang": "",
+ "fonts": {
+  "families": [
+   {
+    "family": "Matter Variable Thin",
+    "count": 196
+   },
+   {
+    "family": "Jokker Medium",
+    "count": 70
+   },
+   {
+    "family": "Jokker Semibold",
+    "count": 15
+   },
+   {
+    "family": "Matter-TRIAL SemiBold",
+    "count": 14
+   },
+   {
+    "family": "Jokker Regular",
+    "count": 3
+   }
+  ],
+  "h1": {
+   "family": "Jokker Semibold",
+   "size": 148,
+   "weight": "600",
+   "lineHeight": 0.9,
+   "tracking": "-2.96px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Jokker Medium",
+   "size": 64,
+   "weight": "500",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.2,
+   "measureCh": 27
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 15,
+   "count": 86
+  },
+  {
+   "px": 16,
+   "count": 67
+  },
+  {
+   "px": 13,
+   "count": 34
+  },
+  {
+   "px": 18,
+   "count": 22
+  },
+  {
+   "px": 64,
+   "count": 20
+  },
+  {
+   "px": 14,
+   "count": 19
+  },
+  {
+   "px": 28,
+   "count": 14
+  },
+  {
+   "px": 24,
+   "count": 11
+  },
+  {
+   "px": 11,
+   "count": 10
+  },
+  {
+   "px": 12,
+   "count": 9
+  },
+  {
+   "px": 22,
+   "count": 2
+  },
+  {
+   "px": 56,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 8, 20)",
+  "textColors": [
+   {
+    "color": "rgba(255, 255, 255, 0.9)",
+    "count": 106
+   },
+   {
+    "color": "rgb(89, 124, 170)",
+    "count": 56
+   },
+   {
+    "color": "rgb(17, 38, 59)",
+    "count": 28
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 24
+   },
+   {
+    "color": "rgba(94, 133, 186, 0.7)",
+    "count": 20
+   },
+   {
+    "color": "rgb(127, 139, 164)",
+    "count": 15
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 204, 75)",
+    "count": 14
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(255, 68, 51)",
+    "count": 6
+   },
+   {
+    "color": "rgb(28, 108, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(225, 179, 33)",
+    "count": 4
+   },
+   {
+    "color": "rgb(148, 174, 67)",
+    "count": 4
+   },
+   {
+    "color": "rgb(0, 172, 254)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 204, 2)",
+    "count": 4
+   }
+  ],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "24px",
+    "count": 55
+   },
+   {
+    "radius": "20px",
+    "count": 35
+   },
+   {
+    "radius": "100%",
+    "count": 24
+   },
+   {
+    "radius": "16px",
+    "count": 21
+   },
+   {
+    "radius": "12px",
+    "count": 15
+   },
+   {
+    "radius": "40px",
+    "count": 13
+   },
+   {
+    "radius": "16px 16px 4px 4px",
+    "count": 7
+   },
+   {
+    "radius": "120px",
+    "count": 6
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.07) 0px 0.362176px 0.651917px -1.5px, rgba(0, 0, 0, 0.05) 0px 3px 5.4px -3px",
+    "count": 8
+   },
+   {
+    "shadow": "rgba(255, 255, 255, 0.16) 0px 24px 64px -12px inset, rgba(0, 0, 0, 0.16) 0px -24px 40px -12px inset, rgba(255, 255, 255, 0.16) 0px 0.636953px 1.14652px -0.5px inset, rgba(255, 255, 255, 0.17) 0px 1.9316px 3.47689px -1px inset, rgba(255, 255, 255, 0.19) 0px 5.10612px 9.19102px -1.5px inset, rgba(255, 255, 255, 0.24) 0px 16px 28.8px -2px inset",
+    "count": 7
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.03) 0px 0.482901px 1.25554px -1px, rgba(0, 0, 0, 0.04) 0px 4px 10.4px -2px",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(255, 255, 255, 0.16) 4px 4px 16px -4px inset, rgba(0, 0, 0, 0.2) -4px -4px 16px -4px inset, rgba(255, 255, 255, 0.08) 4px 4px 8px 0px inset, rgba(255, 255, 255, 0.4) 1px 1px 1px -0.5px inset",
+    "count": 2
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1200px",
+    "count": 8
+   },
+   {
+    "maxWidth": "1266px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 8777,
+  "mediaCoverage": 0.16,
+  "linkCount": 34
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.4s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+    "count": 4
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

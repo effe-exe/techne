@@ -1,0 +1,318 @@
+{
+ "url": "https://www.rhodeskin.com",
+ "capturedAt": "2026-10-27T07:58:03.212Z",
+ "viewport": "1440x900",
+ "title": "rhode skin by hailey rhode bieber",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Swiss",
+    "count": 201
+   },
+   {
+    "family": "Rektorat Heavy",
+    "count": 49
+   }
+  ],
+  "h1": {
+   "family": "Swiss",
+   "size": 176,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Rektorat Heavy",
+   "size": 57.6,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "-2.304px",
+   "transform": "lowercase"
+  },
+  "body": {
+   "size": 12,
+   "lineHeight": 1.17,
+   "measureCh": 43
+  },
+  "nav": {
+   "family": "Swiss",
+   "size": 16.2,
+   "weight": "700",
+   "lineHeight": 1.5,
+   "tracking": "0.324px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Swiss",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.13,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 64
+  },
+  {
+   "px": 18,
+   "count": 60
+  },
+  {
+   "px": 16.2,
+   "count": 50
+  },
+  {
+   "px": 57.6,
+   "count": 21
+  },
+  {
+   "px": 10,
+   "count": 16
+  },
+  {
+   "px": 11,
+   "count": 12
+  },
+  {
+   "px": 16.9,
+   "count": 7
+  },
+  {
+   "px": 12,
+   "count": 3
+  },
+  {
+   "px": 36,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(103, 100, 94)",
+    "count": 186
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 42
+   },
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "count": 16
+   },
+   {
+    "color": "rgb(172, 170, 165)",
+    "count": 5
+   },
+   {
+    "color": "rgb(109, 110, 112)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(241, 240, 237)",
+    "count": 10
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(103, 100, 94)",
+    "count": 2
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.5)",
+    "count": 2
+   },
+   {
+    "color": "rgb(245, 245, 245)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgb(196, 196, 196)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(235, 235, 240)",
+    "color": "rgb(54, 54, 56)",
+    "radius": "90px",
+    "padding": "7px 32px 7px 0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16.2,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16.2,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(109, 110, 112)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16.2,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(172, 170, 165)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16.2,
+    "weight": "700"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "40px",
+    "count": 145
+   },
+   {
+    "radius": "12px",
+    "count": 46
+   },
+   {
+    "radius": "8px",
+    "count": 32
+   },
+   {
+    "radius": "10px",
+    "count": 29
+   },
+   {
+    "radius": "90px",
+    "count": 2
+   },
+   {
+    "radius": "50%",
+    "count": 2
+   },
+   {
+    "radius": "4px 0px 0px 4px",
+    "count": 1
+   },
+   {
+    "radius": "12px 12px 0px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(103, 100, 94) 0px 0px 0px 1px inset",
+    "count": 30
+   },
+   {
+    "shadow": "rgb(255, 255, 255) 0px 0px 0px 1px inset",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.24) 0px 1px 2px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "32.4px",
+    "count": 1
+   },
+   {
+    "padding": "42px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1024px",
+    "count": 6
+   },
+   {
+    "maxWidth": "88.375px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1281.6px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 6116,
+  "mediaCoverage": 1.62,
+  "linkCount": 244
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.7s",
+    "count": 87
+   },
+   {
+    "duration": "0.3s",
+    "count": 70
+   },
+   {
+    "duration": "0.5s",
+    "count": 1
+   },
+   {
+    "duration": "0.35s",
+    "count": 1
+   },
+   {
+    "duration": "0.5s, 0s",
+    "count": 1
+   },
+   {
+    "duration": "0.3s, 0.3s, 0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.76, 0, 0.24, 1)",
+    "count": 87
+   },
+   {
+    "easing": "ease-out",
+    "count": 64
+   },
+   {
+    "easing": "cubic-bezier(0.19, 1, 0.22, 1)",
+    "count": 1
+   },
+   {
+    "easing": "ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

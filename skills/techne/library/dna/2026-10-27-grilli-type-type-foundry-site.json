@@ -1,0 +1,152 @@
+{
+ "url": "https://www.grillitype.com",
+ "capturedAt": "2026-10-27T08:20:55.213Z",
+ "viewport": "1440x900",
+ "title": "Welcome to Grilli Type – Independent Swiss Type Foundry",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "GT-Corporate-Web",
+    "count": 56
+   },
+   {
+    "family": "GT-Mechanik-Semi-Regular",
+    "count": 1
+   },
+   {
+    "family": "GT-Canon-L-Standard-Medium",
+    "count": 1
+   },
+   {
+    "family": "GT-Era-Display-Regular",
+    "count": 1
+   },
+   {
+    "family": "GT-Standard-L-Standard-Regular",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "GT-Corporate-Web",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.75,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "GT-Corporate-Web",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.38,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.38,
+   "measureCh": 25
+  },
+  "nav": {
+   "family": "GT-Corporate-Web",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.75,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "GT-Corporate-Web",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 55
+  },
+  {
+   "px": 47.8,
+   "count": 21
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(140, 140, 140)",
+    "count": 49
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 27
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(249, 249, 249)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(140, 140, 140)",
+    "radius": "5px",
+    "padding": "1px 20px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "5px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "25px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [],
+  "pageHeightPx": 5720,
+  "mediaCoverage": 0.38,
+  "linkCount": 77
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s",
+    "count": 76
+   },
+   {
+    "duration": "0.3s, 0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out",
+    "count": 76
+   },
+   {
+    "easing": "ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

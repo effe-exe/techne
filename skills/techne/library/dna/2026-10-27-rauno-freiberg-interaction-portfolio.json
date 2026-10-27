@@ -1,0 +1,133 @@
+{
+ "url": "https://rauno.me",
+ "capturedAt": "2026-10-27T07:46:30.601Z",
+ "viewport": "1440x900",
+ "title": "Rauno Freiberg",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "X",
+    "count": 15
+   }
+  ],
+  "h1": {
+   "family": "X",
+   "size": 32,
+   "weight": "500",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": null,
+  "body": {
+   "size": 85,
+   "lineHeight": "normal",
+   "measureCh": 4
+  },
+  "nav": null,
+  "button": {
+   "family": "X",
+   "size": 13.3,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 85,
+   "count": 12
+  },
+  {
+   "px": 720,
+   "count": 3
+  }
+ ],
+ "color": {
+  "background": "rgb(237, 237, 237)",
+  "textColors": [
+   {
+    "color": "rgb(23, 23, 23)",
+    "count": 12
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 3
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(143, 143, 143)",
+    "count": 20
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgb(255, 255, 2)",
+    "count": 3
+   },
+   {
+    "color": "color(display-p3 0.99 0.4 0.02)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(23, 23, 23)",
+    "radius": "12px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "12px",
+    "count": 5
+   },
+   {
+    "radius": "9999px",
+    "count": 2
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 6108,
+  "mediaCoverage": 0.02,
+  "linkCount": 12
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 20
+   },
+   {
+    "duration": "0.2s, 0.2s, 0.2s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 20
+   },
+   {
+    "easing": "ease-in-out, ease-in-out, ease-in-out",
+    "count": 4
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

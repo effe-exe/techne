@@ -1,0 +1,322 @@
+{
+ "url": "https://motion.dev",
+ "capturedAt": "2026-10-27T08:27:53.342Z",
+ "viewport": "1440x900",
+ "title": "Motion (prev Framer Motion): JavaScript & React animation library",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Geist Mono",
+    "count": 94
+   },
+   {
+    "family": "TASA Orbiter",
+    "count": 71
+   },
+   {
+    "family": "-apple-system",
+    "count": 3
+   }
+  ],
+  "h1": {
+   "family": "TASA Orbiter",
+   "size": 34.6,
+   "weight": "700",
+   "lineHeight": 1.08,
+   "tracking": "-1.2096px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "TASA Orbiter",
+   "size": 40,
+   "weight": "700",
+   "lineHeight": 1.1,
+   "tracking": "-1.4px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 12,
+   "lineHeight": 1.6,
+   "measureCh": 31
+  },
+  "nav": {
+   "family": "TASA Orbiter",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Geist Mono",
+   "size": 11,
+   "weight": "400",
+   "lineHeight": 1.55,
+   "tracking": "0.88px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 11,
+   "count": 50
+  },
+  {
+   "px": 12,
+   "count": 46
+  },
+  {
+   "px": 15,
+   "count": 25
+  },
+  {
+   "px": 20,
+   "count": 15
+  },
+  {
+   "px": 16,
+   "count": 11
+  },
+  {
+   "px": 40,
+   "count": 9
+  },
+  {
+   "px": 10,
+   "count": 4
+  },
+  {
+   "px": 30,
+   "count": 4
+  },
+  {
+   "px": 13,
+   "count": 3
+  },
+  {
+   "px": 34.6,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(14, 19, 18)",
+  "textColors": [
+   {
+    "color": "oklch(0.94 0.008 96)",
+    "count": 58
+   },
+   {
+    "color": "oklch(0.69 0.012 148)",
+    "count": 51
+   },
+   {
+    "color": "rgb(8, 8, 8)",
+    "count": 15
+   },
+   {
+    "color": "rgb(96, 165, 250)",
+    "count": 10
+   },
+   {
+    "color": "rgb(244, 63, 94)",
+    "count": 9
+   },
+   {
+    "color": "rgb(255, 158, 100)",
+    "count": 6
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(8, 8, 8)",
+    "count": 19
+   },
+   {
+    "color": "rgb(20, 18, 20)",
+    "count": 15
+   },
+   {
+    "color": "color(srgb 0.203922 0.188235 0.203922 / 0.5)",
+    "count": 2
+   },
+   {
+    "color": "oklch(0.145 0.01 148)",
+    "count": 2
+   },
+   {
+    "color": "color(srgb 0.0744136 0.0881862 0.0743742)",
+    "count": 2
+   },
+   {
+    "color": "rgb(14, 19, 18)",
+    "count": 1
+   },
+   {
+    "color": "rgb(52, 48, 52)",
+    "count": 1
+   },
+   {
+    "color": "oklch(0.88 0.18 96)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(20, 18, 20)",
+    "color": "oklch(0.69 0.012 148)",
+    "radius": "0px",
+    "padding": "8px 10px",
+    "size": 11,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(8, 8, 8)",
+    "radius": "0px",
+    "padding": "5px 9px",
+    "size": 11,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "oklch(0.69 0.012 148)",
+    "radius": "0px",
+    "padding": "5px 9px",
+    "size": 11,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "oklch(0.69 0.012 148)",
+    "radius": "0px",
+    "padding": "5px 9px",
+    "size": 11,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(8, 8, 8)",
+    "color": "oklch(0.94 0.008 96)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50%",
+    "count": 10
+   },
+   {
+    "radius": "3px",
+    "count": 3
+   },
+   {
+    "radius": "6px",
+    "count": 2
+   },
+   {
+    "radius": "4px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 1px 0px 0px, rgba(0, 0, 0, 0.6) 0px 18px 40px -16px",
+    "count": 3
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "12px",
+    "count": 3
+   },
+   {
+    "padding": "10px",
+    "count": 2
+   },
+   {
+    "padding": "56px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "540px",
+    "count": 7
+   },
+   {
+    "maxWidth": "472.504px",
+    "count": 5
+   },
+   {
+    "maxWidth": "378.003px",
+    "count": 4
+   },
+   {
+    "maxWidth": "455.039px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1260px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 13649,
+  "mediaCoverage": 0.15,
+  "linkCount": 114
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 95
+   },
+   {
+    "duration": "0.15s",
+    "count": 42
+   },
+   {
+    "duration": "0.4s",
+    "count": 12
+   },
+   {
+    "duration": "0.16s",
+    "count": 11
+   },
+   {
+    "duration": "0.14s",
+    "count": 7
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 6
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.25, 1, 0.5, 1)",
+    "count": 21
+   },
+   {
+    "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "count": 12
+   },
+   {
+    "easing": "ease, ease",
+    "count": 8
+   },
+   {
+    "easing": "cubic-bezier(0.25, 0, 0, 1)",
+    "count": 7
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

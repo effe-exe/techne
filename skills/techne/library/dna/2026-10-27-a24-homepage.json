@@ -1,0 +1,278 @@
+{
+ "url": "https://a24films.com",
+ "capturedAt": "2026-10-27T07:48:27.231Z",
+ "viewport": "1440x900",
+ "title": "A24",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "neueMontreal",
+    "count": 84
+   },
+   {
+    "family": "neueMontrealMono",
+    "count": 65
+   }
+  ],
+  "h1": {
+   "family": "neueMontreal",
+   "size": 225,
+   "weight": "485",
+   "lineHeight": 0.8,
+   "tracking": "-11.1825px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "neueMontreal",
+   "size": 400,
+   "weight": "485",
+   "lineHeight": 0.8,
+   "tracking": "-20px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 18,
+   "lineHeight": 1.1,
+   "measureCh": 36
+  },
+  "nav": {
+   "family": "neueMontreal",
+   "size": 12,
+   "weight": "485",
+   "lineHeight": 1,
+   "tracking": "0.06px",
+   "transform": "uppercase"
+  },
+  "button": {
+   "family": "neueMontreal",
+   "size": 12,
+   "weight": "485",
+   "lineHeight": 1,
+   "tracking": "0.06px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 10,
+   "count": 49
+  },
+  {
+   "px": 24,
+   "count": 32
+  },
+  {
+   "px": 18,
+   "count": 17
+  },
+  {
+   "px": 27,
+   "count": 15
+  },
+  {
+   "px": 12,
+   "count": 7
+  },
+  {
+   "px": 14,
+   "count": 5
+  },
+  {
+   "px": 16,
+   "count": 5
+  },
+  {
+   "px": 48,
+   "count": 4
+  },
+  {
+   "px": 56,
+   "count": 4
+  },
+  {
+   "px": 225,
+   "count": 4
+  },
+  {
+   "px": 400,
+   "count": 2
+  },
+  {
+   "px": 342.2,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(14, 14, 13)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 65
+   },
+   {
+    "color": "rgb(14, 14, 13)",
+    "count": 55
+   },
+   {
+    "color": "rgb(156, 151, 145)",
+    "count": 17
+   },
+   {
+    "color": "rgb(178, 173, 166)",
+    "count": 9
+   },
+   {
+    "color": "rgb(111, 109, 106)",
+    "count": 1
+   },
+   {
+    "color": "rgb(241, 241, 241)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(14, 14, 13)",
+    "count": 4
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(241, 241, 241)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "12px",
+    "size": 12,
+    "weight": "485"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "12px",
+    "size": 12,
+    "weight": "485"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "10.656px 11.6px",
+    "size": 16,
+    "weight": "485"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "10.656px 11.6px",
+    "size": 16,
+    "weight": "485"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "10.656px 11.6px",
+    "size": 16,
+    "weight": "485"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "1px",
+    "count": 17
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.02) 2.8px -2.8px 2.2px 0px, rgba(0, 0, 0, 0.027) 6.7px -6.7px 5.3px 0px, rgba(0, 0, 0, 0.035) 12.5px -12.5px 10px 0px, rgba(0, 0, 0, 0.043) 22.3px -22.3px 17.9px 0px, rgba(0, 0, 0, 0.05) 41.8px -41.8px 33.4px 0px, rgba(0, 0, 0, 0.07) 100px -100px 80px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "12px",
+    "count": 4
+   },
+   {
+    "padding": "24px",
+    "count": 2
+   },
+   {
+    "padding": "8px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1800px",
+    "count": 9
+   },
+   {
+    "maxWidth": "500px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 2
+   },
+   {
+    "maxWidth": "900px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1200px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 10195,
+  "mediaCoverage": 1,
+  "linkCount": 76
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.25s",
+    "count": 17
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 8
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+    "count": 17
+   },
+   {
+    "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94), cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    "count": 9
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,301 @@
+{
+ "url": "https://oxide.computer",
+ "capturedAt": "2026-10-27T08:27:05.491Z",
+ "viewport": "1440x900",
+ "title": "Oxide Computer Company",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "GT America Mono",
+    "count": 120
+   },
+   {
+    "family": "SuisseIntl",
+    "count": 75
+   }
+  ],
+  "h1": {
+   "family": "SuisseIntl",
+   "size": 65,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "-1.625px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "SuisseIntl",
+   "size": 36,
+   "weight": "400",
+   "lineHeight": 1.17,
+   "tracking": "-0.468px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 12,
+   "lineHeight": 1.33,
+   "measureCh": 63
+  },
+  "nav": {
+   "family": "SuisseIntl",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.38,
+   "tracking": "0.336px",
+   "transform": "none"
+  },
+  "button": {
+   "family": "GT America Mono",
+   "size": 11,
+   "weight": "400",
+   "lineHeight": 1.45,
+   "tracking": "0.64px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 85
+  },
+  {
+   "px": 11,
+   "count": 29
+  },
+  {
+   "px": 12.4,
+   "count": 29
+  },
+  {
+   "px": 16,
+   "count": 19
+  },
+  {
+   "px": 10,
+   "count": 13
+  },
+  {
+   "px": 13,
+   "count": 4
+  },
+  {
+   "px": 20,
+   "count": 4
+  },
+  {
+   "px": 50,
+   "count": 4
+  },
+  {
+   "px": 25,
+   "count": 3
+  },
+  {
+   "px": 36,
+   "count": 3
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 65,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "oklch(0.162 0.01 260)",
+  "textColors": [
+   {
+    "color": "oklch(0.9 0.0001 260)",
+    "count": 45
+   },
+   {
+    "color": "color(display-p3 0.72 0.73 0.74)",
+    "count": 28
+   },
+   {
+    "color": "color(display-p3 0.25 0.27 0.28)",
+    "count": 23
+   },
+   {
+    "color": "oklch(0.606 0.0031 260)",
+    "count": 20
+   },
+   {
+    "color": "oklch(0.717 0.0021 260)",
+    "count": 15
+   },
+   {
+    "color": "color(display-p3 0.28 0.84 0.59)",
+    "count": 15
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "oklch(0.162 0.01 260)",
+    "count": 24
+   },
+   {
+    "color": "oklch(0.216 0.008 260)",
+    "count": 16
+   },
+   {
+    "color": "rgb(31, 33, 36)",
+    "count": 14
+   },
+   {
+    "color": "rgba(19, 21, 25, 0)",
+    "count": 10
+   },
+   {
+    "color": "oklch(0.316 0.006 260)",
+    "count": 5
+   },
+   {
+    "color": "oklch(0.24 0.0722 183.7)",
+    "count": 5
+   },
+   {
+    "color": "rgb(48, 50, 53)",
+    "count": 2
+   },
+   {
+    "color": "rgb(24, 26, 29)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "oklch(0.717 0.0021 260)",
+    "radius": "2px",
+    "padding": "0px 12px",
+    "size": 11,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "oklch(0.717 0.0021 260)",
+    "radius": "2px",
+    "padding": "0px 12px",
+    "size": 11,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "oklch(0.717 0.0021 260)",
+    "radius": "1px",
+    "padding": "8px 12px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "oklch(0.717 0.0021 260)",
+    "radius": "1px",
+    "padding": "8px 12px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "oklch(0.717 0.0021 260)",
+    "radius": "1px",
+    "padding": "8px 12px",
+    "size": 12,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "1px",
+    "count": 50
+   },
+   {
+    "radius": "2px",
+    "count": 37
+   },
+   {
+    "radius": "4px",
+    "count": 21
+   },
+   {
+    "radius": "9999.01px",
+    "count": 3
+   },
+   {
+    "radius": "2px 0px 0px 2px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.77 -0.184187 0.0538599 / 0.15) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 7
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.79 -0.000191013 -0.00108329 / 0.15) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 3
+   },
+   {
+    "shadow": "rgba(255, 255, 255, 0.05) 0px 0px 0px 1px, rgba(0, 0, 0, 0.02) 0px 1px 1px 0px, rgba(0, 0, 0, 0.04) 0px 8px 16px -4px, rgba(0, 0, 0, 0.06) 0px 24px 32px -8px, oklch(0.216 0.008 260) 0px 0px 0px 1px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.02) 0px 1px 1px 0px, rgba(0, 0, 0, 0.04) 0px 4px 8px -4px, rgba(0, 0, 0, 0.06) 0px 16px 24px -8px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1200px",
+    "count": 15
+   },
+   {
+    "maxWidth": "480px",
+    "count": 11
+   },
+   {
+    "maxWidth": "2000px",
+    "count": 4
+   },
+   {
+    "maxWidth": "400px",
+    "count": 1
+   },
+   {
+    "maxWidth": "720px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 9816,
+  "mediaCoverage": 0.3,
+  "linkCount": 57
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 14
+   },
+   {
+    "duration": "0.25s",
+    "count": 5
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 19
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

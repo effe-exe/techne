@@ -1,0 +1,11 @@
+---
+description: techne — Write or review UX copy
+argument-hint: "<strings or screen>"
+---
+
+Use the **techne** skill in **copy** mode.
+
+1. Read `${CLAUDE_PLUGIN_ROOT}/skills/techne/SKILL.md` (operating loop, principles, ethics gate).
+2. Read `${CLAUDE_PLUGIN_ROOT}/skills/techne/modes/copy.md` and follow it, loading only the reference files it points to.
+
+Task: $ARGUMENTS

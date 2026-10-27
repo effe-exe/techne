@@ -1,0 +1,301 @@
+{
+ "url": "https://www.peakdesign.com",
+ "capturedAt": "2026-10-27T07:56:56.182Z",
+ "viewport": "1440x900",
+ "title": "Bags + Camera Gear | Peak Design",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Geist",
+    "count": 75
+   },
+   {
+    "family": "Bryant",
+    "count": 19
+   },
+   {
+    "family": "bryant",
+    "count": 8
+   },
+   {
+    "family": "Geist Mono",
+    "count": 7
+   },
+   {
+    "family": "Exposure-10",
+    "count": 4
+   }
+  ],
+  "h1": {
+   "family": "Geist",
+   "size": 25.6,
+   "weight": "700",
+   "lineHeight": 1.4,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Bryant",
+   "size": 24,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.4,
+   "measureCh": 67
+  },
+  "nav": {
+   "family": "Geist",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Geist",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 65
+  },
+  {
+   "px": 16,
+   "count": 36
+  },
+  {
+   "px": 24,
+   "count": 5
+  },
+  {
+   "px": 40,
+   "count": 2
+  },
+  {
+   "px": 48,
+   "count": 2
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 64,
+   "count": 1
+  },
+  {
+   "px": 25.6,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 47
+   },
+   {
+    "color": "rgb(26, 33, 30)",
+    "count": 33
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 17
+   },
+   {
+    "color": "rgb(96, 101, 98)",
+    "count": 13
+   },
+   {
+    "color": "rgb(51, 49, 50)",
+    "count": 2
+   },
+   {
+    "color": "rgb(54, 53, 55)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 31
+   },
+   {
+    "color": "rgb(224, 224, 224)",
+    "count": 17
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.03)",
+    "count": 8
+   },
+   {
+    "color": "rgb(238, 241, 240)",
+    "count": 3
+   },
+   {
+    "color": "rgb(12, 12, 12)",
+    "count": 1
+   },
+   {
+    "color": "rgb(21, 21, 26)",
+    "count": 1
+   },
+   {
+    "color": "rgb(245, 245, 245)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(26, 33, 30)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 33, 30)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 33, 30)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 33, 30)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 33, 30)",
+    "radius": "0px",
+    "padding": "0px 16px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "8px",
+    "count": 55
+   },
+   {
+    "radius": "4px",
+    "count": 32
+   },
+   {
+    "radius": "32px",
+    "count": 12
+   },
+   {
+    "radius": "50%",
+    "count": 2
+   },
+   {
+    "radius": "2px",
+    "count": 2
+   },
+   {
+    "radius": "16px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.04) 0px 0px 4px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 30px 1px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1024px",
+    "count": 12
+   },
+   {
+    "maxWidth": "640px",
+    "count": 10
+   },
+   {
+    "maxWidth": "400px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7449,
+  "mediaCoverage": 0.89,
+  "linkCount": 83
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 32
+   },
+   {
+    "duration": "0.4s, 0.2s",
+    "count": 8
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   },
+   {
+    "duration": "0.4s, 0.25s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-out",
+    "count": 32
+   },
+   {
+    "easing": "ease, ease",
+    "count": 8
+   },
+   {
+    "easing": "cubic-bezier(0.42, 0, 1, 1), ease-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

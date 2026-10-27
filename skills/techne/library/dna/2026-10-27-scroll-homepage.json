@@ -1,0 +1,289 @@
+{
+ "url": "https://scroll.in",
+ "capturedAt": "2026-10-27T07:53:19.881Z",
+ "viewport": "1440x900",
+ "title": "Scroll.in - Latest News, In depth news, India news, Politics news, Indian Cinema, Indian sports, Culture, Video News",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Noto Serif",
+    "count": 31
+   },
+   {
+    "family": "Noto Sans",
+    "count": 25
+   },
+   {
+    "family": "DM Serif Display",
+    "count": 1
+   },
+   {
+    "family": "Poppins",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "Noto Sans",
+   "size": 28,
+   "weight": "700",
+   "lineHeight": 1.43,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Noto Serif",
+   "size": 15.3,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 17,
+   "lineHeight": 1.47,
+   "measureCh": 74
+  },
+  "nav": {
+   "family": "Noto Sans",
+   "size": 18,
+   "weight": "400",
+   "lineHeight": 0,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Noto Sans",
+   "size": 13,
+   "weight": "400",
+   "lineHeight": 1.08,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14.4,
+   "count": 21
+  },
+  {
+   "px": 13,
+   "count": 14
+  },
+  {
+   "px": 18,
+   "count": 9
+  },
+  {
+   "px": 15.3,
+   "count": 6
+  },
+  {
+   "px": 15,
+   "count": 3
+  },
+  {
+   "px": 17,
+   "count": 1
+  },
+  {
+   "px": 25,
+   "count": 1
+  },
+  {
+   "px": 27,
+   "count": 1
+  },
+  {
+   "px": 28,
+   "count": 1
+  },
+  {
+   "px": 32,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 30
+   },
+   {
+    "color": "rgb(22, 23, 24)",
+    "count": 10
+   },
+   {
+    "color": "rgb(34, 34, 34)",
+    "count": 8
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 6
+   },
+   {
+    "color": "rgb(51, 102, 204)",
+    "count": 2
+   },
+   {
+    "color": "rgb(255, 87, 34)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   },
+   {
+    "color": "rgb(255, 87, 34)",
+    "count": 4
+   },
+   {
+    "color": "rgb(240, 238, 231)",
+    "count": 1
+   },
+   {
+    "color": "rgb(247, 248, 252)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "15px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "6px",
+    "padding": "15px 25px",
+    "size": 15,
+    "weight": "700"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "12px",
+    "padding": "18px 40px",
+    "size": 18,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "6px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(0, 0, 238)",
+    "radius": "8px",
+    "padding": "15px 0px",
+    "size": 18,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "6px",
+    "count": 33
+   },
+   {
+    "radius": "6px 6px 0px 0px",
+    "count": 5
+   },
+   {
+    "radius": "99px",
+    "count": 2
+   },
+   {
+    "radius": "8px",
+    "count": 2
+   },
+   {
+    "radius": "999px",
+    "count": 1
+   },
+   {
+    "radius": "12px",
+    "count": 1
+   },
+   {
+    "radius": "16px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.05) 0px 1px 15px 0px",
+    "count": 5
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.05) 0px -1px 8px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(57, 97, 138, 0.1) 0px 5px 10px 2px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1240px",
+    "count": 10
+   },
+   {
+    "maxWidth": "1260px",
+    "count": 2
+   },
+   {
+    "maxWidth": "786px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1200px",
+    "count": 1
+   },
+   {
+    "maxWidth": "350px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 2744,
+  "mediaCoverage": 0.2,
+  "linkCount": 109
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s",
+    "count": 5
+   },
+   {
+    "duration": "0.2s",
+    "count": 3
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

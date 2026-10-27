@@ -1,0 +1,299 @@
+{
+ "url": "https://dogstudio.co",
+ "capturedAt": "2026-10-27T07:42:22.793Z",
+ "viewport": "1440x900",
+ "title": "Dogstudio. Multidisciplinary Creative Studio.",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "Heebo",
+    "count": 68
+   },
+   {
+    "family": "Gilroy",
+    "count": 15
+   },
+   {
+    "family": "Arial",
+    "count": 3
+   },
+   {
+    "family": "GT Sectra Display",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "Heebo",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 2.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Heebo",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 2.1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 120,
+   "lineHeight": 0.89,
+   "measureCh": 4
+  },
+  "nav": null,
+  "button": {
+   "family": "Arial",
+   "size": 13.3,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 23
+  },
+  {
+   "px": 20,
+   "count": 19
+  },
+  {
+   "px": 11,
+   "count": 15
+  },
+  {
+   "px": 8,
+   "count": 8
+  },
+  {
+   "px": 9,
+   "count": 8
+  },
+  {
+   "px": 60,
+   "count": 5
+  },
+  {
+   "px": 12,
+   "count": 3
+  },
+  {
+   "px": 23,
+   "count": 3
+  },
+  {
+   "px": 13.3,
+   "count": 3
+  }
+ ],
+ "color": {
+  "background": "rgb(19, 20, 25)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 44
+   },
+   {
+    "color": "rgba(160, 168, 220, 0.8)",
+    "count": 10
+   },
+   {
+    "color": "rgba(160, 168, 220, 0.7)",
+    "count": 10
+   },
+   {
+    "color": "rgba(187, 194, 229, 0.3)",
+    "count": 7
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(228, 51, 51)",
+    "count": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 3
+   },
+   {
+    "color": "rgb(14, 16, 26)",
+    "count": 2
+   },
+   {
+    "color": "rgb(19, 20, 25)",
+    "count": 1
+   },
+   {
+    "color": "rgba(19, 20, 25, 0.8)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "8px 6px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "1px 6px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13.3,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "3px",
+    "padding": "7px",
+    "size": 14,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "3px",
+    "padding": "7px",
+    "size": 14,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3px",
+    "count": 7
+   },
+   {
+    "radius": "26px",
+    "count": 2
+   },
+   {
+    "radius": "50%",
+    "count": 1
+   },
+   {
+    "radius": "100px",
+    "count": 1
+   },
+   {
+    "radius": "20px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.15) 0px 1px 1px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.15) 0px 1px 2px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "405px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1440px",
+    "count": 7
+   },
+   {
+    "maxWidth": "1024px",
+    "count": 4
+   },
+   {
+    "maxWidth": "1600px",
+    "count": 1
+   },
+   {
+    "maxWidth": "110px",
+    "count": 1
+   },
+   {
+    "maxWidth": "360px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 3800,
+  "mediaCoverage": 4.24,
+  "linkCount": 44
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.6s",
+    "count": 27
+   },
+   {
+    "duration": "0.8s, 0.8s, 0.8s",
+    "count": 25
+   },
+   {
+    "duration": "1.2s",
+    "count": 14
+   },
+   {
+    "duration": "0.3s",
+    "count": 13
+   },
+   {
+    "duration": "0.75s, 0.75s",
+    "count": 4
+   },
+   {
+    "duration": "0.2s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.165, 0.84, 0.44, 1)",
+    "count": 35
+   },
+   {
+    "easing": "cubic-bezier(0.215, 0.61, 0.355, 1), cubic-bezier(0.215, 0.61, 0.355, 1), cubic-bezier(0.215, 0.61, 0.355, 1)",
+    "count": 25
+   },
+   {
+    "easing": "cubic-bezier(0.245, 0.495, 0, 0.99)",
+    "count": 14
+   },
+   {
+    "easing": "cubic-bezier(0.165, 0.84, 0.44, 1), cubic-bezier(0.165, 0.84, 0.44, 1)",
+    "count": 7
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

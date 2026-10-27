@@ -1,0 +1,286 @@
+{
+ "url": "https://www.watchduty.org",
+ "capturedAt": "2026-10-27T08:09:59.555Z",
+ "viewport": "1440x900",
+ "title": "Watch Duty | Real-Time Disaster Intelligence You Can Trust",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 42
+   },
+   {
+    "family": "Roboto Mono",
+    "count": 5
+   }
+  ],
+  "h1": {
+   "family": "Inter",
+   "size": 72,
+   "weight": "700",
+   "lineHeight": 1.1,
+   "tracking": "-0.72px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Inter",
+   "size": 60,
+   "weight": "700",
+   "lineHeight": 1.1,
+   "tracking": "-0.16px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 20,
+   "lineHeight": 1.4,
+   "measureCh": 45
+  },
+  "nav": null,
+  "button": {
+   "family": "Roboto Mono",
+   "size": 12,
+   "weight": "500",
+   "lineHeight": 1,
+   "tracking": "1.2px",
+   "transform": "uppercase"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 18
+  },
+  {
+   "px": 20,
+   "count": 14
+  },
+  {
+   "px": 12,
+   "count": 5
+  },
+  {
+   "px": 24,
+   "count": 4
+  },
+  {
+   "px": 42,
+   "count": 2
+  },
+  {
+   "px": 8,
+   "count": 1
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 60,
+   "count": 1
+  },
+  {
+   "px": 72,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 35
+   },
+   {
+    "color": "rgba(26, 26, 26, 0.6)",
+    "count": 7
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 5
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(242, 169, 0)",
+    "count": 9
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 6
+   },
+   {
+    "color": "rgba(192, 192, 177, 0.35)",
+    "count": 3
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.95)",
+    "count": 1
+   },
+   {
+    "color": "rgba(15, 15, 15, 0.72)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(26, 26, 26)",
+    "radius": "12px",
+    "padding": "14px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 26, 26)",
+    "radius": "12px",
+    "padding": "14px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 26, 26)",
+    "radius": "12px",
+    "padding": "14px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 26, 26)",
+    "radius": "12px",
+    "padding": "14px",
+    "size": 12,
+    "weight": "500"
+   },
+   {
+    "bg": "rgb(242, 169, 0)",
+    "color": "rgb(26, 26, 26)",
+    "radius": "12px",
+    "padding": "14px",
+    "size": 12,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "12px",
+    "count": 20
+   },
+   {
+    "radius": "16px",
+    "count": 12
+   },
+   {
+    "radius": "4px",
+    "count": 11
+   },
+   {
+    "radius": "999px",
+    "count": 3
+   },
+   {
+    "radius": "2px",
+    "count": 3
+   },
+   {
+    "radius": "8px",
+    "count": 2
+   },
+   {
+    "radius": "20px",
+    "count": 1
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "32px",
+    "count": 1
+   },
+   {
+    "padding": "24px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1344px",
+    "count": 5
+   },
+   {
+    "maxWidth": "448px",
+    "count": 2
+   },
+   {
+    "maxWidth": "992px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1120px",
+    "count": 1
+   },
+   {
+    "maxWidth": "768px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 7380,
+  "mediaCoverage": 0.37,
+  "linkCount": 60
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 26
+   },
+   {
+    "duration": "0.3s, 0.3s, 0.3s",
+    "count": 8
+   },
+   {
+    "duration": "0.55s, 0.55s",
+    "count": 5
+   },
+   {
+    "duration": "0.5s",
+    "count": 5
+   },
+   {
+    "duration": "0.65s, 0.65s",
+    "count": 3
+   },
+   {
+    "duration": "0.55s, 0.55s, 0.55s, 0.55s, 0.55s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+    "count": 26
+   },
+   {
+    "easing": "cubic-bezier(0.215, 0.61, 0.355, 1), cubic-bezier(0.215, 0.61, 0.355, 1), cubic-bezier(0.215, 0.61, 0.355, 1)",
+    "count": 8
+   },
+   {
+    "easing": "cubic-bezier(0.86, 0, 0.07, 1)",
+    "count": 6
+   },
+   {
+    "easing": "cubic-bezier(0.86, 0, 0.07, 1), cubic-bezier(0.86, 0, 0.07, 1)",
+    "count": 5
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

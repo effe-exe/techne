@@ -1,0 +1,338 @@
+{
+ "url": "https://www.warp.dev",
+ "capturedAt": "2026-10-27T07:25:56.517Z",
+ "viewport": "1440x900",
+ "title": "Warp — Open Infrastructure for Cloud Software Factories",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "azeretSemiMono",
+    "count": 182
+   },
+   {
+    "family": "theFuture",
+    "count": 15
+   }
+  ],
+  "h1": {
+   "family": "azeretSemiMono",
+   "size": 54,
+   "weight": "400",
+   "lineHeight": 1.05,
+   "tracking": "-2px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "azeretSemiMono",
+   "size": 34,
+   "weight": "400",
+   "lineHeight": 1.65,
+   "tracking": "-2px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.65,
+   "measureCh": 142
+  },
+  "nav": {
+   "family": "azeretSemiMono",
+   "size": 13,
+   "weight": "400",
+   "lineHeight": 1.65,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "azeretSemiMono",
+   "size": 13,
+   "weight": "400",
+   "lineHeight": 1.65,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 47
+  },
+  {
+   "px": 10,
+   "count": 36
+  },
+  {
+   "px": 11,
+   "count": 24
+  },
+  {
+   "px": 9,
+   "count": 22
+  },
+  {
+   "px": 13,
+   "count": 22
+  },
+  {
+   "px": 12.5,
+   "count": 8
+  },
+  {
+   "px": 18,
+   "count": 6
+  },
+  {
+   "px": 34,
+   "count": 5
+  },
+  {
+   "px": 13.5,
+   "count": 5
+  },
+  {
+   "px": 10.5,
+   "count": 4
+  },
+  {
+   "px": 14,
+   "count": 3
+  },
+  {
+   "px": 16,
+   "count": 3
+  }
+ ],
+ "color": {
+  "background": "oklch(0.992495 0.00178735 220)",
+  "textColors": [
+   {
+    "color": "rgb(26, 21, 34)",
+    "count": 59
+   },
+   {
+    "color": "rgba(26, 21, 34, 0.62)",
+    "count": 40
+   },
+   {
+    "color": "rgba(26, 21, 34, 0.4)",
+    "count": 34
+   },
+   {
+    "color": "rgb(42, 30, 255)",
+    "count": 24
+   },
+   {
+    "color": "rgba(26, 21, 34, 0.78)",
+    "count": 15
+   },
+   {
+    "color": "oklab(0.20813 0.0138587 -0.0223372 / 0.5)",
+    "count": 9
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 25
+   },
+   {
+    "color": "rgb(246, 245, 251)",
+    "count": 11
+   },
+   {
+    "color": "rgb(42, 30, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(251, 249, 254)",
+    "count": 1
+   },
+   {
+    "color": "rgba(42, 30, 255, 0.05)",
+    "count": 1
+   },
+   {
+    "color": "rgba(42, 30, 255, 0.14)",
+    "count": 1
+   },
+   {
+    "color": "rgba(42, 30, 255, 0.3)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(26, 21, 34)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 21, 34)",
+    "radius": "4px",
+    "padding": "4px 8px",
+    "size": 12,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 21, 34)",
+    "radius": "4px",
+    "padding": "4px 8px",
+    "size": 12,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 21, 34)",
+    "radius": "4px",
+    "padding": "4px 8px",
+    "size": 12,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(26, 21, 34)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 12,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 14
+   },
+   {
+    "radius": "999px",
+    "count": 12
+   },
+   {
+    "radius": "3.35544e+07px",
+    "count": 12
+   },
+   {
+    "radius": "20px",
+    "count": 11
+   },
+   {
+    "radius": "50%",
+    "count": 10
+   },
+   {
+    "radius": "3px",
+    "count": 7
+   },
+   {
+    "radius": "6px",
+    "count": 5
+   },
+   {
+    "radius": "1px",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(26, 21, 34, 0.1) 0px 8px 22px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "56px",
+    "count": 9
+   },
+   {
+    "padding": "30px",
+    "count": 1
+   },
+   {
+    "padding": "64px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "140px",
+    "count": 34
+   },
+   {
+    "maxWidth": "1180px",
+    "count": 15
+   },
+   {
+    "maxWidth": "780px",
+    "count": 1
+   },
+   {
+    "maxWidth": "437px",
+    "count": 1
+   },
+   {
+    "maxWidth": "200px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 9363,
+  "mediaCoverage": 0.24,
+  "linkCount": 96
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 224
+   },
+   {
+    "duration": "0.15s",
+    "count": 81
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 54
+   },
+   {
+    "duration": "0.12s, 0.12s",
+    "count": 18
+   },
+   {
+    "duration": "0.15s, 0.15s, 0.15s",
+    "count": 12
+   },
+   {
+    "duration": "0.5s, 0.5s",
+    "count": 12
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 965
+   },
+   {
+    "easing": "ease, ease",
+    "count": 72
+   },
+   {
+    "easing": "ease, ease, ease",
+    "count": 14
+   },
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1), cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 12
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

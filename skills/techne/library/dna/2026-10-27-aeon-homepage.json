@@ -1,0 +1,290 @@
+{
+ "url": "https://aeon.co",
+ "capturedAt": "2026-10-27T07:48:16.624Z",
+ "viewport": "1440x900",
+ "title": "Aeon | a world of ideas",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "sansFont",
+    "count": 70
+   },
+   {
+    "family": "monoFont",
+    "count": 64
+   },
+   {
+    "family": "Aeon Serif Symbol",
+    "count": 29
+   }
+  ],
+  "h1": {
+   "family": "Aeon Serif Symbol",
+   "size": 72,
+   "weight": "600",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "sansFont",
+   "size": 20,
+   "weight": "400",
+   "lineHeight": 1.4,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 12,
+   "lineHeight": 1.33,
+   "measureCh": 38
+  },
+  "nav": {
+   "family": "sansFont",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1.63,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "monoFont",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": 1.33,
+   "tracking": "1.2px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13.5,
+   "count": 48
+  },
+  {
+   "px": 16,
+   "count": 40
+  },
+  {
+   "px": 28,
+   "count": 24
+  },
+  {
+   "px": 14,
+   "count": 21
+  },
+  {
+   "px": 12,
+   "count": 11
+  },
+  {
+   "px": 42,
+   "count": 5
+  },
+  {
+   "px": 22,
+   "count": 4
+  },
+  {
+   "px": 32,
+   "count": 4
+  },
+  {
+   "px": 17,
+   "count": 2
+  },
+  {
+   "px": 20,
+   "count": 2
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 72,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 139
+   },
+   {
+    "color": "oklab(0 0 0 / 0.65)",
+    "count": 14
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(12, 119, 109)",
+    "count": 1
+   },
+   {
+    "color": "rgb(3, 90, 109)",
+    "count": 1
+   },
+   {
+    "color": "rgb(148, 11, 82)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(156, 17, 13)",
+    "count": 22
+   },
+   {
+    "color": "rgb(12, 121, 110)",
+    "count": 14
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 11
+   },
+   {
+    "color": "rgb(147, 11, 81)",
+    "count": 10
+   },
+   {
+    "color": "rgb(193, 110, 21)",
+    "count": 8
+   },
+   {
+    "color": "rgb(3, 90, 109)",
+    "count": 2
+   },
+   {
+    "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+    "count": 1
+   },
+   {
+    "color": "oklab(0 0 0 / 0.03)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(102, 102, 102)",
+    "radius": "0px",
+    "padding": "10px 0px 0px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 12,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 12,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "3.35544e+07px",
+    "count": 10
+   },
+   {
+    "radius": "4px",
+    "count": 2
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "32px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "80px",
+    "count": 28
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 3
+   },
+   {
+    "maxWidth": "1400px",
+    "count": 2
+   },
+   {
+    "maxWidth": "1380px",
+    "count": 1
+   },
+   {
+    "maxWidth": "1350px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 6013,
+  "mediaCoverage": 0.43,
+  "linkCount": 71
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 169
+   },
+   {
+    "duration": "0.15s",
+    "count": 5
+   },
+   {
+    "duration": "0.2s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 174
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

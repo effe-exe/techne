@@ -1,0 +1,313 @@
+{
+ "url": "https://wolt.com",
+ "capturedAt": "2026-10-27T08:12:41.332Z",
+ "viewport": "1440x900",
+ "title": "Wolt Delivery | Food, Groceries and more in 30 minutes – Wolt",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "-apple-system",
+    "count": 67
+   },
+   {
+    "family": "DD Scoop",
+    "count": 22
+   }
+  ],
+  "h1": {
+   "family": "DD Scoop",
+   "size": 88,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "h2": {
+   "family": "DD Scoop",
+   "size": 72,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 24,
+   "lineHeight": 1.17,
+   "measureCh": 51
+  },
+  "nav": {
+   "family": "-apple-system",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.38,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "-apple-system",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 54
+  },
+  {
+   "px": 24,
+   "count": 10
+  },
+  {
+   "px": 32,
+   "count": 9
+  },
+  {
+   "px": 14,
+   "count": 7
+  },
+  {
+   "px": 48,
+   "count": 6
+  },
+  {
+   "px": 60,
+   "count": 2
+  },
+  {
+   "px": 72,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 56
+   },
+   {
+    "color": "rgb(39, 43, 66)",
+    "count": 13
+   },
+   {
+    "color": "rgb(20, 83, 103)",
+    "count": 11
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.64)",
+    "count": 5
+   },
+   {
+    "color": "rgb(203, 89, 101)",
+    "count": 1
+   },
+   {
+    "color": "rgb(198, 128, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgb(220, 247, 255)",
+    "count": 4
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.2)",
+    "count": 2
+   },
+   {
+    "color": "rgb(0, 194, 232)",
+    "count": 1
+   },
+   {
+    "color": "rgb(235, 247, 253)",
+    "count": 1
+   },
+   {
+    "color": "rgb(255, 238, 234)",
+    "count": 1
+   },
+   {
+    "color": "rgba(254, 169, 13, 0.04)",
+    "count": 1
+   },
+   {
+    "color": "rgb(224, 249, 222)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(20, 83, 103)",
+    "radius": "12px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(39, 43, 66)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(39, 43, 66)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(39, 43, 66)",
+    "radius": "8px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "500"
+   },
+   {
+    "bg": null,
+    "color": "rgb(20, 83, 103)",
+    "radius": "12px",
+    "padding": "0px 16px",
+    "size": 16,
+    "weight": "500"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "24px",
+    "count": 23
+   },
+   {
+    "radius": "100px",
+    "count": 9
+   },
+   {
+    "radius": "12px",
+    "count": 6
+   },
+   {
+    "radius": "9999px",
+    "count": 5
+   },
+   {
+    "radius": "16px",
+    "count": 4
+   },
+   {
+    "radius": "8px",
+    "count": 2
+   },
+   {
+    "radius": "0px 0px 24px 20px",
+    "count": 1
+   },
+   {
+    "radius": "50%",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(32, 33, 37, 0.12) 0px 0px 8px 0px, rgba(255, 255, 255, 0.08) 0px 0px 0px 1px inset",
+    "count": 8
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.07) 0px 8px 12px 0px, rgba(0, 0, 0, 0.07) 0px 16px 24px 0px, rgba(0, 0, 0, 0.07) 0px 32px 48px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1920px",
+    "count": 7
+   },
+   {
+    "maxWidth": "400px",
+    "count": 2
+   },
+   {
+    "maxWidth": "150px",
+    "count": 2
+   },
+   {
+    "maxWidth": "700px",
+    "count": 2
+   },
+   {
+    "maxWidth": "960px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 6318,
+  "mediaCoverage": 0.52,
+  "linkCount": 66
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 13
+   },
+   {
+    "duration": "0.12s",
+    "count": 10
+   },
+   {
+    "duration": "0.3s",
+    "count": 10
+   },
+   {
+    "duration": "0.2s, 0.15s",
+    "count": 3
+   },
+   {
+    "duration": "0.096s",
+    "count": 2
+   },
+   {
+    "duration": "0.1s, 0.2s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 11
+   },
+   {
+    "easing": "ease-out",
+    "count": 10
+   },
+   {
+    "easing": "ease-out, linear",
+    "count": 3
+   },
+   {
+    "easing": "ease-in",
+    "count": 2
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

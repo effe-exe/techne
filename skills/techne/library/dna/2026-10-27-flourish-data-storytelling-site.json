@@ -1,0 +1,290 @@
+{
+ "url": "https://flourish.studio",
+ "capturedAt": "2026-10-27T08:24:15.922Z",
+ "viewport": "1440x900",
+ "title": "Flourish",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Canva Sans Variable",
+    "count": 93
+   }
+  ],
+  "h1": {
+   "family": "Canva Sans Variable",
+   "size": 66.5,
+   "weight": "400",
+   "lineHeight": 1.2,
+   "tracking": "-1.33px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Canva Sans Variable",
+   "size": 34.2,
+   "weight": "700",
+   "lineHeight": 1.2,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 28.5,
+   "lineHeight": 1.5,
+   "measureCh": 53
+  },
+  "nav": {
+   "family": "Canva Sans Variable",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Canva Sans Variable",
+   "size": 19,
+   "weight": "700",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14.3,
+   "count": 50
+  },
+  {
+   "px": 19,
+   "count": 12
+  },
+  {
+   "px": 17.1,
+   "count": 8
+  },
+  {
+   "px": 16,
+   "count": 7
+  },
+  {
+   "px": 23.8,
+   "count": 5
+  },
+  {
+   "px": 20.9,
+   "count": 4
+  },
+  {
+   "px": 66.5,
+   "count": 2
+  },
+  {
+   "px": 28.5,
+   "count": 2
+  },
+  {
+   "px": 34.2,
+   "count": 2
+  },
+  {
+   "px": 13.3,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(51, 51, 51)",
+    "count": 49
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 30
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 11
+   },
+   {
+    "color": "rgb(19, 90, 225)",
+    "count": 1
+   },
+   {
+    "color": "rgb(152, 82, 217)",
+    "count": 1
+   },
+   {
+    "color": "rgb(207, 207, 207)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 4
+   },
+   {
+    "color": "rgb(244, 244, 244)",
+    "count": 4
+   },
+   {
+    "color": "rgb(239, 239, 239)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "3px",
+    "padding": "8px 10px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "3px",
+    "padding": "8px 10px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "3px",
+    "padding": "8px 10px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "3px",
+    "padding": "0px 12px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "3px",
+    "padding": "0px 12px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "10px",
+    "count": 33
+   },
+   {
+    "radius": "3px",
+    "count": 17
+   },
+   {
+    "radius": "50%",
+    "count": 4
+   },
+   {
+    "radius": "8px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 10px 0px",
+    "count": 4
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 1px 0px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 0px 12px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "114px",
+    "count": 2
+   },
+   {
+    "padding": "57px",
+    "count": 2
+   },
+   {
+    "padding": "20px",
+    "count": 1
+   },
+   {
+    "padding": "1px",
+    "count": 1
+   },
+   {
+    "padding": "76px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1220px",
+    "count": 9
+   },
+   {
+    "maxWidth": "580px",
+    "count": 5
+   },
+   {
+    "maxWidth": "500px",
+    "count": 4
+   },
+   {
+    "maxWidth": "570px",
+    "count": 2
+   },
+   {
+    "maxWidth": "760px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 13353,
+  "mediaCoverage": 0.2,
+  "linkCount": 92
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 44
+   },
+   {
+    "duration": "0.2s, 0.2s",
+    "count": 14
+   },
+   {
+    "duration": "0.1s, 0.1s",
+    "count": 5
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 19
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

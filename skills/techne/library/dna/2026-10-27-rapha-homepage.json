@@ -1,0 +1,275 @@
+{
+ "url": "https://www.rapha.cc",
+ "capturedAt": "2026-10-27T07:20:43.265Z",
+ "viewport": "1440x900",
+ "title": "The World's Finest Cycling Clothing and Accessories | Rapha",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "raphaSansCondensed",
+    "count": 83
+   },
+   {
+    "family": "raphaSerifText",
+    "count": 74
+   },
+   {
+    "family": "Rapha Serif Text",
+    "count": 2
+   },
+   {
+    "family": "raphaSerifHead",
+    "count": 1
+   }
+  ],
+  "h1": {
+   "family": "raphaSansCondensed",
+   "size": 64,
+   "weight": "700",
+   "lineHeight": 0.97,
+   "tracking": "0.3px",
+   "transform": "uppercase"
+  },
+  "h2": {
+   "family": "raphaSerifText",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": 1.75,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 16,
+   "lineHeight": 1.63,
+   "measureCh": 55
+  },
+  "nav": null,
+  "button": {
+   "family": "raphaSerifText",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 58
+  },
+  {
+   "px": 14,
+   "count": 49
+  },
+  {
+   "px": 16,
+   "count": 36
+  },
+  {
+   "px": 24,
+   "count": 10
+  },
+  {
+   "px": 32,
+   "count": 5
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 64,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 111
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 30
+   },
+   {
+    "color": "rgb(0, 0, 238)",
+    "count": 11
+   },
+   {
+    "color": "rgb(118, 118, 118)",
+    "count": 8
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 8
+   },
+   {
+    "color": "rgb(242, 242, 242)",
+    "count": 5
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.25)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "8px 20px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "8px 20px",
+    "size": 14,
+    "weight": "600"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "1px 6px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px 16px 0px 0px",
+    "size": 16,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "100%",
+    "count": 11
+   },
+   {
+    "radius": "50%",
+    "count": 9
+   },
+   {
+    "radius": "100px",
+    "count": 5
+   },
+   {
+    "radius": "2.5px",
+    "count": 1
+   },
+   {
+    "radius": "2px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(118, 118, 118, 0.3) 0px 0px 4px 2px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "40px",
+    "count": 5
+   },
+   {
+    "padding": "32px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "704px",
+    "count": 1
+   },
+   {
+    "maxWidth": "375px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 5993,
+  "mediaCoverage": 0.74,
+  "linkCount": 105
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 73
+   },
+   {
+    "duration": "0.25s, 0.25s, 0.25s",
+    "count": 20
+   },
+   {
+    "duration": "0.3s",
+    "count": 13
+   },
+   {
+    "duration": "0.25s",
+    "count": 5
+   },
+   {
+    "duration": "0.15s, 0.15s",
+    "count": 3
+   },
+   {
+    "duration": "0.2s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease-in-out",
+    "count": 78
+   },
+   {
+    "easing": "ease-in-out, ease-in-out, ease-in-out",
+    "count": 20
+   },
+   {
+    "easing": "ease-out",
+    "count": 9
+   },
+   {
+    "easing": "ease-in",
+    "count": 5
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

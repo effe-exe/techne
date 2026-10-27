@@ -1,0 +1,279 @@
+{
+ "url": "https://flighty.com",
+ "capturedAt": "2026-10-27T08:05:29.342Z",
+ "viewport": "1440x900",
+ "title": "Flighty — Live Flight Tracker: Get flight alerts faster than the airlines",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "system-ui",
+    "count": 187
+   },
+   {
+    "family": "EB Garamond",
+    "count": 5
+   },
+   {
+    "family": "SF Pro Text Regular",
+    "count": 3
+   },
+   {
+    "family": "SF Pro Text Semibold",
+    "count": 2
+   },
+   {
+    "family": "Indie Flower",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "system-ui",
+   "size": 65,
+   "weight": "700",
+   "lineHeight": 1.2,
+   "tracking": "-1px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "system-ui",
+   "size": 56,
+   "weight": "700",
+   "lineHeight": 1,
+   "tracking": "-0.28px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.2,
+   "measureCh": 21
+  },
+  "nav": {
+   "family": "sans-serif",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "system-ui",
+   "size": 15,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 15,
+   "count": 67
+  },
+  {
+   "px": 13,
+   "count": 32
+  },
+  {
+   "px": 16,
+   "count": 31
+  },
+  {
+   "px": 32,
+   "count": 24
+  },
+  {
+   "px": 17,
+   "count": 17
+  },
+  {
+   "px": 24,
+   "count": 5
+  },
+  {
+   "px": 22,
+   "count": 4
+  },
+  {
+   "px": 56,
+   "count": 4
+  },
+  {
+   "px": 12,
+   "count": 2
+  },
+  {
+   "px": 14,
+   "count": 2
+  },
+  {
+   "px": 18,
+   "count": 2
+  },
+  {
+   "px": 28,
+   "count": 2
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 74
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.5)",
+    "count": 31
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 22
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.55)",
+    "count": 22
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.8)",
+    "count": 13
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.7)",
+    "count": 11
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 24
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.2)",
+    "count": 20
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.05)",
+    "count": 8
+   },
+   {
+    "color": "rgb(250, 250, 250)",
+    "count": 6
+   },
+   {
+    "color": "rgb(5, 1, 13)",
+    "count": 3
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.4)",
+    "count": 3
+   },
+   {
+    "color": "rgb(255, 252, 252)",
+    "count": 3
+   },
+   {
+    "color": "rgb(201, 26, 26)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgba(0, 0, 0, 0.55)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "16px",
+    "count": 35
+   },
+   {
+    "radius": "999px",
+    "count": 24
+   },
+   {
+    "radius": "20px",
+    "count": 18
+   },
+   {
+    "radius": "12px",
+    "count": 15
+   },
+   {
+    "radius": "50px",
+    "count": 5
+   },
+   {
+    "radius": "8px",
+    "count": 5
+   },
+   {
+    "radius": "6px",
+    "count": 3
+   },
+   {
+    "radius": "9px",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.02) 0px 0px 0px 1px, rgba(0, 0, 0, 0.02) 0px 1px 1px 0.5px, rgba(0, 0, 0, 0.02) 0px 3px 3px 1.5px, rgba(0, 0, 0, 0.02) 0px 6px 6px -3px, rgba(0, 0, 0, 0.02) 0px 12px 12px -6px, rgba(0, 0, 0, 0.02) 0px 24px 24px -12px",
+    "count": 13
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.04) 0px 0px 0px 1px, rgba(0, 0, 0, 0.02) 0px 1px 1px 0.5px, rgba(0, 0, 0, 0.02) 0px 3px 3px 1.5px, rgba(0, 0, 0, 0.02) 0px 6px 6px -3px, rgba(0, 0, 0, 0.02) 0px 12px 12px -6px, rgba(0, 0, 0, 0.02) 0px 24px 24px -12px",
+    "count": 12
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.03) 0px 0px 1px 1px, rgba(0, 0, 0, 0.03) 0px 1px 1px 0.25px, rgba(0, 0, 0, 0.03) 0px 3px 3px 1.5px, rgba(0, 0, 0, 0.03) 0px 6px 6px -3px, rgba(0, 0, 0, 0.03) 0px 12px 12px -6px, rgba(0, 0, 0, 0.03) 0px 24px 24px -12px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.03) 0px 1px 1px 0.5px, rgba(0, 0, 0, 0.03) 0px 3px 3px 1.5px, rgba(0, 0, 0, 0.03) 0px 6px 6px -3px, rgba(0, 0, 0, 0.03) 0px 12px 12px -6px, rgba(0, 0, 0, 0.03) 0px 24px 24px -12px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "600px",
+    "count": 23
+   },
+   {
+    "maxWidth": "1000px",
+    "count": 10
+   },
+   {
+    "maxWidth": "680px",
+    "count": 6
+   },
+   {
+    "maxWidth": "737px",
+    "count": 1
+   },
+   {
+    "maxWidth": "380px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 14275,
+  "mediaCoverage": 0.48,
+  "linkCount": 45
+ },
+ "motion": {
+  "transitions": [],
+  "easings": [],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

@@ -1,0 +1,337 @@
+{
+ "url": "https://stripe.com",
+ "capturedAt": "2026-10-27T07:07:20.151Z",
+ "viewport": "1440x900",
+ "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "sohne-var",
+    "count": 225
+   }
+  ],
+  "h1": {
+   "family": "sohne-var",
+   "size": 48,
+   "weight": "300",
+   "lineHeight": 1.15,
+   "tracking": "-0.96px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "sohne-var",
+   "size": 32,
+   "weight": "300",
+   "lineHeight": 1.1,
+   "tracking": "-0.64px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 32,
+   "lineHeight": 1.1,
+   "measureCh": 49
+  },
+  "nav": {
+   "family": "sohne-var",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": "normal",
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "sohne-var",
+   "size": 14,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 143
+  },
+  {
+   "px": 22,
+   "count": 20
+  },
+  {
+   "px": 26,
+   "count": 16
+  },
+  {
+   "px": 32,
+   "count": 11
+  },
+  {
+   "px": 48,
+   "count": 8
+  },
+  {
+   "px": 14,
+   "count": 7
+  },
+  {
+   "px": 18,
+   "count": 7
+  },
+  {
+   "px": 12,
+   "count": 4
+  },
+  {
+   "px": 11,
+   "count": 3
+  },
+  {
+   "px": 9,
+   "count": 2
+  },
+  {
+   "px": 10,
+   "count": 2
+  },
+  {
+   "px": 20,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(80, 97, 122)",
+    "count": 110
+   },
+   {
+    "color": "rgb(6, 27, 49)",
+    "count": 62
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 16
+   },
+   {
+    "color": "rgb(100, 116, 141)",
+    "count": 15
+   },
+   {
+    "color": "rgb(125, 139, 164)",
+    "count": 6
+   },
+   {
+    "color": "rgb(83, 58, 253)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 23
+   },
+   {
+    "color": "rgb(229, 237, 245)",
+    "count": 16
+   },
+   {
+    "color": "rgb(248, 250, 253)",
+    "count": 10
+   },
+   {
+    "color": "rgb(255, 224, 209)",
+    "count": 2
+   },
+   {
+    "color": "rgba(248, 250, 253, 0.45)",
+    "count": 1
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.38)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 214, 111)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(6, 27, 49)",
+    "radius": "4px",
+    "padding": "12px 0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(6, 27, 49)",
+    "radius": "4px",
+    "padding": "12px 0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(6, 27, 49)",
+    "radius": "4px",
+    "padding": "12px 0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(6, 27, 49)",
+    "radius": "4px",
+    "padding": "12px 0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(6, 27, 49)",
+    "radius": "4px",
+    "padding": "12px 0px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 32
+   },
+   {
+    "radius": "6px",
+    "count": 29
+   },
+   {
+    "radius": "5px",
+    "count": 6
+   },
+   {
+    "radius": "8px",
+    "count": 4
+   },
+   {
+    "radius": "100%",
+    "count": 3
+   },
+   {
+    "radius": "3px",
+    "count": 2
+   },
+   {
+    "radius": "16px",
+    "count": 1
+   },
+   {
+    "radius": "6px 6px 0px 0px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(50, 50, 93, 0.12) 0px 16px 32px 0px",
+    "count": 2
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.1) 0px 30px 60px -50px, rgba(50, 50, 93, 0.25) 0px 30px 60px -10px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(23, 23, 23, 0.08) 0px 15px 35px 0px",
+    "count": 1
+   },
+   {
+    "shadow": "rgba(23, 23, 23, 0.06) 0px 3px 6px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "400px",
+    "count": 16
+   },
+   {
+    "maxWidth": "1266px",
+    "count": 9
+   },
+   {
+    "maxWidth": "343.98px",
+    "count": 5
+   },
+   {
+    "maxWidth": "220px",
+    "count": 4
+   },
+   {
+    "maxWidth": "504px",
+    "count": 3
+   }
+  ],
+  "pageHeightPx": 15000,
+  "mediaCoverage": 0.51,
+  "linkCount": 190
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 249
+   },
+   {
+    "duration": "0.8s",
+    "count": 58
+   },
+   {
+    "duration": "0.15s",
+    "count": 36
+   },
+   {
+    "duration": "0.25s",
+    "count": 17
+   },
+   {
+    "duration": "0.4s",
+    "count": 16
+   },
+   {
+    "duration": "0.6s",
+    "count": 13
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.25, 1, 0.5, 1)",
+    "count": 249
+   },
+   {
+    "easing": "cubic-bezier(0.165, 0.84, 0.44, 1)",
+    "count": 58
+   },
+   {
+    "easing": "linear",
+    "count": 45
+   },
+   {
+    "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "count": 20
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

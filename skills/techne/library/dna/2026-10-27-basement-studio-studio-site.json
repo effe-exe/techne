@@ -1,0 +1,232 @@
+{
+ "url": "https://basement.studio",
+ "capturedAt": "2026-10-27T07:39:17.149Z",
+ "viewport": "1440x900",
+ "title": "basement.studio | We make cool shit that performs.",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Geist",
+    "count": 68
+   },
+   {
+    "family": "Geist Mono",
+    "count": 2
+   }
+  ],
+  "h1": {
+   "family": "Geist",
+   "size": 87,
+   "weight": "600",
+   "lineHeight": 0.9,
+   "tracking": "-3.48px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Geist",
+   "size": 24,
+   "weight": "600",
+   "lineHeight": 1,
+   "tracking": "-0.72px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 20,
+   "lineHeight": 1,
+   "measureCh": 77
+  },
+  "nav": {
+   "family": "Geist",
+   "size": 12,
+   "weight": "600",
+   "lineHeight": 1.33,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Geist",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 13,
+   "count": 22
+  },
+  {
+   "px": 20,
+   "count": 20
+  },
+  {
+   "px": 38,
+   "count": 12
+  },
+  {
+   "px": 12,
+   "count": 7
+  },
+  {
+   "px": 76,
+   "count": 5
+  },
+  {
+   "px": 24,
+   "count": 3
+  },
+  {
+   "px": 87,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(230, 230, 230)",
+    "count": 29
+   },
+   {
+    "color": "color(srgb 0.901961 0.901961 0.901961)",
+    "count": 21
+   },
+   {
+    "color": "rgb(196, 196, 196)",
+    "count": 13
+   },
+   {
+    "color": "rgb(117, 117, 117)",
+    "count": 6
+   },
+   {
+    "color": "rgb(255, 77, 0)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 7
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.9)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(196, 196, 196)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 13,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(230, 230, 230)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 12,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(230, 230, 230)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 38,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 20,
+    "weight": "600"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 3
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "1920px",
+    "count": 14
+   },
+   {
+    "maxWidth": "420px",
+    "count": 2
+   }
+  ],
+  "pageHeightPx": 6714,
+  "mediaCoverage": 0.48,
+  "linkCount": 79
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.3s",
+    "count": 47
+   },
+   {
+    "duration": "0.06s",
+    "count": 28
+   },
+   {
+    "duration": "0.2s",
+    "count": 4
+   },
+   {
+    "duration": "0.1s",
+    "count": 4
+   },
+   {
+    "duration": "0s, 0s",
+    "count": 1
+   },
+   {
+    "duration": "0.15s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 57
+   },
+   {
+    "easing": "linear",
+    "count": 28
+   },
+   {
+    "easing": "ease, ease",
+    "count": 1
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

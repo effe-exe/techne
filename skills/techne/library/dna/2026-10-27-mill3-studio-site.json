@@ -1,0 +1,224 @@
+{
+ "url": "https://mill3.studio",
+ "capturedAt": "2026-10-27T07:42:53.705Z",
+ "viewport": "1440x900",
+ "title": "MILL3 - Agence numérique",
+ "lang": "fr-CA",
+ "fonts": {
+  "families": [
+   {
+    "family": "Basel Grotesk",
+    "count": 87
+   },
+   {
+    "family": "Times Now",
+    "count": 1
+   }
+  ],
+  "h1": null,
+  "h2": {
+   "family": "Basel Grotesk",
+   "size": 48,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.25,
+   "measureCh": 18
+  },
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 69
+  },
+  {
+   "px": 24,
+   "count": 8
+  },
+  {
+   "px": 64,
+   "count": 8
+  },
+  {
+   "px": 18,
+   "count": 2
+  },
+  {
+   "px": 48,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(0, 0, 0)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 38
+   },
+   {
+    "color": "rgb(247, 247, 247)",
+    "count": 21
+   },
+   {
+    "color": "rgb(10, 8, 8)",
+    "count": 12
+   },
+   {
+    "color": "rgb(64, 29, 25)",
+    "count": 10
+   },
+   {
+    "color": "rgb(10, 10, 10)",
+    "count": 6
+   },
+   {
+    "color": "rgb(192, 255, 13)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "color": "rgb(18, 18, 18)",
+    "count": 2
+   },
+   {
+    "color": "rgb(20, 42, 31)",
+    "count": 1
+   },
+   {
+    "color": "rgb(59, 0, 23)",
+    "count": 1
+   },
+   {
+    "color": "rgb(243, 242, 239)",
+    "count": 1
+   },
+   {
+    "color": "rgb(192, 255, 13)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(192, 255, 13)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 14,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "50%",
+    "count": 2
+   },
+   {
+    "radius": "100%",
+    "count": 2
+   },
+   {
+    "radius": "0px 0px 45% 45%",
+    "count": 2
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "80px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "306px",
+    "count": 4
+   },
+   {
+    "maxWidth": "1420px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 9245,
+  "mediaCoverage": 1.52,
+  "linkCount": 40
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.45s",
+    "count": 52
+   },
+   {
+    "duration": "0.25s",
+    "count": 6
+   },
+   {
+    "duration": "1.05s, 0.25s",
+    "count": 5
+   },
+   {
+    "duration": "0.5s",
+    "count": 5
+   },
+   {
+    "duration": "0.85s",
+    "count": 4
+   },
+   {
+    "duration": "1.05s",
+    "count": 4
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+    "count": 50
+   },
+   {
+    "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+    "count": 11
+   },
+   {
+    "easing": "linear",
+    "count": 8
+   },
+   {
+    "easing": "cubic-bezier(0.645, 0.045, 0.355, 1)",
+    "count": 7
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": false
+ }
+}

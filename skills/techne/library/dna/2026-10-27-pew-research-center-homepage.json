@@ -1,0 +1,273 @@
+{
+ "url": "https://www.pewresearch.org",
+ "capturedAt": "2026-10-27T07:53:09.015Z",
+ "viewport": "1440x900",
+ "title": "Pew Research Center | Nonpartisan, nonadvocacy, public opinion polling and data-driven social science research",
+ "lang": "en-US",
+ "fonts": {
+  "families": [
+   {
+    "family": "franklin-gothic-urw",
+    "count": 170
+   },
+   {
+    "family": "abril-text",
+    "count": 66
+   },
+   {
+    "family": "Arial",
+    "count": 3
+   }
+  ],
+  "h1": {
+   "family": "abril-text",
+   "size": 28,
+   "weight": "700",
+   "lineHeight": 1.21,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "abril-text",
+   "size": 20,
+   "weight": "400",
+   "lineHeight": 1.3,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": {
+   "size": 12,
+   "lineHeight": 1.6,
+   "measureCh": 123
+  },
+  "nav": {
+   "family": "franklin-gothic-urw",
+   "size": 12,
+   "weight": "400",
+   "lineHeight": 1,
+   "tracking": "1.2px",
+   "transform": "uppercase"
+  },
+  "button": {
+   "family": "franklin-gothic-urw",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 0,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 12,
+   "count": 64
+  },
+  {
+   "px": 16,
+   "count": 46
+  },
+  {
+   "px": 20,
+   "count": 42
+  },
+  {
+   "px": 18,
+   "count": 32
+  },
+  {
+   "px": 13,
+   "count": 20
+  },
+  {
+   "px": 15,
+   "count": 19
+  },
+  {
+   "px": 21,
+   "count": 9
+  },
+  {
+   "px": 14,
+   "count": 4
+  },
+  {
+   "px": 28,
+   "count": 3
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(42, 42, 42)",
+    "count": 156
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 62
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 10
+   },
+   {
+    "color": "rgb(52, 110, 173)",
+    "count": 7
+   },
+   {
+    "color": "rgb(86, 86, 86)",
+    "count": 3
+   },
+   {
+    "color": "rgb(129, 129, 129)",
+    "count": 1
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(247, 247, 247)",
+    "count": 3
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 2
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 2
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(50, 55, 60)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(42, 42, 42)",
+    "radius": "0px",
+    "padding": "16px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(215, 178, 54)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "3px",
+    "padding": "10px 21.995px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(50, 55, 60)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "3px",
+    "padding": "8px 21.995px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 15,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 9
+   },
+   {
+    "radius": "3px",
+    "count": 4
+   },
+   {
+    "radius": "4px",
+    "count": 3
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px inset",
+    "count": 2
+   },
+   {
+    "shadow": "color(srgb 0 0 0 / 0.2) 0px 2px 3px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [
+   {
+    "maxWidth": "640px",
+    "count": 60
+   },
+   {
+    "maxWidth": "268px",
+    "count": 19
+   },
+   {
+    "maxWidth": "1200px",
+    "count": 18
+   },
+   {
+    "maxWidth": "194px",
+    "count": 17
+   },
+   {
+    "maxWidth": "564px",
+    "count": 4
+   }
+  ],
+  "pageHeightPx": 8244,
+  "mediaCoverage": 0.34,
+  "linkCount": 214
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.1s",
+    "count": 70
+   },
+   {
+    "duration": "0.2s",
+    "count": 3
+   },
+   {
+    "duration": "0.1s, 0.1s",
+    "count": 2
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "ease, ease",
+    "count": 2
+   },
+   {
+    "easing": "linear",
+    "count": 1
+   },
+   {
+    "easing": "ease-out",
+    "count": 1
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

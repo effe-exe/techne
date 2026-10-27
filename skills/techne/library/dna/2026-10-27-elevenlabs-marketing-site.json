@@ -1,0 +1,318 @@
+{
+ "url": "https://elevenlabs.io",
+ "capturedAt": "2026-10-27T07:22:06.232Z",
+ "viewport": "1440x900",
+ "title": "Free AI Voice Generator & Voice Agents Platform | ElevenLabs",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Inter",
+    "count": 195
+   },
+   {
+    "family": "Geist Mono",
+    "count": 26
+   },
+   {
+    "family": "Waldenburg",
+    "count": 10
+   }
+  ],
+  "h1": {
+   "family": "Waldenburg",
+   "size": 48,
+   "weight": "300",
+   "lineHeight": 1.08,
+   "tracking": "-0.96px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Inter",
+   "size": 16,
+   "weight": "400",
+   "lineHeight": 1.5,
+   "tracking": "0.16px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 14,
+   "lineHeight": 1.29,
+   "measureCh": 43
+  },
+  "nav": {
+   "family": "Inter",
+   "size": 18,
+   "weight": "400",
+   "lineHeight": 1.6,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "Inter",
+   "size": 13,
+   "weight": "400",
+   "lineHeight": 1.38,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 14,
+   "count": 99
+  },
+  {
+   "px": 15,
+   "count": 46
+  },
+  {
+   "px": 16,
+   "count": 39
+  },
+  {
+   "px": 13,
+   "count": 37
+  },
+  {
+   "px": 36,
+   "count": 8
+  },
+  {
+   "px": 32,
+   "count": 1
+  },
+  {
+   "px": 48,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(253, 252, 252)",
+  "textColors": [
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 141
+   },
+   {
+    "color": "rgb(119, 113, 105)",
+    "count": 45
+   },
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 10
+   },
+   {
+    "color": "rgb(244, 26, 47)",
+    "count": 9
+   },
+   {
+    "color": "rgb(10, 89, 210)",
+    "count": 9
+   },
+   {
+    "color": "rgb(5, 47, 112)",
+    "count": 8
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 33
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.05)",
+    "count": 33
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 31
+   },
+   {
+    "color": "rgb(253, 252, 252)",
+    "count": 29
+   },
+   {
+    "color": "rgb(245, 243, 241)",
+    "count": 27
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.3)",
+    "count": 18
+   },
+   {
+    "color": "rgb(235, 232, 228)",
+    "count": 9
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.075)",
+    "count": 4
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "radius": "9999px",
+    "padding": "0px 12px",
+    "size": 13,
+    "weight": "400"
+   },
+   {
+    "bg": "rgb(0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "9999px",
+    "padding": "0px 16px",
+    "size": 15,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 18,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 18,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 18,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "9999px",
+    "count": 162
+   },
+   {
+    "radius": "16px",
+    "count": 77
+   },
+   {
+    "radius": "4px",
+    "count": 44
+   },
+   {
+    "radius": "12px",
+    "count": 15
+   },
+   {
+    "radius": "2px",
+    "count": 12
+   },
+   {
+    "radius": "10px",
+    "count": 7
+   },
+   {
+    "radius": "18px",
+    "count": 6
+   },
+   {
+    "radius": "20px",
+    "count": 5
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgb(255, 255, 255) 0px 0px 0px 0px, rgba(0, 0, 0, 0.125) 0px 0px 0px 0.5px, rgba(0, 0, 0, 0.04) 0px 1px 1px 0px, rgba(0, 0, 0, 0.04) 0px 2px 4px 0px",
+    "count": 31
+   },
+   {
+    "shadow": "rgb(255, 255, 255) 0px 0px 0px 0px inset, rgba(0, 0, 0, 0.075) 0px 0px 0px 0.5px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 21
+   },
+   {
+    "shadow": "rgba(0, 0, 0, 0.125) 0px 0px 0px 0.5px, rgba(0, 0, 0, 0.04) 0px 1px 1px 0px, rgba(0, 0, 0, 0.04) 0px 2px 4px 0px",
+    "count": 16
+   },
+   {
+    "shadow": "rgb(255, 255, 255) 0px 0px 0px 0px inset, rgba(0, 0, 0, 0.1) 0px 0px 0px 0.5px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "count": 13
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "8px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "256px",
+    "count": 26
+   },
+   {
+    "maxWidth": "156.8px",
+    "count": 18
+   },
+   {
+    "maxWidth": "240px",
+    "count": 5
+   },
+   {
+    "maxWidth": "1440px",
+    "count": 2
+   },
+   {
+    "maxWidth": "592px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 10731,
+  "mediaCoverage": 0.23,
+  "linkCount": 151
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 105
+   },
+   {
+    "duration": "0.3s",
+    "count": 66
+   },
+   {
+    "duration": "0.2s",
+    "count": 25
+   },
+   {
+    "duration": "0.36s",
+    "count": 7
+   },
+   {
+    "duration": "0.5s",
+    "count": 2
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 194
+   },
+   {
+    "easing": "cubic-bezier(0, 0, 0.2, 1)",
+    "count": 4
+   }
+  ],
+  "usesWebGL": true,
+  "prefersReducedMotionCSS": true
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "url": "https://www.rijksmuseum.nl/en",
+ "capturedAt": "2026-10-27T07:46:50.483Z",
+ "viewport": "1440x900",
+ "title": "Rijksmuseum Amsterdam, home of Dutch master pieces",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "RijksText",
+    "count": 43
+   }
+  ],
+  "h1": {
+   "family": "RijksText",
+   "size": 21.8,
+   "weight": "700",
+   "lineHeight": 1.26,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "h2": {
+   "family": "RijksText",
+   "size": 17.4,
+   "weight": "700",
+   "lineHeight": 1.38,
+   "tracking": "normal",
+   "transform": "uppercase"
+  },
+  "body": {
+   "size": 17.4,
+   "lineHeight": 1.38,
+   "measureCh": 55
+  },
+  "nav": {
+   "family": "RijksText",
+   "size": 17.4,
+   "weight": "400",
+   "lineHeight": 1.38,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "RijksText",
+   "size": 17.4,
+   "weight": "700",
+   "lineHeight": 1.38,
+   "tracking": "normal",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 17.4,
+   "count": 30
+  },
+  {
+   "px": 12,
+   "count": 8
+  },
+  {
+   "px": 21.8,
+   "count": 5
+  }
+ ],
+ "color": {
+  "background": "rgb(64, 71, 79)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 39
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 4
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(64, 71, 79)",
+    "count": 1
+   },
+   {
+    "color": "rgb(0, 0, 0)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgba(255, 255, 255, 0.2)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "2px",
+    "padding": "0px 20px",
+    "size": 17.4,
+    "weight": "700"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17.4,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17.4,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17.4,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(255, 255, 255)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 17.4,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "2px",
+    "count": 5
+   },
+   {
+    "radius": "1px",
+    "count": 4
+   }
+  ],
+  "shadows": []
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "20px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "180px",
+    "count": 1
+   }
+  ],
+  "pageHeightPx": 4047,
+  "mediaCoverage": 1.37,
+  "linkCount": 57
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 21
+   },
+   {
+    "duration": "0.5s",
+    "count": 10
+   },
+   {
+    "duration": "0.5s, 0.2s",
+    "count": 5
+   },
+   {
+    "duration": "0.5s, 0.5s, 0.5s",
+    "count": 4
+   },
+   {
+    "duration": "0.8s, 0.4s",
+    "count": 4
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "linear",
+    "count": 21
+   },
+   {
+    "easing": "ease, linear",
+    "count": 5
+   },
+   {
+    "easing": "ease, ease, ease",
+    "count": 4
+   },
+   {
+    "easing": "ease, ease",
+    "count": 4
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}

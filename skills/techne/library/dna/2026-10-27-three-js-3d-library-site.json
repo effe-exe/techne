@@ -1,0 +1,99 @@
+{
+ "url": "https://threejs.org",
+ "capturedAt": "2026-10-27T08:29:27.489Z",
+ "viewport": "1440x900",
+ "title": "Three.js – JavaScript 3D Library",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "Roboto Mono",
+    "count": 25
+   }
+  ],
+  "h1": {
+   "family": "Roboto Mono",
+   "size": 18,
+   "weight": "500",
+   "lineHeight": 1.33,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "Roboto Mono",
+   "size": 15,
+   "weight": "500",
+   "lineHeight": 1.73,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "body": null,
+  "nav": null,
+  "button": null
+ },
+ "sizeDistribution": [
+  {
+   "px": 15,
+   "count": 23
+  },
+  {
+   "px": 18,
+   "count": 1
+  },
+  {
+   "px": 13.5,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(68, 68, 68)",
+    "count": 16
+   },
+   {
+    "color": "rgb(4, 158, 244)",
+    "count": 9
+   }
+  ],
+  "surfaces": [],
+  "ctas": []
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "4px",
+    "count": 1
+   },
+   {
+    "radius": "25px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.15) 0px 0px 4px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [],
+  "maxWidths": [],
+  "pageHeightPx": 900,
+  "mediaCoverage": 5.47,
+  "linkCount": 282
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.15s",
+    "count": 262
+   }
+  ],
+  "easings": [],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": false
+ }
+}

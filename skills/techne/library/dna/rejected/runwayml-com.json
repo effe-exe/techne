@@ -1,0 +1,298 @@
+{
+ "url": "https://runwayml.com",
+ "capturedAt": "2026-10-27T08:59:27.927Z",
+ "viewport": "1440x900",
+ "title": "Runway | Intelligent tools for scaling content and teams.",
+ "lang": "en",
+ "fonts": {
+  "families": [
+   {
+    "family": "abcNormal",
+    "count": 101
+   },
+   {
+    "family": "sans-serif",
+    "count": 9
+   }
+  ],
+  "h1": {
+   "family": "abcNormal",
+   "size": 56,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "-0.84px",
+   "transform": "none"
+  },
+  "h2": {
+   "family": "abcNormal",
+   "size": 56,
+   "weight": "400",
+   "lineHeight": 1.1,
+   "tracking": "-0.84px",
+   "transform": "none"
+  },
+  "body": {
+   "size": 15,
+   "lineHeight": 1.6,
+   "measureCh": 110
+  },
+  "nav": {
+   "family": "abcNormal",
+   "size": 16,
+   "weight": "500",
+   "lineHeight": 1.5,
+   "tracking": "normal",
+   "transform": "none"
+  },
+  "button": {
+   "family": "sans-serif",
+   "size": 15,
+   "weight": "600",
+   "lineHeight": 1.6,
+   "tracking": "0.1px",
+   "transform": "none"
+  }
+ },
+ "sizeDistribution": [
+  {
+   "px": 16,
+   "count": 50
+  },
+  {
+   "px": 14,
+   "count": 22
+  },
+  {
+   "px": 24,
+   "count": 18
+  },
+  {
+   "px": 15,
+   "count": 9
+  },
+  {
+   "px": 11,
+   "count": 6
+  },
+  {
+   "px": 20,
+   "count": 3
+  },
+  {
+   "px": 12,
+   "count": 1
+  },
+  {
+   "px": 56,
+   "count": 1
+  }
+ ],
+ "color": {
+  "background": "rgb(255, 255, 255)",
+  "textColors": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 55
+   },
+   {
+    "color": "rgb(64, 64, 64)",
+    "count": 18
+   },
+   {
+    "color": "rgb(20, 20, 20)",
+    "count": 7
+   },
+   {
+    "color": "rgb(26, 26, 26)",
+    "count": 7
+   },
+   {
+    "color": "rgb(153, 153, 153)",
+    "count": 6
+   },
+   {
+    "color": "rgb(12, 12, 12)",
+    "count": 5
+   }
+  ],
+  "surfaces": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "color": "rgb(12, 12, 12)",
+    "count": 3
+   },
+   {
+    "color": "rgb(228, 229, 230)",
+    "count": 2
+   },
+   {
+    "color": "rgba(255, 255, 255, 0.95)",
+    "count": 1
+   },
+   {
+    "color": "rgb(43, 34, 250)",
+    "count": 1
+   },
+   {
+    "color": "rgba(0, 0, 0, 0.2)",
+    "count": 1
+   }
+  ],
+  "ctas": [
+   {
+    "bg": "rgb(16, 50, 207)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "3.75px",
+    "padding": "15px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(20, 20, 20)",
+    "radius": "3.75px",
+    "padding": "15px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(20, 20, 20)",
+    "radius": "3.75px",
+    "padding": "15px",
+    "size": 15,
+    "weight": "600"
+   },
+   {
+    "bg": null,
+    "color": "rgb(64, 64, 64)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   },
+   {
+    "bg": null,
+    "color": "rgb(64, 64, 64)",
+    "radius": "0px",
+    "padding": "0px",
+    "size": 16,
+    "weight": "400"
+   }
+  ]
+ },
+ "shape": {
+  "radii": [
+   {
+    "radius": "6px",
+    "count": 12
+   },
+   {
+    "radius": "8px",
+    "count": 10
+   },
+   {
+    "radius": "4px",
+    "count": 5
+   },
+   {
+    "radius": "32px",
+    "count": 4
+   },
+   {
+    "radius": "3.75px",
+    "count": 3
+   },
+   {
+    "radius": "12px",
+    "count": 2
+   },
+   {
+    "radius": "16px",
+    "count": 1
+   }
+  ],
+  "shadows": [
+   {
+    "shadow": "rgba(0, 0, 0, 0.3) 0px 30px 70px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "layout": {
+  "sectionPaddingTop": [
+   {
+    "padding": "100px",
+    "count": 2
+   },
+   {
+    "padding": "40px",
+    "count": 1
+   }
+  ],
+  "maxWidths": [
+   {
+    "maxWidth": "1600px",
+    "count": 12
+   },
+   {
+    "maxWidth": "95px",
+    "count": 9
+   },
+   {
+    "maxWidth": "99px",
+    "count": 6
+   },
+   {
+    "maxWidth": "115px",
+    "count": 6
+   },
+   {
+    "maxWidth": "288px",
+    "count": 4
+   }
+  ],
+  "pageHeightPx": 5144,
+  "mediaCoverage": 0.41,
+  "linkCount": 164
+ },
+ "motion": {
+  "transitions": [
+   {
+    "duration": "0.2s",
+    "count": 35
+   },
+   {
+    "duration": "0.15s",
+    "count": 22
+   },
+   {
+    "duration": "0.4s",
+    "count": 4
+   },
+   {
+    "duration": "0.5s",
+    "count": 1
+   },
+   {
+    "duration": "0.3s",
+    "count": 1
+   }
+  ],
+  "easings": [
+   {
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "count": 48
+   },
+   {
+    "easing": "linear",
+    "count": 9
+   }
+  ],
+  "usesWebGL": false,
+  "prefersReducedMotionCSS": true
+ }
+}
